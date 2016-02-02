@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule    ^feed/?$    feed.xml    [NC,L]
