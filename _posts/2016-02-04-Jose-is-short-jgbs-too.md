@@ -1,7 +1,7 @@
 ---
 id: 26006
-title: 'Jose is short JGBs?'
-date: 2016-02-04T07:00:00+00:00
+title: 'Jose is short JGBs Too?'
+date: 2016-02-04T08:00:00+00:00
 author: kevin
 layout: post
 categories:
@@ -15,21 +15,21 @@ tags:
   
   
 ---
-<img src="/images/JoseFeb0416.png" alt="/images/JoseFeb0416.png" width="600" height="400" style="margin:30px auto;display:block;">
+<img src="http://themuirs.net/images/JoseFeb0416.png" alt="http://themuirs.net/images/JoseFeb0416.png" width="600" height="400" style="margin:30px auto;display:block;">
 
 Who knew baseball star Jose Conseco had become a macro trader in his retirement?  And by the looks of his tweets, he has the short JGB trade on, and is not happy.
 
-<img src="/images/JoseTwoFeb0416.png" alt="/images/JoseTwoFeb0416.png" width="600" height="400" style="margin:30px auto;display:block;">
+<img src="http://themuirs.net/images/JoseTwoFeb0416.png" alt="http://themuirs.net/images/JoseTwoFeb0416.png" width="600" height="400" style="margin:30px auto;display:block;">
 
 Hey Jose, I feel your pain.  I too am short this bad boy, and have the scars to prove it.
 
-<img src="/images/JGBFeb0416.png" alt="/images/JGBFeb0416.png" width="700" height="450" style="margin:30px auto;display:block;">
+<img src="http://themuirs.net/images/JGBFeb0416.png" alt="http://themuirs.net/images/JGBFeb0416.png" width="700" height="450" style="margin:30px auto;display:block;">
 
 They don't call this trade the *Widow Maker* for nothing.  
 
 Kuroda's recent move to negative rates has pushed the 10 year Japanese government bond yield to sub 0.10%.  At this rate it won't be long before the whole curve is trading below 0%.
 
-<img src="/images/CurveFeb0416.png" alt="/images/CurveFeb0416.png" width="700" height="450" style="margin:30px auto;display:block;"> 
+<img src="http://themuirs.net/images/CurveFeb0416.png" alt="http://themuirs.net/images/CurveFeb0416.png" width="700" height="450" style="margin:30px auto;display:block;"> 
 
 Although I am hurting with my JGB short, I don't view the recent development as any reason to hop on Twitter to vent my fury at the BoJ.  I am not upset by their adoption of negative rates.  As they rally the JGB market, it only creates an opportunity for a better sale.
 
@@ -57,7 +57,7 @@ Things are starting to become unglued, and they know it...
 
 And the market is figuring it out as well.  Have a look at the Deutsche Bank 6% contingent convertible bonds (aka known as CoCo bonds):
 
-<img src="/images/DBCoCoFeb0416.png" alt="/images/DBCoCoFeb0416.png" width="700" height="450" style="margin:30px auto;display:block;">
+<img src="http://themuirs.net/images/DBCoCoFeb0416.png" alt="http://themuirs.net/images/DBCoCoFeb0416.png" width="700" height="450" style="margin:30px auto;display:block;">
 
 As part of the effort to shore up bank balance sheets after the 2008 credit crisis, many banks issued contingent convertible bonds.  These bonds have a convertible trigger clause which is evoked when the bank gets into financial trouble.  Therefore as things get bad, the bank has less debt and more equity.
 
@@ -65,7 +65,7 @@ I believe wide scale adoption of these issues is a relatively new affair, so whe
 
 And it's not just bond investors.  Even normal overly optimistic equity investors are selling European banks with a vehemence usually reserved for crashes.  Have a look at the Credit Suisse equity price:
 
-<img src="/images/CSFeb0416.png" alt="/images/CSFeb0416.png" width="700" height="450" style="margin:30px auto;display:block;">
+<img src="http://themuirs.net/images/CSFeb0416.png" alt="http://themuirs.net/images/CSFeb0416.png" width="700" height="450" style="margin:30px auto;display:block;">
 
 Something is really wrong.  These are large institutions with deep liquid markets, yet they are going *no bid* with an alarming regularity.  Be careful out there...
 
