@@ -14,7 +14,7 @@ tags:
   - China
  
 ---
-<img src="http://themacrotourist.com/pictures/KurodaJan2916.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/KurodaJan2916.png" width="600" height="400" /></a></div>
+<img src="http://themacrotourist.com/pictures/KurodaJan2916.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/KurodaJan2916.png" width="600" height="400" />
 
 I don't begrudge Bank of Japan Governor Kuroda for not warning the markets about last night's historic move to negative rates.  
 
@@ -22,8 +22,7 @@ Of course he is going to lie about it.  He will lie right up until the moment he
 
 Imagine if instead of giggling like a school girl during last week's Davos interview while ducking all the questions, Kuroda said the Bank of Japan was seriously considering moving to negative rates.  
 
-<img src="http://themacrotourist.com/pictures/LaughJan2916.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" 
-style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/LaughJan2916.png" width="600" height="700" /></a></div>
+<img src="http://themacrotourist.com/pictures/LaughJan2916.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/LaughJan2916.png" width="600" height="700" />
 
 The markets would have instantly spiked and forced him to follow through with the action.  During the interview, Kuroda lied, but he had to lie.  All Central Bankers are expert liars - to think otherwise is just naive. Don't ever forget Juncker's famous quote - "when it becomes serious, you have to lie."  
 
@@ -39,7 +38,7 @@ The US dollar has soared on the news, and why not?  They have a Central Bank ins
 
 But let's not forget the biggest problem two weeks ago.  Or have we all forgotten China?  
 
-<img src="http://themacrotourist.com/pictures/CNYJPYJan2930.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CNYJPYJan2930.png" width="700" height="450" /></a></div>
+<img src="http://themacrotourist.com/pictures/CNYJPYJan2930.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CNYJPYJan2930.png" width="700" height="450" />
   
 The Chinese Yuan is tied to the US dollar, or at least it *used to be*.  The recent move by the PBoC to benchmark their currency to a new *basket* of currencies has not been tested.  
 
