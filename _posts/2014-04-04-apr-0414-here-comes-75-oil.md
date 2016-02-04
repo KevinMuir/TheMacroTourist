@@ -18,12 +18,12 @@ tags:
 Last week-end the Barron’s cover story was an article titled “Here comes $75 oil.”
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BarronsApr0414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BarronsApr0414.png" width="600" height="700">
+  <img src="http://themacrotourist.com/pictures/Azure/BarronsApr0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BarronsApr0414.png" width="600" height="700">
 
 I was going to run through all the infamous magazine covers that made dramatic predictions for oil at the exact wrong moment, when I came across this article from last year in, of all things &#8211; The Atlantic.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AtlanticApr0414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/AtlanticApr0414.png" width="300" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/AtlanticApr0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/AtlanticApr0414.png" width="300" height="400">
 
 This article in a main stream publication, epitomizes the consensus opinion about oil. This sanguine view about the price and supply of oil runs deep through society.
 
@@ -32,7 +32,7 @@ However instead of just pointing at the overwhelming one sided view that crude o
 Even though everyone is predicting lower energy prices, the market price is stubbornly refusing to agree with the bears predictions. Have a look at this 5 year chart of the price of spot crude:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CrudeApr0414.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeApr0414.PNG" width="600" height="342" />WTI Spot Crude Oil</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CrudeApr0414.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeApr0414.PNG" width="600" height="342" />WTI Spot Crude Oil</a>
 </div>
 
 I find it ironic that many of the market pundits that use the strong stock market action to refute the bears’ worries are the very same ones who claim that in the case of crude oil they know better and that the crude oil market has got it wrong.
@@ -40,7 +40,7 @@ I find it ironic that many of the market pundits that use the strong stock marke
 Crude oil is surprisingly strong and although the curve is in a steep backwardation due to the extreme long term bearishness, someone keeps buying the spot crude oil at $100:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CrudeCurveApr0414.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeCurveApr0414.PNG" width="600" height="342" />Crude Oil curve</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CrudeCurveApr0414.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeCurveApr0414.PNG" width="600" height="342" />Crude Oil curve</a>
 </div>
 
 The demand for crude is higher than the bears realize.
@@ -50,7 +50,7 @@ Which brings me to the crux of my bull argument. Although I will acknowledge tha
 Have a look at this chart of energy demand of developed vs developing nations:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/OilDemandApr0414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/OilDemandApr0414.png" width="626" height="324">
+  <img src="http://themacrotourist.com/pictures/Azure/OilDemandApr0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/OilDemandApr0414.png" width="626" height="324">
 
 More and more, the US is not the driver of the price of energy.
 
@@ -67,7 +67,7 @@ If you examine that energy use per person as a nation develops, there is a defin
 Here is the chart over the last half dozen decades of the energy use of the Japan, Korea and China:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EnergyUsePerCapApr0414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EnergyUsePerCapApr0414.png" width="600" height="342" />Energy Use per capita (in kg of oil equiv)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EnergyUsePerCapApr0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EnergyUsePerCapApr0414.png" width="600" height="342" />Energy Use per capita (in kg of oil equiv)</a>
 </div>
 
 As Japan recovered from the Second World War in the 1960s and began to rebuild their destroyed economy, there was a boom where energy use quickly went up more than 2.5 times in a decade. Same thing with Korea in the 1980s.
@@ -79,7 +79,7 @@ But how much is that going to be?
 Even though China’s oil consumption per person is still very low, that little blip higher over the last decade has been enough to move China into the **number two consumer of oil**.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/OilConsumptionApr0414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/OilConsumptionApr0414.png" width="600" height="500">
+  <img src="http://themacrotourist.com/pictures/Azure/OilConsumptionApr0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/OilConsumptionApr0414.png" width="600" height="500">
 
 Now imagine what happens if China’s oil consumption per capita follows the path of Japan and Korea. They will very quickly be the number one consumer of oil.
 
@@ -98,7 +98,7 @@ However, ask yourself if the market is really this inefficient. Ask yourself whe
 And then finally, the best indicator that I have for my bullishness is that everyone, and I mean everyone, thinks I am nuts. This is the loneliest trade that I have on… Which probably means it is the best one…
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DathVaderApr0414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DathVaderApr0414.png" width="520" height="642" />What will happen if the crude oil bears are wrong&#8230;</a>
+  <img src="http://themacrotourist.com/pictures/Azure/DathVaderApr0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DathVaderApr0414.png" width="520" height="642" />What will happen if the crude oil bears are wrong&#8230;</a>
 </div>
 
 <hr size="2" width="85%" />
@@ -106,4 +106,4 @@ And then finally, the best indicator that I have for my bullishness is that ever
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr0414.png" width="600" height="513">
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr0414.png" width="600" height="513">

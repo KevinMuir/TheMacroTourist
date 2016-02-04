@@ -28,7 +28,7 @@ This expression has become so ingrained in the Canadian hockey community that it
 The past week as the various Fed officials have made all sorts of comments, I can only describe it as &#8211; **&#8220;a complete and utter %$#&&#8217;ng gong show.&#8221;**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GongShowOct1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GongShowOct1414.png" width="600" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/GongShowOct1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GongShowOct1414.png" width="600" height="600">
 
 At one moment you have James Bullard telling the markets:
 
@@ -47,12 +47,12 @@ And this had fed upon itself. Over the past few days as the stock market swoon h
 Have a look at the decline in the Fed Fund futures forward curve over the past week:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FFOct1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FFOct1414.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/FFOct1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FFOct1414.png" width="600" height="342"></p> 
 
 During the past six months the Fed had been so diligently walking expectations higher. They were doing a good job at preparing the markets for the move off the emergency low rate of zero. Now in the space of a week they have completely abandoned the prospect of higher rates anytime soon. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US2YROct1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/US2YROct1414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/US2YROct1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US2YROct1414.png" width="600" height="342">
 
 I have long argued that the Fed was going to be slow in raising rates, but the speed at which they panicked has alarmed even me. During the past couple of days as the financial markets have come under increasing stress, most Fed officials have steered rate hiking expectations out further in time.
 

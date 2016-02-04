@@ -25,12 +25,12 @@ Even though last week I was arguing that the selling was overdone, I did not thi
 I am not much of a technician so you should be weary when I break out the technical indicators, but I do find that moves often retrace to the famed &#8220;Fibonacci&#8221; levels. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/pigeonsOct2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/pigeonsOct2214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/pigeonsOct2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/pigeonsOct2214.png" width="600" height="342">
 
 Yesterday&#8217;s big move up was a perfect 61.8% retracement of the recent decline from the Alibaba top.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXOct2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXOct2214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXOct2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXOct2214.png" width="600" height="342">
 
 I established an equity index short into the late afternoon push. I will probably risk all the way up to 1975 on the S&P 500 futures.
 
@@ -43,7 +43,7 @@ Now that the bears have been silenced, the bulls have become a little too sure o
 Last week I shorted VIX as a long proxy for the stock market. I thought that the fears about a crash were overdone and that this was causing the VIX to be much too high. Over the past three days as the fears have subsided, the VIX has declined by more than 10% each day.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VIXOct2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/VIXOct2214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/VIXOct2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/VIXOct2214.png" width="600" height="342">
 
 According to zero hedge, this has **never happened before.** I think that the uniqueness of this move is a testament to the manic nature of this market. Although the bulls will point to the strength of the last few days as evidence of the sustainability of the rally, I think that this sort of violent back and forth is not constructive. 
 
@@ -66,4 +66,4 @@ It is lonely not being long the US dollar with all the other hedge funds, but I 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct2214.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct2214.png" width="600" height="342"></p>

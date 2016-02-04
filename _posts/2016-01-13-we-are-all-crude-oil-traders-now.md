@@ -15,7 +15,7 @@ tags:
   - US dollar
 ---
 
-  <img src="http://themacrotourist.com/pictures/DayOffJan1316.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/DayOffJan1316.png" width="500" height="600">
+  <img src="http://themacrotourist.com/pictures/DayOffJan1316.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/DayOffJan1316.png" width="500" height="600">
 
 As I write this, crude oil inventories were just released, and in a heartbeat, the oil selling has returned with a vengeance. What is especially interesting is how much the price of crude oil is driving the rest of the financial markets. With this sell off, equities have followed oil lower and bonds have pushed to new highs for the day. Like it or not, we are all oil traders now&#8230;
 
@@ -24,7 +24,7 @@ Although the volatility is scary and there does not appear to be any end to the 
 Charlie Biello published this great tweet that puts things into perspective:
 
 
-  <img src="http://themacrotourist.com/pictures/CharlieJan1316.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CharlieJan1316.png" width="600" height="700">
+  <img src="http://themacrotourist.com/pictures/CharlieJan1316.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CharlieJan1316.png" width="600" height="700">
 
 Maybe we go lower. We have definitely hit the panic portion of the move where the pain is intense and there is vomit all over the trading room floor. But I agree with Harold Hamm&#8217;s (CEO of Continental Resources) comment this morning on Bloomberg TV:
 
@@ -35,14 +35,14 @@ A face ripping rally is lurking within these wild gyrations. The key is trading 
 Just to keep you thinking about the longer term picture, I will leave you with two charts. The first one shows the relationship between crude oil and the US dollar index.
 
 
-  <img src="http://themacrotourist.com/pictures/CLBDXYJan1316.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CLBDXYJan1316.png" width="800" height="450">
+  <img src="http://themacrotourist.com/pictures/CLBDXYJan1316.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CLBDXYJan1316.png" width="800" height="450">
 
 Anyone who doesn&#8217;t think the massive US dollar rally hasn&#8217;t been one of the driving factors of this crude oil plunge should examine the remarkable correlation between these two assets. 
 
 And the second chart shows the performance of the US dollar index in the months following the first rate tightening.
 
 
-  <img src="http://themacrotourist.com/pictures/DXYJan1316.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/DXYJan1316.png" width="800" height="400">
+  <img src="http://themacrotourist.com/pictures/DXYJan1316.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/DXYJan1316.png" width="800" height="400">
 
 During the past 30 years, the US dollar has never rallied more than 3% in the two months after the first rate hike. In fact, in three cases the US dollar retreated a fair bit during this period. 
 

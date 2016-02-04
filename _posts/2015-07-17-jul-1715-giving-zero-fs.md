@@ -16,7 +16,7 @@ tags:
   - Stephen Poloz
 ---
 
-  <img src="http://themacrotourist.com/pictures/StephenPolozJul1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/StephenPolozJul1715.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/StephenPolozJul1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/StephenPolozJul1715.png" width="600" height="400">
 
 Earlier in the week, Bank of Canada Governor Stephen Poloz lowered rates from 0.75% to 0.50%. Given the financial media reaction, you would think Poloz had just sacrificed a puppy on national TV. Pundit after pundit, shit all over the decision. One of the Canadian National television networks trotted out our favourite Mr. Burns&#8217;s character to opine about the stupidity of this rate cut.
 
@@ -29,7 +29,7 @@ Well, I don&#8217;t want to crap too much over O&#8217;leary, but let&#8217;s ju
 Let&#8217;s just step back and think about Poloz&#8217;s move. Did he lower rates into negative territory? Nope, Canada was at 0.75% while most of the other developed markets has overnights at either zero, or in the case of most of Europe &#8211; negatitive. Did Poloz drive Canada&#8217;s borrowing costs below the Americans? Nope, Canada&#8217;s rates are still 50+ basis points higher than the US.
 
 
-  <img src="http://themacrotourist.com/pictures/CDORJul1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CDORJul1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CDORJul1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CDORJul1715.png" width="600" height="342">
 
 The global economy is sinking fast. There is precious little growth, and the rate of acceleration of the recent decline does not seem to be abating. 
 
@@ -42,7 +42,7 @@ Guys like O&#8217;leary will argue that a cheap currency or overly easy monetary
 This idea that Canada should somehow withstand the massive trend towards lower rates over the past six months is just stupid. Apart from the problem with our housing market becoming even more overheated, there is absolutely no reason for Canada to have rates 50 to 75 basis points higher than the Americans. Their economy is the strongest in the world. Ours is suffering from the after effects of a global commodity crash. The Canadian Dollar will go down, but so what?
 
 
-  <img src="http://themacrotourist.com/pictures/CADDXYJul1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CADDXYJul1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CADDXYJul1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CADDXYJul1715.png" width="600" height="342">
 
 The US dollar is strong against all other currencies. The Canadian dollar is just marginally weaker than most other currencies. As Canadians, we might think our currency is plummeting because generally we only measure it against the US dollar. Yet in reality, the Loonie is moving in lock step with all the other world currencies.
 
@@ -57,12 +57,12 @@ Earlier in the year I remember reading all sorts of negative research pieces on 
 Don&#8217;t ever forget one thing about hedge funds; they are like packs of 15 year old girls &#8211; they never travel alone. They herd quicker than a group of Wildebeests on the Serengeti when the lion approaches. 
 
 
-  <img src="http://themacrotourist.com/pictures/GOOGJul1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GOOGJul1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/GOOGJul1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/GOOGJul1715.png" width="600" height="342">
 
 So when Google blew through earnings expectations this morning, you know there was some serious pain in the hedge fund community.
 
 
-  <img src="http://themacrotourist.com/pictures/GoogleJul1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GoogleJul1715.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/GoogleJul1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/GoogleJul1715.png" width="600" height="400">
 
 It is no surprise the gap higher was so violent. Hold on to your hats &#8211; we will see more moves like this (both up and down) in the coming days&#8230;
 

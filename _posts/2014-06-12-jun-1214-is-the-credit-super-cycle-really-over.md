@@ -24,7 +24,7 @@ One of my main working assumptions has been that the credit super cycle ended in
 Have a look at this chart of total credit as a percentage of GDP:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CreditGDPJun1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CreditGDPJun1114.png" width="600" height="342" />Total Credit / GDP</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CreditGDPJun1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CreditGDPJun1114.png" width="600" height="342" />Total Credit / GDP</a>
 </div></p> 
 
 Credit as a percent of GDP peaked in 2007 and turned violently lower during the crisis. 
@@ -40,7 +40,7 @@ Since 2007, the private sector economy has refused to expand credit (even though
 The answer is that the Federal Government took up the slack. Have a look at this chart of the various sectors of credit:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EachsectorJun1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EachsectorJun1114.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EachsectorJun1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EachsectorJun1114.png" width="600" height="342">
 
 The blue line represents household credit. It headed lower during the crisis, and has so far refused to uptick. The purple line is financial sector corporate credit, and it too has fallen and refused to get up. 
 
@@ -83,7 +83,7 @@ I am hesitant to give weird correlations too much credence, but they are often i
 Have a look at the Platinum/Gold ratio versus US 10 year yields:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/XPTGOLDJun1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/XPTGOLDJun1114.png" width="600" height="342" />Platinum/Gold Ratio (yellow line) vs US 10 Year Yield (white line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/XPTGOLDJun1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/XPTGOLDJun1114.png" width="600" height="342" />Platinum/Gold Ratio (yellow line) vs US 10 Year Yield (white line)</a>
 </div>
 
 I guess it makes sense that if platinum (more of an industrial metal) is outperforming gold (more of a financial metal) that the economy is doing well, which should send yields higher. But the relationship seems tenuous to me. 
@@ -95,4 +95,4 @@ However, there can be no denying that the relationship has been fairly consisten
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun1214.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun1214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun1214.png" width="600" height="700"></p>

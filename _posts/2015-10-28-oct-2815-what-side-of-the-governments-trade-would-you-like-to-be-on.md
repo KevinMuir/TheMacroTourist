@@ -16,7 +16,7 @@ tags:
   - SPR
 ---
 
-  <img src="http://themacrotourist.com/pictures/GovOct2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GovOct2815.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/GovOct2815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/GovOct2815.png" width="600" height="400">
 
 Governments do some pretty stupid things. As the years tick by, I become less and less surprised at their idiotic policies. But even I had to do a double take when I read about the recent addition to the proposed bill to increase the debt ceiling. From Bloomberg:
 
@@ -51,7 +51,7 @@ Regardless of who you think is in the right, it sure seems like a foolish time t
 As a little bit of an oil bull, I actually take solace in this brain dead decision. The UK&#8217;s Gordon Brown created the infamous &#8220;Brown&#8217;s Bottom&#8221; in gold by selling $6.5 billion into the lows. 
 
 
-  <img src="http://themacrotourist.com/pictures/GOLDOct2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GOLDOct2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/GOLDOct2815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/GOLDOct2815.png" width="600" height="342">
 
 I expect this decision will prove just as ill timed. 
 

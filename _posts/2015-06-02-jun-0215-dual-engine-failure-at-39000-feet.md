@@ -15,7 +15,7 @@ tags:
   - Fed
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/SingaporeAirlines.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SingaporeAirlines.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/SingaporeAirlines.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SingaporeAirlines.png" width="600" height="400">
 
 The other day I was chatting with my co-coach for my oldest daughter&#8217;s soccer team. We have been coaching our daughters together for years, and have gotten to know each well enough to talk about a little more than just soccer strategy. He&#8217;s a pretty interesting guy. He used to fly planes for the military, but he now hauls around passengers for a big Canadian airline. When I am bored, I usually quiz him about all the pilot stuff the twelve year boy in me always wanted to know.
 
@@ -64,7 +64,7 @@ There is a big contingent within the Fed who desperately want to remove the zero
 The opposing group of FOMC committee members are focused on the fact the economy has consistently not achieved its target inflation rate. It has been three years since the Fed&#8217;s preferred inflation measure has been at their 2% target.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PCECoreJun0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PCECoreJun0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/PCECoreJun0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PCECoreJun0215.png" width="600" height="342">
 
 We had one uptick in the heyday of the QE programs where inflation hit the Fed&#8217;s target, but inflation has since slumped and refuses to get up off the mat. 
 
@@ -79,7 +79,7 @@ And many FOMC committee members felt the same way. Figuring they should prepare 
 The trouble is the economy is not taking off as hoped. In fact, it is slumping. I could show a bunch of the recent poor economic releases, but the CitiBank Economic surprise index does a decent job at demonstrating the overall state of economic releases versus expectations.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CESIUSDJun0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CESIUSDJun0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CESIUSDJun0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CESIUSDJun0215.png" width="600" height="342">
 
 This index is firmly stuck on the lows. This means economic releases continue to be _below expectations._ 
 
@@ -114,12 +114,12 @@ But, the ensuing US dollar rally might be. The global economy has precious littl
 This is the real problem with the US economy. No one, including the United States, can afford to have a strong currency. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYJun0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYJun0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYJun0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYJun0215.png" width="600" height="342">
 
 The US dollar is up more than 20% over the past year. Have a look at this chart of the Fed&#8217;s estimate of the drag on the economy from currency strength:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FerbusJun0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FerbusJun0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FerbusJun0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FerbusJun0215.png" width="600" height="342">
 
 That graph shows the estimates for a 10% increase in the currency rate. But we have rallied more than 20%!
 

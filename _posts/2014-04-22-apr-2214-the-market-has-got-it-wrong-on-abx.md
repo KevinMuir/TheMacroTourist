@@ -24,13 +24,13 @@ After announcement, the market quickly adjusted to the new information &#8211; w
 Have a look at the divergence in the trading of the two stocks over the past couple of days:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ABXApr2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ABXApr2214.png" width="600" height="342" />ABX and NEM trading over the past couple of days</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ABXApr2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ABXApr2214.png" width="600" height="342" />ABX and NEM trading over the past couple of days</a>
 </div></p> 
 
 The deal was not taken well by ABX shareholders. They pushed Barrick to fresh 3 month lows:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ABXGPOApr2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ABXGPOApr2214.png" width="600" height="342" />ABX daily chart</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ABXGPOApr2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ABXGPOApr2214.png" width="600" height="342" />ABX daily chart</a>
 </div>
 
 I am not going to bother analyzing the intricacies of the deal &#8211; there is plenty of research out there about the relative merits of the merger. I would rather focus on yesterday&#8217;s reaction.
@@ -52,7 +52,7 @@ But I think they are missing the fact that most big mergers are done at the _top
 This merger is not the result of an over enthusiastic CEO that has been riding a wave of ever increasing stock price and in a macho state of hubris over bids for an asset. No, this is the merger of two companies that have made too many mistakes and now find themselves desperate to cut costs and get more efficient.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NEMABXApr2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NEMABXApr2214.png" width="600" height="342" />ABX and NEM stock price over the past 4 years</a>
+  <img src="http://themacrotourist.com/pictures/Azure/NEMABXApr2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NEMABXApr2214.png" width="600" height="342" />ABX and NEM stock price over the past 4 years</a>
 </div></p> 
 
 The initial reaction from the market in terms of ABX&#8217;s price was quite negative, but my guess is that _as the management gets around to institutional shareholders and tells the story_, that the market will see the logic in the deal. 
@@ -70,4 +70,4 @@ It is not very often that I feel confident enough to say that the market is wron
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr2214.png" width="600" height="650"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr2214.png" width="600" height="650"></p>

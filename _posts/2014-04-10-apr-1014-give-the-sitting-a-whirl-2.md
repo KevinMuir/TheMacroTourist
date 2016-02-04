@@ -19,7 +19,7 @@ tags:
 Yesterday was looking like a simple continuation of Tuesday&#8217;s grinding rally higher until the Fed minutes were released at 2pm. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NDXApr1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NDXApr1014.png" width="600" height="342" />Nasdaq trading over the past few days</a>
+  <img src="http://themacrotourist.com/pictures/Azure/NDXApr1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NDXApr1014.png" width="600" height="342" />Nasdaq trading over the past few days</a>
 </div>
 
 The Fed minutes caught the market off guard as they showed that Yellen had made a rookie mistake when, during the post FOMC meeting press conference, she indicated the 6 month period for first rate hike. The minutes showed that the committee is _very divided_ in terms of the timing of the first rate hike, and that they were worried about the messages they were sending with their forecasts. This was hardly the minutes of a committee that was ready to pull the trigger on higher rates.
@@ -29,7 +29,7 @@ We now know that Yellen did indeed want to backtrack on her perceived hawkishnes
 Here is the trading for the Sep 2016 Eurodollar contract:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDU6Apr1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6Apr1014.png" width="600" height="342" />ED Sep 2016</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EDU6Apr1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6Apr1014.png" width="600" height="342" />ED Sep 2016</a>
 </div></p> 
 
 The short end of the curve has been battling back, trying to recover all the ground lost from Yellen&#8217;s 6 month comment. 
@@ -39,7 +39,7 @@ Yesterday when the minutes hit the tape, as would be expected, stocks and gold r
 Proving that even a blind rat stumbles on some cheese every now and then, I was lucky enough to be set up nicely for this move.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BlindRat.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BlindRat.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/BlindRat.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BlindRat.png" width="600" height="400">
 
 The real question is where do we go from here? What does the Fed&#8217;s conflicting messages mean?
 
@@ -52,7 +52,7 @@ My response is that they are both correct. The monstrous balance sheet expansion
 The one nuanced aspect of this argument where I differ from the market is that _I do not believe that QE is going to return without a dramatic event._ This Fed understands that QE is exacerbating the increasing inequality problem. Have a look at this great infographic from Bloomberg:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GildedAgeApr1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GildedAgeApr1014.png" width="600" height="712">
+  <img src="http://themacrotourist.com/pictures/Azure/GildedAgeApr1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GildedAgeApr1014.png" width="600" height="712">
 
 This problem has never been worse and the Fed pumping money into the markets through QE is at the very least not helping, and indeed might be causing this problem.
 
@@ -83,4 +83,4 @@ As Jesse Livermore once said, &#8220;It was never my thinking that made the big 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr1014.png" width="600" height="600"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr1014.png" width="600" height="600"></p>

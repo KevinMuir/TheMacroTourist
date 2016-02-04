@@ -41,12 +41,12 @@ But we aren&#8217;t weaned off the QE quite yet. At the end of the previous thre
 The market has learned to be scared of the ending of the Quantitative Easing programs.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/pobiasOct0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/pobiasOct0814.png" width="400" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/pobiasOct0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/pobiasOct0814.png" width="400" height="342">
 
 Have a look at this chart of one of the Fed&#8217;s favourite indicators of inflation expectations &#8211; the 5 year 5 year forward breakeven rate (I know that seems overly complicated, but think about it as a long run inflation barometer):
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/5y5yBEQEOct0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/5y5yBEQEOct0814.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/5y5yBEQEOct0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/5y5yBEQEOct0814.png" width="600" height="342">
 
 I believe the market is in the process of discounting the end of the third Quantitative Easing program. They are testing the Fed. I am not yet sure how it is going to resolve itself. 
 
@@ -78,14 +78,14 @@ If I had to guess, we are going to have both a growing economy and declining fin
 On Friday the unemployment report indicated that the economy continues to improve. Yesterday the JOLTS data confirmed that trend. The total Job Openings exploded to a level that is higher than the peak of the 2007 expansion.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JOLTOct0714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JOLTOct0714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JOLTOct0714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JOLTOct0714.png" width="600" height="342">
 
 The ZeroHedge types will highlight how the job openings are indicative of the problem of an insufficiently trained workforce. They might be correct that this is contributing to the JOLTS data being a little higher than it should be. **But don&#8217;t overthink this &#8211; the employment picture continues to improve.** It is good news and shows no signs of slowing down. 
 
 And don&#8217;t forget that the Fed puts a lot of stock in the JOLTS data. The Atlanta Fed&#8217;s graph of the condition of the labour market shows that JOLTS data accounts for three of the inputs.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AtlantaAug1314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/AtlantaAug1314.png" width="400" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/AtlantaAug1314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/AtlantaAug1314.png" width="400" height="342">
 
 I know the markets are wobbling because of the removal of QE, but the Fed is not going to set monetary policy based on financial markets. Although many other parts of the global economy seem to be descending into a deflationary funk, the US economy is perched to take off. 
 
@@ -104,4 +104,4 @@ Don&#8217;t forget that today we get the release of the Fed minutes. There is go
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct0814.png" width="600" height="302"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct0814.png" width="600" height="302"></p>

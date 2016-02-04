@@ -16,7 +16,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/YellenEarlyHikes.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YellenEarlyHikes.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/YellenEarlyHikes.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/YellenEarlyHikes.png" width="600" height="400">
 
 On Friday Fed Chairwoman Janet Yellen gave a speech in Rhode Island. Although it would be foolish to expect any change in policy at this sort of speech, it was still a chance to gain a better understanding at how Yellen sees the economy unfolding. As I listened to the speech, a moment of dread for my long US dollar position immediately overcame me as Yellen&#8217;s words hit the tape:
 
@@ -37,7 +37,7 @@ I quickly realized Yellen was clearly signalling there would be no June hike, an
 But much to my surprise, the US dollar _rallied_ hard as Yellen&#8217;s comments were digested. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYGIPMay2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYGIPMay2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYGIPMay2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYGIPMay2615.png" width="600" height="342">
 
 Lately I have been droning on about how the market does not believe the Fed is serious about raising rates, but I had no idea the extent of the disbelief. Yellen&#8217;s speech on Friday was about as dovish as you could get. She ruled out current improving labour conditions as sufficient for a rate hike. The idea of the emergency zero rate being taken off the table because the economy was _good enough_ was firmly squashed. This should have been interpreted as more easy money policy from the Federal Reserve.
 
@@ -68,12 +68,12 @@ This week&#8217;s CFTC Commitment of traders report confirms the idea that specu
 The specs continue to unwind their long US dollar positions:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FOREXMay2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FOREXMay2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FOREXMay2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FOREXMay2615.png" width="600" height="342">
 
 The short term interest contracts show speculators betting on lower rates, not higher.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDSPECMay2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDSPECMay2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EDSPECMay2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDSPECMay2615.png" width="600" height="342">
 
 Both of these trades offer plenty of room to move the other way once speculators realize the Fed will raise rates in the coming months.
 
@@ -84,14 +84,14 @@ Both of these trades offer plenty of room to move the other way once speculators
 One of my favourite _weird relationships_ I like to watch is the platinum/gold ratio versus the US Treasury yield. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PLATGOLDMay2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PLATGOLDMay2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/PLATGOLDMay2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PLATGOLDMay2615.png" width="600" height="342">
 
 So far the uptick in yields has not been met with an increase in the platinum/gold ratio.
 
 The chart for platinum is far from healthy looking:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PlatMay2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PlatMay2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/PlatMay2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PlatMay2615.png" width="600" height="342">
 
 I don&#8217;t know if the relationship between platinum/gold ratio and US treasury yields is going to continue to track, but either bonds are about to rally, or somehow the platinum/gold ratio will get up off the mat. Given the terrible looking platinum chart I certainly hope it isn&#8217;t by gold puking&#8230;
 

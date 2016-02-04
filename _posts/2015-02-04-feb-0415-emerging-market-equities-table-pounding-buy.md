@@ -20,22 +20,22 @@ tags:
   - SPX
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/badtasteFeb0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/badtasteFeb0415.png" width="600" height="660">
+  <img src="http://themacrotourist.com/pictures/Azure/badtasteFeb0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/badtasteFeb0415.png" width="600" height="660">
 
 Over the past few years, there can be no denying that investors in Emerging Market equities have been left with a bad taste in their mouth. Since the start of 2011, the Emerging Market ETF has returned minus 15% while the S&P 500 has risen by over 60% in this same period.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EEMSPXFeb0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EEMSPXFeb0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EEMSPXFeb0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EEMSPXFeb0415.png" width="600" height="342">
 
 Emerging markets are more sensitive to changes in global economic growth than the more mature developed markets. They also have more exposure to commodities which are dependant on an expanding economy. Therefore given the collapse in the global economic growth rate over the past few years, it is no surprise that Emerging Markets have suffered.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GlobalGDPFeb0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GlobalGDPFeb0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GlobalGDPFeb0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GlobalGDPFeb0415.png" width="600" height="342">
 
 The emerging markets are also more dependant on US dollar liquidity as these companies are more apt to borrow in US dollars. This has made the recent US dollar rise all the more painful for these companies. Not only has the US being withdrawing liquidity with the wind down of QE and the subsequent preparing for an eventual interest rate hike, but the US dollar rise has been increasing the emerging markets companies&#8217; liabilities. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPMFeb0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPMFeb0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JPMFeb0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPMFeb0415.png" width="600" height="342">
 
 During this period US equities have been on a tear upwards. Although at the start of 2011, US equities were attractively priced versus other world markets, at this point the discount has turned into a premium. Investors have simply been chasing the market that has been going up while ignoring the others. 
 
@@ -56,17 +56,17 @@ Emerging Markets are under owned and left for dead. Don&#8217;t chase the US mar
 Recently the market has been giving you a few hints that the global economic downturn has run its course. Copper has stopped declining.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CopperFeb0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CopperFeb0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CopperFeb0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CopperFeb0415.png" width="600" height="342">
 
 Same deal with crude oil.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CrudeFeb0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeFeb0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CrudeFeb0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeFeb0415.png" width="600" height="342">
 
 I also think that over the short run, the US economy has been suffering from the US dollar rise. The Federal Reserve will soon ease up on its hawkish rhetoric. Yet speculators are still long US dollars out the whazoo.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CMEFeb0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CMEFeb0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CMEFeb0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CMEFeb0415.png" width="600" height="342">
 
 I think an interim top in the US dollar was made at the end of January. I suspect that this overly crowded trade will experience a big correction in the coming weeks. This will at the margin also be beneficial for Emerging Market equities.
 

@@ -25,18 +25,18 @@ tags:
 The last couple of days has seen some really strange, squirrelly action.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SquirrelMar2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SquirrelMar2514.png" width="284" height="177">
+  <img src="http://themacrotourist.com/pictures/Azure/SquirrelMar2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SquirrelMar2514.png" width="284" height="177">
 
 On Monday the equity market rocketed higher at the open, but was immediately sold aggressively. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXMondayMar2514.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXMondayMar2514.PNG" width="600" height="342" />Monday&#8217;s trading in the S&P 500</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPXMondayMar2514.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXMondayMar2514.PNG" width="600" height="342" />Monday&#8217;s trading in the S&P 500</a>
 </div>
 
 Then yesterday, the market also gapped higher, and once again, was immediately sold hard. The only difference is that the market did not rest on the lows like Monday, but instead found a surprising bid at lunch, and finished in the upper half of the day&#8217;s range.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPMar2614.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXGIPMar2614.PNG" width="600" height="342" />Tuesday&#8217;s trading in the S&P 500</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPMar2614.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXGIPMar2614.PNG" width="600" height="342" />Tuesday&#8217;s trading in the S&P 500</a>
 </div>
 
 I was not the only one who noticed the strange action. Yesterday Barron&#8217;s posted a piece titled &#8220;Why traders are Spooked.&#8221;
@@ -62,7 +62,7 @@ Given the terrible market action, I re-instituted a small S&P 500 short yesterda
 The only thing that I have going for me is that the &#8220;Legendary&#8221; Gartman is super bullish:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GartmanMar2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GartmanMar2614.png" width="410" height="574">
+  <img src="http://themacrotourist.com/pictures/Azure/GartmanMar2614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GartmanMar2614.png" width="410" height="574">
 
 I don&#8217;t mean to pick on Dennis, as I read him for years and think he is genuinely a nice guy. But even before he tempted the Market Gods by allowing himself to be referred to as &#8220;Legendary&#8221; he was never a great stock trader. I think his bond calls are often spot on and I would never fade him in that square. However, if Dennis is &#8220;aggressively bullish&#8221; equities, then I am happy as a pig in shit with my short position.
 
@@ -77,13 +77,13 @@ This desire to short the EUR is made all the worse due to the fact that I have b
 Have a look at the ECB&#8217;s Total Balance Sheet during the past few years: 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ECBTotalMar2614.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECBTotalMar2614.PNG" width="600" height="342" />ECB Total Balance Sheet</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ECBTotalMar2614.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECBTotalMar2614.PNG" width="600" height="342" />ECB Total Balance Sheet</a>
 </div>
 
 Considering the fact that the BoJ and the Fed are still aggressively expanding their balance sheet, the ECB&#8217;s continual shrinkage is causing the supply of Euro&#8217;s to decrease and resulting in a much higher Euro. Have a look at the Euro vs the Yen:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURJPYMar2614.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURJPYMar2614.PNG" width="600" height="342" />EURJPY Rate</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EURJPYMar2614.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURJPYMar2614.PNG" width="600" height="342" />EURJPY Rate</a>
 </div>
 
 The Euro has gone straight up. Japan and the US are basically exporting their deflation to Europe. 
@@ -99,7 +99,7 @@ Yesterday Draghi gave a speech outlining his plan for the next stage of Europe&#
 If you assume that the ECB will stop the balance sheet shrinkage, and that the Fed is going to gradually slow down their expansion, then relative interest rates will also increasingly play an increasing role in the currency level. Have a look at this chart of the German / US 2 year spread vs the EUR:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GUS2YRMar2614.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GUS2YRMar2614.PNG" width="600" height="342" />German / US 2 Year spread (in white) vs EUR (in yellow)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GUS2YRMar2614.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GUS2YRMar2614.PNG" width="600" height="342" />German / US 2 Year spread (in white) vs EUR (in yellow)</a>
 </div>
 
 The EUR is due for a move lower, all we need is the ECB to allow it to happen. 
@@ -109,7 +109,7 @@ I am shorting EUR and hopefully, this time it will treat me better. Although bad
 And just to take out a little of the direct US dollar exposure, I am also going to take this opportunity to short a little Euro against the Mexican Peso. I am going to use the Euro as a funding currency and go long a little of the Peso, picking up the carry. I have long been eyeing the long Peso trade and this seems like a good time to start the position.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURMXNMar2514.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURMXNMar2514.PNG" width="600" height="342" />EUR/MXN cross rate &#8211; going short</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EURMXNMar2514.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURMXNMar2514.PNG" width="600" height="342" />EUR/MXN cross rate &#8211; going short</a>
 </div>
 
 <hr size="2" width="85%" />

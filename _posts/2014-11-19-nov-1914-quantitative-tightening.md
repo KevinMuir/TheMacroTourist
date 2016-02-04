@@ -23,14 +23,14 @@ tags:
 Twitter is a weird strange place. On the one hand it is full of trolls and spam. When you turn it on, filtering out the useful information feels a little like trying to drink from a fire hose.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DogNov1914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DogNov1914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DogNov1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DogNov1914.png" width="600" height="342">
 
 But every now and then you come across someone who makes it all worth while. A couple of months ago I started following [Martin Enlund (@enlundm) from Nordea Bank](https://nexus.nordea.com/#/profile/156294). Martin consistently posts really great original content that makes you think. If you don&#8217;t follow him, I highly suggest you start.
 
 Recently I have noticed that Martin has been banging the drum on what he calls Quantitative Tightening. He posted the following tweet to explain his thinking:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/QTNov1914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/QTNov1914.png" width="600" height="700">
+  <img src="http://themacrotourist.com/pictures/Azure/QTNov1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/QTNov1914.png" width="600" height="700">
 
 Yesterday I set about to understand what Martin was trying to explain with this graph. Maybe it is immediately obvious to others, but it took me a bit to break it down. So in case anyone else is like me and doesn&#8217;t immediately grasp the significance of this graph, I am going to walk through it step by step. I think Martin has discovered one of the key market drivers that is being missed by many traders.
 
@@ -39,7 +39,7 @@ Let&#8217;s start with the main blue line. I believe that this line represents t
 If you step back and look at this data series from a longer time frame, you will notice that before 2008 there was basically no excess reserves in the system.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ExcessNov1914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ExcessNov1914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ExcessNov1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ExcessNov1914.png" width="600" height="342">
 
 The Federal Reserve has set themselves on a path to normalize rates, but these excess reserves represent a problem. Janet Yellen would probably prefer they would be used by banks to actually make loans, but absent that development, the Federal Reserve needs to find a way to soak up this liquidity.
 
@@ -52,7 +52,7 @@ The reverse repo program has waffled around between $100 and $200 billion over t
 But the Term Deposit Program is a different matter. The Federal Reserve has been steadily cranking this program up. When they started the program in January, they issued $12.8 billion to 31 different participants. Yesterday the Federal Reserve issued $316,020,510 of six day term deposits at an interest rate of 0.28% to 85 different participants!
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TermNov1914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/TermNov1914.png" width="600" height="320">
+  <img src="http://themacrotourist.com/pictures/Azure/TermNov1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TermNov1914.png" width="600" height="320">
 
 The Federal Reserve has now withdrawn almost $500 billion from the banking system. Think about that number for a second. At its height I think the most recent QE program was buying $45 billion a month. 
 
@@ -61,7 +61,7 @@ This new steady withdrawal of excess reserves from the banking system is much mo
 No wonder the US dollar has been rallying so hard.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TERMDXYNov1914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/TERMDXYNov1914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/TERMDXYNov1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TERMDXYNov1914.png" width="600" height="342">
 
 When you reduce the supply of something, in this case US dollars, the price of it rises. 
 
@@ -84,7 +84,7 @@ Martin is pounding the table on this theme and I agree that not enough people (i
 Meanwhile foreign money is flowing into the US at a record pace.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ForeignNov1814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ForeignNov1814.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ForeignNov1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ForeignNov1814.png" width="600" height="342">
 
 This is the largest inflow of foreign investment that the US has ever experienced. So when you get all bulled up about the prospects of the US outperformance in the coming quarters, ask yourselves how original your idea really is&#8230;
 
@@ -93,4 +93,4 @@ This is the largest inflow of foreign investment that the US has ever experience
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov1914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsNov1914.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsNov1914.png" width="600" height="342"></p>

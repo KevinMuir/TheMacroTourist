@@ -20,7 +20,7 @@ I am running late this morning, so instead of writing something new, I dug up an
 <hr size="3" width="85%" />
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GeorgeJun2315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GeorgeJun2315.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/GeorgeJun2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GeorgeJun2315.png" width="600" height="400">
 
 In the 90s I was a geeky kid sitting on, what was then, by far the best equity desk in Canada.  I was extremely lucky because my boss, who was probably 7 or 8 years older than me was being groomed by one of the all time greatest traders that has ever walked down Bay Street.  Sitting there doing my menial trading duties, I listened and most importantly&#8230; I learned.  It was during this period I saw two legendary hedge fund titans battle in a way that still leaves me with awe.  This is the story of that showdown and why it cemented in my mind why George Soros is the greatest trader that has ever lived.  It is the story of Methanex and my latest instalment of _&#8216;Damn! I wish I had traded that!&#8217;_
 

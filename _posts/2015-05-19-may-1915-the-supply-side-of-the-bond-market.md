@@ -13,17 +13,17 @@ tags:
   - capex
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/HanDebtSale.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HanDebtSale.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/HanDebtSale.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/HanDebtSale.png" width="600" height="400">
 
 During the past month global bond markets have, for lack of a better word, shit the bed. The German bund future has given up 9 big figures in a sickening swoosh lower.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/RXAMay1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/RXAMay1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/RXAMay1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/RXAMay1915.png" width="600" height="342">
 
 The US long bond future has sagged to the tune of 13 handles.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USAMay1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USAMay1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/USAMay1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USAMay1915.png" width="600" height="342">
 
 Almost no bond market has been spared. 
 

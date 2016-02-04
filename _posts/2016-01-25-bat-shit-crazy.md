@@ -11,7 +11,7 @@ tags:
   - sovereign wealth funds
  
 ---
-<img src="http://themacrotourist.com/pictures/MikeTysonJan2516.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/MikeTysonJan2516.png" width="700" height="450" /></a></div>
+<img src="http://themacrotourist.com/pictures/MikeTysonJan2516.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/MikeTysonJan2516.png" width="700" height="450" /></a></div>
 
 Remember how **energy dominant countries' sovereign wealth funds (SWF)** were being saved for when *the oil ran out?*  
 
@@ -25,7 +25,7 @@ On Friday after writing my piece about the potential problems associated with th
 
 Although it's nice to get confirmation, I didn't really need it.  All you had to do was look at this chart:
 
-<img src="http://themacrotourist.com/pictures/SPYJan2516.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/SPYJan2516.png" width="700" height="450" /></a></div>
+<img src="http://themacrotourist.com/pictures/SPYJan2516.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/SPYJan2516.png" width="700" height="450" /></a></div>
 
 The selling has been relentless, and completely illogical.  Straight down in such a stair step manner was the result of a humongous sell order.  Every time it seemed like the market might get up off the mat and take a breath, the sell order came back.
 
@@ -33,7 +33,7 @@ I don't know which sovereign wealth fund is puking, and it doesn't really matter
 
 Do you think it is a coincidence that oil and the S&P 500 have been joined at the hip during this period?
 
-<img src="http://themacrotourist.com/pictures/SPYOILJan2516.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/SPYOILJan2516.png" width="700" height="450" /></a></div>
+<img src="http://themacrotourist.com/pictures/SPYOILJan2516.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/SPYOILJan2516.png" width="700" height="450" /></a></div>
 
 Although the bulls might take solace in the fact the selling has been mainly driven by one group of over enthusiastic oil bulls that got over their skis, I am not nearly as heartened by this development.  I believe the past couple of weeks has shown the dangers of governments intervening in the risk markets.  These clowns are bad enough currency traders, the last thing we needed was them venturing into stocks and other risk assets.  Yet this is ***exactly*** what they have done over the past half of a decade.
 

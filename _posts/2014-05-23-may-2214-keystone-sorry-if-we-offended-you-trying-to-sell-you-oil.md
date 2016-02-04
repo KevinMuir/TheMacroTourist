@@ -23,7 +23,7 @@ In my posts, I try to avoid politics as the last thing the world needs another i
 > (Post intermission #1: Canadians’ flattering image of themselves as unfailingly reticent and polite is wearing a bit thin lately. The actions above are not those of a reserved and self-effacing people but an aggrandized and obnoxious one. Please own your new identity and stop insulting our intelligence, thanks.)
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SorryMay2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SorryMay2214.png" width="600" height="420">
+  <img src="http://themacrotourist.com/pictures/Azure/SorryMay2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SorryMay2214.png" width="600" height="420">
 
 The last thing I want to do is insult this author&#8217;s intelligence, so I won&#8217;t dare suggest that maybe he has mixed up who the world views as an &#8220;aggrandized and obnoxious&#8221; society.
 
@@ -50,7 +50,7 @@ It will maybe surprise the reader that as an obnoxious and aggrandizing Canadian
 I am very torn about Canada&#8217;s reliance on energy exports. As a Canadian I am even more upset by the fact that the mining of the oil sands destroys the land, leaving a barren wasteland. I expect our government to hold the oil sands companies responsible for returning the environment as close as possible back to its original state once mining has finished.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TarsandsMay2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/TarsandsMay2214.png" width="600" height="342" />The wastelands of Alberta oilsands</a>
+  <img src="http://themacrotourist.com/pictures/Azure/TarsandsMay2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TarsandsMay2214.png" width="600" height="342" />The wastelands of Alberta oilsands</a>
 </div>
 
 But this is where I disagree with NakedCapitalism&#8217;s author about the best way to go about minimizing the environmental damage to our societies.
@@ -64,7 +64,7 @@ If I had it my way, there would be worldwide tax on all fossil fuels with the pr
 The Keystone Pipeline sure sounds scary, right? In fact our favourite NakedCapitalism author cites a quote calling it a &#8220;a death-funnel down the spine of the United States. &#8221; Geez&#8230; that&#8217;s frickin&#8217; frightening. That Keystone must be really unique. It must be completely game changing in terms of the pipeline landscape&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/KeystoneMay2214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/KeystoneMay2214.png" width="600" height="625">
+  <img src="http://themacrotourist.com/pictures/Azure/KeystoneMay2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/KeystoneMay2214.png" width="600" height="625">
 
 Not only that, the Keystone must be really dangerous. After all, pipelines carry fuel which could spill into the environment. But ask yourself, if the Keystone does not go ahead, what do you think is going to happen? 
 
@@ -109,7 +109,7 @@ Now there is a persistent discount. It is even worse for the Canadian oil sands 
 Here is a chart of the three different oil prices since 2008:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/OILMay2314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/OILMay2314.png" width="600" height="342" />Three different oil prices &#8211; Brent, WTI and Canada</a>
+  <img src="http://themacrotourist.com/pictures/Azure/OILMay2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/OILMay2314.png" width="600" height="342" />Three different oil prices &#8211; Brent, WTI and Canada</a>
 </div>
 
 This discount has been a huge relative savings for the American and Canadian consumers. They have not been paying world prices for oil due to structural inefficiencies in the pipeline infrastructure.
@@ -123,7 +123,7 @@ I also worry that America is being over confident about shale oil&#8217;s prospe
 Have a look at this chart of the production of the various shale plays:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ShaleMay2314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ShaleMay2314.png" width="600" height="342" />Shale oil production</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ShaleMay2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ShaleMay2314.png" width="600" height="342" />Shale oil production</a>
 </div>
 
 It is by no means assured that the production will be as large as forecast. In fact, recently the US officials were forced to [cut the estimates of recoverable Monterey Shale oil by 96%.](http://www.latimes.com/business/la-fi-oil-20140521-story.html)
@@ -135,7 +135,7 @@ All of these policies make me even more bullish on long term crude contracts.
 Currently the forward crude oil curve is trading at a steep backwardation. The price for oil in the future is trading at a massive discount to spot:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CrudeCurveMay2314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeCurveMay2314.png" width="600" height="342" />WTI crude oil curve</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CrudeCurveMay2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeCurveMay2314.png" width="600" height="342" />WTI crude oil curve</a>
 </div>
 
 I know all the reasons why oil has to go down in price. I have to read about them every day in my research feed. 
@@ -155,7 +155,7 @@ This week-end is Memorial day week-end in America. Canada&#8217;s May holiday wa
 Although my NakedCaptialism author thinks Canadians are self aggrandizing, I think he should have a look at what made our national news:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MooseMay2314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/MooseMay2314.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/MooseMay2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MooseMay2314.png" width="600" height="342">
 
 I would like to point out that we don&#8217;t keep moose as pets and that the fellow was on the way to dropping the moose off at a shelter when he decided to pull over at Tim Hortons for a coffee (taking the moose baby you found on the side of the road into Tim Hortons makes perfect sense to me &#8211; you can&#8217;t leave him in the car). Also, unfortunately it wasn&#8217;t the Tim Hortons in my building. And finally, I don&#8217;t know your Brother-in-law&#8217;s friend Frank from Saskatoon.
 
@@ -166,4 +166,4 @@ For my American friends &#8211; have a great Memorial Day week-end!
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay2314.png" width="600" height="650"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay2314.png" width="600" height="650"></p>

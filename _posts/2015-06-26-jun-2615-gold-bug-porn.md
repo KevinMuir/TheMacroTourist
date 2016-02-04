@@ -18,7 +18,7 @@ tags:
   - Sprott
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/EricSprottPorn.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EricSprottPorn.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EricSprottPorn.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EricSprottPorn.png" width="600" height="342">
 
 I am no dyed in the wool gold bug. If I believed the world&#8217;s Central Banks were about to reverse their course of excessively easy monetary policy and instead normalize rates, then I would short gold with both fists. Yet when I look at the policies that governments and Central Banks are perpetuating, it makes me realize there is no other answer except to inflate our way out. The debt problem is only getting worse. As a global society, we continue to spend way more than we earn. As this debt mounts, we become more sensitive to rises in interest rates, which in turn, forces Central Banks to keep rates even lower. This increase in debt diminishes our ability to spend, so the economy sags, forcing the Central Banks to lower rates even further. This cycle continues until the Central Banks have negative rates and are in essence &#8220;pushing on a string.&#8221; We are reaching the point where the Central Banks&#8217; ability to influence the economy is so muted, they are becoming desperate. 
 
@@ -29,7 +29,7 @@ But if you are like me, and you believe that no society has ever chosen austerit
 I understand that feeling. Too many gold bugs seem to be bullish regardless of what is happening in the markets. If the banks are going up, then you need to buy gold. If the banks are going down, you need to buy gold. If the US dollar is rising, then you need to buy gold. If the US dollar is falling, you need to buy gold. These guys are obsessed with gold, and their position ledger only knows long, longer, and max long. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MoreEricPorn.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/MoreEricPorn.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/MoreEricPorn.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MoreEricPorn.png" width="600" height="342">
 
 For a couple of years after the 2008 credit crisis, the financial community swallowed the gold bugs&#8217; story hook line and sinker. Stories about famed hedge fund manager Jim Paulson&#8217;s massive gold position filled the trader&#8217;s gossip rooms. He had nailed the real estate debacle, and now was about to nail the gold trade. The GLD ETF was the number one holding on hedge fund&#8217;s position sheet for months and months. Gold bugs like Eric Sprott became celebrities. 
 
@@ -40,14 +40,14 @@ Gold has gone from being loved to loathed. But has anything really changed? Apar
 Central Banks keep printing like there is no tomorrow. Here is a chart of the total balance sheet for the Big 3 Central Banks:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Big3Jun2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/Big3Jun2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/Big3Jun2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Big3Jun2615.png" width="600" height="342">
 
 Does that inspire confidence? Do you really think this rise is all under control?
 
 The problem is that in the past Central Banks might have monetized against gold, but in today&#8217;s messed up world, they are monetizing against equities. I know I harp on this way too much, yet I can&#8217;t believe more people don&#8217;t scratch their heads at the absurdity of it all. Central Banks are directly buying equities. In a big way. The Swiss National Bank is a huge holder of American equities. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SNBAAPLJun2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SNBAAPLJun2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SNBAAPLJun2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SNBAAPLJun2615.png" width="600" height="342">
 
 One day this will come back to bite them in the ass. And it will be difficult for them to justify the complete disaster they have made of their balance sheets. 
 
@@ -86,7 +86,7 @@ Usually I stick to writing about macro events, but this next part is something a
 **North American Palladium &#8211; A balance sheet arbitrage opportunity?**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/WarrenJun2615" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/WarrenJun2615" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/WarrenJun2615" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/WarrenJun2615" width="600" height="400">
 
 Everyone wants to invest like Warren Buffett, but his unique position often gives him access to deals that regular investors can&#8217;t buy. Think back to the credit crisis of 2008. In the depths of the panic, Warren invested in a few different financial companies. But instead of just wandering onto the stock exchange and purchasing stock like the rest of us, Warren was able to strike sweetheart deals. Goldman Sachs came knocking and asked for $5 billion. Warren agreed, but it came in the form of a preferred share that paid 10% with warrants to buy Goldman Sachs stock at $115. It was in essence a synthetic convertible preferred. If Goldman Sachs&#8217; stock went nowhere for the next few years, then Warren would earn 10% (assuming Goldman was still around to pay back the preferred). If the stock rallied, then Warren would participate fully. It was a heads-I-win tails-you-lose situation for Warren. There can be no denying that having this sort of preferential deal access creates a tail wind at Warren&#8217;s portfolio&#8217;s back.
 
@@ -101,7 +101,7 @@ Here is a brief summary of North American Palladium&#8217;s business according t
 They claim to be &#8220;dedicated to building shareholder value.&#8221; I want to look like George Clooney and be as rich as Mark Zuckerberg, but saying it doesn&#8217;t make it so. North American Palladium took on too much debt, at the wrong time, and with the collapse in the price of palladium, have run their equity price into the ground. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PDLLTJun2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PDLLTJun2515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/PDLLTJun2515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PDLLTJun2515.png" width="600" height="342">
 
 If you research the company on Seeking Alpha, you will find many different views on its investing merits. I am not smart enough to tell you the long term profitability of North American Palladium. I am no precious metals analyst, and even if I was, I am still not sure I would listen to myself given all the terrible calls lately in this group. But I do know a little about opportunities around restructurings, and the recent developments at North American Palladium offer a compelling chance to invest alongside a seasoned investing powerhouse.
 
@@ -110,12 +110,12 @@ Brookfield Capital Partners are part of the Brookfield group. Brookfield has a p
 Way back when, Brookfield lent North American Palladium some money. When the company got in trouble with cash flow, Brookfield lent them some more. Brookfield put itself at the top of the capital structure, and made sure they understood North American Palladium&#8217;s business. As the company&#8217;s performance continued to deteriorate, servicing this debt became more of an anchor around North American Palladium&#8217;s neck. Eventually management realized they could not continue without some changes, and there was some speculation the company would be sold. The stock briefly spiked to $0.40 on the hype.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PDLJun2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PDLJun2515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/PDLJun2515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PDLJun2515.png" width="600" height="342">
 
 During this time I was perplexed with the prices of the various North American Palladium financial instruments. Although the stock was soaring, the listed convertible bonds were trading as if the company was going to go bankrupt. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PDLBondJun2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PDLBondJun2515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/PDLBondJun2515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PDLBondJun2515.png" width="600" height="342">
 
 Along with Brookfield&#8217;s private debt, there are two listed convertible issues that trade on the Canadian stock exchange. Although the longer dated issue is small and does not trade actively, the 2017 issue has $43 million bonds outstanding.
 
@@ -128,7 +128,7 @@ Brookfield has agreed to convert their $200 USD million into 92% of the new equi
 This deal basically wipes out the existing equity holders. There are currently 393.7 million shares outstanding, but after the reorganization, that number will 19.685 billion. Yup, you read that right, almost 20 billion. Obviously there will be the mother of all reverse splits to get the price to a more reasonable level. After it is all done, the current equity shareholders will be left with little of the new company. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PDLMathJun2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PDLMathJun2515.png" width="200" height="200">
+  <img src="http://themacrotourist.com/pictures/Azure/PDLMathJun2515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PDLMathJun2515.png" width="200" height="200">
 
 We know purchasing the equity today is obviously a terrible investment, so where is the edge? The answer lays with the other North American Palladium listed financial instrument. Let&#8217;s go through the numbers and try to make sense of the relationship between all the pieces.
 
@@ -145,7 +145,7 @@ Let&#8217;s look at it another way. If we assume at the very least Brookfield is
 But wait, it gets even better if you are a current equity holder that believes in the long term success of this company. Right now there is no way to directly buy equity without paying 3 times what Brookfield is paying per share. If you sell your shares, at 4 cents, and instead buy bonds at 38 cents on the dollar, then you will be arbitraging the large spread that exists. Let&#8217;s say you own 27,500 shares. You sell them at 4 cents for a total proceeds of $1,100. Then you can buy $1,000 face value of PDL bonds for 38 cents, for a net outlay of $380. After the reorganization, you will once again own 27,500 shares, but you will have picked up $720. If we were able to short the stock in size, then this arbitrage would be a real money maker. Unfortunately you can&#8217;t short multiples of the float, and there is no borrow for a 4 cent stock. But natural longs of the current PDL equity should sell their stock, and buy the bonds, locking in a great gain.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PDLBondEquivJun2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PDLBondEquivJun2515.png" width="200" height="300">
+  <img src="http://themacrotourist.com/pictures/Azure/PDLBondEquivJun2515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PDLBondEquivJun2515.png" width="200" height="300">
 
 Jim Grant is fond of saying there are no bad securities, just bad prices. At an expensive price, the safest security becomes inherently risky. At a low price, the riskiest security becomes increasingly attractive. I don&#8217;t know if North American Palladium will survive this brutal downturn in the precious metals market. I will leave that up to smarter people than me to forecast with that sort of clarity. But I know that with Brookfield spearheading this reorganization, one of the smartest, shrewdest financial players has negotiated themselves a sweetheart deal. Usually this sort of deal is for the privy of the connected few, but with the listed convertible bond trading at around 38 cents on the dollar, you can tag alongside for the same price. I will take that trade any day&#8230;
 

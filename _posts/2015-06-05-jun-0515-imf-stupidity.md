@@ -18,7 +18,7 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/IMFFed.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/IMFFed.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/IMFFed.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/IMFFed.png" width="600" height="400">
 
 In what has to be one of the stupidest moves I have seen in a long time, yesterday IMF Head Christine Lagarde told the Fed to hold off raising rates until the first half of 2016. One of my twitter guys joked that the IMF is used to telling highly indebted sovereigns what to do with their economies. All kidding aside, this was such a brain dead move I can&#8217;t figure what Lagarde was thinking. I have to believe it wasn&#8217;t a mistake. You don&#8217;t get to be the head of the IMF making off handed remarks. So I am assuming Lagarde purposely applied this pressure. But why?
 
@@ -77,7 +77,7 @@ But a funny thing happened. Inflation never showed up. After three years of call
 This change in attitude caused the gold/equities ratio to retrace the entire move of the previous 3 years.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GLDSPXLTJun0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSPXLTJun0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GLDSPXLTJun0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSPXLTJun0415.png" width="600" height="342">
 
 But here we are; investors, Central Banks and corporate equity buy backs having pushed stocks to asinine valuations, all the while, gold has slumped badly. There is no one worried about QE causing inflation. No one. Well, that might not be completely true &#8211; I am pretty sure Peter Schiff and Michael Pento are hanging tough with their inflation call, but apart from the crazy gold bugs, no one is worried about inflation. 
 
@@ -86,7 +86,7 @@ I am not sure if we are about to get a deflationary swoon first, or whether we w
 Have a look at the short term chart. It is hanging tough:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GLDSPXJun0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSPXJun0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GLDSPXJun0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSPXJun0415.png" width="600" height="342">
 
 I know gold might suffer if the Fed continues with their tightening, but I suspect equities will suffer even more. I am buying the spread in here. I suspect if Obama was honest he would have to admit that profit and earnings ratios are at a point where stocks are a good sale if you have a long term perspective. And given Central Banks&#8217; willingness to fix everything with a printing press, I think you need to own a real asset. This is a pretty lonely call, but that can sometimes be the best kind. 
 

@@ -19,7 +19,7 @@ tags:
   - JGB
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/GundlachDriverApr3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GundlachDriverApr3015.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/GundlachDriverApr3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GundlachDriverApr3015.png" width="600" height="400">
 
 First it was Bill Gross describing German Bunds as the &#8220;short of a lifetime.&#8221; Now we have his arch rival, Doubleline&#8217;s Jeffrey Gundlach recommending levering up another short German fixed income position 100 to 1. To be fair, Gundlach is concentrating on the front end of the curve, while Gross was talking about the ten year bund. But you have to give Gundlach credit, it&#8217;s a bold assertion. From Bloomberg:
 
@@ -36,7 +36,7 @@ The gist of the argument is that when you short a two year bund with a _negative
 The easiest way to demonstrate this positive carry is to have a look at the futures market for the German Schatz Future &#8211; their 2 year note. This example isn&#8217;t exactly what Gundlach is recommending, but it illustrates the carry nicely.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DUApr3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DUApr3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DUApr3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DUApr3015.png" width="600" height="342">
 
 The front contract is trading at a lower price than the further out contract. Absent a move in rates, there would be a natural decay downward. So if rates remained unchanged, you could expect to make 111.20 &#8211; 111.30 = 0.10 each quarter on this position. That is the positive carry that Gundlach wants to lever up.
 
@@ -51,7 +51,7 @@ I have been perplexed at the massive rush into bunds over the past three months.
 Either way, proving that a stopped clock is right at least twice a day, I actually got this one right when I leaned short last week. I was nervous that Gross was going to goocher &#8220;my trade&#8221;, but it seems like the old man only helped it along. And then when Gundlach pounced on the short side, the bottom fell out.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Apr3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10Apr3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Apr3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10Apr3015.png" width="600" height="342">
 
 I am trying hard to let my position cook. One of my greatest trading weaknesses is that I have such a strong desire to be contrarian, the moment investors start agreeing with me, I unwind the trade. A work colleague told me the other day that I don&#8217;t need to be contrarian on absolutely everything and maybe there is a time when prevailing sentiment will actually be correct. I thanked him for his opinion, and then told him that of course he thought that way, that is what everyone thinks, so it must be wrong&#8230; 
 
@@ -70,7 +70,7 @@ Well, as you might have guessed, I will take the other side of that trade. Infla
 Bill Gross is right that shorting German bunds with yields in the teens is a great trade. But so is shorting Japanese JGBs with yields in the 30s. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JGBApr3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JGBApr3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JGBApr3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JGBApr3015.png" width="600" height="342">
 
 All fixed income is way too high, and it makes sense to find other bond markets to short that aren&#8217;t crawling with hedge funds. 
 

@@ -18,12 +18,12 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/FedOfficialsatFOMC.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FedOfficialsatFOMC.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/FedOfficialsatFOMC.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FedOfficialsatFOMC.png" width="600" height="400">
 
 Well, I sure whiffed on that call. Although I did not think the Fed would raise rates at yesterday&#8217;s FOMC meeting, I was convinced they would take the opportunity to cement in expectations for a September hike. The market was pricing an approximately 50% chance of a 25 basis point rise in Fed Funds by October (first clean month of Fed Fund futures after the mid-September FOMC meeting). After yesterday&#8217;s meeting this probability declined to 40%.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FFV5Jun1815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FFV5Jun1815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FFV5Jun1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FFV5Jun1815.png" width="600" height="342">
 
 Not only did the Fed not manage to build in any certainty for a September hike, but they even failed to maintain the market&#8217;s expectations of the previous existing pace of tightening. The market interpreted yesterday&#8217;s events as the FOMC committee being further away from tightening than was previously discounted. 
 
@@ -32,12 +32,12 @@ I am not sure this was the message the Fed was trying to send, but this was the 
 Have a look at the US 2 year yield and the US dollar index:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXY2YRJun1815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXY2YRJun1815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXY2YRJun1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXY2YRJun1815.png" width="600" height="342">
 
 And as would be expected from a dovish Fed, risk assets went bid. Even the much hated gold got a bid:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESGOLDJun1815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESGOLDJun1815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESGOLDJun1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESGOLDJun1815.png" width="600" height="342">
 
 There can be no denying the market believes the FOMC committee is further away from raising rates than previously feared. Although I do not understand why the news was greeted so dovishly, the market&#8217;s reaction to the news often says more than the news itself. The most obvious answer is there were more guys like me that were _expecting the Fed to be more hawkish._ When the FOMC committee once again failed to commit to higher rates, the Gundlach view of the &#8220;Fed will never raise rates&#8221; was embraced.
 

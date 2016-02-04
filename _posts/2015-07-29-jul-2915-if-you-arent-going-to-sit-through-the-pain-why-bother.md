@@ -14,7 +14,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/YellenJul2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/YellenJul2915.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/YellenJul2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/YellenJul2915.png" width="600" height="400">
 
 Today the FOMC committee meets to set monetary policy. Although markets expect no immediate change to the Fed Funds rate, they are pricing in roughly a 40% chance the Fed will raise rates at September&#8217;s meeting. 
 
@@ -43,7 +43,7 @@ Given her sympathy to the plight of the average American worker it is interestin
 And the Fed&#8217;s favourite inflation gauge, the core PCE, is showing no signs of being anywhere near the Fed&#8217;s target.
 
 
-  <img src="http://themacrotourist.com/pictures/PCEJul2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/PCEJul2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/PCEJul2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/PCEJul2915.png" width="600" height="342">
 
 In early 2012 Bernanke took all sorts of heat for not withdrawing liquidity when the PCE rate ticked above 2%. At the time the inflationistas were predicting the start of runaway inflation. Yet Ben held tough. Within a year inflation had collapsed and his decision not to panic seemed particularly astute.
 
@@ -54,7 +54,7 @@ Up until Yellen&#8217;s recent policy shift the current Fed shared a similar vie
 I am not judging what monetary policy is right or not, but the current policy stance is inconsistent. If the Federal Reserve was about to get religion and allow the business cycle to take its course, and allow the purging of bad debts through a credit destructive recession, then I would understand the Fed&#8217;s desire to raise rates. All the hard money guys would love this outcome. 
 
 
-  <img src="http://themacrotourist.com/pictures/BudJul2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/BudJul2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/BudJul2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/BudJul2915.png" width="600" height="342">
 
 We could purge the system of the bad debts, clean it all up and start again. But the pain would be worse than watching a Kevin James movie marathon. There is no way society would be willing to suffer through the years of restructuring. 
 
@@ -63,7 +63,7 @@ Given the massive worldwide over indebtedness, there is only one way out &#8211;
 When the Fed mouthes words about raising rates, they are fooling themselves. They cannot raise rates in any meaningful way. The moment they do, the economy will collapse back in on itself. In fact, I contend they don&#8217;t even need to raise rates for this to happen. The recent commodity collapse and the worldwide economic slump is the result of the Fed stopping the expansion of their balance sheet, along with threat of higher rates. 
 
 
-  <img src="http://themacrotourist.com/pictures/FARBASTJul2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/FARBASTJul2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/FARBASTJul2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/FARBASTJul2915.png" width="600" height="342">
 
 The longer the Fed pretends it will execute relatively prudent monetary policy, the more likely a deflationary vicious cycle will take hold. We all know there is no way the Fed will stand tough as the unwind accelerates, so why even bother? Why does Yellen feel the need to raise rates with inflation running significantly below target? The Federal Reserve has _never started_ a tightening cycle with inflation below their target rate, so why start now? 
 

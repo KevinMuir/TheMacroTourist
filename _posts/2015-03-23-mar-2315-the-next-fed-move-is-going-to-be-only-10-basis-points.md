@@ -17,7 +17,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/Pulp25bps.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/Pulp25bps.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/Pulp25bps.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Pulp25bps.png" width="600" height="342">
 
 I am old enough to remember when stocks used to trade in eighths. I know this might seem crazy to my young readers, but almost everything used to trade in fractions of eight. When you wanted to narrow the spread, we moved down to sixteenths and thirty-seconds. It sometimes even got really stupid and we would trade stocks in 128ths. Obviously this tradition was nothing more than an archaic throwback to the past, and the equity markets had the good sense to move to decimal trading well over a decade ago. 
 
@@ -36,6 +36,6 @@ Changing from fractional quarter point moves to decimals might be a perfect solu
 It would be a win-win for everyone. The hawks would get their raises, and the doves would be comforted by the fact that the increases were small. At the same time, moving to decimals wouldn&#8217;t limit the potential for future hikes of equal magnitude as previous quarter point moves. It really is a can&#8217;t lose solution.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FFMar2315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FFMar2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FFMar2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FFMar2315.png" width="600" height="342">
 
 I am on the record as saying that the first tightening won&#8217;t be until December. But I am going to make a caveat to that prediction. If we are going to get an increase in June or September, it will be only 10 basis points.

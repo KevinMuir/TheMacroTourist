@@ -18,14 +18,14 @@ tags:
   - JGB
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/BundBearsMay0715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BundBearsMay0715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BundBearsMay0715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BundBearsMay0715.png" width="600" height="342">
 
 Over the past week, the German bund market has experienced what amounts to a crash. It was somewhat orderly, with only this morning&#8217;s action getting truly squirrelly, but it was a crash nonetheless. 
 
 The German 10 year yield has exploded from a level of 0.15% at the end of April, to a high tick of 0.78% this morning. This has all happened over the last six trading days.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDBR10May0715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10May0715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10May0715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10May0715.png" width="600" height="342">
 
 Although I was an early bear (too early actually), I think the decline has gotten out of hand, and that shorts should be covering, but I thought that yesterday &#8211; so what do I know?
 
@@ -118,7 +118,7 @@ I think the German bund decline is way overdone due to overly aggressive hedge f
 One of these days, the JGB market will puke even worse than the bunds. Japanese bonds should yield more than German bunds, and with this latest swoon, we now get to put on the spread at 20 basis points in our favour. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JGBMay0715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JGBMay0715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JGBMay0715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JGBMay0715.png" width="600" height="342">
 
 This is probably my favourite trade right now. 
 

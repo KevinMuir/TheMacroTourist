@@ -19,7 +19,7 @@ tags:
 I am not afraid of looking like an idiot. I look like an idiot all the time.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FamilyMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FamilyMay2814.png" width="500" height="600" />Macrotourist family portrait</a>
+  <img src="http://themacrotourist.com/pictures/Azure/FamilyMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FamilyMay2814.png" width="500" height="600" />Macrotourist family portrait</a>
 </div>
 
 (I was a little disappointed that this family portrait didn&#8217;t capture our family&#8217;s essence, but I am not that upset about looking like an idiot.)
@@ -27,7 +27,7 @@ I am not afraid of looking like an idiot. I look like an idiot all the time.
 So as I make the following prediction, I realize that I am making it when most people are going to think I am an idiot. But I am not scared&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FearnoevilMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FearnoevilMay2814.png" width="500" height="350">
+  <img src="http://themacrotourist.com/pictures/Azure/FearnoevilMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FearnoevilMay2814.png" width="500" height="350">
 
 **I believe that the time has come to get aggressively short the stock market.** 
 
@@ -36,7 +36,7 @@ I have been negative for quite some time, taking stabs on the short side, but no
 I recognize that from a technical point of view stocks have broken to new highs and that only idiots short new highs. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXMay2814.png" width="600" height="342" />S&P 500 &#8211; breaking to new highs</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPXMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXMay2814.png" width="600" height="342" />S&P 500 &#8211; breaking to new highs</a>
 </div>
 
 However, don&#8217;t forget &#8211; I am not afraid of being an idiot.
@@ -46,13 +46,13 @@ The S&P 500 is breaking to new highs, yet most other indexes are still strugglin
 The Nasdaq still hasn&#8217;t broken out:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NDXMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NDXMay2814.png" width="600" height="342" />Nasdaq 100 &#8211; no new highs yet</a>
+  <img src="http://themacrotourist.com/pictures/Azure/NDXMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NDXMay2814.png" width="600" height="342" />Nasdaq 100 &#8211; no new highs yet</a>
 </div></p> 
 
 The smaller cap Russell 2000 is nowhere near new highs:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/RTYMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/RTYMay2814.png" width="600" height="342" />Russell 2000 &#8211; no where new highs</a>
+  <img src="http://themacrotourist.com/pictures/Azure/RTYMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/RTYMay2814.png" width="600" height="342" />Russell 2000 &#8211; no where new highs</a>
 </div>
 
 So although large cap stocks are ticking at all time record highs, the rest of the market is not performing nearly as well.
@@ -80,7 +80,7 @@ I am not just shorting because I don&#8217;t see anyone else writing any pink ti
 The yields on bonds are plunging lower. At the beginning of a usual market cycle, declining bond yields are a positive for the stock market. However, this is far from a usual market cycle. The recent declining bond yields are signalling that _deflation has re-emerged as a real concern._ 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US10SPXMay2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/US10SPXMay2914.png" width="600" height="342" />S&P 500 (yellow line) vs US 10 Year Yield (white line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/US10SPXMay2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US10SPXMay2914.png" width="600" height="342" />S&P 500 (yellow line) vs US 10 Year Yield (white line)</a>
 </div>
 
 You might argue that given the distortions caused by the Fed&#8217;s QE programs that this is not a fair comparison. I don&#8217;t buy that, but I will go along for a bit. 
@@ -90,7 +90,7 @@ How about the shape of the curve then? Although I will concede that the old yard
 The curve has been collapsing for the last 5 months:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USFlatMay2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USFlatMay2914.png" width="600" height="342" />US 2/10 spread (white line) and US 5/30 spread (yellow line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/USFlatMay2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USFlatMay2914.png" width="600" height="342" />US 2/10 spread (white line) and US 5/30 spread (yellow line)</a>
 </div>
 
 I understand the argument that bonds are rallying because of the repricing of confidence in the Fed&#8217;s forward guidance. But at the end of the day, if the bond market was confident of future growth the curve would be steepening. It isn&#8217;t. The bond market is screaming caution.
@@ -100,7 +100,7 @@ Many market participants dismiss gold as an ancient relic that does not really h
 Gold staged a big rally after the 2013 year end puke. It went from sub $1200 to almost $1400. However, since then it has slumped back down to $1250.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDMay2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDMay2914.png" width="600" height="342" />Gold trading</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDMay2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDMay2914.png" width="600" height="342" />Gold trading</a>
 </div>
 
 Although many traders will look at the gold market and claim that it doesn&#8217;t offer any predictive value, I think the recent slump is another danger sign. 
@@ -122,7 +122,7 @@ I can best describe it by explaining that;
 Even though I had hoped for the economic recovery to become self reinforcing, the action in the bond market is suggesting otherwise. The action surrounding the taper is looking more and more like the end of previous QE programs. Although everyone thinks that QE programs are bond bullish, [I continue to argue just the opposite.](http://gfbblogs.azurewebsites.net/blog/2014/05/16/may-1614-qe-programs-are-not-bond-bullish/) But I do agree that QE programs are universally bullish for stocks.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXFEDMay2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXFEDMay2914.png" width="600" height="342" />S&P 500 (white line) vs Fed&#8217;s Balance Sheet (yellow line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPXFEDMay2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXFEDMay2914.png" width="600" height="342" />S&P 500 (white line) vs Fed&#8217;s Balance Sheet (yellow line)</a>
 </div>
 
 As the Fed continues to taper, the stock market is going to struggle. This is especially true if the bond market is rallying due to deflation concerns.
@@ -140,7 +140,7 @@ I am buying a variety of long dated puts in the S&P at various strikes that will
 As the hockey great Wayne Gretzky said, &#8220;you miss 100% of the shots you don&#8217;t take.&#8221; I am taking a shot on the dark side with an aggressive long put positon.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DarthMay2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DarthMay2914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DarthMay2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DarthMay2914.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -151,7 +151,7 @@ Gold continues to get hammered like a red headed step child. I had promised a wr
 I will follow up tomorrow with more on gold, but I will leave you with a chart of the gold/stock ratio. Something to think about&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GLDSPXMay2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSPXMay2914.png" width="600" height="342" />Gold/S&P 500 ratio</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GLDSPXMay2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSPXMay2914.png" width="600" height="342" />Gold/S&P 500 ratio</a>
 </div>
 
 <hr size="3" width="85%" />
@@ -159,4 +159,4 @@ I will follow up tomorrow with more on gold, but I will leave you with a chart o
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay2914.png" width="600" height="750"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay2914.png" width="600" height="750"></p>

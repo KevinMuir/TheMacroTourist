@@ -30,7 +30,7 @@ And the stress was not just limited to individual stock names. Many other trades
 The Japanese Yen short has been a popular trade with the hedge fund community ever since Prime Minister Abe pledged to stop the decades long deflationary vicious circle. Since the introduction of the aggressive monetary easing, the Yen’s weakness has also been highly correlated to the US stock market. Have a look at this chart that shows the Yen versus the S&P 500 during the past year:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYSPXApr0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYSPXApr0914.png" width="600" height="342" />USDJPY (white line) vs S&P 500 (yellow line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/JPYSPXApr0914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYSPXApr0914.png" width="600" height="342" />USDJPY (white line) vs S&P 500 (yellow line)</a>
 </div>
 
 You will notice that a higher USDJPY rate (lower Yen) has corresponded to a higher US stock market &#8211; almost tick for tick.
@@ -40,7 +40,7 @@ Although the relationship between the two asset classes does shift around, on a 
 Therefore _it was highly unusual_ to see the USDJPY have a big down day (higher Yen) and for the US stock market to have the exact opposite move higher. Yet this is exactly what happened yesterday. Then S&P 500 was up fairly strongly, but the USDJPY rate went straight down (higher Yen):
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYSPXGIPApr0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYSPXGIPApr0914.png" width="600" height="342" />Same chart -timeframe 2 days only</a>
+  <img src="http://themacrotourist.com/pictures/Azure/JPYSPXGIPApr0914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYSPXGIPApr0914.png" width="600" height="342" />Same chart -timeframe 2 days only</a>
 </div>
 
 What does this mean? I think that yesterday gave us clues on a couple of fronts.
@@ -56,7 +56,7 @@ This sort of breakdown is why the hedge funds are having such a bad month. All o
 Yesterday I took the opportunity created from the hedge fund mad scramble for the exits to re-establish my Yen short at 102. I will add to it in the low 101s if the Yen strength continues.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYApr0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYApr0914.png" width="600" height="342" />USDJPY chart (lower rate = higher Yen)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/JPYApr0914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYApr0914.png" width="600" height="342" />USDJPY chart (lower rate = higher Yen)</a>
 </div>
 
 I am aware of all the bad news emanating out of Japan regarding their lack of aggression regarding more QE. But I think the hedge funds are getting shaken off this trade during this period of portfolio stress and that it will prove a mistake. The long direction for the Yen is down (higher USDJPY).
@@ -78,4 +78,4 @@ I am running out of time this morning, but I think that the CAD is another short
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr0914.png" width="600" height="609">
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr0914.png" width="600" height="609">

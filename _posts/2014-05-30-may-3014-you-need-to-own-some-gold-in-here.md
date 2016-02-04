@@ -27,7 +27,7 @@ And make no mistake, I think that when it comes to government policy, the supply
 So if I don&#8217;t believe that the world&#8217;s Central Bankers are sitting in an Austin Powers Dr. Evil lair plotting the demise of gold, then why is it going down?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DrEvilMay3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DrEvilMay3014.png" width="600" height="300" />Dr. Evil plotting to send gold to sub $1,000</a>
+  <img src="http://themacrotourist.com/pictures/Azure/DrEvilMay3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DrEvilMay3014.png" width="600" height="300" />Dr. Evil plotting to send gold to sub $1,000</a>
 </div></p> 
 
 To understand why gold is going down, I think you must first understand why it went up.
@@ -35,13 +35,13 @@ To understand why gold is going down, I think you must first understand why it w
 Let&#8217;s have a look at the trading in gold since the 2007/8 credit crisis.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDMay3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDMay3014.png" width="600" height="342" />Gold trading since the credit crisis</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDMay3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDMay3014.png" width="600" height="342" />Gold trading since the credit crisis</a>
 </div>
 
 In the after math of the 2007/8 credit crisis, gold dramatically out performed other risk assets. Here is the chart of the S&P 500 vs gold for the first couple of years coming out the crash:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDSPXMay3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDSPXMay3014.png" width="600" height="342" />Gold (yellow line) vs S&P 500 (white line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDSPXMay3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDSPXMay3014.png" width="600" height="342" />Gold (yellow line) vs S&P 500 (white line)</a>
 </div>
 
 It is amusing as gold was ramping up over 100% in the course of 2 years, there was not a peep out of the conspiracy theorists about the manipulation of gold. I guess jamming the price higher is smart investing, while pushing it lower is manipulation.
@@ -55,7 +55,7 @@ Gold is a hedge against inflation, but that is only half the puzzle. The real dr
 During that time, the level of real rates was plunging. In the short end the Fed had put rates to 0% so that if there was any inflation at all, the real rate was negative. Even at the long end, the real rate eventually went negative.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USREAL10May3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USREAL10May3014.png" width="600" height="342" />US 10 Year Real Rate (nominal yield minus inflation)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/USREAL10May3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USREAL10May3014.png" width="600" height="342" />US 10 Year Real Rate (nominal yield minus inflation)</a>
 </div>
 
 If you have inflation at 5%, but interest rates at 10% then gold is not attractive as an investment. You can earn a real yield after inflation in the risk free government market, so there is very little attraction to an asset that yields zero. But if you have rates at 1% and inflation is running at 2%, then gold is much more attractive. In this case, the real rate of return for other risk free assets is actually negative, so gold is a very enticing alternative to preserve wealth against the financial repression. 
@@ -63,7 +63,7 @@ If you have inflation at 5%, but interest rates at 10% then gold is not attracti
 At its core, this is why the gold market rallied so hard following the 2007/8 crisis. The Federal Reserve and other Central Banks pushed rates deep into negative real rate levels. Investors flocking to gold was a natural outcome from this action.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GLD30May3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLD30May3014.png" width="600" height="342" />Gold (yellow line) vs US 30 yr real rate</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GLD30May3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLD30May3014.png" width="600" height="342" />Gold (yellow line) vs US 30 yr real rate</a>
 </div>
 
 During the last big gold bull market in the late 1970&#8217;s the public became infatuated with gold. There was a rush to buy physical gold as a way to protect against the soaring inflation. 
@@ -77,7 +77,7 @@ And this is what I believe happened. The gold trade simply became _too popular_.
 Here is the chart of the Gold price versus the outstanding units of the GLD ETF:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GLDSOMay3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSOMay3014.png" width="600" height="342" />Gold price (white line) vs GLD Units outstanding (yellow line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GLDSOMay3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSOMay3014.png" width="600" height="342" />Gold price (white line) vs GLD Units outstanding (yellow line)</a>
 </div>
 
 The gold bull market of the 2000s was made all the more frothy by the ease in which investors could easily access the gold market via ETF. 
@@ -109,4 +109,4 @@ Although the price action seems scary, I think that gold (especially versus othe
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay3014-1.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay3014-1.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay3014-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay3014-1.png" width="600" height="700"></p>

@@ -15,7 +15,7 @@ tags:
   - VRX
 ---
 
-  <img src="http://themacrotourist.com/pictures/DBagOct1615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/DBagOct1615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/DBagOct1615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/DBagOct1615.png" width="600" height="342">
 
 A coin is tossed and lands on heads 49 times in a row. You are asked whether you want to bet on the next flip. What do you do? The retail investor says; of course he wants to bet &#8211; 49 times in a row, tails is due to come up. The quant beside him says; he has no interest in betting on an outcome that has an expected payoff of zero. No edge &#8211; no bet. But the savvy trader at the end pipes up; yup he&#8217;ll take some of that action. Yet instead of betting on tails, he says he wants heads. He puts it all on heads, and sure enough, heads comes up again. Why does he do this? Sometimes not everything is as it seems. Yes, there is a chance the coin had a fluke run of 49 times in a row. That can happen. But what are the odds? Isn&#8217;t the better bet to assume the coin isn&#8217;t evenly balanced? 
 
@@ -36,17 +36,17 @@ But what if there is more to this story than it seems? What if Shkreli shorted V
 Have a look at what has happened to the price of VRX and CXR since Shkreli&#8217;s price increase. First CXR:
 
 
-  <img src="http://themacrotourist.com/pictures/CXROct1615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CXROct1615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CXROct1615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CXROct1615.png" width="600" height="342">
 
 Next VRX:
 
 
-  <img src="http://themacrotourist.com/pictures/VRXOct1615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/VRXOct1615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/VRXOct1615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/VRXOct1615.png" width="600" height="342">
 
 Either Shkreli is the biggest d-bag on the face of the planet, or an evil genius. I personally am going with a lot of both&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/AustinOct1615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/AustinOct1615.png" width="500" height="342">
+  <img src="http://themacrotourist.com/pictures/AustinOct1615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/AustinOct1615.png" width="500" height="342">
 
 Thanks for reading and have a great week-end,
   

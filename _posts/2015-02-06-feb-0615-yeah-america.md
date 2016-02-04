@@ -23,7 +23,7 @@ tags:
 The adulation about the American economy hit a new level of embarrassing this week. In a sure sign we are nearing the top, the following magazine cover hit the news-stands:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BloombergFeb0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BloombergFeb0615.png" width="300" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BloombergFeb0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BloombergFeb0615.png" width="300" height="342">
 
 The cover article was, as you would expect, dripping with all sorts of bullish anecdotal tidbits about the resurgence of the American economy:
 
@@ -40,7 +40,7 @@ At the risk of offending my Quebecois countrymen, I have watched the Caisse de D
 When I see the head of the Caisse pumping the merits of investing in America in a bullish Business Week cover article, I know it is time to take out some pink tickets.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SellTicket.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SellTicket.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SellTicket.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SellTicket.png" width="600" height="342">
 
 Don&#8217;t get me wrong, I understand why investing in America seems like the smart and safe thing to do. The rest of the global economy is basically falling off a cliff, so it seems like a good place to hide.
 
@@ -49,12 +49,12 @@ International investors in US assets have had the good fortune to not only be in
 Have a look at a chart of the S&P 500 priced in Euros.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXEURFeb0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXEURFeb0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXEURFeb0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXEURFeb0615.png" width="600" height="342">
 
 A European investor has experienced a rise of more than 25% over the past couple of quarters. And although the Euro has been one of the weakest currencies, the US dollar has been strong against virtually every other country.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYFeb0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYFeb0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYFeb0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYFeb0615.png" width="600" height="342">
 
 Although the Caisse and all the other &#8220;Davos elites&#8221; might be ploughing into American assets, I think that the recent rise in the US dollar will cause a serious hiccup in the American economy. We are starting to see signs of this headwind filtering into the economic numbers. From Businessweek:
 
@@ -63,7 +63,7 @@ Although the Caisse and all the other &#8220;Davos elites&#8221; might be plough
 </p>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USTradeFeb0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USTradeFeb0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/USTradeFeb0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USTradeFeb0615.png" width="600" height="342">
 
 These sorts of big macro shifts don&#8217;t happen overnight, so I will probably look like an idiot for a while as the American success story continues to gain followers. But over the years I have found that markets often top when things look best. I continue to be weary of jumping on the &#8220;Yeah America&#8221; bandwagon.
 

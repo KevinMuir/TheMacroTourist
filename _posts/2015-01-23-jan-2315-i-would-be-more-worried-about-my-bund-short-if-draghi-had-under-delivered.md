@@ -22,14 +22,14 @@ tags:
   - Japan
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/YodaJan2315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YodaJan2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/YodaJan2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/YodaJan2315.png" width="600" height="342">
 
 As is the case for most things in life, I would have been better off had I listened to Yoda.
 
 Even Bart has learned his lesson and has not been suckered into trying to pick a top in the bund market during this latest move higher.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BartJan2315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BartJan2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BartJan2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BartJan2315.png" width="600" height="342">
 
 I am not quite as smart as Bart, and my short from a couple of days ago has quickly turned into a disaster. 
 
@@ -38,12 +38,12 @@ Yesterday&#8217;s ECB&#8217;s announcement has certainly proved to be far from a
 Since Draghi unveiled the details of his plan, the EUR especially, has in technical terms, shit the bed.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURJan2315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURJan2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EURJan2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURJan2315.png" width="600" height="342">
 
 And with the currency debasement, the European stock market has exploded higher.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EuroStoxxJan2315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EuroStoxxJan2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EuroStoxxJan2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EuroStoxxJan2315.png" width="600" height="342">
 
 Although the ECB&#8217;s QE plan exceeded expectations, it is difficult to argue that it was _this far above expectations._ My guess is that many market participants had been badly burned by Draghi&#8217;s promises over the last six months, and had remained in a &#8220;show me the money&#8221; stance. Combine that with the fact that the really big long term money needs to wait for the actual change in policy before executing portfolio changes, you have a situation where the markets are surprisingly inefficient at quickly discounting the policy. 
 
@@ -52,7 +52,7 @@ It might take a day or two still before things settle down.
 As is often the case, [Martin Enlund from Nordea Markets](https://twitter.com/enlundm) has the best chart which compares the ECB&#8217;s QE to the Fed&#8217;s last two programs.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MartinJan2315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/MartinJan2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/MartinJan2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MartinJan2315.png" width="600" height="342">
 
 You can see that the markets took a few days to fully price in the US QE programs. 
 

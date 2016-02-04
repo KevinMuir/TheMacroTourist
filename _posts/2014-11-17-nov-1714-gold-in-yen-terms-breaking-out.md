@@ -21,17 +21,17 @@ tags:
 On Friday the gold market sparked to life on news that the Swiss Gold Referendum was gaining support. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/goldNov1714-1.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/goldNov1714-1.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/goldNov1714-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/goldNov1714-1.png" width="600" height="342">
 
 On November 30th the Swiss will go to the polls to decide if the Swiss National Bank should hold 20% of its assets in gold. Polls have recently shown that the vote will be closer than the ruling elite would like. This caused gold to jump higher on Friday.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDNov1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDNov1714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDNov1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDNov1714.png" width="600" height="342">
 
 Although Friday was a rare day for the gold bulls to smile, in the grand scheme of things, the gold market is still way down.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDLTNov1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDLTNov1714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDLTNov1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDLTNov1714.png" width="600" height="342">
 
 We need to see gold reclaim the level from where it broke down before we can get too excited about the potential for a decent bottom. If we can claw ourselves back up to the point of the failed triple bottom, then maybe we can muster a real rally.
 
@@ -42,14 +42,14 @@ Over the past couple of years, I have been long and wrong when it comes to gold,
 But on Friday, my new favourite way to play gold broke out to the upside. Gold priced in Yen pushed up through the recent six month consolidation range.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDYENNov1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDYENNov1714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDYENNov1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDYENNov1714.png" width="600" height="342">
 
 I have added to the trade. Although I am scared to death about the crowded nature of the Yen short trade, I get some comfort in the fact that gold is universally hated.
 
 The Bank of Japan is stepping on the monetary expansion accelerator and gold in Tokyo is responding to the BoJ&#8217;s balance sheet enlargement.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BOJTANov1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BOJTANov1714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BOJTANov1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BOJTANov1714.png" width="600" height="342">
 
 If gold can climb above $1,200 in US dollar terms, then I might buy some outright. But in the mean time, I am sticking to the price basis that is already breaking out. 
 
@@ -62,4 +62,4 @@ I stick by my forecast that we have hit the point of maximum Central Bank faith.
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsNov1714.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsNov1714.png" width="600" height="342"></p>

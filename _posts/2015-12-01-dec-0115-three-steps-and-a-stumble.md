@@ -15,7 +15,7 @@ tags:
   - Wu-Xia shadow rate
 ---
 
-  <img src="http://themacrotourist.com/pictures/HanDec0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/HanDec0115.png" width="800" height="320">
+  <img src="http://themacrotourist.com/pictures/HanDec0115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/HanDec0115.png" width="800" height="320">
 
 Way back when, when interest rates went up as well as down, one of the earliest Wall Street technical analysts came up with &#8220;three steps and a stumble&#8221; adage to describe the stock market&#8217;s tendency to decline following the third Fed interest rate hike. A Leuthold Group study showed that during the second half of the 20th century, stocks lost an average 2.7% in the year following the third Fed rate hike. 
 
@@ -32,7 +32,7 @@ Using Black&#8217;s initial ideas, **Jing Cyntia Wu**, an assistant professor of
 So let&#8217;s have a look at the &#8220;Wu-Xia Shadow Fed Funds rate&#8221; over the past cycle:
 
 
-  <img src="http://themacrotourist.com/pictures/AtlantaDec0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/AtlantaDec0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/AtlantaDec0115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/AtlantaDec0115.png" width="600" height="342">
 
 During most of 2009 to 2013, the shadow rate drifted around negative 1.5%. But with the introduction of the third QE program (dubbed QE infinity by the cynics), the rate dove deeply negative to &#8211;3%.
 

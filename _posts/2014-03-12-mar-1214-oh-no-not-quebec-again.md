@@ -23,7 +23,7 @@ tags:
 Although the Macrotourist is a proud Canadian, I don&#8217;t stay up to date on Canadian politics nearly as much as I should. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CanadaGeese.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CanadaGeese.png" width="482" height="516">
+  <img src="http://themacrotourist.com/pictures/Azure/CanadaGeese.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CanadaGeese.png" width="482" height="516">
 
 Therefore it was a little bit of a surprise when I read about Karl Peladeau&#8217;s entrance into the Quebec Provincial election. But it was a huge surprise when I heard his ardent separatists views. 
 
@@ -40,13 +40,13 @@ If Quebec were to separate, it wouldn&#8217;t be the end of the world for the Ca
 The Canadian dollar has already been suffering lately and seems unable to muster any sort of rally.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADMar1214.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADMar1214.PNG" width="600" height="342" />CAD Rate &#8211; higher is USD strength</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CADMar1214.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADMar1214.PNG" width="600" height="342" />CAD Rate &#8211; higher is USD strength</a>
 </div></p> 
 
 Many hedge funds are short CAD as they are all convinced that the Canadian housing bubble is going to burst and bankrupt our economy. Here is the CFTC positioning for the CAD CME future. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADCFTCMar1214.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADCFTCMar1214.PNG" width="600" height="342" />CFTC Net Speculator Position CAD Futures</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CADCFTCMar1214.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADCFTCMar1214.PNG" width="600" height="342" />CFTC Net Speculator Position CAD Futures</a>
 </div>
 
 The speculators are basically at the shortest point they have been for the last 5 years. 
@@ -64,7 +64,7 @@ In the long run, I am an energy bull and Canadian economic optimist, but I fear 
 The other day I watched this great Bloomberg documentary on the legendary investor Sir John Templeton.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SJTMar1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SJTMar1114.png" width="600" height="297"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/SJTMar1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SJTMar1114.png" width="600" height="297"></p> 
 
 The part of the story that I liked best was his silver investment. 
 

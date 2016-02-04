@@ -28,7 +28,7 @@ It&#8217;s Ground Hog Day and one year later, New York City is still asking ques
 Last year, eager to assume his Mayoral duties, Bill de Blasio headed to the Staten Island Zoo to participate in the annual Ground Hog celebration. What should have been a simple photo op turned into one of the greatest scandals to rock New York City in decades.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BillFeb0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BillFeb0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BillFeb0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BillFeb0215.png" width="600" height="342">
 
 Not only was &#8220;Chuck&#8221; the Groundhog an imposter (&#8220;Chuck&#8221; had been secretly replaced with &#8220;Charlotte&#8221; after he bit former Mayor Bloomberg and was determined to be too ornery for public duties &#8211; hey, who wouldn&#8217;t bite Mayor Bloomberg if given the chance?), but the real scandal occurred in plain sight for everyone to see. Mayor de Blasio, obviously a city boy who never held a wild animal outside his college girlfriend&#8217;s miserable cat (who he was only nice to in a desperate attempt to get into her pants), completely panicked when assigned the task of holding &#8220;Chuck&#8221; aka Charlotte. Leaping from the inexperienced Mayor&#8217;s arms, Charlotte made a bold dash for freedom. Although she was quickly caught, the fact that Mayor de Blasio is over 7 and a half feet tall made the leap far too dangerous for a creature that cannot jump more than 6 inches high (which coincidentally is how far she would have fallen if she had escaped Mayor Bloomberg&#8217;s grasp). 
 
@@ -37,7 +37,7 @@ The zoo and Mayor de Blasio put a brave face on the snafu, but Charlotte was the
 I don&#8217;t have any way to segue this story into my usual market commentary, but I really felt that on a day like today, we should take a moment to remember the lives of all the groundhogs who have paid the ultimate price for our zeal to know the weather for the next six weeks.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CharlotteFeb0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CharlotteFeb0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CharlotteFeb0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CharlotteFeb0215.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -48,11 +48,11 @@ I am aware of the tendency to cherry pick relationships between two data series 
 Therefore I am going to present the following relationship with a big grain of salt. But I have been watching it for a while, and it does seem to be more robust than I would ever guess.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PlatFeb0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PlatFeb0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/PlatFeb0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PlatFeb0215.png" width="600" height="342">
 
 The ratio of platinum to gold seems to follow the yield on the US 10 year treasury with amazing accuracy. It&#8217;s not like I don&#8217;t understand why this might work &#8211; platinum has more industrial uses than gold, so a growing economy should see this ratio expand, which should also mean higher rates. But it is shockingly correlated.
 
 I don&#8217;t have anything to add, except that if you are a bond bear, you should keep an eye on this ratio as a potential clue of when the turn might come.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PLATRatioFeb0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PLATRatioFeb0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/PLATRatioFeb0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PLATRatioFeb0215.png" width="600" height="342">

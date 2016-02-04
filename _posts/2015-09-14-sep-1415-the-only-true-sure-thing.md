@@ -17,7 +17,7 @@ tags:
   - Yuan
 ---
 
-  <img src="http://themacrotourist.com/pictures/TheSureThing.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/TheSureThing.png" width="400" height="600">
+  <img src="http://themacrotourist.com/pictures/TheSureThing.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/TheSureThing.png" width="400" height="600">
 
 In the mid 1980s Rob Reiner released the classic teenage romantic comedy _The Sure Thing._ It was Reiner’s second film, and to a large degree forgotten by serious film buffs. There is no denying the premise was stupid. John Cusak plays the lead character, a college student travelling across the country to visit his pal, who has promised to set him up with this beautiful girl. The girl is described as a “sure thing.” To save money, Cusak shares the journey with Daphne Zuniga, another college student. They are complete opposites and find each other’s company annoying. Of course, in the end Cusak falls in love with his polarizing travel companion instead of the “sure thing.” The movie is formulaic, predictable and juvenile. Having said all that, I think it is terrific. It doesn’t hurt that I was 15 years old when it was released, but I refuse to be swayed that it deserves the 6.9 out of 10 that Rotten Tomatoes rates it. In my mind, it is a classic that will forever be burned into my teenage mind as one of the best movies of the 1980s.
 
@@ -26,26 +26,26 @@ Yet at the time Rob Reiner was creating this masterpiece, the real sure thing wa
 The effect on the Japanese Yen especially was shockingly large.
 
 
-  <img src="http://themacrotourist.com/pictures/JPYSep1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/JPYSep1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/JPYSep1415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/JPYSep1415.png" width="600" height="342">
 
 This US dollar devaluation set the stage for the creation of the final stages of the late 1980s Japanese asset bubble. After this bubble inevitably popped, the Japanese spent the next two decades trying to clean up the economic mess. There were many reasons for the Japanese economic disaster, and we cannot pin the blame solely on the Plaza Accord. Yet there can be no denying the agreement allowing their currency to appreciate over 50% in the next few years was a significant factor in attracting hot money into Japan.
 
 
-  <img src="http://themacrotourist.com/pictures/JPYNKYSep1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/JPYNKYSep1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/JPYNKYSep1415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/JPYNKYSep1415.png" width="600" height="342">
 
 In the 2000s, the Chinese were well aware of this history as their economy has progressed along the same development path as the Japanese did a few decades earlier.
 
 During the past few years, there has been increasing pressure from the Americans for the Chinese to revalue their currency significantly upward. For the longest time the Chinese have pushed back against this badgering, but they have not been immune. They have allowed their currency to slowly appreciate &#8211; fearful of doing too much, but while also trying to assuage the Americans’ accusations of being a currency manipulator.
 
 
-  <img src="http://themacrotourist.com/pictures/CNYSep1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CNYSep1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CNYSep1415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CNYSep1415.png" width="600" height="342">
 
 Although the Chinese have taken baby steps in their currency appreciation against the US dollar in fear of repeating the Japanese mistake of the 1980s, in tying their currency to the US dollar with a soft peg, they might have accomplished the same result anyhow.
 
 Too many market pundits focus solely on the CNYUSD rate. This rate is important, but does not give a complete picture of what is happening with the Chinese currency. Here is a chart of the real effective trade weighted Chinese Yuan:
 
 
-  <img src="http://themacrotourist.com/pictures/RealCNYSep1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/RealCNYSep1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/RealCNYSep1415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/RealCNYSep1415.png" width="600" height="342">
 
 The trade weighted CNY is sitting at the highs, after appreciating 60% over the past half dozen years. This is the real source of China’s problems.
 
@@ -62,7 +62,7 @@ I can almost hear all the howls of protests already. There are complaints when t
 There are already too many market pundits who are blaming the entire summer swoon on the decision of the Chinese government to devalue the currency by a tiny amount. Really? The move from 6.20 USDCNY to 6.40 is the huge devaluation that is throwing the financial markets into turmoil? I call bullshit on that one. Let’s have a look at the recent currency moves.
 
 
-  <img src="http://themacrotourist.com/pictures/CNYDevalSep1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CNYDevalSep1115.png" width="600" height="450">
+  <img src="http://themacrotourist.com/pictures/CNYDevalSep1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CNYDevalSep1115.png" width="600" height="450">
 
 Versus the US dollar, the CNY is the strongest currency out there. If anything the markets are in free fall because the Chinese have not devalued _enough._ The CNY is still sitting near the all time high in real effective trade weighted terms.
 
@@ -79,12 +79,12 @@ The Plaza Accord sowed the seeds for 1987 US stock market crash and the 1989 Jap
 I saw this great tweet that I wanted to share.
 
 
-  <img src="http://themacrotourist.com/pictures/SPSep1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/SPSep1115.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/SPSep1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/SPSep1115.png" width="600" height="400">
 
 Will we make it 8? Who knows? But if we do get a rally in the coming weeks, I would be careful in assuming it will last through the end of the year as it seems like the wrong bet.
 
 
-  <img src="http://themacrotourist.com/pictures/SPXSep1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/SPXSep1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/SPXSep1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/SPXSep1115.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -93,12 +93,12 @@ Will we make it 8? Who knows? But if we do get a rally in the coming weeks, I wo
 Instead of betting on the S&P making it up for an unprecedented 8 years in a row, I think I would rather take a stab at the most hated commodity in the world.
 
 
-  <img src="http://themacrotourist.com/pictures/CLSep1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CLSep1115.png" width="600" height="450">
+  <img src="http://themacrotourist.com/pictures/CLSep1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CLSep1115.png" width="600" height="450">
 
 We have never been under the 200 day moving average for a longer period of time for crude oil. I am pretty sure the bear story is now pretty well known.
 
 
-  <img src="http://themacrotourist.com/pictures/CL200Sep1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CL200Sep1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CL200Sep1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CL200Sep1115.png" width="600" height="342">
 
 It is lonely being a contrarian, but if it wasn’t, you would probably have a full time gig on CNBC.
 

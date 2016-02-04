@@ -18,17 +18,17 @@ tags:
   - Germany
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/GandalfApr2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GandalfApr2215.png" width="600" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/GandalfApr2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GandalfApr2215.png" width="600" height="600">
 
 Yesterday former &#8220;Bond King&#8221; Bill Gross decided the time was right to go public about the potential outsized rewards of shorting German Bunds at a 0.10% yield.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BundsShortApr2115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BundsShortApr2115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BundsShortApr2115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BundsShortApr2115.png" width="600" height="342">
 
 Not only did Bill tweet about it, he then got on CNBC and hawked his trade to the masses.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GrossApr2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GrossApr2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GrossApr2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GrossApr2215.png" width="600" height="342">
 
 Now I am fully aware that I am a hack who shouldn&#8217;t be wandering into half the squares I trade, but Bill&#8217;s peddling of the short bund trade brought out a whole new breed of macro tourists. Suddenly everyone wanted to get a short position on the sheets. Even Gandalf is rumoured to have put on a bund short on Gross&#8217; recommendation. 
 
@@ -45,7 +45,7 @@ As for the longer term ramifications of Gross&#8217; call; I have two messages f
 I have one final question; if Bill does manage to tick the low in Bund yields, will we forever know this as the **Gross Bottom?**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Apr2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10Apr2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Apr2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10Apr2215.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -62,14 +62,14 @@ The ECB&#8217;s QE liquidity is flowing into the system, and not translating int
 </p>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CitiApr2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CitiApr2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CitiApr2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CitiApr2215.png" width="600" height="342">
 
 The real problem is that Draghi has failed to push back up long term inflation expectations. Yes, QE has stabilized the recent calamitous fall, but they are still way too low.
 
 Here is everyone&#8217;s favourite long term inflation gauge &#8211; the EU 5 year forward 5 year inflation swap:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EU5Y5YApr2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EU5Y5YApr2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EU5Y5YApr2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EU5Y5YApr2215.png" width="600" height="342">
 
 The market has been overwhelmed by a collective belief that the return of inflation is about as likely as Justin Bieber straightening out his act and stop being such a D-bag. This refusal to believe that the ECB can create inflation is the primary reason that their QE program has so far been ineffective and done nothing more except push down the remaining fixed income assets to stupidly low rates.
 

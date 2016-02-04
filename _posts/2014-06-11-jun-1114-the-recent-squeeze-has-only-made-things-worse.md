@@ -21,13 +21,13 @@ tags:
 Although gold and the gold miners started 2014 with a big rally, ever since the end of February they have sagged badly.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDJun1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDJun1114.png" width="600" height="342" />Gold chart</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDJun1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDJun1114.png" width="600" height="342" />Gold chart</a>
 </div>
 
 The gold mining stocks have fared no differently.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDXJun1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXJun1114.png" width="600" height="342" />GDX Gold Miner ETF</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GDXJun1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXJun1114.png" width="600" height="342" />GDX Gold Miner ETF</a>
 </div>
 
 Although I was lucky enough to have jettisoned my long nicely into the rally, I was too eager to replace it on the subsequent pullback. I have been lugging around a GDX position since the high 24s. 
@@ -39,7 +39,7 @@ But yesterday for the first time in a long while, I saw some action that really 
 The junior gold miner ETF GDXJ had a strangely big rally. Have a look at how it performed versus the more senior GDX.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDXJun1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXJun1014.png" width="600" height="342" />GDX (yellow line) vs. GDXJ (white bar)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GDXJun1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXJun1014.png" width="600" height="342" />GDX (yellow line) vs. GDXJ (white bar)</a>
 </div>
 
 I am not sure if I am reading too much into this outperformance, but it certainly felt for the first time in a while that the path of least of resistance for the GDX and GDXJ was higher, not lower.
@@ -159,7 +159,7 @@ But the moment the Fed starts to talk about raising rates, the market will once 
 According to the Taylor rule, the Fed should have already raised rates to 1.84%.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TAYLORJun1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/TAYLORJun1114.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/TAYLORJun1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TAYLORJun1114.png" width="600" height="342">
 
 Fed policy is too loose, and as the economy improves, it will only get looser the longer it stays stuck to zero.
 
@@ -176,13 +176,13 @@ There are more and more signs that the bond market rally has been a head fake.
 The Sep 2016 Eurodollar contract that I like to watch has already given back 30 basis points from the short squeeze highs:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDU6Jun1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6Jun1114.png" width="600" height="342" />Sep 2016 Eurodollar contract</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EDU6Jun1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6Jun1114.png" width="600" height="342" />Sep 2016 Eurodollar contract</a>
 </div>
 
 Have a look at this chart of the ratio of the Dow Jones transports versus the utilities. Traditionally this ratio has tracked US yields very closely.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TRANUTILJun1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/TRANUTILJun1014.png" width="600" height="342" />Dow Jones Transportation/Utilities Ratio vs US 10 Year yields</a>
+  <img src="http://themacrotourist.com/pictures/Azure/TRANUTILJun1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TRANUTILJun1014.png" width="600" height="342" />Dow Jones Transportation/Utilities Ratio vs US 10 Year yields</a>
 </div>
 
 For the past month this ratio has been screaming higher. It was only recently that yields have reluctantly finally decided to follow.
@@ -200,4 +200,4 @@ I am short bonds and will press in the coming months if the market agrees with m
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun1114.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun1114.png" width="600" height="700"></p>

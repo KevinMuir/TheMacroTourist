@@ -18,14 +18,14 @@ tags:
   - VC
 ---
 
-  <img src="http://themacrotourist.com/pictures/BonoOct2715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/BonoOct2715.png" width="550" height="600">
+  <img src="http://themacrotourist.com/pictures/BonoOct2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/BonoOct2715.png" width="550" height="600">
 
 In 1985 a young up and coming Irish band stepped on stage at the Live Aid concert and took their place in rock and roll history. Until that point U2 was a good band, but that concert cemented their reputation as a _great band_. Young people today only know U2 as the old dudes who cluttered up their iPod with their shite songs, but back in 1985, they were about all cool as you get.
 
 During the U2&#8217;s Live Aid concert, lead singer Bono wandered down towards the crowd, and spent an unscheduled amount of time dancing with fans. Their version of the song Bad ran for a shocking 14 minutes. It went so long that U2 could play only two songs instead of three. When they got off stage Bono&#8217;s bandmates were furious. But that&#8217;s kind of like getting mad at the lion for eating an antelope. Bono is an arrogant jackass that thinks he knows better. The trouble is, usually he does. After Live Aid, U2 went on to be the biggest band of the 1990s and 2000s. Their staying power has been impressive. They still fill stadiums and their success over the years has been immense. U2 has the highest grossing tour of all time, and another one of their tours is in the top 10.
 
 
-  <img src="http://themacrotourist.com/pictures/toursOct2715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/toursOct2715.png" width="600" height="200">
+  <img src="http://themacrotourist.com/pictures/toursOct2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/toursOct2715.png" width="600" height="200">
 
 Love or hate &#8217;em, you can&#8217;t argue about U2&#8217;s success.
 
@@ -44,7 +44,7 @@ Linkin Park&#8217;s touring is just a way to get out and do some networking on t
 And the story of rockers turned VC wouldn&#8217;t be complete if we didn&#8217;t include Snoop Dog&#8217;s Casa Verde capital. 
 
 
-  <img src="http://themacrotourist.com/pictures/SnoopOct2715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/SnoopOct2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/SnoopOct2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/SnoopOct2715.png" width="600" height="342">
 
 Casa Verde is an early investor in Eaze, a California startup that promises to deliver medical marijuana to your door in less than 10 minutes. We probably shouldn&#8217;t count Snoop though as he keeps insisting he wants all of his dividends delivered in &#8220;product.&#8221;
 
@@ -57,12 +57,12 @@ But we are not limited to this anecdotal WTF data point. There are tons of VCs w
 > To give you some perspective of how quickly we’ve created a “subprime Unicorn market” (as Michael Moritz called it) consider that in the last 18 months in the US alone we’ve gone from 30 privately held technology companies worth more than $1bn (already considered high by some) to more than 80 companies just 18 months later. Either we’ve discovered magical beans and elixir or perhaps we’ve gotten ahead of ourselves on valuation. Here is a chart to show you the median valuation of late stage private tech companies compared to traditional growth rounds of capital led by VCs and also vs. the public markets.
 
 
-  <img src="http://themacrotourist.com/pictures/Upfront1Oct2715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Upfront1Oct2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Upfront1Oct2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Upfront1Oct2715.png" width="600" height="342">
 
 The mania has spread to the point where non-traditional buyers of private tech companies have overwhelmed the market.
 
 
-  <img src="http://themacrotourist.com/pictures/Upfront2Oct2715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Upfront2Oct2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Upfront2Oct2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Upfront2Oct2715.png" width="600" height="342">
 
 Mutual fund companies and hedge funds are seeing the same outstanding returns as the rock stars, and they are chasing. 
 
@@ -71,14 +71,14 @@ Mutual fund companies and hedge funds are seeing the same outstanding returns as
 And the most interesting part about this phenomenon, is that the private market stage has been driven up to such high valuations, these companies are having difficulties floating their companies in the public markets at these elevated levels.
 
 
-  <img src="http://themacrotourist.com/pictures/upfront3Oct2715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/upfront3Oct2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/upfront3Oct2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/upfront3Oct2715.png" width="600" height="342">
 
 More and more of these &#8216;unicorns&#8217; are finding peak valuation to be in the final stages of the private market.
 
 We are in another tech bubble, there is no way to deny it. You have all the signs. Absolutely ludicrous housing appreciation in Silicon Valley. Look at this 1600 square foot 1954 charmer in Palo Alto &#8211; yours for the steal of $2.45MM.
 
 
-  <img src="http://themacrotourist.com/pictures/PaloOct2715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/PaloOct2715.png" width="500" height="600">
+  <img src="http://themacrotourist.com/pictures/PaloOct2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/PaloOct2715.png" width="500" height="600">
 
 Then we have shady financing terms. Have a look at the &#8220;hot&#8221; new IPO Square&#8217;s last round&#8217;s clause:
 

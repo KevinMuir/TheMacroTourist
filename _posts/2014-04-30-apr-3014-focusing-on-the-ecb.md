@@ -23,19 +23,19 @@ Over the next three days I am going to examine each of these Central Banks one a
 Today I am going to start with the ECB. It is a great day to talk to about the Eurozone as this morning the much anticipated CPI figure was released. It was expected to come in at 0.8%, but once again the CPI fell more than forecast with a final reading of 0.7%.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EUCPIApr3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EUCPIApr3014.png" width="600" height="342" />EU CPI YoY Percentage Change</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EUCPIApr3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EUCPIApr3014.png" width="600" height="342" />EU CPI YoY Percentage Change</a>
 </div>
 
 Over the past couple of years inflation has been steadily declining. This is not surprising as ever since the Eurozone crisis was quelled, the ECB has been aggressively shrinking the size of their balance sheet.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ECBBSCPIApr3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECBBSCPIApr3014.png" width="600" height="342" />EU CPI (yellow line) vs ECB Total BS (white line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ECBBSCPIApr3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECBBSCPIApr3014.png" width="600" height="342" />EU CPI (yellow line) vs ECB Total BS (white line)</a>
 </div>
 
 It has also corresponded with morose private sector borrowing.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EUPrivateApr3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EUPrivateApr3014.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/EUPrivateApr3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EUPrivateApr3014.png" width="600" height="400">
 
 Although Mario Draghi was willing to expand the ECB&#8217;s balance sheet in the depths of the Eurozone sovereign debt crisis, ever since then, the ECB has proven quite reluctant to embark down the same path as Japan and the US with aggressive quantitative easing. 
 
@@ -46,7 +46,7 @@ If the Europeans had their way then the Japanese and Americans would not be enga
 This tighter ECB as contrasted to the looser Fed and BoJ is causing the supply of Euros relative to US dollars and Yen to shrink. This is causing the Euro currency to rally. It is especially pronounced against the Yen.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURJPYApr3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURJPYApr3014.png" width="600" height="342" />EURJPY Rate</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EURJPYApr3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURJPYApr3014.png" width="600" height="342" />EURJPY Rate</a>
 </div>
 
 In essence by refusing to join the QE party, the European Union is importing the rest of the world&#8217;s deflation.
@@ -62,7 +62,7 @@ I must confess that I fell for the &#8220;ECB is about to unleash the next major
 And it&#8217;s not just me that has lost faith with the ECB&#8217;s commitment to change. Have a look at today&#8217;s reaction to the CPI number. CPI came in _below expectations_ and should increase the chance that the ECB follows through with some sort of monetary easing. This should cause the EUR to fall&#8230; Which it did&#8230; for about 10 minutes:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURGIPApr3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURGIPApr3014.png" width="600" height="342" />EUR intraday trading</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EURGIPApr3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURGIPApr3014.png" width="600" height="342" />EUR intraday trading</a>
 </div></p> 
 
 The market no longer believes that anything short of an economic collapse is going to change the ECB&#8217;s stance.
@@ -128,7 +128,7 @@ Here was a fellow that had been lucky enough to make a fortune for himself durin
 Which brings me my favourite courtroom deposition that I have ever read:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SterlingApr3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SterlingApr3014.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SterlingApr3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SterlingApr3014.png" width="600" height="342">
 
 All the money in the world does not help the fact that he was insecure about women &#8220;wanting him.&#8221; And it shows you how desperate he was. Let&#8217;s face it &#8211; he is an old guy whose only redeeming quality is that he is super rich. It is quite pathetic that even he tried to fool himself otherwise.
 
@@ -141,4 +141,4 @@ There are some really decent &#8220;moguls&#8221; on CNBC, like David Einhorn or
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr3014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr3014.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr3014.png" width="600" height="700"></p>

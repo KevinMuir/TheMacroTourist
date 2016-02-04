@@ -15,14 +15,14 @@ tags:
   - quant shops
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/LittleTweaks.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/LittleTweaks.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/LittleTweaks.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/LittleTweaks.png" width="600" height="400">
 
 In these posts I rarely get on my soapbox to preach I know for certain where a market is headed. I view trading like being the blackjack dealer at a Vegas casino. On any single hand, the dealer can lose. The dealer can even be cash flow negative for the night. But over the long run, the odds are stacked decidedly in favour of the dealer. In trading our job is not to be right 100% of the time, but merely to set up enough trades with positive risk reward profiles and to manage that risk.
 
 So I guess I don&#8217;t really feel I know where the market is headed. I am always amazed when these talking heads get on CNBC and proclaim with such certainty they know the price of a security six months or a year in the future. Do they have any clue of how many pieces there are in this puzzle? Do they really know how the Fed will react? Or what Putin is going to do? Or how the million of consumers will behave? All of these factors (and many more) are the inputs into the complex equation of where the market is headed. These CNBC prognosticators must all be geniuses to process this huge mathematical problem.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CramerJun2415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CramerJun2415.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/CramerJun2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CramerJun2415.png" width="600" height="400">
 
 Yet I believe there are often recurring human behaviours that repeat decade after decade in the markets. Just like the inherent trait that humans are prone to overeat if too much food is laid out in front of them, they also repeatedly make the same mistakes in the markets. 
 
@@ -153,14 +153,14 @@ Didn&#8217;t the Europeans say they would impose capital controls if the Greeks 
 The only insight I can pass along is that every day it drags on, more money flees Greek banks, and the more the ECB is on the hook.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Greek2Jun2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/Greek2Jun2515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/Greek2Jun2515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Greek2Jun2515.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
 **Some wise words from the squid**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SquidStorm.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SquidStorm.png" width="500" height="350">
+  <img src="http://themacrotourist.com/pictures/Azure/SquidStorm.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SquidStorm.png" width="500" height="350">
 
 Recently Goldman Sach&#8217;s President posted a podcast to the company&#8217;s website. Gary Cohn took the time to warn the troops about the market&#8217;s lack of preparedness regarding potential Federal Reserve rate increases. From Bloomberg:
 

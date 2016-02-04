@@ -27,7 +27,7 @@ Starting in March the froth came out of these stocks, and then with the FOMC mee
 Let’s go through some charts to see what I mean. Here is the poster child for this rally &#8211; Facebook:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FBApr0314.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FBApr0314.PNG" width="600" height="342" />Facebook Year to Date</a>
+  <img src="http://themacrotourist.com/pictures/Azure/FBApr0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FBApr0314.PNG" width="600" height="342" />Facebook Year to Date</a>
 </div>
 
 Facebook went from $55 at the beginning of the year straight up to $72 by the end of February. Doesn’t sound like much except when you realize that this 31% move added $34 billion of market cap. However, the dip in mid March knocked off almost the entire two month gain in two weeks.
@@ -35,13 +35,13 @@ Facebook went from $55 at the beginning of the year straight up to $72 by the en
 Netflix was a very similar situation except that it basically did knock off the entire gain:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NFLXApr0314.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NFLXApr0314.PNG" width="600" height="342" />NFLX &#8211; YTD</a>
+  <img src="http://themacrotourist.com/pictures/Azure/NFLXApr0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NFLXApr0314.PNG" width="600" height="342" />NFLX &#8211; YTD</a>
 </div>
 
 And lest you think it is only technology stocks, let’s look at the most hyped of the bunch &#8211; the Biotechs:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/XBIApr0314.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/XBIApr0314.PNG" width="600" height="342" />XBI &#8211; Biotech ETF &#8211; YTD</a>
+  <img src="http://themacrotourist.com/pictures/Azure/XBIApr0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/XBIApr0314.PNG" width="600" height="342" />XBI &#8211; Biotech ETF &#8211; YTD</a>
 </div>
 
 That move from $130 to $174 for an index is breathtaking and certainly harkens back to 1999.
@@ -49,7 +49,7 @@ That move from $130 to $174 for an index is breathtaking and certainly harkens b
 The damage to these high flying momentum stocks was huge. Many hedge funds were stuffed to the gills with these names (of course) and March ended up being an especially cruel month. According to Goldman, the week ending March 27th was the worst 5 day return of hedge fund returns versus the S&P 500 since 2001!
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HFGSApr0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HFGSApr0314.png" width="600" height="444">
+  <img src="http://themacrotourist.com/pictures/Azure/HFGSApr0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/HFGSApr0314.png" width="600" height="444">
 
 This is yet another great example of why you don’t want to be in trades that are popular with hedge funds. When things turn they all have the same position on and there is _no one to sell it to._ Therefore the declines end up being way worse than they should be.
 
@@ -64,7 +64,7 @@ Think about it for a second. The S&P is hitting new highs this morning, yet FB i
 Have a look at the massive rotation that occurred in March. This is a great chart from Bespoke that outlines the moves within the groups:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BespokeApr0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BespokeApr0314.png" width="674" height="406">
+  <img src="http://themacrotourist.com/pictures/Azure/BespokeApr0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BespokeApr0314.png" width="674" height="406">
 
 Which brings me to an actionable trade. I believe these former high flying stocks are going to struggle for some time to come. Therefore as they rally, I am going to sell naked calls in these names. I am going to pick away and be selective, but I think that these names are going to get quiet (which will send vol down) or they are going to continue their decent. Either way, the market is (as usual) too excited for the recent past to simply continue. It won’t. The damage was too great in these names. Trade accordingly.
 
@@ -104,4 +104,4 @@ I will update the total return graph and the new countries at the start of the n
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr0314.png" width="600" height="569">
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr0314.png" width="600" height="569">

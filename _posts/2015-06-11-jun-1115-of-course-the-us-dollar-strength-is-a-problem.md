@@ -18,21 +18,21 @@ tags:
   - Yen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/StrongDollarJun1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/StrongDollarJun1115.png" width="500" height="650">
+  <img src="http://themacrotourist.com/pictures/Azure/StrongDollarJun1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/StrongDollarJun1115.png" width="500" height="650">
 
 You would be hard pressed to call Obama a big fan of the French government, and developments from this week-end&#8217;s G7 meeting have done little to help the situation. A French official, who asked not to be identified because the discussions were private (I guess private means something different in France), said Obama indicated the strength of the US dollar posed a problem. The French official should know better. Governments talk about sensitive matters in private all the time with the expectation it won&#8217;t be blabbed to the press. The value of the US dollar is a sensitive matter that should not be commented on lightly. The President obviously has the prerogative to talk about anything he wants, but there is no way he was trying to send a message to the markets through a French government official. 
 
 Obama&#8217;s camp immediately denied the comments, but what was he expected to do? Of course he denied it. You simply can&#8217;t have these sorts of signals being transmitted through leaky foreign officials. But did Obama say it? Well, what do you think? Does a bear shit in the woods?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BearJun1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BearJun1115.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/BearJun1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BearJun1115.png" width="600" height="400">
 
 Of course Obama said it. The French official did not make it up. 
 
 So what does it mean? And should markets be reacting to it?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYGIPJun1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYGIPJun1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYGIPJun1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYGIPJun1115.png" width="600" height="342">
 
 Markets did take the US dollar lower on the news. But since the initial reaction, the dollar has been clawing slowly back up. 
 
@@ -49,7 +49,7 @@ The other big news in foreign exchange markets is Bank of Japan&#8217;s Kuroda&#
 Out of the major Central Banks, the Japanese have the most aggressive monetary expansion policy. Everyone knows the Bank of Japan is devaluing and printing like mad in a desperate attempt to break the multi-decade deflationary slump. When the USDJPY level was 78, the rest of the world was sympathetic to their plight and encouraged the policy actions. When the Yen moved to 100, it seemed like Japan was on the right track and other Central Banks were hopeful that Japan had broken the back of deflation. But now we are at 124, and further Yen weakness is beginning to smell like competitive devaluation.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYJun1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYJun1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JPYJun1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYJun1115.png" width="600" height="342">
 
 I have warned against getting too bearish on the Yen. The major purchasing power parity overvaluation has been corrected, and although there is nothing saying the Yen won&#8217;t go from being severely overpriced to dramatically underpriced, to bet against the Yen at this point is relying on the Japanese losing control of the devaluation. It might happen, don&#8217;t get me wrong. But I don&#8217;t think it is the right bet. 
 
@@ -66,7 +66,7 @@ The US dollar strength is causing concern in Washington, and the Yen is the weak
 I will write more about the US bond market tomorrow, but today I want to bring one chart to your attention.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USG5YRJun1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USG5YRJun1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/USG5YRJun1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USG5YRJun1115.png" width="600" height="342">
 
 Sentiment is getting extremely lopsided against bonds. I am not sure it is time to push on the short side, and if you are nimble and recognize you are trading against the recent trend, it might make sense to take some well defined stabs on the long side of the bond market. That 1.8% resistance level might just hold one more time&#8230;
 
@@ -79,7 +79,7 @@ My US hedge fund friends have been calling for the collapse of the Canadian real
 But I present the following chart with little explanation needed:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GTACondoJun1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GTACondoJun1015.png" width="400" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/GTACondoJun1015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GTACondoJun1015.png" width="400" height="400">
 
 That&#8217;s it. I am not afraid to call it. We have hit the top. A year from now Canadian real estate prices will be lower. The top is in&#8230;.
 

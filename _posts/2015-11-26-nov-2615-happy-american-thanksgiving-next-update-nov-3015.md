@@ -16,7 +16,7 @@ The MacroTourist is taking the next couple of days off. Next update will be Mond
 I was trying to find something funny to post, but I couldn&#8217;t come up with something appropriate. So I decided to leave you with a little wisdom from Louis&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/LouisNov2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/LouisNov2515.png" width="400" height="1000">
+  <img src="http://themacrotourist.com/pictures/LouisNov2515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/LouisNov2515.png" width="400" height="1000">
 
 Thanks for reading and have a great week-end,
   

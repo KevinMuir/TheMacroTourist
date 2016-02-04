@@ -28,7 +28,7 @@ There are a lot of worries about Putin&#8217;s intentions in Ukraine which is we
 And since I won&#8217;t be writing next week, I would just like to take this opportunity to wish everyone a Happy St. Patrick&#8217;s day in advance. Last year the MacroTourist took a month off travelling in the UK with the family. We tacked on a week in Ireland just because we felt that we really &#8220;should&#8221; visit Ireland while we were there. Too many people had warned us that it would be a waste of a week, but it proved to be the highlight of our trip. I have never met such a warm caring pleasant bunch of people. Everywhere we went people were so kind and enjoyable. Although it did indeed rain much too much, the Irish will forever have a special place in my heart. Happy St. Patrick&#8217;s day! 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IrishPub.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/IrishPub.png" width="600" height="795">
+  <img src="http://themacrotourist.com/pictures/Azure/IrishPub.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/IrishPub.png" width="600" height="795">
 
 <hr size="2" width="85%" />
 

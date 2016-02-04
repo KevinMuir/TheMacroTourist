@@ -39,19 +39,19 @@ The market believes that the economy cannot stand on its own feet. Although the 
 Here is the 5 year Treasury yield:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USGG5YRMar2514.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG5YRMar2514.PNG" width="600" height="342" />US 5 Year Treasury Yield</a>
+  <img src="http://themacrotourist.com/pictures/Azure/USGG5YRMar2514.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG5YRMar2514.PNG" width="600" height="342" />US 5 Year Treasury Yield</a>
 </div></p> 
 
 Contrast this to the action in the 30 year Treasury yield:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USGG30YRMar2514.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG30YRMar2514.PNG" width="600" height="342" />US 30 Year Treasury Yield</a>
+  <img src="http://themacrotourist.com/pictures/Azure/USGG30YRMar2514.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG30YRMar2514.PNG" width="600" height="342" />US 30 Year Treasury Yield</a>
 </div></p> 
 
 These divergent moves have caused the 5/30 spread to collapse:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US530Mar2514.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/US530Mar2514.PNG" width="600" height="342" />US 5/30 Treasury yield spread</a>
+  <img src="http://themacrotourist.com/pictures/Azure/US530Mar2514.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US530Mar2514.PNG" width="600" height="342" />US 5/30 Treasury yield spread</a>
 </div></p> 
 
 Although I agree with the market&#8217;s assessment that 5 year rates should head higher, I think investors that are chasing 30 year product at 3.56% are being foolish. 
@@ -79,7 +79,7 @@ I realize I am catching a falling knife, but this is a long term trade and this 
 I was watching this interesting piece on Bloomberg TV about New York City elites&#8217; desire to live at 15 Central Park West. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/15CPW.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/15CPW.png" width="600" height="450">
+  <img src="http://themacrotourist.com/pictures/Azure/15CPW.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/15CPW.png" width="600" height="450">
 
 It is filled with a veritable who&#8217;s who of NYC stars and financial tycoons. Sting, Denzel Washington, Sandy Weil and Lloyd Blankfein all have apartments in the building.
 

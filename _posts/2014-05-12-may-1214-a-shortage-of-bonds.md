@@ -24,7 +24,7 @@ According to Bloomberg subdued inflation, pension plan buying and competition fr
 I can&#8217;t help but laugh at how the narrative has changed so dramatically over the past couple of months as the bond market has rallied so unexpectedly.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USGG30YRMay1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG30YRMay1214.png" width="600" height="342" />US 30 Year Treasury Yield</a>
+  <img src="http://themacrotourist.com/pictures/Azure/USGG30YRMay1214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG30YRMay1214.png" width="600" height="342" />US 30 Year Treasury Yield</a>
 </div>
 
 At the beginning of the year when yields were 4%, apart from the perpetual bond bulls like Gary &#8220;deflation forever&#8221; Shilling, there were precious few market participants that were forecasting a bond rally (decline in yields).
@@ -40,13 +40,13 @@ I understand the motivation.
 The 30 Year Treasury yield has backed up a fair ways from the lows of 2.5% seen in the summer of 2011. As compared to other big bond markets, the US market offered good value. Have a look at the US versus German 30 year yield:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USGER30May1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGER30May1214.png" width="600" height="342" />US 30 Year Yield (white line) vs German (yellow line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/USGER30May1214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGER30May1214.png" width="600" height="342" />US 30 Year Yield (white line) vs German (yellow line)</a>
 </div>
 
 Even compared to the inflation rate, the 30 year had backed up to the point where real rates were firmly positive. Have a look at the US 30 year real rate:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USRR30May1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USRR30May1214.png" width="600" height="342" />US 30 Year Real Rate</a>
+  <img src="http://themacrotourist.com/pictures/Azure/USRR30May1214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USRR30May1214.png" width="600" height="342" />US 30 Year Real Rate</a>
 </div>
 
 Although it is still somewhat low by historical standards (the 30 year real rate has averaged much closer to 3.5% or 4% during the past couple of decades), if you believe that we have entered into a new era with permanently lower real rates due to constant financial repression, then a 2% real rate offers a fairly attractive return versus the negative real rates we experienced a couple of years ago.
@@ -66,7 +66,7 @@ I may not know much, but I do know that when articles about the &#8220;lack of s
 I don&#8217;t see the trend of ever increasing levels of US government debt changing anytime soon. Have a look at the chart of the Total US Public Debt outstanding over the last few decades:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USDebtMay1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USDebtMay1214.png" width="600" height="342" />US Total Public Debt Outstanding</a>
+  <img src="http://themacrotourist.com/pictures/Azure/USDebtMay1214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USDebtMay1214.png" width="600" height="342" />US Total Public Debt Outstanding</a>
 </div>
 
 There are no meaningful declines. The best performing periods are simply a levelling off of the increase. 
@@ -74,7 +74,7 @@ There are no meaningful declines. The best performing periods are simply a level
 Now maybe I am missing something and the US deficit is about to disappear and the debt is indeed going to decline. But even if it does (which it won&#8217;t), then the 30 year yield is still at multi-decade lows:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US30YRMay1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/US30YRMay1214.png" width="600" height="342" />US 30 Year Treasury Yield</a>
+  <img src="http://themacrotourist.com/pictures/Azure/US30YRMay1214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US30YRMay1214.png" width="600" height="342" />US 30 Year Treasury Yield</a>
 </div>
 
 Given that absurdly low level of yields, if there truly is a lack of supply, wouldn&#8217;t it make sense for the US government to shift their borrowing out the curve? In fact this is what countries like Canada are doing with their recent floating of a 50 year bond.
@@ -100,13 +100,13 @@ However on Friday Canada released their employment figures. They were terrible. 
 Although the market gods are intent on making my short CAD call look foolish, even they couldn&#8217;t ignore that news. CAD stopped its rally on the release.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADMay1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADMay1214.png" width="600" height="342" />USDCAD rate (higher means weaker Loonie)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CADMay1214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADMay1214.png" width="600" height="342" />USDCAD rate (higher means weaker Loonie)</a>
 </div>
 
 Although the economic fundamentals seem to be headed my way, so far it has not moved the trades that I have put on to take advantage of this development. My short EDU6 long BAXU6 trade continues to simply move sideways:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDU6BAU6May1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6BAU6May1214.png" width="600" height="342" />EDU6 (white line) BAXU6 (yellow line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EDU6BAU6May1214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6BAU6May1214.png" width="600" height="342" />EDU6 (white line) BAXU6 (yellow line)</a>
 </div>
 
 I am going to hang tight as the economy is behaving as I predicted, but I am concerned that it is not translating into trading profits. I am going to keep a close eye on these trades in the coming days. Sometimes the lack of reaction is a clue&#8230; the trick is knowing when the market is simply a little slow and when the market has fully baked in the news. If someone knows how to consistently tell the difference, then please let me know.
@@ -116,4 +116,4 @@ I am going to hang tight as the economy is behaving as I predicted, but I am con
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay1214.png" width="600" height="725"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay1214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay1214.png" width="600" height="725"></p>

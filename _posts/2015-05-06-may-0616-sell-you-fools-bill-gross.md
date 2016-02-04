@@ -19,7 +19,7 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/GandalfMay0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GandalfMay0615.png" width="600" height="300">
+  <img src="http://themacrotourist.com/pictures/Azure/GandalfMay0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GandalfMay0615.png" width="600" height="300">
 
 Did you read the latest Bill Gross piece? Talk about a complete killjoy. I consider myself pretty skeptical about the financial markets&#8217; prospects for the coming years, but even I just wanted to slip into a warm bath with a razor blade after reading Bill&#8217;s morbid &#8220;the end is near&#8221; commentary. Have a look at the first couple of lines from his post, fittingly titled &#8220;A Sense of an Ending&#8221;:
 
@@ -60,7 +60,7 @@ I don&#8217;t have any answers. I don&#8217;t even know what I would do if I wer
 And in that matter, I am more confident. The system will be reset when inflation engulfs our economy. Now I am not some doomdayer &#8211; busy packing guns, ammo and freeze dried food in my basement. I don&#8217;t think we are about to descend into some anarchistic collapse of the financial system and society.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/RelaxingMay0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/RelaxingMay0615.png" width="500" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/RelaxingMay0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/RelaxingMay0615.png" width="500" height="400">
 
 But I do think we are going to inflate our way out of this terrible mess. Ask yourself how many currencies have collapsed because of deflation? And then ask your same question about inflation. I think the road we will eventually follow is quite clear.
 
@@ -79,11 +79,11 @@ In the mean time, don&#8217;t let Gross&#8217; morose ponderings get you down. T
 The great Louis Rukeyser show Wall Street week is back! Obviously Louis isn&#8217;t hosting it, but we finally get a show that isn&#8217;t TV personalities hitting the BUY! BUY! BUY! button while screaming at the top of their lungs. Last week my not-so favourite activist Carl Icahn was the guest. I won&#8217;t bother examining all the ironic contradictions he made, but I will leave you with one quote about his bullishness for Apple.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CarlMay0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CarlMay0615.png" width="600" height="320">
+  <img src="http://themacrotourist.com/pictures/Azure/CarlMay0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CarlMay0615.png" width="600" height="320">
 
 I want to record that quote for posterity, and include a chart with the price of Apple.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AAPLMay0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/AAPLMay0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/AAPLMay0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/AAPLMay0615.png" width="600" height="342">
 
 Don&#8217;t worry if Apple dips, good &#8217;ole Uncle Carl will be there to show you a bid. And he never goes back on his word&#8230; [(don&#8217;t believe me &#8211; just watch this)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0CCsQtwIwAg&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhCZRk1lL90Q&ei=wjNKVeDNFIftoASMi4HgCQ&usg=AFQjCNEzOI-xP4YfljAJ-49pYl09NKoxqQ)

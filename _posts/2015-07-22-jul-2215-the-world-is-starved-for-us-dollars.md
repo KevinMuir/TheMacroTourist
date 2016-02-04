@@ -17,26 +17,26 @@ tags:
   - Yuan
 ---
 
-  <img src="http://themacrotourist.com/pictures/CommodityRisk.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CommodityRisk.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/CommodityRisk.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CommodityRisk.png" width="600" height="400">
 
 The commodity rout continues unabated. Every tiny rally has been just another chance to get short. The selling has been relentless and unwavering.
 
 Have a look at the CRB Industrial Commodity index:
 
 
-  <img src="http://themacrotourist.com/pictures/CRBIndJul2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CRBIndJul2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CRBIndJul2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CRBIndJul2215.png" width="600" height="342">
 
 We are drifting downward in what appears to be a bottomless spiral. 
 
 This collapse is crushing the economies that rely on selling these commodities. The Brazilian Real has been decimated over the past couple of years:
 
 
-  <img src="http://themacrotourist.com/pictures/BRLJul2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/BRLJul2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/BRLJul2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/BRLJul2215.png" width="600" height="342">
 
 Although not wholly a commodity story, the Mexican Peso has plunged to all time lows against the US dollar:
 
 
-  <img src="http://themacrotourist.com/pictures/MXNJul2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/MXNJul2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/MXNJul2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/MXNJul2215.png" width="600" height="342">
 
 I could trot out a bunch of similar looking charts. Whether it is the Canadian dollar, the Australian dollar, the New Zealand Kiwi or the South African Rand &#8211; if your country relies on selling commodities, your currency is collapsing.
 
@@ -57,7 +57,7 @@ The Federal Reserve is determined to prepare the market for an upcoming rate ris
 I believe the main reason for the US dollar rally is not demand driven, but instead the result of supply being choked off. The US dollar is the world&#8217;s reserve currency, and the global financial system requires an ever increasing supply to ensure growth. When this supply is limited, there are suddenly less dollars and the result is deflation. Stop and think back to all the worries from the inflationistas about too many dollars being printed when Bernanke stepped on the QE gas pedal &#8211; they predicted a collapsing US dollar with rocketing inflation. Now think about this problem in reverse &#8211; a soaring US dollar with relentless disinflation &#8211; which is what we are currently experiencing.
 
 
-  <img src="http://themacrotourist.com/pictures/DXYJul2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/DXYJul2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/DXYJul2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/DXYJul2215.png" width="600" height="342">
 
 The real problem lies in the fact the US economy does not necessarily sync with the global economy. Coming out of the 2008 credit crisis the Federal Reserve was uncomfortably aggressive in their monetary expansion. It caused all sorts of problems with other nations who found their currency exploding higher. Countries like Brazil even accused the US of engaging in a currency war. The world economy did not need the liquidity the Federal Reserve pumped into the global financial system. Maybe the American economy needed it, but the rest of the world certainly didn&#8217;t. Due to the fact the US dollar is the world&#8217;s reserve currency, this liquidity caused other economies to overheat. 
 
@@ -66,7 +66,7 @@ As the Federal Reserve gradually slowed down the rate of expansion of their bala
 Herein lies the problem. The Federal Reserve does not tune monetary policy for the global financial system. Eventually the state of the world economy affects the US economy, and so at extremes the Federal Reserve will respond to global slowdowns with more liquidity. But the month to month setting of monetary policy is largely immune to global developments. That wouldn&#8217;t be a big deal if the world didn&#8217;t trade most goods in US dollars, or if there wasn&#8217;t a huge amount of US dollar denominated debt. But being the reserve currency carries a responsibility that American officials largely ignore. 
 
 
-  <img src="http://themacrotourist.com/pictures/Connally.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Connally.png" width="500" height="600">
+  <img src="http://themacrotourist.com/pictures/Connally.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Connally.png" width="500" height="600">
 
 I guess it is the American&#8217;s prerogative to ignore this reserve currency responsibility, but we should just be aware that someday the world might abandon the US dollar as the universal currency. If the US officials refuse to acknowledge the effect their policy has on the world economy, they might some day be in for a surprise when the rest of the world finds an alternative. 
 
@@ -81,7 +81,7 @@ I almost think the global financial system could handle the strong US dollar if 
 Have a look at the trade weighted Chinese currency chart:
 
 
-  <img src="http://themacrotourist.com/pictures/YuanJul2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/YuanJul2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/YuanJul2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/YuanJul2215.png" width="600" height="342">
 
 How do you think the Chinese export dominated economy is going to perform when their effective real exchange rate rises by 40% in a couple of years? It is no wonder the Chinese economy is gasping for breath. 
 

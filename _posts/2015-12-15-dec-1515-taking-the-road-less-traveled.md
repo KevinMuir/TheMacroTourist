@@ -41,17 +41,17 @@ This offers an opportunity for those willing to take the road less traveled. I a
 Not only do I want to buy high yield, but I want to buy all the broken sectors. I want to be pick up the bonds investors are pitching in embarrassment. Even though this again goes against popular sentiment, I think the market is unduly punishing the losers of 2015. Energy names are at the top of my list. This graphic in an Irish business paper sums up the lopsided negativity towards energy:
 
 
-  <img src="http://themacrotourist.com/pictures/BloodDec1515.jpg" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/BloodDec1515.jpg" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/BloodDec1515.jpg" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/BloodDec1515.jpg" width="600" height="400">
 
 Energy equities have been declining for quite some time. Take for example Chesapeake Energy:
 
 
-  <img src="http://themacrotourist.com/pictures/CHKDec1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CHKDec1515.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/CHKDec1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CHKDec1515.png" width="600" height="400">
 
 The past couple of years the stock has been offered. Yet for the longest time, this weakness wasn&#8217;t making its way through to the bonds in any significant way. But then we reached the tipping point, and the bonds immediately went no bid:
 
 
-  <img src="http://themacrotourist.com/pictures/CHKBondDec1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CHKBondDec1515.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/CHKBondDec1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CHKBondDec1515.png" width="600" height="400">
 
 This particular bond is trading with a yield to maturity of 60%! At these sorts of levels, suddenly bonds seem like a whole lot better way to speculate on the energy sector rebounding.
 

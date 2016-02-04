@@ -19,7 +19,7 @@ tags:
 In the space of two trading sessions the S&P 500 has gone from hitting new highs to erasing all the gains for the year. It has been quick and relentless.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM4GIPApr0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM4GIPApr0814.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESM4GIPApr0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM4GIPApr0814.png" width="600" height="342">
 
 So far, although I have avoided the damage, I have not profited from the sell off as I have mistakenly believed this would be more of a rotation than a full blow sell rout.
 
@@ -40,7 +40,7 @@ Whereas I thought they were overly bullish a month ago when they were fawning al
 So yesterday I decided to try to catch the falling knife of the Nasdaq equity market. I realize that I am dealing with a market where I can no longer lose a finger or two, but I am standing against a tidal wave of hedge fund liquidation. This knife is more like a full on machete, and it is no longer aiming at just my hands.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Knifeinhead.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/Knifeinhead.png" width="600" height="900" />Knife catching from the last bear market in 2008</a>
+  <img src="http://themacrotourist.com/pictures/Azure/Knifeinhead.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Knifeinhead.png" width="600" height="900" />Knife catching from the last bear market in 2008</a>
 </div>
 
 This is an extremely dangerous market to be trying to knife catch, so I am protecting myself by buying ATM (at the money) calls on the Nasdaq.
@@ -54,7 +54,7 @@ Although I trade this account from a purely discretionary basis, we follow a who
 Finally, April has historically been the strongest of all the months. Have a look at this chart that outlines the returns by month:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/StocksAprilApr0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/StocksAprilApr0814.png" width="500" height="390">
+  <img src="http://themacrotourist.com/pictures/Azure/StocksAprilApr0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/StocksAprilApr0814.png" width="500" height="390">
 
 It is scary, but I am going to stand in there and take a stab on the long side. Hopefully “turnaround Tuesday” will kick in. Either that, or I am going to need some help getting that knife out of my head.
 
@@ -75,7 +75,7 @@ Last week-end, Bloomberg columnist Barry Ritholz wrote a quick piece regarding t
 Barry makes some pretty good points, but I think he is probably not aware that a couple of years ago, the Pets.com sock puppet got in on the WhatsApp first round of funding through a connection with Sequoia, and since Zuck’s $19 billion purchase of the company, the Pets.com sock puppet has been living life pretty hard and fast.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PetsComPuppet.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PetsComPuppet.png" width="640" height="480" />Pets.Com puppet in a typical night of debachery</a>
+  <img src="http://themacrotourist.com/pictures/Azure/PetsComPuppet.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PetsComPuppet.png" width="640" height="480" />Pets.Com puppet in a typical night of debachery</a>
 </div>
 
 And as for Barry’s point that this market is dramatically different from the stock mania of 1999, I think he is right, but he is missing the real point.
@@ -93,4 +93,4 @@ Instead what we have is a market filled with thousands of hedge funds all standi
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr0814.png" width="600" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr0814.png" width="600" height="600">

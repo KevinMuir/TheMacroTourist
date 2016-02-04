@@ -33,7 +33,7 @@ Have a look at this chart of BKLN. According to Bloomberg, BKLN can be described
 > Powershares Senior Loan Portfolio is an exchange-traded fund incorporated in the USA. The fund seeks investment results that correspond (before fees and expenses) generally to the price of the yield of the S&P/LSTA US Leveraged Loan 100 Index.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BKLNMar0514.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BKLNMar0514.PNG" width="600" height="342" />PowerShares Senior Loan</a>
+  <img src="http://themacrotourist.com/pictures/Azure/BKLNMar0514.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BKLNMar0514.PNG" width="600" height="342" />PowerShares Senior Loan</a>
 </div>
 
 I have plotted out in yellow the total number of shares outstanding for this ETF. At the beginning of 2012 there was a mere 8 million shares outstanding. In the next year they added 55 million shares. And then in 2013, they added more than 200 million shares! This was all new money flowing into the bank loan market. 
@@ -45,7 +45,7 @@ With interest rates still hovering at absurdly low levels I understand the desir
 Instead I think they will find that Wall Street has once again duped them, and that they are left holding the bag.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CowMar0614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CowMar0614.png" width="600" height="450"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/CowMar0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CowMar0614.png" width="600" height="450"></p> 
 
 The increased popularity of these ETFs and this asset class in general has created a large amount of weak longs. When rates start to rise and these investors realize that their investments are not protecting them, there is going to be a mad rush for the exit. This is a disaster waiting to happen. 
 

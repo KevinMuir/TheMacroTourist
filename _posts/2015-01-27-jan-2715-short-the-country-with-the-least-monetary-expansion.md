@@ -27,17 +27,17 @@ There is a beach on the Caribbean Island of St Maarten called Maho Beach. What m
 This isn&#8217;t some rinky dink little airport with propellor planes buzzing in for a landing. This is a full on International Airport that lands Airbuses and other monster jet planes. [So you get a special group of liquored up, lobster tanned tourists](https://www.youtube.com/watch?v=AlTNj6IWey4) sitting at the end of the runway getting blasted with sand as these behemoths come dropping from the sky in for a landing.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DangerJan2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DangerJan2615.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/DangerJan2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DangerJan2615.png" width="600" height="442">
 
 You wouldn&#8217;t think that you would need this sign, but let&#8217;s face it &#8211; sometimes the obvious isn&#8217;t quite so obvious to all.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JetJan2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JetJan2615.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/JetJan2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JetJan2615.png" width="600" height="442">
 
 I feel like we need a similar sign for all the US bulls who think that the strength of the US dollar is not going to affect the world&#8217;s biggest economy.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYJan2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYJan2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYJan2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYJan2615.png" width="600" height="342">
 
 Over the past six months, the US dollar has rocketed straight up. It has rallied over 20% in a blink of an eye. 
 
@@ -46,7 +46,7 @@ Many market strategists are bravely trying to put a positive spin on this rise. 
 Growth is collapsing everywhere, yet so far, the US has been fortunate enough to be somewhat immune. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDPJan2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDPJan2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GDPJan2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDPJan2615.png" width="600" height="342">
 
 However, I think the US economic bulls are kidding themselves if they think that this global economic slowdown can stay away from the US shores forever. The business community&#8217;s reaction to changing macroeconomic variables is much slower than itchy trigger finger traders or portfolio managers. A business manager for a large global company does not start hiring or firing staff until it is **excessively obvious** that the trend has changed.
 
@@ -85,14 +85,14 @@ The global economy is suffering from a lack of demand. In this new day and age, 
 The countries that inflate the least, find their currencies rising and their economy sagging. This trend became brutally obvious with the advent of Abeconomics. In the years leading up to the election of Prime Minister Abe, the Japanese economy was suffering from an ever increasing Yen.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYBSJan2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYBSJan2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JPYBSJan2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYBSJan2615.png" width="600" height="342">
 
 Once the BoJ stepped on the gas pedal, the Yen started going down, and although the long term success of the program is still up in the air, at the very least it caused the Yen to fall and for the immediate deflationary pressures to be put on the back burner.
 
 However the deflation did not disappear, it was merely exported to another country. At a time when the BoJ and the Fed were both expanding their balance sheet, in 2012 the ECB attempted to wind down their previous balance sheet expansion from the European credit crisis. In doing so, the ECB not only didn&#8217;t expand their balance sheet, but they actually shrank it by a third! This had a disastrous effect on the European economy. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURECBJan2615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURECBJan2615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EURECBJan2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURECBJan2615.png" width="600" height="342">
 
 In the space of a couple of years, the Euro rallied over 55% versus the Yen. Imagine you were BMW or Bosch trying to compete against the Japanese. It is tough slugging when your currency appreciates by over 50%. No wonder the European economy has been so moribund. 
 

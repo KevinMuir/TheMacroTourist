@@ -19,19 +19,19 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/HoldmyBeerNov1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/HoldmyBeerNov1915.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/HoldmyBeerNov1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/HoldmyBeerNov1915.png" width="600" height="400">
 
 When analyzing the Federal Reserve officials&#8217; comments, it is important to remember which FOMC member is speaking. Like George Orwell&#8217;s pigs, they are all supposedly equal, but some are more equal than others.
 
 
-  <img src="http://themacrotourist.com/pictures/FedNov2015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/FedNov2015.png" width="600" height="250">
+  <img src="http://themacrotourist.com/pictures/FedNov2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/FedNov2015.png" width="600" height="250">
 
 Stanley Fischer is generally accepted as Yellen&#8217;s wise lieutenant and second in command. As an economist, he taught at both Chicago and MIT. Stanley then became the chief economist at the World Bank and from there, went on to be the deputy managing director of the IMF. Finally from 2005 to 2013 he was the Governor of the Bank of Israel. 
 
 At the Bank of Israel he raised rates from the middle of 2009 to 2011. 
 
 
-  <img src="http://themacrotourist.com/pictures/IsraelNov2015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/IsraelNov2015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/IsraelNov2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/IsraelNov2015.png" width="600" height="342">
 
 Eventually all of these rate hikes had to be taken back, but that is a story for another day. Stanley is probably the only member of the FOMC that has actually pulled the trigger on a rate hike this decade.
 
@@ -64,7 +64,7 @@ Yet that doesn&#8217;t mean there aren&#8217;t opportunities. Avenue Capital Gro
 I happen to be an oil bull. But instead of buying energy equities, I think it makes way more sense to buy the debt.
 
 
-  <img src="http://themacrotourist.com/pictures/OILHYNov2015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/OILHYNov2015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/OILHYNov2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/OILHYNov2015.png" width="600" height="342">
 
 The index of these high yield energy names is trading at distressed levels. That is 1100 basis points of spread! There is no way the energy companies will be able to roll their debt at those levels and survive. 
 

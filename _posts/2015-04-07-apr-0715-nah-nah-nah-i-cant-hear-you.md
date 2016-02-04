@@ -17,7 +17,7 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/BullApr0715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BullApr0715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BullApr0715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BullApr0715.png" width="600" height="342">
 
 Tomorrow earnings season kicks off with Alcoa starting the parade of first quarter earnings releases. Although analysts have been tempering down their growth estimates due to the especially cold winter on the East coast of North America and the strong US dollar, my suspicion is that they are still in for a surprise. 
 
@@ -28,14 +28,14 @@ The especially cold and snowy winter on the North American East coast will give 
 During the past couple of quarters the global economy has experienced an enormous hiccup. Global growth has plummeted and shown no signs of bouncing.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDPApr0715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDPApr0715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GDPApr0715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDPApr0715.png" width="600" height="342">
 
 When you combine the weak global economy with the terrible winter weather, and most importantly the almost obscenely strong US dollar, you have monster headwinds for US corporate profitability.
 
 And it&#8217;s not like the analysts are pessimistic in their earnings growth estimates. Even though profits as a percentage of GDP are at all time highs, analysts are forecasting approximately 10% continued earnings growth in the coming years.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXEarningsApr0715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXEarningsApr0715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXEarningsApr0715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXEarningsApr0715.png" width="600" height="342">
 
 Over the past few months the markets have been able to stick their fingers in their ears and scream out &#8220;nah nah nah &#8211; I can&#8217;t hear you!&#8221; to all the problems that are piling up at their feet. But cold hard numbers can&#8217;t lie. I suspect that this earnings season will force the stock market to deal with the uncomfortable realities that are plaguing the global economy. I am starting a core short position in US stock index futures that I will hold for the coming weeks. Although I am actually quite bullish on the economy, I think the stock market has some big ugly surprises in store for it.
 
@@ -60,13 +60,13 @@ As the market realizes the Fed will never again be willing to get ahead of the c
 In the coming years I could envision a point where the Fed has short rates set at the nominally low level of 1% or 2%, yet the long bond is trading at 6% or 8%. My suspicion is that the curve will eventually become super steep. Although we saw some wide levels in the aftermath of the credit crisis, before this is all through, we are going to see new _modern day highs in curve steepness._ 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US230Apr0715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/US230Apr0715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/US230Apr0715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US230Apr0715.png" width="600" height="342">
 
 So far though, my theory is a dud. The curve has been flattening like a pancake for the past year. In fact, you could argue that my theory has been just flat out wrong. The long end of the curve has been especially well behaved. In fact, as the Fed has attempted to set up the market for rate hikes, investors have bid up the long end of the curve.
 
 Yet the reality is that Fed has recently delayed their first rate hike for the very reasons that I forecast &#8211; the economy is showing no ability to be able to weather a hike. And the curve has recently responded by steepening for the first time in a while.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US530Apr0715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/US530Apr0715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/US530Apr0715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US530Apr0715.png" width="600" height="342">
 
 I think that this might be the first step in the market figuring out that the Fed will _always_ be behind the curve.

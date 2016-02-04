@@ -15,12 +15,12 @@ tags:
   - QE
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/EuroStoxxLongs.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EuroStoxxLongs.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/EuroStoxxLongs.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EuroStoxxLongs.png" width="600" height="400">
 
 A couple of weeks ago [(May 29/15 &#8211; Day 172 of Knife Catchers Anonymous™)](http://themacrotourist.com/blog/2015/05/29/may-2915-day-172-of-knife-catchers-anonymous-2/) I suggested the long EuroStoxx was a crowded trade and due for a pull back. Although I didn&#8217;t know the catalyst, I figured the massively overbought nature of the trade made the risk reward favour at the very least watching from the sidelines.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FlowsMay2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FlowsMay2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FlowsMay2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FlowsMay2915.png" width="600" height="342">
 
 The money had been flowing into EuroStoxx and out of the US for quite some time. Every fast money guy and his wife&#8217;s purse dog was long European stocks. The bullishness had hit a point where it was bound to disappoint. 
 
@@ -31,7 +31,7 @@ I don&#8217;t know if it is nervousness about Greece, or whether it was simply t
 The fast money guys pulled a Tony Montana and went a little overboard. Now we have both the European stocks falling and the Euro currency rallying as this is unwound.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SX5EEURJun0815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SX5EEURJun0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SX5EEURJun0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SX5EEURJun0815.png" width="600" height="342">
 
 This trade will work again, we just need to clear the decks of these over enthusiastic partiers. Give it another week. Let&#8217;s see what happens with Greece. But keep your eye on the trade. There might come a time to strap this back on when the smoke clears.
 
@@ -42,7 +42,7 @@ This trade will work again, we just need to clear the decks of these over enthus
 It was seven years ago this month, in the midst of the credit crisis of 2008, the Fed embarked on their first Quantitative Easing program. It was supposed to be a one time affair, but it ended up having four different iterations. In the process it swelled the Fed&#8217;s balance sheet from $900 billion all the way to $4.5 trillion. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FARBASTJun0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FARBASTJun0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FARBASTJun0915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FARBASTJun0915.png" width="600" height="342">
 
 I always laugh when I see this chart. The Y2K &#8220;flood&#8221; of liquidity that Greenspan unleashed on the economy in fear the computers wouldn&#8217;t handle the flip to 2000 seemed so preposterously loose at the time. It was enough to send the Dot Com bubble into the final stages of their manic frenzy. Yet, that balance sheet expansion now seems so naively tame when compared to the 2008+ experience.
 
@@ -63,7 +63,7 @@ I am rarely sympathetic for Central Bank chiefs, but I think too many people ass
 Yet for some time now it has been obvious to anyone with half a brain that the Fed&#8217;s policies were exacerbating the growing inequality problem. The balance sheet expansion was forcing up financial asset prices, with little of the so called "wealth affect&#8217; trickling down into the real economy. When the economy didn&#8217;t bust out of the gate with the anticipated ferocity, Bernanke & Co. simply did more quantitative easing. Again this caused little real economic improvement, but it caused financial asset prices to rise even further. The rich who own the vast majority of the financial assets never had it better. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TrickleJun0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/TrickleJun0915.png" width="500" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/TrickleJun0915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TrickleJun0915.png" width="500" height="342">
 
 Well, over half a decade later, the Fed is just now coming to the conclusion their policies didn&#8217;t work as planned.
 

@@ -28,7 +28,7 @@ tags:
 </p>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TsiprasFeb0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/TsiprasFeb0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/TsiprasFeb0915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TsiprasFeb0915.png" width="600" height="342">
 
 This morning we awaken to a bout of selling in risk assets on news that the Greek government has continued to take a hard line in their negotiations with the EU. In an emotional and defiant speech, Greek Prime Minister Alexis Tsipras refused to cede an inch.
 
@@ -41,7 +41,7 @@ I have been surprised at how cavalier the market has been regarding the possibil
 The enormity of the chasm between Greece and her creditors can best be summed up by the recent meeting between German Finance Minister Schaeuble and his Greek counterpart Varoufakis. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YanisFeb0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YanisFeb0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/YanisFeb0915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/YanisFeb0915.png" width="600" height="342">
 
 In trying to describe the meeting, the austere German said, &#8220;my spokesman has advised me to say, &#8216;we agree to disagree.&#8217;&#8221;  In all my years of watching two faced politicians mouth useless words of platitude to describe tense meetings, I cannot recall one where the frustration came out so clearly. Varoufakis retorted with a &#8220;we didn&#8217;t even agree to disagree.&#8221; These two sides are _miles apart._ 
 
@@ -82,7 +82,7 @@ I said it before, and I will repeat it again. Don&#8217;t expect this to get bet
 Last year I kept harping on the fact that the sharp rise of the Euro versus the Japanese Yen was too much for the European economy to handle. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURJPYFeb0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURJPYFeb0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EURJPYFeb0915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURJPYFeb0915.png" width="600" height="342">
 
 The first wave of Abeconomics sent the EURJPY from 95 to 145 in the space of about a year. That move of more than a 50% devaluation was difficult for the Europeans to handle. But then the second wave of Japanese QE in October was simply too much for the Europeans. The move up to 150 EURJPY was the Europeans&#8217; &#8220;puke point.&#8221; At that point they had no choice but to respond with their own QE program.
 
@@ -91,7 +91,7 @@ The exact same thing is happening right now, and just like the Europeans, it is 
 Since the 2008 credit crisis, the Chinese Renminbi has quietly been appreciating against the US dollar.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USDCNYFeb0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USDCNYFeb0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/USDCNYFeb0915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USDCNYFeb0915.png" width="600" height="342">
 
 The move down from 6.90 to 6.25 was largely a function of the Chinese government allowing their currency to appreciate to assuage US concerns about the unfair currency pegging by the Chinese. However, the Japanese dramatic easing has changed the ball game.
 
@@ -100,12 +100,12 @@ The CNY has been steady against the US dollar, but the problem is that the US do
 Have a look at the chart of the CNY versus the Japanese Yen.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CNYJPYFeb0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CNYJPYFeb0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CNYJPYFeb0915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CNYJPYFeb0915.png" width="600" height="342">
 
 The Japanese Yen has depreciated by over 60% versus CNY over the past couple of years. And now the Euro has joined the party too.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CNYEURFeb0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CNYEURFeb0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CNYEURFeb0915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CNYEURFeb0915.png" width="600" height="342">
 
 The Chinese economy suddenly finds itself with a soft peg to a strong currency. 
 

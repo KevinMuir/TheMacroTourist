@@ -19,7 +19,7 @@ tags:
 Last night, after all the March Madness college basketball games were finished, CBS ran a 60 Minutes piece profiling Michael Lewis&#8217; new book &#8211; Flash Boys.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FlashBoys.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FlashBoys.png" width="600" height="472">
+  <img src="http://themacrotourist.com/pictures/Azure/FlashBoys.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FlashBoys.png" width="600" height="472">
 
 Lewis&#8217; new book centres on the problems associated with High Frequency Trading (HFT). The hero of the book is an unlikely fellow that worked at my old firm &#8211; RBC. Although he started after I left, Brad Katsuyama worked with many of my old colleagues. Most of what Brad and Michael Lewis highlighted is not new to me, but it was shocking to learn how much in the dark even the larger hedge funds and money managers were in terms of the abuses of HFT. 
 
@@ -36,7 +36,7 @@ Today, as many market participants begin to understand the HFT narrative, this c
 Just in case you doubt this conclusion, have a look at the Daily P&L distribution for HFT firm Virtu Financial:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VirtuPNLMar3114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/VirtuPNLMar3114.png" width="600" height="405">
+  <img src="http://themacrotourist.com/pictures/Azure/VirtuPNLMar3114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/VirtuPNLMar3114.png" width="600" height="405">
 
 Over the course of the last four years, they only had one losing day! This is not the P&L distribution of a risk taking trading firm &#8211; this is the P&L of a front running racket!
 
@@ -65,7 +65,7 @@ I am short CAD as I expect the US economy to outperform Canada&#8217;s in the co
 We have seen this scenario play out in the spread between the later year USD Eurodollar contracts versus the Canadian Banker acceptance contracts:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDU6BAU6Mar3114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6BAU6Mar3114.PNG" width="600" height="342" />ED Jun 2016 (white line) vs BAX Jun 2016 (yellow line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EDU6BAU6Mar3114.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6BAU6Mar3114.PNG" width="600" height="342" />ED Jun 2016 (white line) vs BAX Jun 2016 (yellow line)</a>
 </div>
 
 This should at the margin keep the Loonie &#8220;on offer.&#8221; 
@@ -75,7 +75,7 @@ Although I feel very comfortable about my long BAX versus short USD Eurodollar c
 When it broke above the 1.12 and held for a day, I added to the trade.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADMar3114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADMar3114.PNG" width="600" height="342" />USDCAD rate- higher is a weaker Loonie</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CADMar3114.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADMar3114.PNG" width="600" height="342" />USDCAD rate- higher is a weaker Loonie</a>
 </div></p> 
 
 However, during the past week the CAD has been fairly strong. 
@@ -83,7 +83,7 @@ However, during the past week the CAD has been fairly strong.
 Part of this might be due to the fact that Karl Peledeau&#8217;s entrance into the Quebec political arena has hurt the Parti Quebecois. His staunchly pro-sovereignest comments have backfired as the Quebec public seem to have less of a desire for another referendum as the PQ hoped. Over the last couple of weeks, the support for the PQ has dipped:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/QuebecPollMar3114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/QuebecPollMar3114.png" width="600" height="412"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/QuebecPollMar3114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/QuebecPollMar3114.png" width="600" height="412"></p> 
 
 But I am worried that there is more going on than simply a little readjustment from a Quebec poll. 
 
@@ -96,7 +96,7 @@ I don&#8217;t hold this belief for any philosophical reason. I have learned over
 Over the past year the CAD short has been extremely popular with the hedge funds. Have a look at the CME Short Speculative Short interest over the past few years:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADShortsMar3114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADShortsMar3114.PNG" width="600" height="342" />CAD speculative short interest</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CADShortsMar3114.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADShortsMar3114.PNG" width="600" height="342" />CAD speculative short interest</a>
 </div></p> 
 
 The amount of speculative shorts is still hovering quite near the highs. 
@@ -114,4 +114,4 @@ I might be wrong, but I would rather be wrong all alone than with a bunch of hed
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMar3114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMar3114.png" width="500" height="765"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMar3114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMar3114.png" width="500" height="765"></p>

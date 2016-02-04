@@ -18,7 +18,7 @@ tags:
 Prior to Thursday, the stock market had experienced the longest streak of sub 1% daily moves since 1995. This period of unusual calm was brought to a sudden end with the downing of the Malaysian jet over Ukraine and the launch of the Gaza assault by Israel. Both events were reported within the same trading session, and that bad news was finally enough to cause a +1% sell off in the S&P 500.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ThurESGIPJul214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ThurESGIPJul214.png" width="600" height="342" />S&P 500 future &#8211; Thursday&#8217;s trading</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ThurESGIPJul214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ThurESGIPJul214.png" width="600" height="342" />S&P 500 future &#8211; Thursday&#8217;s trading</a>
 </div>
 
 
@@ -26,7 +26,7 @@ Prior to Thursday, the stock market had experienced the longest streak of sub 1%
 But by Friday morning, when neither of those events escalated dramatically, the market shrugged off the bad news like a Hall of Fame power running back and charged higher.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FriESGIPJul214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FriESGIPJul214.png" width="600" height="342" />S&P 500 future &#8211; both days</a>
+  <img src="http://themacrotourist.com/pictures/Azure/FriESGIPJul214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FriESGIPJul214.png" width="600" height="342" />S&P 500 future &#8211; both days</a>
 </div>
 
 
@@ -36,7 +36,7 @@ If you had told me that we were going to get an up day after Thursday&#8217;s bi
 But then again, you probably didn&#8217;t get your face ripped off like I did on Friday.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FaceOffJul2114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FaceOffJul2114.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/FaceOffJul2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FaceOffJul2114.png" width="600" height="400">
 
 
 
@@ -51,14 +51,14 @@ No longer does fundamental price matter. I know a lot of investors will conjure 
 When sane analytical investors like GMO look at the market, they come to the conclusion that US stocks are priced for negative real returns:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GMOJul2114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GMOJul2114.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/GMOJul2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GMOJul2114.png" width="600" height="400">
 
 
 
 Or how about Professor Shiller&#8217;s great work? What does it say about future returns?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ShillerJul2114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ShillerJul2114.png" width="600" height="342" />Shiller future return estimate for US stocks</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ShillerJul2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ShillerJul2114.png" width="600" height="342" />Shiller future return estimate for US stocks</a>
 </div>
 
 
@@ -74,4 +74,4 @@ I don&#8217;t have a lot to add this morning, except to remind you to remember t
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul2114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJul2114.png" width="600" height="500"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJul2114.png" width="600" height="500"></p>

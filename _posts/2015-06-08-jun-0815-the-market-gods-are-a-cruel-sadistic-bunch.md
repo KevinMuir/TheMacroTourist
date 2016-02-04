@@ -17,27 +17,27 @@ tags:
   - Triple Crown
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/YellenRaiseRates.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YellenRaiseRates.png" width="600" height="375">
+  <img src="http://themacrotourist.com/pictures/Azure/YellenRaiseRates.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/YellenRaiseRates.png" width="600" height="375">
 
 Friday&#8217;s US employment release pushed the Federal Reserve one step closer towards the first rate hike in over a decade. The change in non-farm payrolls came in at 280k versus an expected 226k. More importantly, the average hourly earnings nudged up to 2.3%. All in, it was a solid report with almost all aspects heading in the right direction. [Tim Duy&#8217;s Fed Watch blog](http://economistsview.typepad.com/timduy/2015/06/solid-employment-reprot.html) had a great summary of the different employment indicators that Yellen keeps an eye on to judge the state of the labour market.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Yellen1Jun0815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/Yellen1Jun0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/Yellen1Jun0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Yellen1Jun0815.png" width="600" height="342">
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Yellen2Jun0815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/Yellen2Jun0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/Yellen2Jun0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Yellen2Jun0815.png" width="600" height="342">
 
 The market&#8217;s response to the strong employment report was to push short term yields up to the highest level in over a month:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USG2Jun0815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USG2Jun0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/USG2Jun0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USG2Jun0815.png" width="600" height="342">
 
 Although the Fed will be loath to raise rates at the coming June FOMC meeting, this report increases the odds they hike in September. I have long said the Fed will give the market plenty of clearly telegraphed signals about the timing of the first rate hike, so if they are set to raise rates, a June signal for a September hike makes a lot of sense.
 
 It should be interesting to see if the FOMC committee is serious about tightening policy based on an improving employment conditions even though inflation is running below target. Every previous tightening cycle has started with inflation at least at the Fed&#8217;s target rate (if not above), so this would be a ground breaking rate hike if it were to occur. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PCEJun0815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PCEJun0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/PCEJun0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PCEJun0815.png" width="600" height="342">
 
 I don&#8217;t know what the Fed will do, and I doubt anyone else does either. My suspicion is the FOMC committee members barely know themselves. 
 
@@ -96,7 +96,7 @@ This article was a terrific piece that did an excellent job of showing the marke
 And of course, just when a pricing inconsistency is noticed, the Market Gods decide it is time to send everybody back the other way. For the first time in 37 years, there was a Triple Crown winner this week-end. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AmericanJun0815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/AmericanJun0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/AmericanJun0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/AmericanJun0815.png" width="600" height="342">
 
 Next year, David&#8217;s article will be replaced with all sorts of accounts of the glory of having a winning ticket of a Triple Crown winner. Rest assured, there will be no articles talking about the inconsistencies of betting on the potential Triple Crown winner. The Market Gods never make it that easy&#8230;
 

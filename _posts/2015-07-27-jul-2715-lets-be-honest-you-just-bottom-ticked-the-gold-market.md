@@ -14,14 +14,14 @@ tags:
   - Jim Grant
 ---
 
-  <img src="http://themacrotourist.com/pictures/AllBehold.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/AllBehold.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/AllBehold.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/AllBehold.png" width="600" height="400">
 
 Short and sweet today as the MacroTourist is actually on a camping trip with the wife’s in-laws celebrating her father’s 70th birthday. Almost skipped posting, but on Friday I stumbled on a Jim Grant interview that I couldn’t resist writing up.
 
 Jim was asked about the [recent article](http://blogs.wsj.com/moneybeat/2015/07/17/lets-be-honest-about-gold-its-a-pet-rock/) by WSJ’s Jason Zweig describing gold as a pet rock.
 
 
-  <img src="http://themacrotourist.com/pictures/PetrockJul2415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/PetrockJul2415.png" width="600" height="650">
+  <img src="http://themacrotourist.com/pictures/PetrockJul2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/PetrockJul2415.png" width="600" height="650">
 
 I have to admit, it’s a pretty good line. It makes a great headline.
 
@@ -30,7 +30,7 @@ Jim was quick to highlight another of the author’s previous stories. This arti
 In what can only be described as timing that would make a Bruno Mars jealous, Jason Zweig missed top ticking the GDX gold miner ETF by mere days.
 
 
-  <img src="http://themacrotourist.com/pictures/GDXJul2415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GDXJul2415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/GDXJul2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/GDXJul2415.png" width="600" height="342">
 
 He was only three bloody days early! Brilliant! And I am not talking about some interim top that was surpassed in the coming weeks. No, **Jason Zweig wrote that article within days of the ALL TIME HIGH IN GDX.** That price was never to be seen again, and we are now 80% lower.
 

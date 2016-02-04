@@ -22,14 +22,14 @@ tags:
 I continue to be amazed at the lack of concern with respect to the crazy volatility we are experiencing across a wide array of different asset classes. The latest gong show is the crude oil market, which in the space of two days rallied over 25%, only to give up 20% in a little more than 24 hours.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CrudeFeb0515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeFeb0515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CrudeFeb0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeFeb0515.png" width="600" height="342">
 
 Oil should not be having multiple 5&#8211;10% single day moves on a consistent basis. There is nothing happening that warrants this sort of volatility. It is not like we are in the middle of a war. 
 
 But oil is jumping around all over the place, and it is not alone. Volatility is going up in lots of different financial assets. For example, stock markets are experiencing large range expansions. And these range expansions are not the boring grinding up affairs of the previous couple of years. No, these range expansions are out of the blue quote jerking big moves.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESGIPFeb0515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESGIPFeb0515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESGIPFeb0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESGIPFeb0515.png" width="600" height="342">
 
 Everywhere you look volatility is going up. Whether it is the forex market with surprises like the Swiss Franc debacle, or even the previously old boring Japanese bond market which recently has decided to hop around like a dot com tech stock.
 
@@ -38,7 +38,7 @@ This expansion of volatility is not a good thing. Volatility is often a precurso
 As a trader I love this sort of action, but the investors out there should be battening down the hatches getting ready for the big storm. I don&#8217;t know when the storm is coming. It might be tomorrow, it might be next week or it might be six months from now. But make no mistake, this increase in volatility is an ominous cloud that is forming in the distance.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SimpsonFeb0515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SimpsonFeb0515.png" width="420" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SimpsonFeb0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SimpsonFeb0515.png" width="420" height="342">
 
 <hr size="3" width="85%" />
 
@@ -53,7 +53,7 @@ Yesterday&#8217;s late day volatility was the result of a headline from the ECB 
 This produced a big knee jerk panic out of risk assets. Of course by this morning most traders have figured out that Greek banks are able to get all the funding they need from the ECB&#8217;s emergency liquidity facility. Therefore although this is definitely a warning shot, it is far from a fatal blow. So just like that, the bull stampede into risky assets has resumed with the S&P 500 future regaining all it lost in yesterday&#8217;s final hour of trading.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESTwoFeb0515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESTwoFeb0515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESTwoFeb0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESTwoFeb0515.png" width="600" height="342">
 
 [I continue to think the market is overly optimistic](http://gfbblogs.azurewebsites.net/blog/2015/01/29/jan-2915-the-greeks-do-not-abide/) about the outcome of this stand off. 
 
@@ -62,7 +62,7 @@ I know it is easy to dismiss the Greeks as a bunch of delinquent dead beats tryi
 So far the Germans seem to be taking the hard line regarding the debts. I can&#8217;t seem to find the poll, but I read recently that the vast majority of Germans do not favour any debt forgiveness for the Greeks. Ahhh&#8230; the irony of Germany refusing to ease the shackles from an unrealistic debt burden is beyond words. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HegelFeb0515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HegelFeb0515.png" width="600" height="300">
+  <img src="http://themacrotourist.com/pictures/Azure/HegelFeb0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/HegelFeb0515.png" width="600" height="300">
 
 The Germans would be wise to listen to the words from their famous philosopher and think back to the conditions that ushered in the terrible events leading up to the Second World War. 
 
@@ -73,7 +73,7 @@ I have been wondering how long it would be before the people rise up and say eno
 We have hit that tipping point in Greece. The government will not acquiesce to the status quo. They were elected on the platform of changing the system. Although other leaders have mouthed these sentiments before (a certain leader whose campaign message of &#8220;change&#8221; springs to mind), in the past as soon as they have taken power they have sunk into a slightly different version of the previous government.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BarrackFeb0515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BarrackFeb0515.png" width="400" height="300">
+  <img src="http://themacrotourist.com/pictures/Azure/BarrackFeb0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BarrackFeb0515.png" width="400" height="300">
 
 This Greek government is different. The market has not realized that they will not bend at the last minute. They have nothing to lose and everything to gain. 
 

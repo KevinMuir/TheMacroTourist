@@ -23,12 +23,12 @@ tags:
   - VIX
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/oilJan1315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/oilJan1315.png" width="400" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/oilJan1315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/oilJan1315.png" width="400" height="342">
 
 Another day, and another chance for me to start my post with &#8220;the carnage in the oil market continued yesterday.&#8221; 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CrudeJan1315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeJan1315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CrudeJan1315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CrudeJan1315.png" width="600" height="342">
 
 The latest bout of selling is courtesy of the Goldman Sachs analyst who changed his forecast from $80 down to $42 for Brent. His analysis is based on the idea that the Gulf oil producers do not show any signs of being willing to cut output. No shit Sherlock. That is some pretty prescient analysis&#8230; Almost halving your target overnight sounds more like capitulation than any value added wisdom. Not only that, but it&#8217;s not like his call is based on some sort of brilliant insight that the rest of the market is missing. 
 
@@ -45,7 +45,7 @@ I am concerned about the fact that this call has been so wrong. The crude oil de
 One factor that I underestimated was the declining energy demand from Europe. Have a look at this great chart from the [Resource Crisis Blog](http://cassandralegacy.blogspot.it/2014/10/post-peak-italy-decline-in-oil.html):
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ItalyconsumptionJan1315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ItalyconsumptionJan1315.png" width="500" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ItalyconsumptionJan1315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ItalyconsumptionJan1315.png" width="500" height="342">
 
 Italy&#8217;s energy use hit a high in 2008 and has been steadily falling since then. It is down almost 25% in the last 5 years! That is a shocking decline. I would not expect robust growth out of Italy, but this was during a period when the global economy was supposedly _recovering_ from the great credit crisis of 2008. You would at least expect energy demand to go sideways during this period, or maybe even rise slightly. 
 
@@ -60,7 +60,7 @@ I suspected that the decline might get disorderly, and the volatility has explod
 But do not make the mistake of buying energy stocks as a way to play a short covering rally. The energy stocks are going to suffer from underperformance for many quarters to come. The stocks have not experienced the same sort of negativity as crude oil. In fact, it seems that many knife catchers have chosen to buy the energy stock ETF XLE instead of buying crude oil futures.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/XLEJan1315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/XLEJan1315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/XLEJan1315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/XLEJan1315.png" width="600" height="342">
 
 Even though the XLE has declined from $95 to $75 over the past quarter, the amount of shares outstanding has increased from 110 million to 151 million! This is not a market filled with negativity. This is a market stuffed full of knife catchers. 
 
@@ -73,6 +73,6 @@ I am sticking to buying actual crude oil instead of energy stocks. I still think
 It is not only crude oil that has experienced a pickup in volatility. Since the new year, the stock market has also been trading with a lot more zing. Although VIX is elevated, it might be headed even higher. Have a look at this chart of the VIX versus the inverted 5 year US break even rate.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VIXBEJan1315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/VIXBEJan1315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/VIXBEJan1315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/VIXBEJan1315.png" width="600" height="342">
 
 The relationship is not perfect, but it is interesting. I continue to be bearish on the US stock market, and even though implied volatility is elevated, it might still have more room to run.

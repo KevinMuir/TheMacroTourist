@@ -31,7 +31,7 @@ Right now there is little worry about inflation creeping back up. In fact it is 
 Government officials never correctly predict the next crisis. If they are worried about deflation, then I am worried about inflation!
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Lookingotherwaylion.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/Lookingotherwaylion.png" width="600" height="466" />Central Bankers on safari&#8230;</a>
+  <img src="http://themacrotourist.com/pictures/Azure/Lookingotherwaylion.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Lookingotherwaylion.png" width="600" height="466" />Central Bankers on safari&#8230;</a>
 </div>
 
 Sometime in the next year, while Central Bankers are busy battling the deflation ogre, I expect the inflation genie to be let out of the bottle, and we have all had experience trying to get our genies back in the bottle&#8230; 
@@ -41,7 +41,7 @@ When this happens, bonds will crater. For those that need to own fixed income, T
 For odd lotters like me, one way to put this trade on would be to buy the TIP ETF and short the TLT ETF (institutional traders &#8211; you promised no snickering!). I have made a chart that tracks the performance of this spread versus the US 10 Year Break Even rate:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TLTTIPUSBE10Mar1114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/TLTTIPUSBE10Mar1114.PNG" width="600" height="342" />US 10 Break even rate (white line) versus TIP/TLT spread</a>
+  <img src="http://themacrotourist.com/pictures/Azure/TLTTIPUSBE10Mar1114.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TLTTIPUSBE10Mar1114.PNG" width="600" height="342" />US 10 Break even rate (white line) versus TIP/TLT spread</a>
 </div>
 
 The spread tracked perfectly for many years, but broke down in the midst of the of monster bond bull market of 2011/12. During this divergence, it still tracked in the same direction, but the TLT-TIP spread narrowed much more than the US 10 Year Break Even rate. If you believe in mean reversion, then buying this spread offers even better value than directly trading the US 10 Break Even Rate.
@@ -63,7 +63,7 @@ I did not realize this on my own &#8211; it was in a ZeroHedge post that was bor
 The previous bull market from 2002&#8211;2007 lasted 5 years pretty well to the day. On Friday with the gap up from the unemployment number that was then aggressively sold, the current bull market turned 5 years old as well&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPX2002Mar1014.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPX2002Mar1014.PNG" width="600" height="342" />S&P 500 &#8211; 2002 rally in white with 2009 rally in yellow</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPX2002Mar1014.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPX2002Mar1014.PNG" width="600" height="342" />S&P 500 &#8211; 2002 rally in white with 2009 rally in yellow</a>
 </div>
 
 The chances of that being the high are pretty low, but wouldn&#8217;t it be stunning if it was? 
@@ -79,7 +79,7 @@ A couple of weeks ago I shorted a bunch of equity indexes. When Putin sent his t
 I am going keep my Nasdaq 100 and EuroStoxx 50 futures short, but I covered my Nikkei short yesterday. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NKYMar1114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NKYMar1114.PNG" width="600" height="342" />Nikkei index</a>
+  <img src="http://themacrotourist.com/pictures/Azure/NKYMar1114.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NKYMar1114.PNG" width="600" height="342" />Nikkei index</a>
 </div>
 
 Out of all the charts, this is the most bullish looking. And more importantly, the Bank of Japan is by far and away the most aggressive bank out there. There are better fights to pick than fading a Central Bank that is printing with such wild abandon&#8230;

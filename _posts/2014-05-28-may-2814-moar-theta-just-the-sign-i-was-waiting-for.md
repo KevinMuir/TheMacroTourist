@@ -29,13 +29,13 @@ I am not sure if my old boss changed the saying to reflect his experience, or if
 But I bet that famed hedge fund manager Ken Griffin didn&#8217;t lease the 72 foot Princess Yacht that he was spotted on this week-end.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PrincessMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PrincessMay2814.png" width="600" height="245" />72 foot Princess Yacht</a>
+  <img src="http://themacrotourist.com/pictures/Azure/PrincessMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PrincessMay2814.png" width="600" height="245" />72 foot Princess Yacht</a>
 </div>
 
 Now a billionaire hedge fund manager aboard a multi million dollar yacht is about as unique a sighting as Lindsay Lohan inside the Pink nightclub on her 17th red bull and vodka. But the name of Ken&#8217;s yacht is what is most interesting.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MoarThetaMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/MoarThetaMay2814.png" width="800" height="600" />Ken&#8217;s yacht</a>
+  <img src="http://themacrotourist.com/pictures/Azure/MoarThetaMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MoarThetaMay2814.png" width="800" height="600" />Ken&#8217;s yacht</a>
 </div>
 
 The name of the boat is &#8220;Moar Theta&#8221; which is a joke that only traders familiar with option pricing theory are going to understand. Theta refers to the measure of the rate of decline in the value of an option over time. Some traders like to think about it as the decay rate of the option. 
@@ -57,7 +57,7 @@ I was not smart (or bold) enough to sell volatility (short theta) during this pe
 Have a look at the iPath S&P 500 VIX volatility chart. This ETF was designed to track the VIX. It was created at the height of the crisis and has been on a consistent plunge lower ever since:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VXXMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/VXXMay2814.png" width="600" height="342" />iPath S&P 500 VIX ETF</a>
+  <img src="http://themacrotourist.com/pictures/Azure/VXXMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/VXXMay2814.png" width="600" height="342" />iPath S&P 500 VIX ETF</a>
 </div>
 
 I had to make the scale logarithmic because the constant halving of the ETF caused the decline to make it look too much like a waterfall. But I wanted to show how on a percentage basis, the product keeps declining. Have a look at the scale on the right. This product has gone from $10,000 to $33. 
@@ -81,7 +81,7 @@ I have been waiting for a sign that volatility is a screaming buy. I have been p
 This late spring push down to new lows peaked my interest.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VIXMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/VIXMay2814.png" width="600" height="342" />VIX index</a>
+  <img src="http://themacrotourist.com/pictures/Azure/VIXMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/VIXMay2814.png" width="600" height="342" />VIX index</a>
 </div>
 
 And then recently, I have noticed an increasingly frustrated group of traders that have given up trying to bet on a serious correction. Although many market participants seem to hate the market, they have completely abandoned trying to profit from a correction. This is part of the reason the VIX is collapsing. The fear has left the building. 
@@ -101,7 +101,7 @@ When I entered into my long GDX trade, I highlighted that I was prepared for it 
 At the risk of breaking the cardinal rule of trading by adding to a loser, I started to buy more GDX yesterday. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDXMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXMay2814.png" width="600" height="342" />GDX &#8211; Gold Miner ETF</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GDXMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXMay2814.png" width="600" height="342" />GDX &#8211; Gold Miner ETF</a>
 </div>
 
 I am sticking to my plan. I don&#8217;t think there is any rush as the chart looks terrible. Over the next couple of days I will continue to add to the trade.
@@ -111,7 +111,7 @@ The precious metals continue to stink up the joint, but I have a new theory that
 In the mean time, I want to highlight that last week GLD shares were actually created instead of being redeemed.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GLDSharesMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSharesMay2814.png" width="600" height="342" />GLD price vs GLD shares outstanding (yellow line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GLDSharesMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSharesMay2814.png" width="600" height="342" />GLD price vs GLD shares outstanding (yellow line)</a>
 </div>
 
 I know right now everything feels terrible for all things precious metals related. I am not yet ready to catch this falling knife by adding to my actual long metal position as this was the first day of the break down. But I will be adding, it is only a question of when. Real rates are going lower, not higher. The fundamental reasons for owning precious metals are getting stronger, not weaker. If the Fed was cranking rates in a Volcker style curve inverting campaign I could see abandoning my long precious metals trade. But in fact, just the opposite is happening. The precious metal downside price momentum is accelerating, but I refuse to hate it more as it goes lower. More to come tomorrow&#8230;
@@ -127,19 +127,19 @@ However I am concerned that he might have killed off a few brain cells while he 
 Have a look at a before and after picture:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BeforeAfterMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BeforeAfterMay2814.png" width="600" height="342" />Paul McCulley</a>
+  <img src="http://themacrotourist.com/pictures/Azure/BeforeAfterMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BeforeAfterMay2814.png" width="600" height="342" />Paul McCulley</a>
 </div></p> 
 
 Most commentators are comparing McCulley to the dude from The Big Lewboski:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ThedudeMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ThedudeMay2814.png" width="500" height="200" />The Dudes abide</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ThedudeMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ThedudeMay2814.png" width="500" height="200" />The Dudes abide</a>
 </div></p> 
 
 But I personally think it is no coincidence that the Bluth family from Arrested Development live in Newport Beach and that PIMCO&#8217;s headquarters are there as well. My suspicion is that Paul has been helping out Oscar with his &#8220;afternoon delight.&#8221;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AfternoondelightMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/AfternoondelightMay2814.png" width="600" height="342" />Afternoon Delight &#8211; aka Turtle killer weed</a>
+  <img src="http://themacrotourist.com/pictures/Azure/AfternoondelightMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/AfternoondelightMay2814.png" width="600" height="342" />Afternoon Delight &#8211; aka Turtle killer weed</a>
 </div>
 
 In all seriousness though, Paul is generally credited to bringing the term &#8220;Minsky moment&#8221; to the forefront of recent economic thinking.
@@ -151,4 +151,4 @@ Won&#8217;t it be ironic if his return marks the tipping point of this crazy cre
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay2814.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay2814.png" width="600" height="700"></p>

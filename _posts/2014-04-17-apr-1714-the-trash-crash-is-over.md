@@ -26,7 +26,7 @@ The trouble with liquidations is that you never know when they are going to end.
 I believe that the &#8220;Trash Crash&#8221; liquidation of 2014 has run its course. The hedge funds are no longer puking out positions, and in fact, if I had to guess, I think they are now set up with a lot of cash (or even short risk) waiting for the next big move downward.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/RaccoonsApr1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/RaccoonsApr1714.png" width="600" height="420" />Hedge fund managers waiting for the next decline</a>
+  <img src="http://themacrotourist.com/pictures/Azure/RaccoonsApr1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/RaccoonsApr1714.png" width="600" height="420" />Hedge fund managers waiting for the next decline</a>
 </div>
 
 Yesterday I covered my short equity hedges. I am late, and I would have preferred to have bought the lows a couple of days ago, but the only guys who seem to be able to do that are the ones reporting their trades on Twitter after the fact. 
@@ -46,12 +46,12 @@ I did a little research on their rationale and from what I can fathom, it can be
 Here is a chart of the natural gas in underground storage:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NatGasStorageApr1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NatGasStorageApr1714.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/NatGasStorageApr1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NatGasStorageApr1714.png" width="600" height="342"></p> 
 
 The storage is indeed at dangerously low levels. But what is really strange is that the natural gas market does not seem that concerned. Have a look at the chart of the nat gas curve:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NGCurveApr1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NGCurveApr1714.png" width="600" height="342" />Nat Gas curve for one year out</a>
+  <img src="http://themacrotourist.com/pictures/Azure/NGCurveApr1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NGCurveApr1714.png" width="600" height="342" />Nat Gas curve for one year out</a>
 </div></p> 
 
 The curve is basically flat right through the summer and does not start to rise until the winter months.
@@ -61,7 +61,7 @@ The curve is basically flat right through the summer and does not start to rise 
 Yesterday I bought each month of the nat gas curve out one year. If there is a squeeze I don&#8217;t know when it will happen, so I want to make sure I am long the right month. I also bought a little Birchcliff Energy which is Seymour Schulich&#8217;s energy company. I know that it has already moved a long way, but if the bulls are right about the nat gas price, then this move in BIR will have just started.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BIRApr1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BIRApr1714.png" width="600" height="342" />Birchcliff Energy</a>
+  <img src="http://themacrotourist.com/pictures/Azure/BIRApr1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BIRApr1714.png" width="600" height="342" />Birchcliff Energy</a>
 </div>
 
 I will be on the lookout for more ways to play this theme and will be most likely adding more nat gas names in the future.
@@ -79,7 +79,7 @@ I don&#8217;t think for a second that Japan is going to alter their policy. In f
 Given this belief, I need to have a short Yen position on. I was worried that the hedge funds were going to cover their large shorts and push the Yen higher, but if the general hedge fund de-risking is over, then their short Yen buybacks are probably behind us. You can see from the CFTC non-commercials net position that there was indeed some short covering over the last couple of months:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YenPositionApr1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YenPositionApr1714.png" width="600" height="342" />Yen CME Non-Commercial Net position</a>
+  <img src="http://themacrotourist.com/pictures/Azure/YenPositionApr1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/YenPositionApr1714.png" width="600" height="342" />Yen CME Non-Commercial Net position</a>
 </div></p> 
 
 Given the long run poor outlook for the Yen, I doubt we are going to get the speculators moving to a net long position (or even neutral), so the rise from short 150k contracts to short only 87k contracts is probably all we can ask for in terms of short covering.
@@ -87,7 +87,7 @@ Given the long run poor outlook for the Yen, I doubt we are going to get the spe
 Here is the chart of the Yen:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYApr1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYApr1714.png" width="600" height="342" />USDJPY (higher rate is Yen weakness)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/JPYApr1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYApr1714.png" width="600" height="342" />USDJPY (higher rate is Yen weakness)</a>
 </div></p> 
 
 Although I hope that support from 100.80 to 101.30 holds, I am going to prepare myself to ride this position for a longer time period than usual, and will sit through (and maybe even add) if we go down to 100 or below.
@@ -99,4 +99,4 @@ I am returning to my core long term short Yen.
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr1714.png" width="600" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr1714.png" width="600" height="600">

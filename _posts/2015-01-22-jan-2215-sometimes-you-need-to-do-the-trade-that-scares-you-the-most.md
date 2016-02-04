@@ -21,7 +21,7 @@ tags:
   - QE
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/DarthJan2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DarthJan2215.png" width="450" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/DarthJan2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DarthJan2215.png" width="450" height="600">
 
 There can be no denying that the worries about deflation have hit a feverish pitch over the past couple of weeks. Have a look at this article from CNN Money, reporting from Davos:
 
@@ -48,7 +48,7 @@ Although I am sympathetic to the argument that much of QE sits on banks balance 
 Maybe inflation is like when you are trying to get ketchup out of the end of the bottle.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/georgeJan2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/georgeJan2215.png" width="500" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/georgeJan2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/georgeJan2215.png" width="500" height="342">
 
 As it fails to come out, we hammer harder and harder on the ketchup bottle. We get more and more scared that there won&#8217;t be any ketchup for our burger. And then when we are convinced that it isn&#8217;t coming, it will pour all over our meal in a massive spurt.
 
@@ -57,6 +57,6 @@ I am going to make today&#8217;s post short as the excitement from Daghi&#8217;s
 I believe that QE programs are inflationary, or at the very least, they cause the yield curve to steepen. This is contrary to much of the rhetoric that you hear, but when you look at the data, the conclusion is clear. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Jan2215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10Jan2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Jan2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10Jan2215.png" width="600" height="342">
 
 There is no doubt that shorting bunds into the deflationary armageddon warnings from the likes of the &#8220;The Mooch&#8221; and the start of the ECB&#8217;s big QE program is scary, but I think that is why it might work. No one said this game is easy. Sometimes you need to do the trade that scares you the most. I think this is one of those times&#8230;

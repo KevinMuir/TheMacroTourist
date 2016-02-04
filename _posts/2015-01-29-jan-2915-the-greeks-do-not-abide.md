@@ -23,7 +23,7 @@ tags:
 **“The last line in Hotel California explains where we are: you can check out any time, but you can never leave,”** &#8211; Yanis Varoufakis, Greek Finance Minister, speaking about Greece&#8217;s membership in the EU.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EaglesJan2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EaglesJan2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EaglesJan2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EaglesJan2915.png" width="600" height="342">
 
 In the classic movie The Big Lebowski, the main character is called the Dude. His personal credo is &#8220;The Dude abides.&#8221; 
 
@@ -32,7 +32,7 @@ The new Greek government is pretty well the anti-thesis of the Dude. Not only do
 Minutes after being sworn into office (without a tie I might add), the new Greek Prime Minister Alexis Tsipras whisked off to visit the National Resistance Memorial in Kaisarian. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GreekPMJan2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GreekPMJan2915.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/GreekPMJan2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GreekPMJan2915.png" width="600" height="442">
 
 This war memorial stands on the spot that on May Day 1944, around 200 political activists were executed by Nazi forces. And this was not the case of an inexperienced PM making a faux pas. His spokesman spelled it out the message they were trying to send in black and white for everyone to see:
 
@@ -81,7 +81,7 @@ I suspect that the same mistake might be made with Greece. The Germans might fig
 The other problem with this game theory analysis is the idea is the assumption that Greece will be worse off on their own. I call bullshit on that idea. When Iceland told the financial community to take a hike on the idea that they would have to make good on their banks&#8217; losses, there was all sorts of dire warnings about Iceland&#8217;s long term viability. These doomsday predictors were nothing more than Chicken Littles. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/icelandJan2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/icelandJan2915.png" width="500" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/icelandJan2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/icelandJan2915.png" width="500" height="342">
 
 History has shown that in a global downturn, the economies of the nations that devalue their currency earliest, greatly outperform those that wait until the end. Currency devaluation might be a zero sum game, but _there can be winners and losers._ As I like to say, in currency devaluations bar fight rules apply &#8211; hit hard and hit first. 
 
@@ -90,4 +90,4 @@ If Greece leaves the Euro, it might be the greatest thing for their economy. The
 As for the markets, don&#8217;t assume it will all work itself out. The European political landscape has taken a dramatic turn with the election of the Syriza party. This will be an ugly process in which most markets are not yet realizing the turmoil that lies ahead.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DudetooJan2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DudetooJan2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DudetooJan2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DudetooJan2915.png" width="600" height="342">

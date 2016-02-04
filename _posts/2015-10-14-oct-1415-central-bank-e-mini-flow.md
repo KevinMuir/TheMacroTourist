@@ -15,7 +15,7 @@ tags:
 ---
 
   <img src="http://themacrotourist.com/pictures/CBOct1415.png
-" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CBOct1415.png
+" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CBOct1415.png
 " width="600" height="700">
 
 Earlier this week, another high profile macro hedge fund announced it was closing the doors. From the WSJ:
@@ -75,7 +75,7 @@ Take a guess at how many shares of Apple the Swiss National Bank holds? At the t
 Or how about the CME&#8217;s Central Bank incentive program?
 
 
-  <img src="http://themacrotourist.com/pictures/CMEOct1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CMEOct1415.png" width="600" height="600">
+  <img src="http://themacrotourist.com/pictures/CMEOct1415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CMEOct1415.png" width="600" height="600">
 
 Why would Central Banks ever need to bang around S&P 500 futures? 
 

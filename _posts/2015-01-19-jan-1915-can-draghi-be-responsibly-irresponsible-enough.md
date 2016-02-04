@@ -21,7 +21,7 @@ tags:
   - Paul McCulley
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/illegalJan1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/illegalJan1915.png" width="500" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/illegalJan1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/illegalJan1915.png" width="500" height="442">
 
 I googled &#8220;no-win situation&#8221; the other day, and the computer spit out a picture of ECB President Mario Draghi. I actually feel sorry for the guy. Although he understands the severity of the deflationary spiral that has engulfed Europe, the constraints of the European Union make it illegal for him to take the necessary actions. The Germans are insistent that the debt not be monetized. Although Draghi has valiantly fought for the right to execute various forms of quantitative easing, it has been a long uphill battle.
 
@@ -30,7 +30,7 @@ And herein lies the problem. The markets understand that Draghi has limits in hi
 Remember PIMCO&#8217;s Paul McCulley&#8217;s argument that to stop deflation the Central Bank needs to be &#8220;responsibly irresponsible?&#8221; Well, he actually took that from a Paul Krugman paper and although it loathes me to say this, I find myself agreeing with the cat loving bearded one.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/krugmanJan1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/krugmanJan1915.png" width="500" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/krugmanJan1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/krugmanJan1915.png" width="500" height="342">
 
 From Paul McCulley&#8217;s article titled &#8220;What if&#8221;:
 
@@ -41,14 +41,14 @@ From Paul McCulley&#8217;s article titled &#8220;What if&#8221;:
 I have a lot of problems with many of Krugman&#8217;s policies, but I think in this case, he has gotten it right. (I couldn&#8217;t resist putting in the next picture, which is not really relevant to this discussion, but does represent my main problem with Krugman&#8217;s policies, but more importantly just makes me laugh.)
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/krugman2Jan1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/krugman2Jan1915.png" width="500" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/krugman2Jan1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/krugman2Jan1915.png" width="500" height="600">
 
 The fact that the market understands that the ECB is constrained in its ability to be &#8220;irresponsible&#8221; is going to severely hamper the effectiveness of Draghi&#8217;s policies. Don&#8217;t forget that even the Fed had difficulties with their first two QE programs because they stated the size of the program in advance. **It wasn&#8217;t until the third QE program, which was unlimited in size, that the Fed was able to influence markets in their intended manner.** 
 
 Mario Draghi&#8217;s problem is made all the worse by the fact that he needs to achieve a consensus before instituting it. Therefore he has had to present his program to all the relevant parties, including even meeting directly with Merkel to get her blessing. The details of the program have undoubtedly been leaked, and although I am not in the know, I am sure the big hedge funds have most of the information already. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DAXEURJan1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DAXEURJan1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DAXEURJan1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DAXEURJan1915.png" width="600" height="342">
 
 Over the past week, the German DAX stock index has powered to new highs while the Euro has sunk to new lows. The market has front run the program, and we very well might be in an **&#8220;all baked in situation.&#8221;** 
 

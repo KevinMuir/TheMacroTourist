@@ -14,7 +14,7 @@ tags:
   - Zweig
 ---
 
-  <img src="http://themacrotourist.com/pictures/ZweigOct1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/ZweigOct1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/ZweigOct1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/ZweigOct1515.png" width="600" height="342">
 
 Over the past week my research feed has been filled with bulls celebrating the recent Zweig Breadth Thrust buy signal. At this point, you are probably nodding your head in agreement, or saying to yourself &#8211; &#8220;what the hell is a Zweig Breadth Thrust signal?&#8221; 
 
@@ -35,7 +35,7 @@ The following article from Business Insider titled [&#8220;A &#8216;Zweig Breadt
 Got that? When the 10 day exponential moving average of stocks rising tops 61.5% after being below 40% within the past two weeks, it is time to BUY! BUY! BUY! 
 
 
-  <img src="http://themacrotourist.com/pictures/CramerOct1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CramerOct1515.png" width="600" height="342" /> </a>
+  <img src="http://themacrotourist.com/pictures/CramerOct1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CramerOct1515.png" width="600" height="342" /> </a>
 </div>
 
 Far be it from me to rain on the bulls&#8217; parade, but let&#8217;s take a moment and really think about what a ZBT means. In layman&#8217;s terms; during a period with few rising stocks, it suddenly flips with a massive broad based buying frenzy, then a ZBT is triggered.
@@ -43,7 +43,7 @@ Far be it from me to rain on the bulls&#8217; parade, but let&#8217;s take a mom
 The legendary Martin Zweig devised the signal, and it has indeed had a great track record. But according to Quantifiable Edges, the signal is actually quite rare:
 
 
-  <img src="http://themacrotourist.com/pictures/QuantOct1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/QuantOct1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/QuantOct1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/QuantOct1515.png" width="600" height="342">
 
 Over the past 45 years, the signal has only triggered seven times. 
 
@@ -52,7 +52,7 @@ Have a look at those dates. Many of those triggers were the start of big bull ma
 But do you really think we are on the cusp of a new bull move? We have been rallying for the past 6 years. We are up over 200% since the lows. This is the point to get all bulled up?
 
 
-  <img src="http://themacrotourist.com/pictures/SPXOct1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/SPXOct1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/SPXOct1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/SPXOct1515.png" width="600" height="342">
 
 As per yesterday&#8217;s post, I think markets have changed. Central Bank direct intervention has distorted risk asset market signals.
 
@@ -67,19 +67,19 @@ Now maybe we rally from here, I am not ruling that out. But instead of counting 
 For the past six months I have been arguing the US economy (and stock market) could not handle the rising greenback. 
 
 
-  <img src="http://themacrotourist.com/pictures/DXYOct1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/DXYOct1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/DXYOct1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/DXYOct1515.png" width="600" height="342">
 
 This logic has finally sunk in at the Federal Reserve. The FOMC committee members are acknowledging at an unprecedented pace that the US dollar strength has been a much stronger than expected headwind. In this day and age of limited global growth, currency strength is a death knell for an economy. It happened to Japan in 2012, it happened to the Euro area in 2014, it crushed China this year, and it is only a matter of time before it seeps through to the United States. The fact that the US dollar rally has stalled, and might even be about to falter, might be a positive for risk assets going forward.
 
 But it will be tough for stocks to rally if the credit markets continue to melt. 
 
 
-  <img src="http://themacrotourist.com/pictures/CCCOct1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CCCOct1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CCCOct1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CCCOct1515.png" width="600" height="342">
 
 Credit spreads keep widening. Over the years I have learned the hard way that when bonds and stocks don&#8217;t agree, **go with the bonds.** The fact that spreads keep widening is troubling.
 
 
-  <img src="http://themacrotourist.com/pictures/JNKOct1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/JNKOct1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/JNKOct1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/JNKOct1515.png" width="600" height="342">
 
 Over the past week there has been a small bounce, but look at this chart &#8211; it is terrible looking. This is not the stuff of a bull market. I don&#8217;t see how you can get all bulled up on risk assets with credit spreads widening. 
 
