@@ -19,7 +19,7 @@ tags:
   - whale oil
 ---
 
-  <img src="http://themacrotourist.com/pictures/EuroShortsDec0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/EuroShortsDec0415.png" width="600" height="450">
+  <img src="http://themacrotourist.com/pictures/EuroShortsDec0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/EuroShortsDec0415.png" width="600" height="450">
 
 Mark Twain once opined it is ain&#8217;t what you don&#8217;t know that gets you in trouble, it&#8217;s what you know for sure that just ain&#8217;t so. Yesterday the market _&#8220;knew&#8221;_ the ECB&#8217;s Mario Draghi would once again over promise, yet still over deliver. Goldman Sach&#8217;s FX strategist Robin Brooke&#8217;s recommendation was typical of the extremely bearish sentiment:
 
@@ -28,27 +28,27 @@ Mark Twain once opined it is ain&#8217;t what you don&#8217;t know that gets you
 Yet instead of the Euro dropping 2 or 3 big figures, we got a 4 handle face ripper of a short covering rally. 
 
 
-  <img src="http://themacrotourist.com/pictures/EURDec0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/EURDec0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/EURDec0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/EURDec0415.png" width="600" height="342">
 
 The pain was especially acute in the short end of the Euro yield curve:
 
 
-  <img src="http://themacrotourist.com/pictures/GDBR2Dec0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/GDBR2Dec0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/GDBR2Dec0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GDBR2Dec0415.png" width="600" height="342">
 
 Now some may say that Draghi fell short on his promises. 
 
 Market pundits like Dennis Gartman had some pretty harsh words regarding the severity of the move in European markets.
 
 
-  <img src="http://themacrotourist.com/pictures/GartmanDec0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/GartmanDec0415.png" width="600" height="450">
+  <img src="http://themacrotourist.com/pictures/GartmanDec0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GartmanDec0415.png" width="600" height="450">
 
 **&#8220;In 40 years of trading, I have never seen anything like this.&#8221;** I think this comment is a tad disingenuous. With his talk of whale oil trading over the years, we all know Dennis has been trading for way, way longer than 40 years&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DennisMay0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DennisMay0515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DennisMay0515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DennisMay0515.png" width="600" height="342">
 
 
-  <img src="http://themacrotourist.com/pictures/GartmanKingDec0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/GartmanKingDec0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/GartmanKingDec0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GartmanKingDec0415.png" width="600" height="342">
 
 Not only that, but Dennis seems prone to a little hyperbole as the moves in the European markets were violent, but far from cataclysmic. 
 

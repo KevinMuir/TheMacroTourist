@@ -31,7 +31,7 @@ Over the last couple of years, the &#8220;Beach&#8221;, which is the broker nick
 As the world began to learn more about the so called &#8220;Bond King,&#8221; the picture became more disturbing. Instead of the kindly old grandfather that he played on CNBC and Bloomberg, Bill Gross was revealed to be an ill tempered tyrant. Sensing that the media tide was rising against him, the savvy Gross tried to fight back with his own campaign, but all that resulted were articles like this cover story from BusinessWeek:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GrossSep2914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GrossSep2914.png" width="600" height="450">
+  <img src="http://themacrotourist.com/pictures/Azure/GrossSep2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GrossSep2914.png" width="600" height="450">
 
 Even with El-Erian swept to the sidelines, Gross was unable to soothe things over internally at PIMCO. According to his superiors his behaviour was becoming increasingly erratic. It has been reported that he would not allow traders to look at him. Last year [I wrote about a strange Bill Gross article](http://gfbblogs.azurewebsites.net/blog/2014/04/02/apr-0214-pimco-and-the-top-in-the-bond-market/) where he seemed to gush all over the &#8220;brilliant&#8221; Michael Jackson. Who knew that not only did he admire Jackson&#8217;s music but might also have &#8220;mirrored&#8221; some of the strange behaviour as well. Although I am being facetious, there seems to be no doubt that Bill Gross suffered from a &#8220;God&#8221; complex that befalls too many rock stars like Michael Jackson. In a reported interchange between Gross and El-Elrian, Bill showed his true colours:
 
@@ -47,12 +47,12 @@ Gross thinks he should get a free pass on his last stumble due to his previous a
 Which brings me to the real point of this post. PIMCO&#8217;s parent company Allianz got crushed on Friday&#8217;s news.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ALVSep2914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ALVSep2914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ALVSep2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ALVSep2914.png" width="600" height="342">
 
 And Janus Capital, the company where Bill Gross is going to hang his hat, rocketed higher.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JNSSep2914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JNSSep2914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JNSSep2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JNSSep2914.png" width="600" height="342">
 
 Allianz lost almost $5 billion USD of market capitalization and Janus gained almost one billion on the news. These market reactions are just stupid. If this were a 45 year old hot bond manager like Jeff Gundlach, then maybe (and I stress maybe), this would be justified. 
 
@@ -61,7 +61,7 @@ However, let&#8217;s step back and think about this. Gross is a 70 year old bond
 Bill Gross reminds me of Michael Jordan.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JordanSep2914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JordanSep2914.png" width="600" height="442"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/JordanSep2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JordanSep2914.png" width="600" height="442"></p> 
 
 After sinking the game winning basket during the 1998 playoff season, Jordan retired at the top of his game. It was a perfect time to hang up the sneakers. It would have been difficult for Jordan to eclipse the accomplishments of his past seasons. He retired a true legend. But instead of being content with everyone remembering him like that, Jordan eventually hungered for the limelight. He returned a few years later to the Washington Wizards. By this time though, he was older and slower. No longer could he dominate as before. His seasons with the Wizards only faded the glory of his previous seasons. Instead of everyone solely remembering him as the legendary Chicago Bull, the image of a dull Washington Wizard too often competed in people&#8217;s minds.
 
@@ -105,14 +105,14 @@ I am not sure, but it is interesting that Fisher would venture so far out on a l
 Over the week-end the situation in Hong Kong took a dramatic turn for the worse. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HongKongSep2914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HongKongSep2914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/HongKongSep2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HongKongSep2914.png" width="600" height="342">
 
 I had a small long HKD position that I put on because of the Russia inflows into Hong Kong last month. Given the sudden unrest over the week-end, I quickly covered that position first thing this morning. I might be panicking, but the whole reason for my trade was that the Russian inflows might overwhelm the Hong Kong peg and it was a low risk long. The new developments make Hong Kong anything but stable, and I doubt that the new Russian flows are going to continue. 
 
 One of the traders on my desk at my old firm used to say, &#8220;Slay your dragons while they are small.&#8221; That is good advice and I am going to take it!
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/smalldragon.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/smalldragon.png" width="440" height="642">
+  <img src="http://themacrotourist.com/pictures/Azure/smalldragon.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/smalldragon.png" width="440" height="642">
 
 <hr size="3" width="85%" />
 
@@ -133,4 +133,4 @@ I am therefore going to combine both positions by simply getting long Yen calls.
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep2914-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep2914-1.png" width="600" height="542"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep2914-1.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep2914-1.png" width="600" height="542"></p>

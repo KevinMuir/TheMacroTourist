@@ -26,7 +26,7 @@ Although the public seems to be getting more emboldened with their stock market 
 I am cognizant of the fact that we are teetering on the verge of breaking out to new highs. And although we have not yet been able to pierce that level, neither have we collapsed and firmly rejected that notion.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXFeb2714.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXFeb2714.PNG" width="600" height="342" />S&P 500 &#8211; can&#8217;t break through</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPXFeb2714.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXFeb2714.PNG" width="600" height="342" />S&P 500 &#8211; can&#8217;t break through</a>
 </div>
 
 What concerns me the most is the fact that often bull moves finish with a massive spike to the upside that ends up being short in duration, but large in terms of price. Given the increasingly frothy nature of the market, I am concerned that this is a definite possibility.
@@ -42,20 +42,20 @@ However when I see Forbes&#8217; article titles such as the following, I know it
 Although the bulls have all sorts of methods of justifying Facebook&#8217;s $19 billion acquisition of WhatsApp &#8211; it is all smoke and mirrors. Zuckerberg paid $42 per user for a messaging app whose popularity is largely driven by the company&#8217;s promise to never deliver an ad to users. The service is also free for the first year, with the low price of $1 per year to kick in after that. I get it that Facebook trades at over $100 per user, so assuming that the market will continue to pay this sort of premium for Facebook, these sorts of deals are accretive for Facebook. But come on. This isn&#8217;t some sort of unique technology that is not easily copied. I am not surprised that that Facebook is trying to buy users. But I am surprised (and alarmed) by the fact that the market is eating this shit up so eagerly. If after the deal was announced the market had rightfully punished Facebook by sending the stock down (even marginally), then it would have sent the right message. But instead the eager fools drove Facebook up to new highs on the news.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FBFeb2714.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FBFeb2714.PNG" width="600" height="342" />Facebook pushing up to new highs</a>
+  <img src="http://themacrotourist.com/pictures/Azure/FBFeb2714.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FBFeb2714.PNG" width="600" height="342" />Facebook pushing up to new highs</a>
 </div>
 
 This is the stuff of bubbles &#8211; no doubt about it. Who knows how long this can continue, but it is my belief (hope) that the market will figure out before it gets too much worse. Many market pros are too young to remember the origins of the phrase &#8220;jump the shark.&#8221; Not me. I remember all too well the Happy Days episode where Fonzi put on the water skis (leather jacket and all) and jumped over the shark.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JumpSharkFeb2714.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JumpSharkFeb2714.jpg" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JumpSharkFeb2714.jpg" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JumpSharkFeb2714.jpg" width="600" height="342">
 
 I think that might as well be Zuckerberg on the water skis. This purchase is just money out the window. And although I am aware of what Keynes said about bubbles and solvency, I have to believe that the big smart money is going to have a look at this deal and start selling. I think this move from $65 might be the last gasp before reality sets in. 
 
 Although I have used this picture before, I can&#8217;t resist putting it in again. I guess that is what happens when you are a big Lord of the Rings geek.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ModorFeb2114.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ModorFeb2114.jpg" width="600" height="342" /><br /> </a>
+  <img src="http://themacrotourist.com/pictures/Azure/ModorFeb2114.jpg" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ModorFeb2114.jpg" width="600" height="342" /><br /> </a>
 </div>
 
 And then let&#8217;s talk about Tesla. I guess at least I can take solace in the fact that Musk is a Canadian and actually creating something that will benefit the world. But I am still struck by how much this resembles 1999. Three days ago Morgan Stanley issued a super bullish analyst report and spiked the stock higher by 14%. Then yesterday the company announced a big convertible bond issue. The part that is most shocking is that market participants are surprised at the fact that Morgan Stanley had managed to weasel their way into the deal and there might be a conflict of interest. The comment from Casablanca doesn&#8217;t do this justice. It is like telling Charlie Sheen and Lindsay Lohan to host a party and then being surprised that there were drugs at the party. I don&#8217;t begrudge Musk&#8217;s masterful playing of Wall Street, but I do feel as capital allocators, we are once again doing a poor job. The public is repeating the error from 1999 of blindly participating in analyst led bubbles. Did we not learn anything from that period of stupidity? Did we not learn anything from Jack Grubman and the farce that was his analysis? 
@@ -63,7 +63,7 @@ And then let&#8217;s talk about Tesla. I guess at least I can take solace in the
 Here is today&#8217;s Tesla analysis from the Merrill Lynch analyst. This seems more appropriate given the massive risks associated with this stock, but this report does not seem to be getting any traction.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MLTWTRFeb2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MLTWTRFeb2714.png" width="600" height="595">
+  <img src="http://themacrotourist.com/pictures/Azure/MLTWTRFeb2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/MLTWTRFeb2714.png" width="600" height="595">
 
 As I said &#8211; I am happy that at least Musk is getting extremely cheap financing to build his dream. I have nothing against the business and think it is a great company led by a great entrepreneur. But I have lots of problem with the _price_ that investors are paying for that company. As Musk himself said half a year ago (and $83 lower);
 
@@ -72,7 +72,7 @@ As I said &#8211; I am happy that at least Musk is getting extremely cheap finan
 This sure looks like 1999&#8230; only the symbols are different&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TSLAFeb2714.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TSLAFeb2714.PNG" width="600" height="342" />TSLA &#8211; it&#8217;s the stock that is on fire (irrespective of the cars also being on fire)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/TSLAFeb2714.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/TSLAFeb2714.PNG" width="600" height="342" />TSLA &#8211; it&#8217;s the stock that is on fire (irrespective of the cars also being on fire)</a>
 </div>
 
 I have to admit there is one way that today is different versus 1999. Fifteen years ago it was Linux stocks or telecom startups that were doubling every week. Today Nancy Reagan&#8217;s &#8220;just say no&#8221; campaign is long forgotten and marijuana companies are becoming half billion dollar companies overnight.
@@ -80,7 +80,7 @@ I have to admit there is one way that today is different versus 1999. Fifteen ye
 Have a look at this insanity. Here is a chart for **Advanced Canabis Solutions**.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CANNFeb2614.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CANNFeb2614.PNG" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CANNFeb2614.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CANNFeb2614.PNG" width="600" height="342">
 
 Here is the Bloomberg description for this company:
 
@@ -91,7 +91,7 @@ What I like best about this company is the market capitalization at yesterday&#8
 And it is not just me that is noticing the increased froth. Have a look at this great tweet from tech analyst Paul Kedrosky:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SpecialPurposeFeb2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SpecialPurposeFeb2614.png" width="600" height="110">
+  <img src="http://themacrotourist.com/pictures/Azure/SpecialPurposeFeb2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SpecialPurposeFeb2614.png" width="600" height="110">
 
 And it&#8217;s not equities only. Have a look at the recent warnings from Goldman&#8217;s head of credit:
 
@@ -116,7 +116,7 @@ I have been pounding the table on the fact that _no one_ thinks there is any cha
 I recently came across this great graph that Bloomberg Reporter Matthew Boesler tweeted:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CPIExpectationsFeb2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CPIExpectationsFeb2614.png" width="600" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/CPIExpectationsFeb2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CPIExpectationsFeb2614.png" width="600" height="600">
 
 Basically no one thinks inflation is coming anytime soon. All the better for us&#8230; 
 

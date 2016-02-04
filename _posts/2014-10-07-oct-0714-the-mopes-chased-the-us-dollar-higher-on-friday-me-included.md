@@ -21,22 +21,22 @@ tags:
 I read this great blog called [The Short Side of Long](http://shortsideoflong.com) whose tag line is **&#8220;When it&#8217;s obvious to the public, it&#8217;s obviously wrong.&#8221;** I couldn&#8217;t agree more with this sentiment. I try to avoid trading with the herd on emotional days like last Friday&#8217;s unemployment number release, but sometimes if I have been too aggressive going into the number, I don&#8217;t have the emotional fortitude to stick it out. So, I end up puking into the hole, along with all the other mopes. Then I end up looking like this guy, who had been long Yen because he is sure &#8220;Abeconomics was going to fail&#8221;, but covered it on Friday because he couldn&#8217;t take the pain any longer.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/sleepingOct0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/sleepingOct0714.png" width="500" height="500">
+  <img src="http://themacrotourist.com/pictures/Azure/sleepingOct0714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/sleepingOct0714.png" width="500" height="500">
 
 Although I traded it like a complete amateur, I am not surprised that Friday&#8217;s move has being completely retraced.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYOct0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYOct0714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYOct0714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYOct0714.png" width="600" height="342">
 
 The Market Gods do not make this game easy, and the more obvious the technical pattern, the more likely it is that it is a trap.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/itsatrapOct0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/itsatrapOct0714.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/itsatrapOct0714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/itsatrapOct0714.png" width="600" height="442">
 
 Going into Friday&#8217;s unemployment number the US dollar&#8217;s rally was extremely extended, and although the action on the day of the release was about as bullish as you could get, it quickly became a &#8220;it&#8217;s all baked in situation.&#8221;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYLTOct0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYLTOct0714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYLTOct0714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYLTOct0714.png" width="600" height="342">
 
 It seems that yesterday&#8217;s action confused many market watchers. I saw a lot of bewildered comments in my twitter stream. It seemed like many markets were moving in the opposite direction of what the fundamentals dictated. 
 
@@ -63,7 +63,7 @@ The Germans are the real impediment to Draghi expanding the balance sheet aggres
 Don&#8217;t forget that since the start of Abeconomics, the Euro has appreciated almost 50% against the Yen.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURJPYOct0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURJPYOct0714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EURJPYOct0714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURJPYOct0714.png" width="600" height="342">
 
 No wonder the European economy is sucking wind. Imagine you are BMW trying to compete against Toyota. Yes, I know they both have plants all over the world, but the German and Japanese economies are both export powerhouses, so this massive currency move has _got to have an effect._ 
 
@@ -76,4 +76,4 @@ I am also going to use the recent US dollar weakness to add to my long position.
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct0714.png" width="600" height="322"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct0714.png" width="600" height="322"></p>

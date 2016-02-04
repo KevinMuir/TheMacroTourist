@@ -17,7 +17,7 @@ tags:
   - SPY
 ---
 
-  <img src="http://themacrotourist.com/pictures/MeerkatNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/MeerkatNov1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/MeerkatNov1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/MeerkatNov1215.png" width="600" height="342">
 
 Yesterday the world&#8217;s largest hedge fund posted their third quarter 13F filing. Due to security regulations, Bridgewater Associates has to divulge their US stock holdings on a quarterly basis, and market participants often study Bridgewater&#8217;s (and other large hedge funds&#8217;) portfolio changes with keen interest.
 
@@ -44,26 +44,26 @@ Bridgewater is a monster hedge fund that takes weeks and sometimes months to exi
 If anything you want to be thinking about taking the other side of their trade. The fact that Bridgewater is no longer overhanging the market with their trigger finger volatility based strategies is a positive for returns going forward, not the other way round. Most of these hedge funds are not the friend of the long term investor. And from a short term perspective, when they demand liquidity, they can often push assets down to levels that make a lot of sense to fade&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/FadingmeNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/FadingmeNov1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/FadingmeNov1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/FadingmeNov1215.png" width="600" height="342">
 
 I know emerging market equities are about as popular as baggy khakis and Celine Dion records, but the continued selling just makes them all the more appealing for an investor with a time horizon past month end marking. 
 
 The recent rally in the S&P 500 has not been followed with a rise in emerging markets equities.
 
 
-  <img src="http://themacrotourist.com/pictures/EEMSPYNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/EEMSPYNov1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/EEMSPYNov1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/EEMSPYNov1215.png" width="600" height="342">
 
 The face ripping rally in spooz has been contrasted with a big slump in emerging markets. The spread between the two assets has blown out to previous wides:
 
 
-  <img src="http://themacrotourist.com/pictures/RegressionNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/RegressionNov1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/RegressionNov1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/RegressionNov1215.png" width="600" height="342">
 
 Emerging market equities are particularly sensitive to US dollar strength. So it is no surprise they have been stinking up the joint as the US dollar has rallied off the Fed&#8217;s increasingly hawkish chatter.
 
 But the interesting development is that even though the US dollar has rallied back to previous highs, emerging market equities are hanging in there.
 
 
-  <img src="http://themacrotourist.com/pictures/DXYEEMNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/DXYEEMNov1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/DXYEEMNov1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/DXYEEMNov1215.png" width="600" height="342">
 
 The last time the US dollar was at this level, emerging market equities were much lower.
 
@@ -74,17 +74,17 @@ There is every reason for emerging market equities to be much lower, but they ar
 And when you examine currencies that are more sensitive to emerging market economies, there is a definite trend. They have stopped going down. Have a look at the Australian Dollar:
 
 
-  <img src="http://themacrotourist.com/pictures/AUDNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/AUDNov1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/AUDNov1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/AUDNov1215.png" width="600" height="342">
 
 Or the Brazilian Real:
 
 
-  <img src="http://themacrotourist.com/pictures/BRLNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BRLNov1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/BRLNov1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/BRLNov1215.png" width="600" height="342">
 
 And even the Mexican Peso looks decent:
 
 
-  <img src="http://themacrotourist.com/pictures/MXNNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/MXNNov1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/MXNNov1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/MXNNov1215.png" width="600" height="342">
 
 The US dollar strength seems to be concentrated against other developed nations that are not tied as much to emerging markets (for example the Euro). 
 

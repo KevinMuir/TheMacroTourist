@@ -10,7 +10,7 @@ categories:
   - macro
 ---
 
-  <img src="http://themacrotourist.com/pictures/Meditation.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Meditation.png" width="500" height="600">
+  <img src="http://themacrotourist.com/pictures/Meditation.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Meditation.png" width="500" height="600">
 
 That&#8217;s it for the MacroTourist for the rest of the summer. I am off on vacation until Labour Day. 
 

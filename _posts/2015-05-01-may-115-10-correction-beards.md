@@ -17,14 +17,14 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/JesseFelder.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JesseFelder.png" width="500" height="500">
+  <img src="http://themacrotourist.com/pictures/Azure/JesseFelder.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JesseFelder.png" width="500" height="500">
 
 One of the guys I follow on Twitter is an ex-Bear Stearns guy who now writes his own newsletter. He is a smart shrewd fellow, and even more importantly, he makes me laugh. His name is [Jesse Felder](http://jessefelder.tumblr.com/post/112242999915/this-is-my-10-beard-its-about-5-months-old-now) and last fall he decided he wouldn&#8217;t shave until the stock market experienced a 10% correction. Think about it as a playoff hockey beard if you may (for my non-Canadian readers, NHL players often don&#8217;t shave during the entire playoffs and by the time they get to the Stanley Cup finals, there are some pretty burly looking players). Well, even the NHL playoffs don&#8217;t last as long as the market has managed to go without a 10% correction. I am actually a little worried about Jesse as the picture above was taken in February, so he has another two months of growth since then, and the stock market is still miles away from a 10% correction. 
 
 But Jesse&#8217;s bearded quest has a silver lining. We can use it as the ultimate timing tool. I wish I had thought of it, but another one of the guys I follow on Twitter realized it first. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ShaggyMay0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ShaggyMay0115.png" width="400" height="250">
+  <img src="http://themacrotourist.com/pictures/Azure/ShaggyMay0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ShaggyMay0115.png" width="400" height="250">
 
 <hr size="3" width="85%" />
 
@@ -35,7 +35,7 @@ It&#8217;s Friday and I will keep today&#8217;s post short and sweet. But I want
 Over the past half a dozen years, the bond market **_and_** the stock market have both rallied together. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPYMay0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPYMay0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPYMay0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPYMay0115.png" width="600" height="342">
 
 Why can&#8217;t they both go down together? 
 
@@ -54,7 +54,7 @@ They say that copper is the metal with a PHD in economics. Well, if that is the 
 Yesterday as the US dollar was rallying hard and they were knocking the stuffing out of gold and silver, copper was quietly rallying. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HGAMay0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HGAMay0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/HGAMay0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HGAMay0115.png" width="600" height="342">
 
 Copper should have been down with the other metals, but it was strangely strong. Maybe just like the bond market, copper is sniffing out a coming economic expansion.
 

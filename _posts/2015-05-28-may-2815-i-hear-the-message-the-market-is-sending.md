@@ -18,7 +18,7 @@ tags:
   - yield curve
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/BenderRates.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BenderRates.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BenderRates.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BenderRates.png" width="600" height="342">
 
 We are currently mired in a strange period for the markets. The Federal Reserve would like to get on with the removal of their zero interest rate policy. Nothing would make them happier than if the economy showed enough strength to necessitate a rate hike. The problem is that although there are some signs of encouragement, there is precious little evidence the economy is strong enough to justify raising rates. 
 
@@ -45,7 +45,7 @@ I am a little concerned with the market action over the past couple of weeks. Th
 Let&#8217;s start with the yield curve. Nothing screams economic slowdown more than a flattening yield curve. The current US yield curve is by no means flat, yet the direction of the change in slope still gives important clues as to what is happening in the economy. During most of 2014 the yield curve was flattening, but during the first quarter of 2015 the trend stopped, and then during most of April, the curve steepened. This was a positive development as it meant there was demand for credit. Corporations, individuals and governments were all collectively creating credit (taking out loans) which pushed the curve steeper. Obviously the analysis is not quite this easy. There are dozens of different factors which affect the shape of the yield curve. Everything from market participants&#8217; expectations of Fed policy to foreign Central Bank monetary operations all influence the shape of the curve. Despite this, the curve still gives reliable signals about the overall demand for credit. However, this credit expansion seems to have slowed.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US210May2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/US210May2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/US210May2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/US210May2815.png" width="600" height="342">
 
 The spread between the 2 and 10 year US treasury curve was showing encouraging signs of the demand for credit increasing, but this trend recently reversed. Now maybe this is just a pause, but I would prefer to see the curve steepening, not flattening to be optimistic about economic future economic growth. 
 
@@ -54,26 +54,26 @@ The US dollar is also showing worrying signs of economic weakness. Again, it is 
 Recently the US dollar has been rising, but I do not believe this is the result of increased investment demand. I think the US dollar is going up because the supply of dollars is not increasing fast enough. Currencies are just like any other commodity &#8211; they are priced at the point where the supply and demand curve meet. When the US economy is creating credit, the supply of US dollars is increasing. If credit is being destroyed, then the supply of US dollars is decreasing. Therefore it is possible an increasing US dollar is actually a sign of economic weakness. We saw this occur with the credit crisis of 2007/8 when the US dollar soared. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXY2008May2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXY2008May2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXY2008May2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXY2008May2815.png" width="600" height="342">
 
 We also saw the same phenomenon when the Japanese tsunami hit. The Yen rallied on the initial news of the terrible tragedy.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPY2011May2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPY2011May2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JPY2011May2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPY2011May2815.png" width="600" height="342">
 
 It then sold off as capital fled Japan in the days after the disaster. But as the Japanese economy contracted, credit was destroyed and the supply of Yen shrunk. Even though it was perverse, the Yen actually rallied hard as the Japanese economy stumbled into a severe economic slump.
 
 Over the past year the US dollar has been rising. I am not suggesting the reason for this rise is solely the result of credit destruction. However, I do believe that tightening credit conditions slowed down the creation of US dollars, and this contributed to the rally.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYMay2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYMay2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYMay2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYMay2815.png" width="600" height="342">
 
 It is no surprise the US stock market hit new highs as the dollar rally tailed off in late April. And it is also not unusual for the stock market to be stumbling as the US dollar rally has resumed over the past week. The US dollar rally is yet another sign that credit might be too tight. 
 
 The other worrisome signal is the recent decline in risk and hard assets. Have a look at the CRB Spot Industrial index:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CRBIndMay2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRBIndMay2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CRBIndMay2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CRBIndMay2815.png" width="600" height="342">
 
 This is not the kind of action you would expect from an economy about to explode to the upside. 
 
@@ -96,7 +96,7 @@ I would feel a lot better if the yield curve went back to steepening, the US dol
 I was fortunate enough to short Yen last week. Since then, the Yen has plunged to new lows for this move. Although I might be getting a little too cute, I am covering all my position. This ended up being a great trade, but I get the sense with the lack of any real obvious trades out there in macro land, too many momentum monkeys have climbed aboard the breakout. I will therefore ring the register and watch from the sidelines.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYMay2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYMay2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JPYMay2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYMay2815.png" width="600" height="342">
 
 If this is the big one that spirals out of control, then I guess I will miss it. But I sure hope that isn&#8217;t the case&#8230;
 

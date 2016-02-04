@@ -16,7 +16,7 @@ tags:
   - Yen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/AmericanConsumer.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AmericanConsumer.png" width="500" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/AmericanConsumer.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/AmericanConsumer.png" width="500" height="600">
 
 Over the past week or so, I have adjusted my expectations for economic strength in the coming months downward. I am perplexed by the American economy&#8217;s inability to achieve a self sustaining virtuous expansion. And it seems like I am not the only one. Yesterday, the Wall Street Journal&#8217;s most plugged in Fed watcher Jon Hilsenrath, penned a blog piece that wondered out loud why US shoppers refuse to open their wallet.
 
@@ -77,17 +77,17 @@ In the coming weeks more economic optimists will throw in the towel. My suspicio
 The recent Japanese Yen decline is generating a lot of excitement from the fast money crowd. Even though many of our hedge fund friends gave up on the trade in the beginning part of 2015, once the JPY rate broke out late last month, the technical action has drawn them in like middle aged white urban couples to a farmers&#8217; market.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYJun0215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYJun0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JPYJun0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYJun0215.png" width="600" height="342">
 
 The CFTC commitment of traders report shows how they almost entirely flattened their position in April, but by the end of May cranked their short position right back up.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YenCFTCJun0215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/YenCFTCJun0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/YenCFTCJun0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YenCFTCJun0215.png" width="600" height="342">
 
 I was lucky enough to catch the short position before the breakout, but as usual I am too scared about the crowded nature of the trade to stick with it. And this fear is only getting stronger when I see videos on Bloomberg with the title &#8220;How Low can the Yen go?&#8221;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HowLowYenJun0215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HowLowYenJun0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/HowLowYenJun0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HowLowYenJun0215.png" width="600" height="342">
 
 When Prime Minister Abe first embarked on his aggressive Abeconomics program, the market was skeptical it would work. They did not believe he had the determination to print enough to offset the deflationary vicious circle. We now know this to be incorrect. Abe has done more than anyone expected, and shows _no signs of letting up_. 
 
@@ -118,7 +118,7 @@ I know I have been a little tough on Apple&#8217;s new watch. I have slammed it 
 Well, I take all that back. I didn&#8217;t realize the true hipness of this new Apple Watch until I saw this recent picture of the latest convert.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NewtApple.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NewtApple.png" width="500" height="500">
+  <img src="http://themacrotourist.com/pictures/Azure/NewtApple.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NewtApple.png" width="500" height="500">
 
 If it is good enough for Newt Gingrich, then I am sure the millennials will be right behind him on the style train.
 

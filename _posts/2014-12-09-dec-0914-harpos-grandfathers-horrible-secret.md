@@ -18,7 +18,7 @@ tags:
   - HYG
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/HarpoDec0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HarpoDec0914.png" width="450" height="700">
+  <img src="http://themacrotourist.com/pictures/Azure/HarpoDec0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HarpoDec0914.png" width="450" height="700">
 
 Sometimes a mistake is so cringe worthy that all you can do is shake your head and laugh. Like this book cover. What the hell were they thinking when they drew up that cover? And how did it make it past the editors? In case you think I have been spoofed by the internet, here is the link to the [google book](http://books.google.com/books/about/Harpo_s_Horrible_Secret.html?id=hoHsAAAACAAJ). According to the book&#8217;s synopsis, Harpo&#8217;s horrible secret is that he thinks he is suffering from Alzheimer&#8217;s just like his grandfather.
 
@@ -31,7 +31,7 @@ High yield ETFs, leveraged bank loan ETFs, oil & gas MLPs &#8211; you name it, i
 For example, one of Harpo&#8217;s grandfather&#8217;s favourite position is the PowerShares Senior Loan portfolio ETF. His advisor sold it to him as a great t-bill replacement. They are senior loans, so the risk is less than high yield bonds. It has an indicated yield of almost 4% and was supposedly safe enough that Harpo&#8217;s grandfather could sleep soundly at night.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BKLNDec0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BKLNDec0914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BKLNDec0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BKLNDec0914.png" width="600" height="342">
 
 As you can see from the shares outstanding, this has been a very popular trade. The shares outstanding went from 10 million at the start of 2012 to 300 million two years later. The trouble is that these purchases were all done when the loans were already fully priced. 
 
@@ -44,7 +44,7 @@ But the problem is that the loans have not gone sideways. The price has started 
 Credit spreads are widening out almost across the entire corporate curve.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BarCapDec0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BarCapDec0914.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/BarCapDec0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BarCapDec0914.png" width="600" height="342"></p> 
 
 This is the result of a bunch of different influences. The Fed&#8217;s withdrawal of liquidity, and the backing up of the short end of the curve is weighing heavily. It also doesn&#8217;t help that companies are taking advantage of the relatively low rates and issuing bonds at a blistering pace. I think that the past week there was an all time record amount of corporate bond issuance. On top of that, the terrific stock market performance of the past year has convinced the retail investor that maybe the coast is clear and that buying stocks is a good idea. They had previously been hiding in fixed income, so at the margin they are selling fixed income to buy stocks. And finally, the plunging oil price has definitely had an influence on the high yield market as there has been an awful lot of debt issued to fund the shale oil boom. Suddenly that debt doesn&#8217;t look so secure.
 

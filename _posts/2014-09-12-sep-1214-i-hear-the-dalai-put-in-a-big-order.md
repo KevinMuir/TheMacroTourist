@@ -26,12 +26,12 @@ This morning we are getting news that the Alibaba dog and pony show has been so 
 And who can blame all the investors lining up to buy this thing? In this day and age, everyone is embracing technology with a gusto.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HipsterSep1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HipsterSep1214.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/HipsterSep1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HipsterSep1214.png" width="600" height="442">
 
 I hear even these guys use Alibaba &#8211; though the Dalai Lama is more of a Facebook/Amazon guy out of principle (with a little <www.rockbottomgolf.com> thrown in there for good measure.) 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CarlSep1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CarlSep1214.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/CarlSep1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CarlSep1214.png" width="600" height="400">
 
 It is a testament to today&#8217;s environment that this IPO can be floated so easily. This is going to be the largest IPO in history. Facebook only sold a measly $16 billion of stock on its trading debut. Even financial juggernut VISA only managed to float just a shade under $20 billion dollars. 
 
@@ -56,7 +56,7 @@ The supply demand picture for equities has changed, and not for the better&#8230
 Don&#8217;t look now, but yields are breaking higher across the globe.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ThreeYieldsSep1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ThreeYieldsSep1214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ThreeYieldsSep1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ThreeYieldsSep1214.png" width="600" height="342">
 
 I am a big bear on bonds and it looks like the market might finally be agreeing with me. **I still contend that QE programs are inflationary and that the ECB balance sheet expansion announcement will mark the bottom in yields.**
 
@@ -78,5 +78,5 @@ Yup, with credit spreads at all time lows and short term rates being at zero for
 
 
   <img src="http://themacrotourist.com/pictures/Azure/PositionsSep1214.png
-"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep1214.png
+" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep1214.png
 " width="600" height="442"></p>

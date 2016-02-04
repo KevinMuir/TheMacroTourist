@@ -46,11 +46,11 @@ I contend that no amount of regulation is going to stop the next bubble. If you 
 All this talk about not repeating the same mistake was nothing more than talk. The same policies are being followed and we can expect the same results. In fact, given the magnitude of the monetary stimulus, I expect the bubble to be even bigger than ever.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HistoryMay1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HistoryMay1514.png" width="500" height="575">
+  <img src="http://themacrotourist.com/pictures/Azure/HistoryMay1514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HistoryMay1514.png" width="500" height="575">
 
 <hr size="3" width="85%" />
 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay1514.png" width="600" height="725"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay1514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay1514.png" width="600" height="725"></p>

@@ -21,14 +21,14 @@ tags:
 When the MacroTourist and family visited the UK a couple of years ago, we spent the first week in Ireland. Although we enjoyed ourselves tremendously in England and Scotland, I found myself with a real soft spot in my heart for the Irish. I don&#8217;t know if this was the result that as a Canadian, I always think about our country as the underdog compared to our dominant US neighbour, and therefore find myself more sympathetic to the Irish. Or whether it was the simple fact Ireland has enough of a sense of humour to have a store called &#8220;Knobs and Knockers&#8221; in its downtown centre.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/KnobsMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/KnobsMar1715.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/KnobsMar1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/KnobsMar1715.png" width="600" height="442">
 
 For whatever the reason, the warm, friendly nature of the Irish people have forever earned their country top marks as one of my favourite places to visit. 
 
 While we were in Ireland we stopped in at the Guinness factory where our three children (who were 8, 11 and 13 at the time) had their first (and somehow doubtful for last) taste of beer. Today is St. Patrick&#8217;s day, and I am quite confident there might be some more Guinness consumed today as the world celebrates Ireland&#8217;s most famous holiday.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/bearsMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/bearsMar1715.png" width="400" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/bearsMar1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/bearsMar1715.png" width="400" height="600">
 
 For those of us that can&#8217;t slip into the pub to celebrate, we are forced to sit at our trading desks and confront the very real possibility there might indeed be bears straight ahead.
 
@@ -61,7 +61,7 @@ Yet Janet Yellen has a big problem. I am sure she would also love to have rates 
 The US economic data has been consistently weaker than expectations during the past few months.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CESIUSDMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CESIUSDMar1715.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/CESIUSDMar1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CESIUSDMar1715.png" width="600" height="342"></p> 
 
 The US is finding it is not immune to the global economic slump. The threats of higher rates are even causing the problem to be all the worse. During the past six months the US dollar has risen at a rate that is the fastest in the history of modern day finance. This is causing more uncertainty and difficulty for companies dealing with the quickly changing economic conditions.
 

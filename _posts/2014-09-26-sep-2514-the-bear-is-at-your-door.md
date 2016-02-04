@@ -21,7 +21,7 @@ tags:
 In what I can only interpret as an obvious sign from the Market Gods &#8211; yesterday Canada Post left an unusual note explaining why the postman was unable to the deliver the mail for this customer in British Columbia.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BearSep2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BearSep2514.png" width="470" height="750">
+  <img src="http://themacrotourist.com/pictures/Azure/BearSep2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BearSep2514.png" width="470" height="750">
 
 The bear really was knocking at his door. 
 
@@ -32,14 +32,14 @@ The sell off was quite the reversal given Wednesday&#8217;s squeeze higher. At t
 But there can be no sugar coating the ugliness of yesterday&#8217;s action. We slashed through support level after support level, closing at the lows of the day. In a wink of an eye, everyone who had bought stocks in the last two months is under water. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXSep2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXSep2614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXSep2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXSep2614.png" width="600" height="342">
 
 The breakout that got everyone so excited about a week ago has suddenly become a classic &#8220;pop and drop.&#8221; It caught all the weak late longs pushing too hard.
 
 Not only that, but have a look at the date of the failed bar that pushed into new highs &#8211; September 19th. Do you remember what happened that day? Yup &#8211; you go it &#8211; that was the day that Alibaba came to market. Remember the euphoria? Remember the excitement of that day? Remember how bulled up everyone was? At the time I recommended time stamping that mania into your mind. In the midst of the CNBC cheerleading, it was hard to ever imagine stocks going down. But here we are, a week later and 45 S&P points lower.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JackMaSep2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JackMaSep2614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JackMaSep2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JackMaSep2614.png" width="600" height="342">
 
 As for my trading, although the Market Gods did scare me out of a portion of my Nasdaq short into Wednesday&#8217;s squeeze, I managed to hang on to the rest. I was also lucky enough to recognize that yesterday was going to get ugly, and I swapped my short S&P 500 index future calls into straight outright short futures. Although I am by no means calling for a crash, there is always the possibility and yesterday&#8217;s action reminded investors that stocks go both up _and down._ I want the direct short exposure in case the unthinkable happens.
 
@@ -73,7 +73,7 @@ Although today might rally, I would be very careful about getting too bullish. T
 There can be no doubt that part of yesterday&#8217;s equity rout was due to the continuing poor action in the high yield debt market. HYG and JNK suffered their fourth straight down day and are now pressing up against the summer lows.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JNKSep2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JNKSep2614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JNKSep2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JNKSep2614.png" width="600" height="342">
 
 I have not spoken about it a lot, but I have been long puts on both HYG and JNK for some time. They have been quietly working in my favour and I am doing my best to just let it cook. 
 
@@ -94,7 +94,7 @@ However, the de-levering process has begun. Don&#8217;t try to catch any knives!
 Yesterday Doug Kass tweeted the following scuttlebutt about my disastrous short GoPro:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GPROKassSep2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GPROKassSep2614.png" width="600" height="242">
+  <img src="http://themacrotourist.com/pictures/Azure/GPROKassSep2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GPROKassSep2614.png" width="600" height="242">
 
 Don&#8217;t worry &#8211; it&#8217;s not us! I have only shorted a tiny little bit, and as it has rallied in my face, I have not added to it. 
 
@@ -115,7 +115,7 @@ When it comes to the growing income inequality problem, there are many theories 
 Have a look at this chart that shows the change in participation of income growth during expansions for the bottom 10% and top 10% over the years.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IncomeSep2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/IncomeSep2614.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/IncomeSep2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/IncomeSep2614.png" width="600" height="442">
 
 I don&#8217;t want to debate whose fault this is, there is no sense at talking about the past. But I do want to highlight that _this cannot continue indefinitely._ It is not healthy and will eventually result in social upheaval. It&#8217;s not just me that feels this way &#8211; smart rich guys like zillionaire Nick Hanauer have written [warnings about the instability of the current environment.](http://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014.html#.VCVYJUuGquY)
 
@@ -126,7 +126,7 @@ This trend of the wealthy taking a larger and larger slice of the pie has create
 Have a look at the chart of real estate broken down by transaction size over the last year:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/RealEstateSep2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RealEstateSep2614.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/RealEstateSep2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/RealEstateSep2614.png" width="600" height="442">
 
 I happen to think (hope) that we are on the cusp of a wave of wage inflation for regular folks, but I want to stress that if this imbalance doesn&#8217;t start to correct itself naturally, the tyranny of the majority will do it in a way that will inevitability take it much too far in the other direction. 
 
@@ -135,7 +135,7 @@ Either way, I am a seller of the rich on a relative basis. We have hit the stupi
 And in case you think the wealthy are the worst, have a look at this chart that says a lot about the political class.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/cakeSep1914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/cakeSep1914.png" width="600" height="575">
+  <img src="http://themacrotourist.com/pictures/Azure/cakeSep1914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/cakeSep1914.png" width="600" height="575">
 
 This is the worst form of inequality because it is brought on by the few that are supposed to be governing with the greater good in mind. Instead they are using that power to line their own pockets.
 
@@ -146,4 +146,4 @@ These social imbalances are going to eventually translate into market dislocatio
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep2614.png" width="600" height="542"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep2614.png" width="600" height="542"></p>

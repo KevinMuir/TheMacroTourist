@@ -18,7 +18,7 @@ tags:
   - USD
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/TwainJan0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TwainJan0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/TwainJan0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/TwainJan0915.png" width="600" height="342">
 
 **&#8220;When all the experts and forecasts agree – something else is going to happen.&#8221;**&#8211; _legendary Merrill Lynch strategist Bob Farrell_
 
@@ -27,17 +27,17 @@ I have a question for you this morning. Do you know anyone who doesn&#8217;t thi
 This has to be one of the most crowded trades out there. Not only are there absolutely zero speculative shorts, but the US dollar longs are feeling especially confident lately. The great Bank Credit Analyst (BCA) has a recent blog post titled [&#8220;U.S. Dollar: The Only Game in Town&#8221;](http://blog.bcaresearch.com/u-s-dollar-the-only-game-in-town) that epitomizes this attitude. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/OnlyGameJan0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/OnlyGameJan0915.png" width="600" height="142">
+  <img src="http://themacrotourist.com/pictures/Azure/OnlyGameJan0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/OnlyGameJan0915.png" width="600" height="142">
 
 I understand the US dollar bulls&#8217; argument. It makes perfect sense. I don&#8217;t have any legitimate reason to fade their line of reasoning. But I am worried that it might be fully priced in. The other day my wife&#8217;s grandmother phoned from the nursing home wondering if she should be more short Euros or Yen. You see, her best friend Ethel had recently made a bundle shorting Yen, but the recent weakness in the Euro had my wife&#8217;s grandmother convinced that it might be time to short Europe. Her other friend Mabel thinks they are both insane and that they should just stick to buying US Dollar index futures. And why not? Look at the chart of the US Dollar index. It has been straight up for the last 8 months.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USDollarJan0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USDollarJan0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/USDollarJan0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USDollarJan0915.png" width="600" height="342">
 
 The speculative short position in the CME currency futures has bounced off the record large position at year end, but it is still at monster high levels.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CMEForexJan0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CMEForexJan0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CMEForexJan0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CMEForexJan0915.png" width="600" height="342">
 
 There is a tremendous amount of speculative US dollar longs out there. Every hedge fund is stuffed to the gills with short currency positions of every stripe.
 

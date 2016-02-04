@@ -25,14 +25,14 @@ This morning the trading community is having a good laugh at the results of the 
 The ECB stress test did not include the possibility of deflation. Let me repeat that &#8211; the ECB stress test did not include the possibility of deflation. Hello? Anybody in there? McFly? 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/mcflyOct2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/mcflyOct2714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/mcflyOct2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/mcflyOct2714.png" width="600" height="342">
 
 If there is any economy that needs to incorporate the possibility of deflation it is the European Union. The inability of the EU member nations to agree on monetary policy in a world of increasing Central Bank monetary expansion makes the EU especially vulnerable. 
 
 The clear trend of disinflation is obvious even to mopes like me.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EUCPIOct2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EUCPIOct2714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EUCPIOct2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EUCPIOct2714.png" width="600" height="342">
 
 At this point, the European Union is flirting with deflation. The trend is firmly pointing towards the possibility of inflation actually heading negative in the months to come. Given the German&#8217;s reluctance to engage in QE it is preposterous to arbitrarily dismiss the notion that the EU might actually slip from disinflation to deflation. In fact not only is it ridiculous to close their eyes to that possibility, it is probably the most likely outcome. 
 
@@ -61,11 +61,11 @@ Could the market run up to new highs? For sure. But given that most investors we
 I know it is hard because everyone around you is proclaiming that the coast is clear, but this is the time to **make some sales &#8211; not the other way round.** For goodness sake, don&#8217;t chase it both ways. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXOct2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXOct2714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXOct2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXOct2714.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct2714.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct2714.png" width="600" height="342"></p>

@@ -25,7 +25,7 @@ After a week&#8217;s vacation, I have returned with some new found conviction re
 At the point of the withdrawal for both QE1 and QE2, the market was optimistic that the economic recovery was self supporting. There was very little talk about the need for another QE program. The outlier call was from the skeptics who felt that the economy was not ready to stand on its own feet. The vast majority of market pundits scoffed at this forecast and proclaimed that the idea of another QE was ludicrous. As usual, the majority of economic forecasters were dead wrong, and the economy was no where near ready to stand on its own feet. The hangover from the credit binge of the mid 2000s was still being felt.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DrunkWoman.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DrunkWoman.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DrunkWoman.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DrunkWoman.png" width="600" height="342">
 
 After it became obvious that much more QE was needed to break out of the deflationary vicious cycle, the Fed went &#8220;all in&#8221; with QE3. It is easy to become numb to the massive numbers of bond purchases for these Quantitative Easing programs, but this program was truly &#8220;game changing.&#8221; It is also easy to forget that the Fed had previously embarked on the previous two QE programs with a set amount of bonds to purchase, whereas QE3 was open ended. 
 
@@ -42,7 +42,7 @@ It might not cause the type of inflation that the Fed desires, but make no mista
 Have a look at the steady decline in the average CPI forecast.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CPIForecast2014.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CPIForecast2014.PNG" width="600" height="342" />CPI Economist Forecast</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CPIForecast2014.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CPIForecast2014.PNG" width="600" height="342" />CPI Economist Forecast</a>
 </div>
 
 Since the end of the credit super cycle in 2008, the private destruction of credit has indeed being truly massive, which has offset the Fed&#8217;s equally massive QE policies. But that does not mean for a second that the Fed cannot create inflation. Given the will, the Fed can create inflation. Full stop. They simply need to be committed. The first two QE policies were simply not big enough. And now with QE3 they have more than likely overshot.
@@ -65,7 +65,7 @@ I have become more convinced that the short side of the bond market is a much be
 **Has Soros has lost his marbles?**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SorosWhat.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SorosWhat.png" width="346" height="450">
+  <img src="http://themacrotourist.com/pictures/Azure/SorosWhat.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SorosWhat.png" width="346" height="450">
 
 As you know, I am a big Soros fan. However he is getting up there in age, and I am on the lookout for signs of senility. His latest comments about using the Strategic Petroleum Reserve to punish Putin have perked my antennae. 
 
@@ -80,7 +80,7 @@ I wish politicians and retired hedge fund managers would stop thinking about usi
 As much as I respect good &#8217;ole George, I think he should focus on his younger girlfriends and leave the SPR alone&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SorosGirlfriend.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SorosGirlfriend.png" width="600" height="581">
+  <img src="http://themacrotourist.com/pictures/Azure/SorosGirlfriend.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SorosGirlfriend.png" width="600" height="581">
 
 <hr size="2" width="85%" />
 

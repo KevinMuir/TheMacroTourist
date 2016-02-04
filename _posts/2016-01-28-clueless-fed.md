@@ -11,7 +11,7 @@ tags:
   - bonds
  
 ---
-<img src="http://themacrotourist.com/pictures/DeadWhaleJan2816.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/DeadWhaleJan2816.png" width="600" height="400" /></a></div>
+<img src="http://themacrotourist.com/pictures/DeadWhaleJan2816.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/DeadWhaleJan2816.png" width="600" height="400" /></a></div>
   
 Yesterday the FOMC met and left rates unchanged.  They had a chance to walk back guidance on their insistence of three to four more hikes this year, but they let the opportunity slip by.  Although there was some acknowledgement about not meeting their inflation goal, the tone was of staying the course on their hawkish path.  The most surprising part of their statement was their cluelessness regarding the state of the economy.  From yesterday's FOMC statement:  
 
@@ -19,7 +19,7 @@ Yesterday the FOMC met and left rates unchanged.  They had a chance to walk back
   
 The Federal Reserve continues to look at lagging rear-view mirror economic indicators and claim everything is fine.  Meanwhile the US economy is slowing rapidly.  Have a look at today's economic releases:  
 
-<img src="http://themacrotourist.com/pictures/ECOJan2816.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ECOJan2816.png" width="600" height="200" /></a></div>
+<img src="http://themacrotourist.com/pictures/ECOJan2816.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/ECOJan2816.png" width="600" height="200" /></a></div>
   
 Durable goods came in at -5.1% versus an expected -0.7%.  Capital goods orders were equally bad at -4.3% versus a consensus estimate of -0.2%.  Also have a look at the revisions for the previous month.  They were all revised down from the previously reported good numbers.
 
@@ -47,7 +47,7 @@ If you are trading the spread between the March 2016 and March 2017 contract, yo
 
 Enough with the explanations, here's the chart:  
 
-<img src="http://themacrotourist.com/pictures/ED67Jan2816.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ED67Jan2816.png" width="700" height="450" /></a></div>
+<img src="http://themacrotourist.com/pictures/ED67Jan2816.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/ED67Jan2816.png" width="700" height="450" /></a></div>
   
 The tight relationship since the new year is undeniable.  The *stock market* and the *chances of the Fed tightening over the next year* are moving in tandem.  
 

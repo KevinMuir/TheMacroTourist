@@ -16,7 +16,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/VentureOutside.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/VentureOutside.png" width="600" height="450">
+  <img src="http://themacrotourist.com/pictures/Azure/VentureOutside.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/VentureOutside.png" width="600" height="450">
 
 Let&#8217;s face it, there will never be a great time to raise rates. We have stuffed our economy full of so much debt and leverage, relied too much on financial repression to boost the value of long dated financial assets, and in general created such a Frankenstein economy addicted to cheap credit that raising rates _will from now on always be scary._ When guys like Leon Cooperman argue we shouldn&#8217;t worry about the first hike they are mistakenly assuming the markets will behave like previous cycles.
 
@@ -37,7 +37,7 @@ Remember Jim Bianco&#8217;s recent reminder that no country has ever normalized 
 If Leon Cooperman and guys like him are sure they know how the markets and the economy will react, they must be even smarter than their reputations. I, on the other hand, don&#8217;t have a clue what this economic monstrosity will spit out.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BernankeControl.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BernankeControl.png" width="600" height="700">
+  <img src="http://themacrotourist.com/pictures/Azure/BernankeControl.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BernankeControl.png" width="600" height="700">
 
 All I know is that the financial system is much more unstable than almost everyone believes. 
 
@@ -88,7 +88,7 @@ Contrast that to Chairwomen Yellen&#8217;s recent comments.
 Although the labour market continues to improve, the inflation part of this equation is notably absent.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/InflationJun1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/InflationJun1615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/InflationJun1615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/InflationJun1615.png" width="600" height="342">
 
 It is difficult to argue that the conditions are there to be &#8220;reasonably confident that inflation will move back to 2 percent over the medium term.&#8221; 
 

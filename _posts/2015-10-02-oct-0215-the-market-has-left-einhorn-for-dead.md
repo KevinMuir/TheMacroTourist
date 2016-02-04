@@ -35,7 +35,7 @@ Some of the biggest supposed “superstar” hedge fund managers are having trou
 > Ackman may have hoped the pain would end in August when the fund lost nearly $2 billion in AUM, sliding 9.2% net, but September was a total bloodbath, and saw Pershing Square report one of its worst quarters in history outside of the financial crisis, tumbling by 12.5%, bringing the total loss over the past two months to a whopping -22%, the YTD drop to -12.6%, and the firm&#8217;s AUM to $16.5 billion, a loss of nearly $4 billion in just the past two months, and the lowest it has been since early 2014.
 
 
-  <img src="http://themacrotourist.com/pictures/AckOct0215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/AckOct0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/AckOct0215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/AckOct0215.png" width="600" height="342">
 
 I have long held the view too many hedge funds are simply beta masquerading as alpha. It is no surprise the recent risk off environment has shown most of these hedge funds have not engaged in that much “hedging.”
 

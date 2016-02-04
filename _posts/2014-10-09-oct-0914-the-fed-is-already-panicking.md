@@ -26,7 +26,7 @@ tags:
 > &#8220;He respond to the offer? What? What the hell&#8217;s Cromwell doing giving lecture tours when his company&#8217;s losing 60 million a quarter? I guess he&#8217;s giving lectures on how to lose money&#8230;if this guy opened a funeral parlor, no one would die, this turkey&#8217;s totally brain dead&#8230;&#8221; &#8211; Gordon Gekko
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/gordonOct0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/gordonOct0914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/gordonOct0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/gordonOct0914.png" width="600" height="342">
 
 In trading, sometimes you are hot, and you can do nothing wrong. Every trade you put on seems to be in magical sync to the market. Even your errors end up being winners. Other times, it is just the opposite. You end up being the Cromwell of the trading world. All of your trades, no matter how well thought out and planned &#8211; go against you. You try harder, and it only makes things worse. That is the picture of my trading over the last couple of weeks. 
 
@@ -37,12 +37,12 @@ It therefore should be no surprise that yesterday&#8217;s release of the Fed min
 Have a look at the shift in the Fed Funds futures curve.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FFOct0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FFOct0914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FFOct0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FFOct0914.png" width="600" height="342">
 
 I had been trading the short end of the Eurodollar curve from the long side, but had unfortunately been shaken off the trade last week. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDU5Oct0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EDU5Oct0914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EDU5Oct0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU5Oct0914.png" width="600" height="342">
 
 In hindsight it is now obvious that too much hot money was set up for a Fed that was going to follow through with their forecasts. The Fed is giving some confusing signals that is wreaking havoc in the markets. On the one hand they have these &#8220;dots&#8221; that outline the Fed Governors&#8217; anticipated path for monetary policy. Over the last few months the backing up of yields at the short end of the curve has mainly been the market following the &#8220;dot&#8221; guidance. Even when short term yields were at their highs a week ago, the yield curve had still not fully discounted the Fed&#8217;s predicted path. The market did not completely believe that the Fed would be as aggressive as they forecast. At the recent Fed meeting, some of the Governors even noted this fact. Yet at that same meeting the Fed gave the signal that the US dollar strength was going to delay the tightening. 
 
@@ -53,7 +53,7 @@ That doesn&#8217;t mean that short rates are not going higher. It just means tha
 The recent backup of short term rates with the corresponding US dollar rally was the result of fast money front running the Fed&#8217;s forecasts. The large speculative short interest in short term fixed income futures was indicative of how the hedge funds and other fast money types were pushing their luck.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDSpecOct0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EDSpecOct0914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EDSpecOct0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDSpecOct0914.png" width="600" height="342">
 
 The specs pushed up short term rates because of the Feds&#8217; &#8220;dots&#8221;, but then in a surprise move, the Fed quickly cried &#8220;uncle.&#8221; The market was surprised at the dovishness of the Fed and had to scramble to cover all the positions. 
 
@@ -64,7 +64,7 @@ As to where we go from here, I am not sure. The longer term trend is for higher 
 Yesterday on the release of the minutes, I covered my long US dollar positions. I even bought a tiny little bit of gold and silver. **This was just for a trade.** I am weary of expecting anything more than a short covering rally in precious metals or a cleansing out of the weak longs in the US dollar. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYOct0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYOct0914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYOct0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYOct0914.png" width="600" height="342">
 
 There can be no denying that Friday&#8217;s unemployment release was a &#8220;all baked in&#8221; top for the US dollar. We are now in correction mode. But this is a strong trend and we should be careful of not expecting the correction to be too deep. The move from 79 to 87 was roughly 8 handles. A 3/8s retracement would put us around 84. I will start buying there, with the idea of adding more if we get to a 50% retracement. 
 
@@ -75,14 +75,14 @@ There can be no denying that Friday&#8217;s unemployment release was a &#8220;al
 I continue to be surprised at how the idea that Quantitative Easing is bond bullish refuses to die. I have shown how the end of QE has resulted in some of the biggest bond rallies, but I came across this great chart by Gavekal that approaches it a little differently. The chart measures the change in the Fed balance sheet versus the US bond yield.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/gavekalOct0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/gavekalOct0914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/gavekalOct0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/gavekalOct0914.png" width="600" height="342">
 
 You can see that as the Fed expands its balance sheet, _rates rise_ &#8211; not fall as conventional wisdom dictates.
 
 I have been watching the German 10 year bund market closely. Although the yield had a little bit of a backup when Draghi promised to expand the balance sheet and followed up with the first TLTRO, since then the ECB has done very little easing. Without the ECB expanding its balance sheet, the bund has continued to rally.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Oct0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDBR10Oct0914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Oct0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10Oct0914.png" width="600" height="342">
 
 I believe that Draghi will eventually follow through with his plans to expand the ECB&#8217;s balance sheet. Europe is just&#8230; European&#8230; It will take a while. **When they finally announce the actual implementation of the balance sheet expansion, I will short bunds.** Until then I will sit and wait.
 
@@ -91,4 +91,4 @@ I believe that Draghi will eventually follow through with his plans to expand th
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct0914.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct0914.png" width="600" height="342"></p>

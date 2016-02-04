@@ -25,7 +25,7 @@ Japan&#8217;s economy is a particularly atrocious mix of massive debt levels, te
 The Japanese&#8217; government debt is second to none (from ZeroHedge):
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SovDebttoGDPMay0214.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SovDebttoGDPMay0214.jpg" width="600" height="342" />Sovereign Debt to GDP</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SovDebttoGDPMay0214.jpg" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SovDebttoGDPMay0214.jpg" width="600" height="342" />Sovereign Debt to GDP</a>
 </div></p> 
 
 Look closely at that chart. Think about the shrill worries about the US debt level. Then have a look at the Japanese level. They are more than twice as indebted!
@@ -35,7 +35,7 @@ And it is not like they are growing. Their demographics are about as bad as any 
 Have a look at this chart from the great financial writer Grant Williams:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JapanDemographicsMay0214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JapanDemographicsMay0214.png" width="600" height="342" />Japan&#8217;s Population</a>
+  <img src="http://themacrotourist.com/pictures/Azure/JapanDemographicsMay0214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JapanDemographicsMay0214.png" width="600" height="342" />Japan&#8217;s Population</a>
 </div></p> 
 
 Their population growth is collapsing. Their starch refusal to change their immigration policies, combined with a terrible birthrate, is causing the largest slowdown in population growth that the world has ever witnessed in a developed economy.
@@ -54,7 +54,7 @@ I can&#8217;t remember the numbers exactly and I am too lazy to look them up, bu
 Have a look at this chart that ZeroHedge likes to call the WTF chart:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DebttoRevenueMay0214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DebttoRevenueMay0214.png" width="600" height="342" />Sovereign Debt to Revenue</a>
+  <img src="http://themacrotourist.com/pictures/Azure/DebttoRevenueMay0214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DebttoRevenueMay0214.png" width="600" height="342" />Sovereign Debt to Revenue</a>
 </div></p> 
 
 The Japanese economy is so screwed. 
@@ -90,7 +90,7 @@ Any lack of progress is only going to be met with a further resolve to _increase
 When the program was first introduced, it was very effective at lowering the Japanese currency.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYMay0214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYMay0214.png" width="600" height="342" />JPY (higher rate means lower value of Yen)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/JPYMay0214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYMay0214.png" width="600" height="342" />JPY (higher rate means lower value of Yen)</a>
 </div></p> 
 
 However the currency has basically been going sideways for more than a year. 
@@ -114,4 +114,4 @@ I don&#8217;t think that the direction of the Japanese economic policy is the qu
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay0214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay0214.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay0214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay0214.png" width="600" height="700"></p>

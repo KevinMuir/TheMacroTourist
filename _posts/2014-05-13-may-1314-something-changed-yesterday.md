@@ -33,7 +33,7 @@ Let me take that back. Quality large cap stocks are busting out to new highs.
 Have a look at the 5 year chart of the S&P 500 versus the Russell 2000 small cap index:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXRTYMay1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXRTYMay1314.png" width="600" height="342" />S&P 500 (white line) vs RTY (yellow line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPXRTYMay1314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXRTYMay1314.png" width="600" height="342" />S&P 500 (white line) vs RTY (yellow line)</a>
 </div></p> 
 
 [I have argued that our current environment consists of a series of rolling mini-bubbles.](http://gfbblogs.azurewebsites.net/blog/2014/04/23/apr-2314-a-series-of-rolling-bubbles/) A particular asset or sector captures the investing public&#8217;s imagination and given the insane monetary policy, a bubble is quickly formed. However the lack of retail investors makes the bubble shorter in time frame than other bubbles like the 1990s dot com bubble.
@@ -41,7 +41,7 @@ Have a look at the 5 year chart of the S&P 500 versus the Russell 2000 small cap
 I recently stumbled upon this terrific BofA Merrill Lynch chart that shows the increase in assets under management for various assets since the start of 2008:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MLZIRPMay1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MLZIRPMay1314.png" width="600" height="385">
+  <img src="http://themacrotourist.com/pictures/Azure/MLZIRPMay1314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/MLZIRPMay1314.png" width="600" height="385">
 
 Although the recent social media frenzy is not listed in the chart above, it also followed a similar pattern. The market becomes enamoured with a theme and inevitably overdoes it on the upside.
 
@@ -58,7 +58,7 @@ However, it looks like two of them have picked up the baton and it is only a mat
 Yesterday I covered all my short stock market positions and replaced it with a long put position. I try not to be easily embarrassed as the key to survival in trading is to remain flexible (although I was a little embarrassed when Mrs. Macro Tourist insisted I dress up as a Centaur and take some family photos). 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CentaurMay1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CentaurMay1314.png" width="500" height="375" />MacroTourist and this family</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CentaurMay1314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CentaurMay1314.png" width="500" height="375" />MacroTourist and this family</a>
 </div>
 
 As Keynes noted, if the facts change, then you should also change. 
@@ -78,7 +78,7 @@ I have been fortunate to have switched some of my precious metal position into c
 Yesterday copper broke out to two month highs:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CopperMay1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CopperMay1314.png" width="600" height="342" />Copper trading</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CopperMay1314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CopperMay1314.png" width="600" height="342" />Copper trading</a>
 </div>
 
 When it comes to China it is more important to watch what is happening in the markets as opposed to what they say. Chinese officials do not telegraph their moves, but instead just enact them. The prices will move first, the reason will come later. The fact that the markets associated with Chinese growth are looking for excuses to head higher is an indication that the Chinese authorities are loosening up.
@@ -92,7 +92,7 @@ I am no longer going to fight the rising stock market. I thought that the weak s
 I am going to keep a long S&P 500 put position though. Yesterday the VIX ticked at below 12.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VIXMay1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/VIXMay1314.png" width="600" height="342" />VIX Index</a>
+  <img src="http://themacrotourist.com/pictures/Azure/VIXMay1314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/VIXMay1314.png" width="600" height="342" />VIX Index</a>
 </div>
 
 Protection is super cheap. Given that I am long lots of risk assets, I need to have some shorts. I decided to buy September and December ATM (at the money puts) as a hedge. It is not as much a directional bet as simply cheap insurance.
@@ -102,7 +102,7 @@ I am quickly running out of time, but the last thing I want to highlight is yest
 However yesterday the old frustrating pattern of a quick move higher followed by a steady grind even higher returned. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPMay1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXGIPMay1314.png" width="600" height="342" />S&P 500 trading yesterday</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPMay1314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXGIPMay1314.png" width="600" height="342" />S&P 500 trading yesterday</a>
 </div>
 
 It was the first day in a long while that we didn&#8217;t roll over after the move higher. Something changed yesterday.
@@ -114,4 +114,4 @@ I am no longer going to fight the rise&#8230; for you shorts that have been wait
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay1314.png" width="600" height="750"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay1314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay1314.png" width="600" height="750"></p>

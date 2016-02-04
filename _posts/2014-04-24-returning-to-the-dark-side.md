@@ -20,7 +20,7 @@ Towards the end of yesterday&#8217;s post I mentioned that I was returning to th
 Why have I returned to the dark side?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DarkSideApr2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DarkSideApr2414.png" width="500" height="364">
+  <img src="http://themacrotourist.com/pictures/Azure/DarkSideApr2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DarkSideApr2414.png" width="500" height="364">
 
 Longer term I am skeptical of the US stock market valuation. I just don&#8217;t believe that [corporate profits can grow fast enough to justify the current stock market level.](http://gfbblogs.azurewebsites.net/blog/2014/02/26/wednesday-february-26th-2014-a-confession-by-a-top-picking-addict/) I also am convinced that QE is winding down, but even if the Fed does indeed pause their taper &#8211; [that is no reason to buy stocks.](http://gfbblogs.azurewebsites.net/blog/2013/11/17/the-belief-that-qe-has-to-make-stocks-rise-is-a-dangerous-theory/)
 
@@ -29,7 +29,7 @@ Stocks have benefited from the TINA paradox (**T**here **I**s **N**o **A**lterna
 Long term I am very confident that in real terms the stock market is priced to deliver sub-optimal returns. In case you don&#8217;t believe me, have a look at what exceptionally smart shops like GMO forecast for future returns:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GMOApr2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GMOApr2414.png" width="700" height="450">
+  <img src="http://themacrotourist.com/pictures/Azure/GMOApr2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GMOApr2414.png" width="700" height="450">
 
 At these elevated stock market levels, GMO has forecasts for _negative long term real returns for US Large and US Small cap stocks._ In fact they have below average real returns of _all asset classes_. The Fed has chased everyone out the risk curve and almost all financial assets are fully priced.
 
@@ -50,7 +50,7 @@ Why is it time to start leaning on the short side? And why am I taking a couple 
 The reason I started my position this week is that we have entered earnings reporting season. Over the past 5 years this period has resulted in lack lustre returns for the market. Have a look at his great chart from Bespoke Investments:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/OffSeasonApr2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/OffSeasonApr2414.png" width="850" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/OffSeasonApr2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/OffSeasonApr2414.png" width="850" height="600">
 
 Almost all the returns of the S&P 500 have occurred during the off season. On the whole, this is a low risk period for shorts. 
 
@@ -59,14 +59,14 @@ Then when you have a look at the seasonality, you will notice that we are approa
 Again from Bepoke:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SeasonalityApr2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SeasonalityApr2414.png" width="700" height="400"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/SeasonalityApr2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SeasonalityApr2414.png" width="700" height="400"></p> 
 
 March and April have traditionally been strong months. Then May and June really drop off with the returns being minimal. There is no guarantee that this pattern will repeat, but at the margin this seasonality gives the bears an edge.
 
 And the final timing trigger is the fact that in terms of the Presidential Cycle we are entering the worst couple of months of the whole cycle:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PresidentialCycleApr2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PresidentialCycleApr2414.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/PresidentialCycleApr2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PresidentialCycleApr2414.png" width="600" height="342"></p> 
 
 These three long term timing indicators indicate that the odds do not bode well for stock market returns over the next few months. 
 
@@ -75,7 +75,7 @@ Given the over stretched valuations I think that the risk reward favours a short
 The &#8220;Trash Crash&#8221; of last month caught a lot of hedge funds off side. The selling was intense and for a few weeks &#8211; relentless. Last week that selling ended and the stock market has since rallied.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NDXApr2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NDXApr2414.png" width="600" height="342" />NDX trading over the past few months</a>
+  <img src="http://themacrotourist.com/pictures/Azure/NDXApr2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NDXApr2414.png" width="600" height="342" />NDX trading over the past few months</a>
 </div>
 
 There is a chance that this respite in the selling is just a pause. And that is why I am starting my position before the end of the quarter. I am worried that the bigger trend is now lower and that this week&#8217;s rally was merely a small counter trend recovery. 
@@ -91,4 +91,4 @@ Remember &#8211; this is a longer term trade. Use the recent strength from the A
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsApr2414.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr2414.png" width="600" height="700"></p>

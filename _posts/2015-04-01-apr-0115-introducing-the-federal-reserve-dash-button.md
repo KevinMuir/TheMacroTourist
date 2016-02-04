@@ -16,7 +16,7 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/FederalReserveDash.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FederalReserveDash.png" width="800" height="200">
+  <img src="http://themacrotourist.com/pictures/Azure/FederalReserveDash.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FederalReserveDash.png" width="800" height="200">
 
 I am sure most of you will have heard about Amazon&#8217;s new Dash Button product. If you haven&#8217;t, it is a small electronic device about the size of a pack of gum. When you press the button, Amazon automatically orders whatever product you are about to run out of. So far Amazon has 258 products on offer. 
 
@@ -31,7 +31,7 @@ But you might have missed a small partnership announcement that Amazon buried in
 </p>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FedDash2.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FedDash2.png" width="800" height="200">
+  <img src="http://themacrotourist.com/pictures/Azure/FedDash2.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FedDash2.png" width="800" height="200">
 
 It&#8217;s nice to see the Federal Reserve using technology to make it as easy possible for the Wall Street fat cats to get even fatter. 
 
@@ -42,7 +42,7 @@ It&#8217;s nice to see the Federal Reserve using technology to make it as easy p
 Yesterday was quarter end, so I was anticipating some volatility. We did get some selling action into the close, but it was the overnight session that was really squirrelly.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM5GIPApr0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESM5GIPApr0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESM5GIPApr0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM5GIPApr0115.png" width="600" height="342">
 
 Last night the S&P 500 futures were down 25 handles on no news. 
 
@@ -57,12 +57,12 @@ It was only a month ago that my Twitter feed was filled with bulls making fun of
 Investors have been lulled into a sense of complacency regarding the continued stock market rise. It is easy to understand how we have reached this point as the gains have been steady and easy.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM5GPOApr0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESM5GPOApr0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESM5GPOApr0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM5GPOApr0115.png" width="600" height="342">
 
 There has been no point in overthinking it. Any attempt to caution that stocks also sometimes go down has only made you look like a fool.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/stocksdownApr0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/stocksdownApr0115.png" width="600" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/stocksdownApr0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/stocksdownApr0115.png" width="600" height="600">
 
 But the first stage of the eventual correction is for the market to stop going up. We have finally gotten that. There has now been three months of the market treading water. Even though the markets are no longer rising, there is still a fair amount of bullishness. Investors have forgotten that stocks can decline. Don&#8217;t make the mistake of assuming the future has to look like the past. The relentless rise of the recent past is not natural, and more importantly, it is unsustainable. Don&#8217;t assume that the bids will always be there.
 

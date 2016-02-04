@@ -19,19 +19,19 @@ tags:
   - USD
 ---
 
-  <img src="http://themacrotourist.com/pictures/UnsettledNov2915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/UnsettledNov2915.png" width="600" height="800">
+  <img src="http://themacrotourist.com/pictures/UnsettledNov2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/UnsettledNov2915.png" width="600" height="800">
 
 Here in North America, it is easy to focus on the potential for higher rates in the coming months. However, for most of Europe, the world is still bat shit crazy. Rates that were already negative, continue to go even more negative. What had been an experiment with rates slightly below the zero bound has become a full on policy tool with Central Banks extending short rates well into negative territory.
 
 
-  <img src="http://themacrotourist.com/pictures/2YrNov2915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/2YrNov2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/2YrNov2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/2YrNov2915.png" width="600" height="342">
 
 The 2 year bond, which is a good proxy of anticipated Central Bank rates, has plunged deeply below zero for Germany, Sweden and Switzerland (and most other Western European nations as well).
 
 This coming week we find out how much lower Mario Draghi wants to push the ECB. Will it be another 15 or 20 basis points cut? Or even more? And how much more QE will he promise? The market is hopeful Super Mario will have once again over promised and yet still over deliver. Expectations are high, but when his back has been up against the wall before, Mario has come through.
 
 
-  <img src="http://themacrotourist.com/pictures/DBNov3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/DBNov3015.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/DBNov3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/DBNov3015.png" width="600" height="400">
 
 I am not sure what he will do, but I know _the market has become all too comfortable with negative rates._ When Mario first set negative interest rates there was a whole lot of chatter about the lower bound. Analysts spoke about why rates would only go as low as negative 5 or 10 basis points. Yet here we are with the 2 year yielding negative 42 basis points in most of the EU.
 
@@ -40,7 +40,7 @@ If we can trade at negative 40, 60 or even 100 basis points &#8211; what&#8217;s
 The ironic consequence of negative European rates is the feedback loop is causing even more deflation, which results in even more negative rates. As Europe lowers rates, it causes the Euro currency to fall, which strengthens the US dollar. This causes commodities to decline, which only makes deflation all the worse. The fact the Chinese have a soft peg to the US dollar exacerbates this phenomenon. 
 
 
-  <img src="http://themacrotourist.com/pictures/G2CRBNov3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/G2CRBNov3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/G2CRBNov3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/G2CRBNov3015.png" width="600" height="342">
 
 I find it amusing that there is so little talk about competitive devaluation. Central Banks have been careful to justify these cuts into negative territory as economically justified, but let&#8217;s be honest &#8211; we have long past that point. 
 
@@ -53,7 +53,7 @@ Negative rates across so much of Europe is a sign the global financial system is
 Have a look at the US/German 5 year interest rate differential versus the level of the Euro currency:
 
 
-  <img src="http://themacrotourist.com/pictures/GERUS5Nov3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/GERUS5Nov3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/GERUS5Nov3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GERUS5Nov3015.png" width="600" height="342">
 
 Although initially the widening of the spread between the US/German rate did not result in a fall in the Euro, eventually it kicked in.
 
@@ -74,27 +74,27 @@ Earlier this year the Swiss National Bank abandoned their peg to the Euro. The e
 The yield curve all the way out to 10 years have moved to negative yields:
 
 
-  <img src="http://themacrotourist.com/pictures/Swiss10Nov3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Swiss10Nov3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Swiss10Nov3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Swiss10Nov3015.png" width="600" height="342">
 
 Stop and think about the absurdity of this level. The Swiss government is getting paid to issue bonds! An investor is paying 35 basis points for 10 years to the Swiss government for the privilege of taking their Francs.
 
 But these negative rates have an effect. Have a look at the EUR/CHF cross rate:
 
 
-  <img src="http://themacrotourist.com/pictures/EURCHFNov3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/EURCHFNov3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/EURCHFNov3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/EURCHFNov3015.png" width="600" height="342">
 
 The CHF is slowly getting weaker. And when you think about the pickup versus the US dollar (US two year yielding positive 1% and CHF two year yielding negative 1%), you won&#8217;t be surprised to learn the CHF has actually recouped all of its post peg strength:
 
 
-  <img src="http://themacrotourist.com/pictures/CHFNov3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CHFNov3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CHFNov3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CHFNov3015.png" width="600" height="342">
 
 
-  <img src="http://themacrotourist.com/pictures/USCHF2Nov3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/USCHF2Nov3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/USCHF2Nov3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/USCHF2Nov3015.png" width="600" height="342">
 
 Right now the market is leaning hard against the Euro. Tons of hedgies are short, and there is a lot of expectations built into this Thursday&#8217;s ECB meeting. But even though sentiment is poor, the Euro has not broken to new lows:
 
 
-  <img src="http://themacrotourist.com/pictures/EURNov3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/EURNov3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/EURNov3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/EURNov3015.png" width="600" height="342">
 
 Maybe it will break, I don&#8217;t know. But it might make much more sense to throw the bricks into the wettest paper bag instead. The rate differential against Swiss Franc is even more advantageous, and the market is already confirming the breakout. 
 

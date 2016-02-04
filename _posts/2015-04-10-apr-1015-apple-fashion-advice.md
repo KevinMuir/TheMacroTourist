@@ -18,7 +18,7 @@ tags:
   - Tim Cook
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/KITTApr1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/KITTApr1015.png" width="400" height="500">
+  <img src="http://themacrotourist.com/pictures/Azure/KITTApr1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/KITTApr1015.png" width="400" height="500">
 
 This morning Apple began accepting pre-orders for their new watch. Although I have noticed some analysts dampening down their expectation for this new product, there are still quite a few that are full-on-bulled-up about its prospects. This is in contrast to the lukewarm reviews from tech journalists who have actually been using the product for the past week. My favourite quote was from CNET:
 
@@ -77,12 +77,12 @@ Or maybe Apple has jumped the shark. Don&#8217;t forget that all those previous 
 And I am especially scared when I see Apple&#8217;s new marketing plan for selling the watches.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/trainApr1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/trainApr1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/trainApr1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/trainApr1015.png" width="600" height="342">
 
 Seriously? They are training to their staff to offer &#8220;fashion&#8221; advice?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/leeApr1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/leeApr1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/leeApr1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/leeApr1015.png" width="600" height="342">
 
 They are being instructed to provide fashion advice like an eyeglass salesperson might at a glasses store. The Apple employees are expected to make comments like &#8220;I love how it will coordinate with many outfits.&#8221; I think I just threw up a little bit in my mouth writing that down.
 
@@ -91,7 +91,7 @@ Apple has lost its way and the Wall Street analysts are still following them dow
 I think the Apple Watch is going to fall flat on its face, and the stock will suffer accordingly. I am a seller. And if I buy the Apple Watch at any point in the next year or two, I will make sure I report back so all the Apple bulls can give me a big &#8220;I told you so.&#8221; 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AAPLApr1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AAPLApr1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/AAPLApr1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/AAPLApr1015.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -102,19 +102,19 @@ Although US stocks have been grinding higher over the past week, they have been 
 Have a look at this chart of YTD (year to date) percentage returns of various stock indexes:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/COMPApr1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/COMPApr1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/COMPApr1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/COMPApr1015.png" width="600" height="342">
 
 The US markets are reluctantly being dragged higher. In fact, you could argue that given the immense strength throughout the world, the US stock market is quite weak. This relative poor performance is not surprising. I have been pounding the table on the fact that given the BoJ and ECB&#8217;s aggressive balance sheet expansion, those stock markets will outperform the US. Even though the US stock market is meandering around the previous highs and failing to break out, the Japanese and European stocks are rocketing to new highs every day.
 
 The Nikkei ticked at 20,000 last night:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NKYApr1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NKYApr1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/NKYApr1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NKYApr1015.png" width="600" height="342">
 
 And the European indexes are not far behind with their recent strength:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SX5EApr1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SX5EApr1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SX5EApr1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SX5EApr1015.png" width="600" height="342">
 
 I am bearish of US stocks, but I should really have the trade on versus these other countries. On a relative basis the US market is especially tired. 
 
@@ -123,7 +123,7 @@ Even though I have been bullish on the prospects of world growth bottoming and p
 And I am thoroughly confused to as the absurdity of the recent Chinese stock market rally. I know all the reasons that it has been going up, but the sheer magnitude of the move is terrifying.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SHCOMPApr1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SHCOMPApr1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SHCOMPApr1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SHCOMPApr1015.png" width="600" height="342">
 
 We are experiencing a world wide &#8220;just get me in&#8221; rally in stocks. This is dragging the US stock market higher, but I suspect that once we get a correction in these other indices (and don&#8217;t worry, the correction is coming), I think the US stock market will sag badly. I am sticking to my belief that the next big move in US stocks is lower, not higher.
 

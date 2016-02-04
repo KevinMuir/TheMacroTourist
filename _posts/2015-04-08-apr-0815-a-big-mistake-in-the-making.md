@@ -19,7 +19,7 @@ tags:
 Yesterday Minneapolis Fed President Narayana Kocherlakota gave a speech in Bismark, North Dakota. Most of you have probably never been to Bismark, and you most likely want to keep it that way. But having grown up in the Canadian province that borders North Dakota, I can claim the dubious distinction of having visited Bismark on more than one occasion. Kocherlakota&#8217;s speech did not warrant the big media outlets sending their business reporters to North Dakota, and all of the local reporters were busy reporting on the unusual band of heavy snowfall that passed through town and dumped another 14 inches of snow Monday night (although this doesn&#8217;t seem like that big of a news story for North Dakota to me). So unfortunately there were no reporters at the event. Most of the newspapers are using stock photos of Kocherlakota to accompany their story, but I have enlisted my prairie contacts to obtain an exclusive picture of the Fed President giving his speech yesterday&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DoveApr0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DoveApr0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DoveApr0815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DoveApr0815.png" width="600" height="342">
 
 We all knew that Minneapolis Fed President Narayana Kocherlakota was a dove. But most of us probably didn&#8217;t realize the full extent of his leanings. Or at least I didn&#8217;t. Yesterday&#8217;s speech lays out in clear black and white his radically dovish beliefs.
 

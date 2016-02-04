@@ -13,12 +13,12 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/pictures/CommodityOct3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CommodityOct3015.png" width="500" height="600">
+  <img src="http://themacrotourist.com/pictures/CommodityOct3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CommodityOct3015.png" width="500" height="600">
 
 The commodity bear market is now entering its fifth year. Not only has the decline been relentless, but it has accelerated in the last eighteen months.
 
 
-  <img src="http://themacrotourist.com/pictures/CRBOct3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CRBOct3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CRBOct3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CRBOct3015.png" width="600" height="342">
 
 Although it seems quaint now, when the Federal Reserve initiated the first Quantitative Easing program, investors rushed into commodities to protect themselves from the &#8220;inevitable&#8221; inflation. I managed to dig up this Reuters article from 2010 that summed up the mood at the time:
 
@@ -29,12 +29,12 @@ Although it seems quaint now, when the Federal Reserve initiated the first Quant
 For the first couple of years of QE, commodities followed (and in fact often led) most risk assets higher as the Federal Reserve expanded their balance sheet.
 
 
-  <img src="http://themacrotourist.com/pictures/CRYTwoOct3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CRYTwoOct3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CRYTwoOct3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CRYTwoOct3015.png" width="600" height="342">
 
 But in 2012 something changed. Commodities started to slump. And when the Federal Reserve introduced QE3 (dubbed QE infinity because it had no set amount nor an end date), the stimulus didn&#8217;t lift commodities, but instead went straight into the stock market.
 
 
-  <img src="http://themacrotourist.com/pictures/CRYThreeOct3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CRYThreeOct3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CRYThreeOct3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CRYThreeOct3015.png" width="600" height="342">
 
 Commodities went sideways as the Federal Reserve was expanding their balance sheet, but the moment the Fed stopped, commodities quickly collapsed. It has been all downhill since then.
 
@@ -43,7 +43,7 @@ So far stocks have been impervious to the lack of Federal Reserve balance sheet 
 With the commodity rout and the stubbornly high stock market prices, the ratio between commodities and stocks has pushed down to lows we have not seen since 1998!
 
 
-  <img src="http://themacrotourist.com/pictures/CRBSPYOct3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CRBSPYOct3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CRBSPYOct3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CRBSPYOct3015.png" width="600" height="342">
 
 This ratio was almost 0.30 in 2011. It is now ticking at around 0.09. Now I am not foolish enough to say there is no way we can go lower. Markets often have a habit going beyond levels that seem &#8220;unreachable.&#8221; But at the same time, these sorts of moves offer the long term patient investor opportunities. 
 

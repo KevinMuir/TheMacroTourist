@@ -26,7 +26,7 @@ Well, I have news for them. It ain&#8217;t going to happen. The Fed is going to 
 Why I am so sure? And couldn&#8217;t my certainty be the best signal that it very well might not happen? Maybe, but I think the odds are highly unlikely.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/oddsOct2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/oddsOct2314.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/oddsOct2314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/oddsOct2314.png" width="600" height="442">
 
 The Fed realizes that the QE program is a highly politicized, increasingly ineffective program. It might have been needed in 2008, but lately all it has been doing is exacerbating the inequality problem. It has been steering too much money towards Wall Street, with not nearly enough trickling down to Main Street.
 
@@ -59,4 +59,4 @@ The Fed is going to wind down QE at next week&#8217;s FOMC meeting. They are clo
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct2314.png" width="600" height="322"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct2314.png" width="600" height="322"></p>

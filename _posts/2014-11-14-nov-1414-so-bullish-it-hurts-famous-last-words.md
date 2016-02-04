@@ -19,7 +19,7 @@ tags:
   - UBS
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/BullishNov1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BullishNov1414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BullishNov1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BullishNov1414.png" width="600" height="342">
 
 The Market Gods are by no means benevolent deities. In fact, they are just the opposite. They border on cruel &#8211; taking pleasure in making as many traders look as foolish as possible as often as they can. And the more confident the market call, the more certain that the Gods are going to remind you of their wicked power.
 
@@ -28,7 +28,7 @@ Therefore I winced when the UBS Strategist Richards proclaimed on National TV th
 All kidding aside, although I have chosen this UBS strategist as the poster boy for the recent rally, he is by no means alone. The bullish sentiment is completely off the charts. The September swoon has been completely forgotten. Every dip is bought with reckless abandon. Lately I have been watching the ISEE Option Sentiment Indicator which measures the number of opening transactions of calls versus puts for regular equities. Usually on downdrafts retail investors rush to hedge their long positions. But not lately. Recently the down days have been met with an absolute staggering amount of **call buying.** That&#8217;s right! Into any sort of dip, the public is loading up the boat on calls. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/boatNov1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/boatNov1414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/boatNov1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/boatNov1414.png" width="600" height="342">
 
 The other day we had 4 times as many opening transactions in calls as opposed to puts. But the interesting aspect of that day was that the market was actually in the midst of selling off. The buy the dip mentality has firmly gripped Wall Street.
 
@@ -43,7 +43,7 @@ I am more interested in understanding _why we reversed._ And although it is star
 This entire rally has been driven by the recent Japanese policy to increase their Quantitative Easing program combined with the GPIF&#8217;s dramatic asset shift into equities. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYESNov1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYESNov1414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JPYESNov1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYESNov1414.png" width="600" height="342">
 
 Nothing else explains the dramatic change from September to October. Market participants can kid themselves that we are embarking on a wondrous secular bullish journey, but they are ignoring the evidence that this rally is not being driven by fundamentals, but instead by the biggest QE program the world has ever seen. Between the Bank of Japan&#8217;s buying, the GPIF&#8217;s asset shift and then all the hedge funds who are engaging in the Yen carry trade, the torrent of liquidity that has been thrown at the US stock market has been absolutely massive. 
 
@@ -52,19 +52,19 @@ If you want to believe that is going up because of fundamentals, then go ahead. 
 Even though the stock market action is bullish, the underlying fundamentals continue to deteriorate. Have a look at my version of Yardeni&#8217;s &#8220;Fundamental Indicator&#8221;:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YardeniNov1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/YardeniNov1414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/YardeniNov1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YardeniNov1414.png" width="600" height="342">
 
 The indicator has recently rolled over and is not confirming the recent rise.
 
 The corporate bond spread to equity relationship is also diverging.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BBBNov1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BBBNov1414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BBBNov1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BBBNov1414.png" width="600" height="342">
 
 Even initial jobless claims, which has been trending only lower, have recently upticked.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPYClaimsNov1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPYClaimsNov1414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPYClaimsNov1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPYClaimsNov1414.png" width="600" height="342">
 
 I just don&#8217;t see any improving fundamentals to explain the sudden rise. I am running out time this morning, but the technical picture is just as lousy. The recent rise is happening on less and less breadth, with more and more technical divergences.
 
@@ -79,4 +79,4 @@ One of these days the Yen&#8217;s downtick will not result in a corresponding ri
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsNov1414.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsNov1414.png" width="600" height="342"></p>

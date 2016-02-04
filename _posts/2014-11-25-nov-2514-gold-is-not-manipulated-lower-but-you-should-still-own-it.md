@@ -19,7 +19,7 @@ tags:
 The gold bugs really do themselves a big disservice with their tinfoil hat conspiracy theories. They make their actual legitimate arguments too easy to discredit with all their stupid &#8220;gold is manipulated&#8221; arguments. It really does get tiring to listen to after a while.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/goldpulpNov2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/goldpulpNov2514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/goldpulpNov2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/goldpulpNov2514.png" width="600" height="342">
 
 Do they seriously think that the world&#8217;s Central Banks are conspiring to keep the price of gold down? In an era where the global economy is teetering on a deflationary abyss, the last thing the world&#8217;s Central Banks are worried about is the price of gold rising. It is just sad that the gold bugs spend so much time trying to explain that the low price of gold is the result of manipulation.
 
@@ -36,12 +36,12 @@ But just the opposite happened. We had a massive credit crisis that was the resu
 Over the last half a dozen years as the Fed and other Central Banks have engaged in unprecedented balance sheet expansion, investors have gradually become numb to the stupid amounts of quantitative easing. When the Fed was winding down their QE program, I read about how they were &#8220;only purchasing $10 billion per month.&#8221; Only $10 billion? When $10 billion of QE becomes a rounding error, you know you are dealing with a system that that has change dramatically.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FarbastNov2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FarbastNov2514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FarbastNov2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FarbastNov2514.png" width="600" height="342">
 
 So I don&#8217;t buy for one second that everything is normal. The global financial system is an unstable, huge hulking pile of debt kept aloft by ever more desperate Central Bankers. You won&#8217;t convince me otherwise. The liquidity that the Fed added in late 1999 was minuscule compared to the recent balance sheet expansion. Yet Greenspan&#8217;s flooding of the system with liquidity caused a final 30% rise in the Nasdaq in the space of one quarter.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NDXNov2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NDXNov2514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/NDXNov2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NDXNov2514.png" width="600" height="342">
 
 The 9/11 liquidity injection (and ensuing easy monetary policy) resulted in one of the greatest speculative orgies of house speculation that the world had ever seen. And even that balance sheet expansion was minor compared to the last six years.
 
@@ -58,7 +58,7 @@ I think he was bang on correct with this analysis. I distinctly remember in 2011
 It was a perfect environment for this type of speculation. The Fed had just embarked on a massive balance sheet expansion and investors were fearful that it would run amok. They bought so much gold that the market value of the GLD ETF was almost worth more than the world&#8217;s biggest ETF. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GLDSPYNov2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GLDSPYNov2514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GLDSPYNov2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSPYNov2514.png" width="600" height="342">
 
 Think about that for a second. There was almost as much gold held in the GLD ETF as there were stocks held in the S&P 500 SPY ETF.
 
@@ -83,4 +83,4 @@ The reality is that we are approaching the end game of Central Bank expansion. W
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsNov2514.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsNov2514.png" width="600" height="342"></p>

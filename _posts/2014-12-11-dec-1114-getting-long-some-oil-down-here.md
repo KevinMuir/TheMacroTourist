@@ -21,14 +21,14 @@ tags:
 Did you get a load of the cover of last week-end&#8217;s Barrons?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/crashDec1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/crashDec1114.png" width="600" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/crashDec1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/crashDec1114.png" width="600" height="600">
 
 Since it is so widely known that &#8220;this time is different&#8221; are the four most dangerous words in the history of finance, no self respecting financial commentator even suggests that it might be different this time without sticking a warning label on the article. So ignore the hedging done by the writer. Whether it is the question mark at the end of the title or the caveats stuffed into the meat of the piece &#8211; those disclaimers are par for the course for any article of this type. Instead of focus on what he wants to say, but is too chicken to go &#8220;all in.&#8221; He wants to say, &#8220;ignore the bears, _this time is different._&#8221; 
 
 Of course, the fact that we are now up for the past 6 years and the Nasdaq 100 index is almost up 400% in that time period, is of no concern.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NDXDec1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NDXDec1114.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/NDXDec1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NDXDec1114.png" width="600" height="342">
 
 It makes perfect sense to suggest that this time is different, and that the Nasdaq strength is not the result of a Central Bank fuelled balance sheet expansion, but instead the start of a brave new world of perpetually high stock prices. 
 
@@ -43,7 +43,7 @@ Speaking of the Barrons cover, did you notice the other headline on the banner a
 During the last couple of weeks, I have been disciplined at letting the oil bears take it down without trying to catch the bottom. I have sat on my hands, and so far that has served me well. The decline has been relentless.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/OilDec1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/OilDec1114.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/OilDec1114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/OilDec1114.png" width="600" height="342">
 
 It is no surprise that articles like the ones in Barrons are now suggesting we could go to $35. Most forecasts seem to be nothing more than extrapolation of current trends. Crude oil went from $110 to $60 in the course of half a year &#8211; why shouldn&#8217;t it continue down to $35?
 

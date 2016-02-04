@@ -87,7 +87,7 @@ There is of course the occasional financial analyst that is not part of the bear
 Is it such a “certainty” that the Chinese rebalancing won’t work? Let’s not forget what has been happening with “real savings” over the past decade. On the government level, China has been accumulating savings and the US has been accumulating debt.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ChinaCurrencyWars.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ChinaCurrencyWars.png" width="750" height="624">
+  <img src="http://themacrotourist.com/pictures/Azure/ChinaCurrencyWars.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ChinaCurrencyWars.png" width="750" height="624">
 
 The accumulation of real reserves during the past couple of decades will allow the Chinese much more flexibility for navigating their way through this rebalancing.
 
@@ -100,7 +100,7 @@ Does that mean that it is doomed to fail? No &#8211; the skeptics are now too be
 Whereas a few years ago, China and all the associated China plays were priced for perfection, it has now swung too far the other way. Too many trades are priced for the “certainty” that China is doomed.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SHCOMPApr2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SHCOMPApr2114.png" width="600" height="342" />China SCHOMP Index vs S&P 500</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SHCOMPApr2114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SHCOMPApr2114.png" width="600" height="342" />China SCHOMP Index vs S&P 500</a>
 </div>
 
 And in a fit of brilliant timing, these same brokerage firms that were all bulled up on China 5 years ago, have now concluded that the never ending demand from China for commodities was not as never ending as they thought. So they are _now closing their commodity operations._ From the FT:
@@ -124,7 +124,7 @@ I am going to play this theme by buying copper.
 The speculators have more outstanding short positions in copper than anytime in the past decade:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CopperShortsApr2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CopperShortsApr2114.png" width="600" height="342" />Copper Speculative Shorts</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CopperShortsApr2114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CopperShortsApr2114.png" width="600" height="342" />Copper Speculative Shorts</a>
 </div>
 
 The hedge funds have piled on the short side of the copper trade as it the perfect vehicle to play the collapse of China and the ensuing global economic slowdown.
@@ -132,7 +132,7 @@ The hedge funds have piled on the short side of the copper trade as it the perfe
 A few years ago I would never have imagined myself saying this, but the hedge funds are too bearish on China.. I bought some copper on Friday.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CopperApr2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CopperApr2114.png" width="600" height="342" />Copper price</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CopperApr2114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CopperApr2114.png" width="600" height="342" />Copper price</a>
 </div>
 
 I also sold some precious metals. My P&L has been swinging a little too wildly with the moves in gold and silver, and given my new found copper bullishness, I don’t want to be too long metals in aggregate.
@@ -144,4 +144,4 @@ I am not going to buy Chinese stocks as equity longs still scare me, but if I we
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsApr2114.png" width="600" height="631">
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr2114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr2114.png" width="600" height="631">

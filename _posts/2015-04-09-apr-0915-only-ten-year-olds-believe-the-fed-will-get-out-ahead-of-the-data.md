@@ -18,7 +18,7 @@ tags:
   - Zero Hedge
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/GooseApr0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GooseApr0915.png" width="500" height="700">
+  <img src="http://themacrotourist.com/pictures/Azure/GooseApr0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GooseApr0915.png" width="500" height="700">
 
 I am not one for conspiracy theories. You won&#8217;t catch me claiming that Fort Knox is barren of all its gold bars [ala John Embry](http://mcalvanyweeklycommentary.com/august-28-2013-john-embry-on-gold/). Or that the US government employs a shadowy Plunge Protection Team to save the stock market from collapsing on big down days as ZeroHedge asserts. 
 
@@ -29,22 +29,22 @@ For the past four days, every morning we have had little news to move the stock 
 Here is the trading on April 2nd; sideways action all early morning and then the buyer wanders in and sends the S&P 500 straight up 15 handles.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM502Apr0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESM502Apr0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESM502Apr0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM502Apr0915.png" width="600" height="342">
 
 Then the next day we had the same scenario play out. Sideways with little direction, and then wham! Up 25 handles in a monster whoosh!
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM506Apr0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESM506Apr0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESM506Apr0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM506Apr0915.png" width="600" height="342">
 
 The following day we finally had some sellers waiting for him. He still gave it valiant effort sending it up 10 handles in the first 20 minutes, but then he ran out of ammo.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM507Apr0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESM507Apr0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESM507Apr0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM507Apr0915.png" width="600" height="342">
 
 But he is nothing but consistent, and yesterday he rammed it higher at the open again. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM508Apr0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESM508Apr0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESM508Apr0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM508Apr0915.png" width="600" height="342">
 
 Now ZeroHedge claims that the buying is Citadel hunting for stops. I doubt that. It is far more likely to be a foreign Central Bank like the BoJ or SNB executing a systematic order that needs to be executed regardless of price by a certain time. Whoever it is, the key point is the order is not price sensitive. It needs to be executed and that is why we are getting these whooshes higher. The buyer is demanding liquidity. He is not thoughtfully picking away at an undervalued market. No, he is rushing into the market buying with both fists.
 

@@ -33,7 +33,7 @@ After listening to the speech, I have scoured over it again, trying to decipher 
 This was Yellen&#8217;s first public speech since becoming Chairwoman and she wasted no opportunity to outline her dovish bent. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YellenTime.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/YellenTime.png" width="600" height="792">
+  <img src="http://themacrotourist.com/pictures/Azure/YellenTime.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YellenTime.png" width="600" height="792">
 
 The market reacted, but not as much as you might have forecasted given the dovishness of her speech. I believe that month and quarter end played a big role in muting the reaction. _Fund managers are hesitant to put on big directional changes right at quarter end._ Not only that, many of the aggressive funds that were in the high flying stocks were beat up quite hard in March, so they might have been a little gun shy.
 
@@ -44,19 +44,19 @@ My thesis had been that the market underestimated the Fed&#8217;s resolve in rem
 To demonstrate the importance of this last FOMC meeting, let&#8217;s go through some charts where I have outlined the FOMC meeting date with a red oval. First let&#8217;s have a look at the short end of the bond market. The 2 year Treasury note is very sensitive to the Fed&#8217;s short term guidance:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USGG2YRMar3114.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USGG2YRMar3114.PNG" width="600" height="342" />US 2 Year Treasury Yield</a>
+  <img src="http://themacrotourist.com/pictures/Azure/USGG2YRMar3114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG2YRMar3114.PNG" width="600" height="342" />US 2 Year Treasury Yield</a>
 </div>
 
 The June 2016 Eurodollar is the contract that seems to have the most action in terms of discounting the first hike:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDU6Mar3114.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EDU6Mar3114.PNG" width="600" height="342" />June 2016 Eurodollar</a>
+  <img src="http://themacrotourist.com/pictures/Azure/EDU6Mar3114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6Mar3114.PNG" width="600" height="342" />June 2016 Eurodollar</a>
 </div></p> 
 
 The FOMC meeting also ushered in the correction for the most speculative US stocks. Have a look at the Russell 2000 small cap index &#8211; which had been leading the charge higher:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IWMMar3114.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/IWMMar3114.PNG" width="600" height="342" />IWM Russell 2000 Small Cap ETF</a>
+  <img src="http://themacrotourist.com/pictures/Azure/IWMMar3114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/IWMMar3114.PNG" width="600" height="342" />IWM Russell 2000 Small Cap ETF</a>
 </div>
 
 It has been pretty well straight down since the FOMC meeting last month.
@@ -64,13 +64,13 @@ It has been pretty well straight down since the FOMC meeting last month.
 Let&#8217;s have a look at gold &#8211; which correlates very closely with real interest rates:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDMar3114.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDMar3114.PNG" width="600" height="342" />Gold since the FOMC meeting</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDMar3114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDMar3114.PNG" width="600" height="342" />Gold since the FOMC meeting</a>
 </div></p> 
 
 And finally, let&#8217;s finish up with the US Treasury 5/30 yield spread:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US530Mar3114.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/US530Mar3114.PNG" width="600" height="342" />US Treasury 5/30 Year Spread</a>
+  <img src="http://themacrotourist.com/pictures/Azure/US530Mar3114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/US530Mar3114.PNG" width="600" height="342" />US Treasury 5/30 Year Spread</a>
 </div></p> 
 
 **The past two weeks have basically been a re-pricing of the Fed&#8217;s interest rate path.**
@@ -116,7 +116,7 @@ Yesterday I bought some more gold and silver futures. However for my retirement 
 However since the start of last year&#8217;s correction, the premium has slipped to a discount. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CEFNAVApr0114.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CEFNAVApr0114.PNG" width="600" height="342" />CEF Premium to NAV in bottom panel</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CEFNAVApr0114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CEFNAVApr0114.PNG" width="600" height="342" />CEF Premium to NAV in bottom panel</a>
 </div>
 
 This is a great way to buy gold and silver at a discount. I fully expect that eventually this 6% discount will morph back into a 6% or 10% premium.
@@ -132,7 +132,7 @@ Given the change in my investment stance, I have decided to return to the long s
 If you have a look at the chart, it looks like a good risk reward from the long side.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDXApr0114.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDXApr0114.PNG" width="600" height="342" />GDX Gold miner ETF</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GDXApr0114.PNG" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXApr0114.PNG" width="600" height="342" />GDX Gold miner ETF</a>
 </div>
 
 The move above $27 sucked in a lot of late longs, and then when it failed, the damage was all the worse. We have now moved down to $23.60 and long term support is only $0.80 lower. 
@@ -146,4 +146,4 @@ I think that we will move back up to the $26 level fairly easily. I am getting l
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsApr0114.png" width="600" height="620"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr0114.png" width="600" height="620"></p>

@@ -24,12 +24,12 @@ tags:
 Over the week-end a record breaking winter freeze enveloped much of Eastern North America. Here in Toronto temperatures dipped down to minus 25 degrees Celsius, with a windchill that made it feel like minus 35 degrees. Americans are often a little confused when we quote temperatures in Celsius, but it was so cold that the Fahrenheit equivalent is almost the same. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/celsiusFeb1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/celsiusFeb1715.png" width="500" height="500">
+  <img src="http://themacrotourist.com/pictures/Azure/celsiusFeb1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/celsiusFeb1715.png" width="500" height="500">
 
 The point where the Fahrenheit scale converges with the Celsius scale always reminds me of the Seinfeld episode where Cramer is dating a woman who moves downtown. He tries to make the &#8220;long distance relationship&#8221; work, but when they have a fight and he gets kicked out of the apartment downtown, he gets hopelessly lost. He phones Jerry to pick him up, and Jerry asks him where he is:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CramerFeb1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CramerFeb1715.png" width="500" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CramerFeb1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CramerFeb1715.png" width="500" height="342">
 
 <p style="padding-left: 30px;">
   JERRY: Well, what street are you on?
@@ -60,7 +60,7 @@ Canadians might be used to the cold, but as the system works its way south, it i
 Our favourite doomsdayer website Zerohedge, is quick to remind us that last year the Polar Vertex shaved 0.7% off of US GDP. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDPFeb1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDPFeb1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GDPFeb1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDPFeb1715.png" width="600" height="342">
 
 Although many pundits were quick to blame the weather for the first quarter of 2014&#8217;s poor economic performance, I am not sure if that wasn&#8217;t simply a convenient excuse. I have no doubt that cold weather affects the short term habits of consumers and businesses. But absent a truly damaging storm, I am skeptical that the effect can be this pronounced. 
 
@@ -75,7 +75,7 @@ Maybe my Canadian-ness is shining through, but I don&#8217;t think you should be
 I know it&#8217;s cold, but it&#8217;s not that cold&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EmpireFeb1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EmpireFeb1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EmpireFeb1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EmpireFeb1715.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -92,7 +92,7 @@ But I am becoming increasingly bullish on Natural Gas. Yes, I know that supplies
 Yet we can&#8217;t forget that natural gas has already had its supply disruption. The price of natural gas has been in the dumpster for the past seven years. The fracking revolution&#8217;s first victim was natural gas.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NatGasFeb1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NatGasFeb1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/NatGasFeb1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NatGasFeb1715.png" width="600" height="342">
 
 The energy industry&#8217;s crude oil miscalculation will result in billions of dollars of losses. Capital will be even less willing to venture into new projects. This will mean that the supply response to potentially higher natural gas prices will be slow. 
 
@@ -107,12 +107,12 @@ I am getting more bullish on natural gas by the day. The cold weather doesn&#821
 Don&#8217;t look now, but the US dollar might (and I stress _might_) be rolling over.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYFeb1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYFeb1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYFeb1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYFeb1715.png" width="600" height="342">
 
 Sentiment is still wildly bullish. Have a look at my homegrown CME currency speculator position report:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FOREXFeb1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FOREXFeb1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FOREXFeb1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FOREXFeb1715.png" width="600" height="342">
 
 The specs aren&#8217;t adding to their short currency positions, but they are sill sitting on a long of $45 billion US dollars versus the various currencies. This is **still near a record large US dollar long position.**
 

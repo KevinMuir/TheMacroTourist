@@ -30,7 +30,7 @@ With the election of Japan’s new Prime Minister, who campaigned on a pledge to
 During the decade of the 1980s the Japanese Nikkei index experienced one of the truly great credit bubbles. At the beginning of the decade the index was trading at less than 7,000. At the turning of the decade, it had appreciated to just under 40,000. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NKYEarlyMay1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NKYEarlyMay1414.png" width="600" height="342" />Nikkei &#8211; straight up during the 1980s</a>
+  <img src="http://themacrotourist.com/pictures/Azure/NKYEarlyMay1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NKYEarlyMay1414.png" width="600" height="342" />Nikkei &#8211; straight up during the 1980s</a>
 </div>
 
 During this period, most of the world financial community was enamoured with the Japanese business acumen. It seemed that the Japanese could do no wrong and they were destined to own the world. The Japanese economy managed to grow in any scenario and even the US stock market crash of 1987 did not derail the Japanese miracle (sounds vaguely like another modern day Asian country but that is a story for another day).
@@ -50,7 +50,7 @@ After dancing through the underwriting hoops and selling the product to DS’ la
 But then reality quickly set in. Investors proved correct in their prediction for the demise of the Nikkei. The index very shortly thereafter rolled over, and the selling accelerated.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NKYDemiseMay1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NKYDemiseMay1414.png" width="600" height="342" />NKY rolls over and heads straight south</a>
+  <img src="http://themacrotourist.com/pictures/Azure/NKYDemiseMay1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NKYDemiseMay1414.png" width="600" height="342" />NKY rolls over and heads straight south</a>
 </div></p> 
 
 The volatility, which had thus far been somewhat subdued by the relentless bull market, went through the roof.
@@ -82,4 +82,4 @@ Today, I am only sure of one thing&#8230; I sure wouldn’t be underwriting any 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay1414.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay1414.png" width="600" height="700"></p>

@@ -16,7 +16,7 @@ tags:
 ---
 
   <img src="http://themacrotourist.com/pictures/SelfOct1915.png
-"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SelfOct1915.png
+" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/SelfOct1915.png
 " width="600" height="342">
 
 If you believe we are a scant few years away from a Elon Musk/Sergey Brin inspired world where self driving electric cars ferry us all around in some sort of Utopian Uber ride sharing environment, then stop reading. Actually you can keep reading because maybe you want to take the other side of my trade.
@@ -38,19 +38,19 @@ Got that? Basically it is a scrubber for your car&#8217;s exhaust. Initially bot
 > In the run up to 2000, Russian supply of palladium to the global market was repeatedly delayed and disrupted because the export quota was not granted on time, for political reasons. The ensuing market panic drove the palladium price to an all-time high of $1,100 per troy ounce in January 2001. Around this time, the Ford Motor Company, fearing auto vehicle production disruption due to a possible palladium shortage, stockpiled large amounts of the metal purchased near the price high. When prices fell in early 2001, Ford lost nearly US$1 billion.
 
 
-  <img src="http://themacrotourist.com/pictures/FordOct1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/FordOct1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/FordOct1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/FordOct1915.png" width="600" height="342">
 
 For the next decade, the price of palladium drifted lower as platinum went on a tear higher with the other precious metals. Although technically palladium is a precious metal, I have never heard anyone heading to the bank to withdraw their palladium in a financial crisis. In the depths of the 2008 crisis, between the worries about the economy and the lack of &#8220;preciousness,&#8221; palladium was once again $175. 
 
 There was also another factor affecting the demand for palladium. Although during the 2000s, Japan and the US were working on hybrid technology, European car makers cast their hopes in the diesel bucket. There was an aggressive push that &#8220;clean&#8221; diesel could provide the fuel savings that environmentalists were hoping for. 
 
 
-  <img src="http://themacrotourist.com/pictures/TDIOct1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/TDIOct1915.png" width="600" height="200">
+  <img src="http://themacrotourist.com/pictures/TDIOct1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/TDIOct1915.png" width="600" height="200">
 
 Have a look at how much the European diesel fleet gained share during this period:
 
 
-  <img src="http://themacrotourist.com/pictures/DieselOct1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/DieselOct1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/DieselOct1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/DieselOct1915.png" width="600" height="342">
 
 There was a seismic push by the Europeans into diesel. The trouble for the price of palladium is diesel catalytic converters need platinum. So at the margin, the relative demand for palladium was falling.
 
@@ -59,19 +59,19 @@ Recently this has been balanced by the terrific US auto sales as the so called &
 Yet the commodity collapse eventually brought down platinum and with it, palladium. In 2014 platinum went from $1,500 an ounce to $950. Palladium was over $900 at the high, but fell to $542 in the midst of the commodity carnage this summer.
 
 
-  <img src="http://themacrotourist.com/pictures/PlatPallOct1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/PlatPallOct1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/PlatPallOct1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/PlatPallOct1915.png" width="600" height="342">
 
 You might look at this chart and say to yourself, it looks like palladium has more room to fall. The price of palladium has not fallen as much as platinum. But step back and look at the long term trend of the ratio of palladium to platinum.
 
 
-  <img src="http://themacrotourist.com/pictures/TrendOct1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/TrendOct1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/TrendOct1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/TrendOct1915.png" width="600" height="342">
 
 This sure looks like a ratio that is making a long term base. I wouldn&#8217;t want to short this ratio, and the recent breakout looks like it might be the start of something bigger.
 
 I promised I would talk about the Volkswagen scandal, so now that we know a little bit about catalytic converters and the different compositional elements, let&#8217;s figure out what this means in light of the recent cheating developments by our German friends.
 
 
-  <img src="http://themacrotourist.com/pictures/liesOct1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/liesOct1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/liesOct1915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/liesOct1915.png" width="600" height="342">
 
 Sunday night, I was listening to one of my tin foil hat podcasts and the hosts read a letter from someone in the car industry who claimed the Volkswagen cheating was a well known industry secret. Maybe I am too cynical, but after watching large banks bend the tax code with blatant derivatives that have no economic benefit except to arbitrage tax, I believe there _are often cases where insiders across an entire industry know about abuses, but the public is ignorantly unaware._ I think the Volkswagen case was one of these times, and there is a good chance they are not the sole car marker to cheat. Either way, it doesn&#8217;t matter. The hammer of public outrage will reign down on the industry. The first casualty will be the European diesel initiative. I don&#8217;t see how they can continue with this technology. The scrutiny will be intense, and it was already falling behind the hybrid option. **So although there will be an initial spike in platinum for fixing of the existing Volkswagen diesel fleet, the long run demand for platinum (which is needed for diesel catalytic converters) will fall as diesel cars grow out of favour.**
 

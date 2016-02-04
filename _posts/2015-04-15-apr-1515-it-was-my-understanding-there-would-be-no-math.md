@@ -19,7 +19,7 @@ tags:
   - Two and Twenty
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/NoMathApr1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NoMathApr1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/NoMathApr1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NoMathApr1415.png" width="600" height="342">
 
 A few days ago Mexico floated €1.5 billion of 100 year bonds. Yup, you got that right &#8211; a billion and a half of 100 year bonds denominated in another currency. And the real kicker is; they were priced to yield just a tad over 4%. Four percent for a hundred years! In a currency that might not even be around in 10 years, forget about 100. I can&#8217;t figure out if it sheer madness or genius on Mexico&#8217;s part.
 
@@ -48,27 +48,27 @@ Yesterday one of the best guys on twitter, &#8220;Two and Twenty&#8221; @deuxetv
 His first point was the mad drive lower in German 10 year yields is pushing investors out the risk curve in all other asset classes.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BundCheapApr1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BundCheapApr1515.png" width="600" height="200">
+  <img src="http://themacrotourist.com/pictures/Azure/BundCheapApr1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BundCheapApr1515.png" width="600" height="200">
 
 After the US bond market, the German bund market is the next most important. It is the benchmark for European &#8220;riskless&#8221; rates. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Apr1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDBR10Apr1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Apr1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10Apr1515.png" width="600" height="342">
 
 The absurdly low yield of 0.13% is making all other asset class look &#8220;cheap&#8221;. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/KlausApr1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/KlausApr1515.png" width="600" height="175">
+  <img src="http://themacrotourist.com/pictures/Azure/KlausApr1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/KlausApr1515.png" width="600" height="175">
 
 But pushing investors out the risk curve is not without risk.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PVApr1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PVApr1515.png" width="600" height="175">
+  <img src="http://themacrotourist.com/pictures/Azure/PVApr1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PVApr1515.png" width="600" height="175">
 
 And Two and Twenty articulated famed investor&#8217;s Stanley Druckenmiller&#8217;s argument better in 140 characters than Stanley did himself in a 30 minute speech.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DruckApr1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DruckApr1515.png" width="600" height="200">
+  <img src="http://themacrotourist.com/pictures/Azure/DruckApr1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DruckApr1515.png" width="600" height="200">
 
 This last argument explains why I think that in the coming years we are going to get an across the board monster correction (at least in real terms) of diversified portfolios. We are driving financial assets to prices that are guaranteed to disappoint.
 
@@ -81,7 +81,7 @@ I have been shocked at how long the Chinese government has resisted the temptati
 This Renminbi strength has caused the Chinese economy to flip from the government needing to sell Renminbi to keep the peg (buying foreign currency and selling local currency) to the exact opposite. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ChinaReservesApr1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ChinaReservesApr1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ChinaReservesApr1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ChinaReservesApr1415.png" width="600" height="342">
 
 No wonder the Chinese economy keeps struggling. Financial conditions are too tight, and tying yourself to the strongest currency in the world seems to have more drawbacks than the Chinese ever bargained for&#8230;
 
@@ -96,7 +96,7 @@ It is becoming increasingly obvious that the American economy is not immune to r
 The CitiBank economic surprise index which measures the difference between actual and forecasted economic releases is still mired in deeply negative territory for the US while the European index continues its stay in firmly positive territory.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CESIUSDApr1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CESIUSDApr1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CESIUSDApr1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CESIUSDApr1515.png" width="600" height="342">
 
 The question to ask is whether the US economy will be able to readjust to the new higher US dollar and the lack of monetary expansion in the coming quarters. Or whether in this day and age of competitive stealth quantitative easing devaluations, the country that prints the least loses&#8230;
 
@@ -107,4 +107,4 @@ Kevin Muir
 the Macro Tourist
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png" width="300" height="300">
+  <img src="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png" width="300" height="300">

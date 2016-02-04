@@ -17,33 +17,33 @@ tags:
   - US dollar
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/RallyApr0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RallyApr0615.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/RallyApr0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/RallyApr0615.png" width="600" height="442">
 
 There can be no denying that the best trade of 2014 was long the US dollar. The DXY US dollar index was 80 at the start of the summer and ticked at slightly over 100 last month.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYApr0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYApr0615.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/DXYApr0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYApr0615.png" width="600" height="342"></p> 
 
 Bull markets don&#8217;t get any cleaner or simpler than this. All you needed to do was buy the US dollar and close your eyes. If you weren&#8217;t instantly onside, you only needed to wait a few days for the market to skate you into the black.
 
 The strength of the rally was truly breathtaking. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYLTApr0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYLTApr0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYLTApr0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYLTApr0615.png" width="600" height="342">
 
 It ended up being the strongest advance over the past twenty years! 
 
 Inevitably when I speak to buddies who had a good pass last year, I find more often than not it was somehow related to being short some currency against the US dollar. As a Canadian, I know a bunch of guys who were short Canadian dollars in a big way. Yet I can&#8217;t help but laugh a little as most of these traders were short Canada because of the &#8220;inevitable&#8221; real estate bust and the collapse of the oil market. When you look at the performance of the Canadian dollar, it is obvious that the Loonie has been no better or worse than the majority of the other currencies. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADApr0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CADApr0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CADApr0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADApr0615.png" width="600" height="342">
 
 Many of these traders don&#8217;t realize that their great trade was not that the Canada Dollar was so weak, but that the US dollar was _so strong._ In reality you could have sold almost any currency in the world versus the US dollar and made money.
 
 And many hedge funds did in fact take advantage of this massive bull market. Have a look at my homegrown indicator of total notional CME speculative US Dollar long positions:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FORApr0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FORApr0615.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/FORApr0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FORApr0615.png" width="600" height="342"></p> 
 
 Hedge funds have been buying the US dollar by the fistful for the past six months, and they are not showing any signs of taking the position off.
 
@@ -70,7 +70,7 @@ With the economic data finally agreeing with me, we are facing a dangerous situa
 This situation reminds me all too much of the last time Raoul Pal helped cause a bull market in another asset class. In November of 2013 Pal [wrote up this analysis of why Bitcoin could be worth $1,000,000 per coin](http://www.zerohedge.com/sites/default/files/images/user5/imageroot/2013/11/Bitcoin.pdf). I will not bother going through his logic, but needless to say that he piqued the interest of many of the &#8220;smart guys&#8221; and helped cause the stampede from $210 at the time of this recommendation to over $1,200 a few months later.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BTCApr0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BTCApr0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BTCApr0615.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BTCApr0615.png" width="600" height="342">
 
 I am not suggesting that Pal was the cause of this mania, but his legitimacy definitely helped fuel the rally. At the very least he reflected the views of some of the &#8220;smart guys&#8221; who were pushing BTC higher.
 

@@ -34,7 +34,7 @@ Usually this sort of inefficiency only happens in individual stocks. **But I am 
 [I contend that the main driver in this massive stock market rally of the past month](http://gfbblogs.azurewebsites.net/blog/2014/11/11/nov-1114-the-real-reason-the-stock-market-is-rallying/) is the Japanese Government Pension Investment Fund&#8217;s (GPIF) massive asset shift out of bonds into stocks. In the process they have pushed stocks up to levels where the next large &#8220;fundamental bids&#8221; are a long way down.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/uponairDec1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/uponairDec1014.png" width="450" height="700">
+  <img src="http://themacrotourist.com/pictures/Azure/uponairDec1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/uponairDec1014.png" width="450" height="700">
 
 We are up here on air, and as long as they keep buying, everyone is patting themselves on the back convincing themselves everything is rosy. 
 
@@ -43,7 +43,7 @@ However it is no coincidence that over the past couple of days the Yen has ralli
 Yesterday morning we got a taste of what it is going to look like when the GPIF walks away. Stocks were accelerating to the downside and the Yen was screaming higher. But then at 1030am there were rumours that GPIF was back on the bid for the USDJPY rate (selling Yen) at 118. I saw the tweet from one of my FX trader types, and from then on, the Yen went down and stocks went straight back up.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYESDec0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYESDec0914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JPYESDec0914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYESDec0914.png" width="600" height="342">
 
 I know that many will think that I am assigning too large an effect on a single entity&#8217;s order. And maybe they are right. Maybe the US stock market&#8217;s fundamentals justify a relentless two months of straight up. The fact that the recent rally was the longest rise ever to stay consistently above the 5 day moving average is completely natural. It was merely the market reflecting the improving fundamentals. 
 
@@ -62,6 +62,6 @@ I am a big fan of Ed Yardeni&#8217;s work. One of his proprietary indicators tha
 I thought I would just take a second to post an updated chart.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YardeniDec1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/YardeniDec1014.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/YardeniDec1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YardeniDec1014.png" width="600" height="342">
 
 The indicator has been sinking fast for the past month as the stock market has exploded higher. I wouldn&#8217;t count on this divergence lasting forever&#8230;

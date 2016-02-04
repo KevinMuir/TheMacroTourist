@@ -33,7 +33,7 @@ Most hedge funds were quite optimistic about Draghi&#8217;s ability to fulfill h
 In a mad scramble to put on risk, hedge funds poured into trades that would benefit from the new European growth strategy. And in case you don&#8217;t think that his comments and actions had an effect on the market, have a look at the trading of the Eurostoxx 50 index over the last few months.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SX5EOct0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SX5EOct0314.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SX5EOct0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SX5EOct0314.png" width="600" height="342">
 
 It is no coincidence that stocks spiked higher on the day he surprised the market and then also topped on the day that they poured roughly €100 billion into the system with the first round of the TLTRO. 
 
@@ -42,14 +42,14 @@ But this has not met expectations. It was hoped that the TLTRO would have more t
 Given the lack of progress, the last thing the hedge funds wanted to hear from yesterday&#8217;s ECB meeting was a steady as she goes announcement. Yet that is exactly what Daghi said. His basic message was; &#8220;we have made a lot of announcements and plans, let&#8217;s wait and see how go before we do anything more.&#8221; 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SX5EGIPOct0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SX5EGIPOct0314.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SX5EGIPOct0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SX5EGIPOct0314.png" width="600" height="342">
 
 European stocks were destroyed. The Eurostoxx 50 was down almost 3% on the day. It was ugly, ugly action. The hedge funds that had all been betting an the Maestro continuing to be able to sweet talk the market higher all bailed at once. 
 
 As for US stocks, at first they seemed to want to stabilize. For a little bit it looked like they actually might be able to shrug off the European news. But then the news that the Chinese military was rolling into Hong Kong, combined with the worsening European rout, overwhelmed the buyers. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESZ4GIPOct0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESZ4GIPOct0314.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESZ4GIPOct0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESZ4GIPOct0314.png" width="600" height="342">
 
 But once Europe closed and the Hong Kong press conference occurred without incident, the market quickly ripped higher.
 
@@ -58,7 +58,7 @@ But once Europe closed and the Hong Kong press conference occurred without incid
 We are down a long way from this summer&#8217;s euphoria. At yesterday&#8217;s panic lows we were down over 100 S&P 500 handles from the top.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESZ4Oct0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESZ4Oct0314.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESZ4Oct0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESZ4Oct0314.png" width="600" height="342">
 
 The technicians will all tell you how we broke all sorts of support and that things look bleak. These are the same technicians telling you a month ago that the market was hitting new highs and it was clear sailing since there was no resistance to be seen for miles.
 
@@ -79,4 +79,4 @@ A quick update before I sign off. GoPro was pummelled yesterday as the founders 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct0314.png" width="600" height="400"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct0314.png" width="600" height="400"></p>

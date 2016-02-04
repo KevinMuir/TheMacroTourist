@@ -31,14 +31,14 @@ Last week crude oil had one of the worst weeks on record. However over the week-
 The fact that this influential OPEC member mentioned that the cartel would be willing to let it slide all the way down to $40 spooked a lot of market players. The market had already tumbled a long way over the past three weeks, but the week-end news caused a gap down into new lows for the move.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/OilDec1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/OilDec1514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/OilDec1514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/OilDec1514.png" width="600" height="342">
 
 Late last week I dipped my toe into the long crude oil trade, and although it has so far not worked at all, I increased my position Sunday night. 
 
 I believe that at this point these sorts of comments are designed to push crude oil as low as possible. Ask yourself what is the point of making such a bearish comment? The OPEC minister could have easily straddled the fence and said something non committal. But instead he came out with this comment that he knew would be interpreted as market negative. He knew exactly how this would affect the market &#8211; so why do it unless he **wanted it lower.**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/riggedDec1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/riggedDec1514.png" width="500" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/riggedDec1514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/riggedDec1514.png" width="500" height="400">
 
 As I reflect about the crude oil market, I am becoming more convinced that OPEC is specifically holding their foot to the throat of the offside North American market in an attempt to cause as much pain as possible. 
 
@@ -47,7 +47,7 @@ Although I think there has been a massive bubble in North American shale energy 
 I blame the easy Fed policies of the past half dozen years. When you price money too cheaply, stupid stuff happens. Like this fixed income security that BNP Paribas issued that was linked to the price of crude oil.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BNPDec1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BNPDec1514.png" width="600" height="900">
+  <img src="http://themacrotourist.com/pictures/Azure/BNPDec1514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BNPDec1514.png" width="600" height="900">
 
 ZeroHedge quite aptly highlighted the most offending part with a fitting comment. Think about the payoff profile of this security for a moment. If crude oil settled above $100, the security paid 12.50%. It didn&#8217;t matter if it went to $101 or $250, the most the security holder could make was 12.50%. If the price of crude oil closed between $85 and $90, the security return would be 0%. But if crude oil went lower than that, the security payoff would head deeply negative. In essence BNP facilitated the buying of a fixed income note with a massive crude oil put write attached. What the hell were they thinking selling this sort of piece of garbage? I have no problem with someone betting on the price of crude oil heading higher. But there is whole exchange with a myriad of different ways to execute that trade. There is no need to hide that speculation within a fixed income note that is obviously priced with huge fees attached. **But this is what happens when the Fed puts rates to zero for 6 years &#8211; investors imprudently move out the risk curve and Wall Street is only too happy to oblidge.** 
 
@@ -62,7 +62,7 @@ I bought more crude oil last night, and if we go lower in the days to come, I am
 One of my twitter guys had this great line that made me laugh that seems appropriate to end on:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FAMOUSDec1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FAMOUSDec1514.png" width="600" height="225">
+  <img src="http://themacrotourist.com/pictures/Azure/FAMOUSDec1514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FAMOUSDec1514.png" width="600" height="225">
 
 <hr size="3" width="85%" />
 
@@ -71,7 +71,7 @@ One of my twitter guys had this great line that made me laugh that seems appropr
 I have been positioned for a short term stock market sell off and a let up in the Japanese Yen weakness. Proving that even a blind squirrel finds a nut every now and then, I have managed to get these two trades a little bit right. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXDec1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXDec1514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXDec1514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXDec1514.png" width="600" height="342">
 
 Although I am a long term skeptic of the sustainability of the stock market rise, almost every indicator is pointing to this decline being oversold. I know one of these days we are going to get oversold, and stay that way for a long time. But I am headed on Christmas vacation later this week, and I just want to wind down both of these positions. 
 

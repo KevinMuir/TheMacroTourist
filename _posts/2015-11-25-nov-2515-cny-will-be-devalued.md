@@ -16,7 +16,7 @@ tags:
   - US dollar
 ---
 
-  <img src="http://themacrotourist.com/pictures/PBOCNov2515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/PBOCNov2515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/PBOCNov2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/PBOCNov2515.png" width="600" height="342">
 
 I think the Chinese government will devalue the Yuan in the coming months. That&#8217;s an easy call, and it is by no means unique. There are many strategists and high profile hedge fund managers who have come to the same conclusion. But I have another more off the wall idea for you to consider&#8230;
 
@@ -25,7 +25,7 @@ Before we venture down that road, let&#8217;s go over the most likely outcome fo
 During the 1980s and 1990s the Chinese aggressively devalued their currency to encourage economic growth.
 
 
-  <img src="http://themacrotourist.com/pictures/CNYNov2515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CNYNov2515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CNYNov2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CNYNov2515.png" width="600" height="342">
 
 The move from 3.75 in 1987 to 8.25 by 1994 was a monster devaluation that ushered in a wave of economic growth the likes of which the world has never experienced. Of course there were other factors contributing to this growth, but the pegging of the Yuan at this artificially cheap level definitely contributed to the barn buster growth of the Chinese economy in the subsequent decade. 
 
@@ -34,7 +34,7 @@ As the Chinese economy grew from a developing nation that made cheap trinkets to
 But recently the Chinese reversed this strengthening trend and allowed the Yuan to weaken back to 6.40. The reason for this change of direction is simple. The US dollar has become the strongest free floating major currency in the world, bar none. 
 
 
-  <img src="http://themacrotourist.com/pictures/BBDXYNov2515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BBDXYNov2515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/BBDXYNov2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/BBDXYNov2515.png" width="600" height="342">
 
 For the Chinese, having a soft peg against the US dollar when the Federal Reserve was the most aggressive Central Banker out there and the greenback was struggling, was especially convenient. Coming out of 2009, the Chinese were able to piggyback on the easy US monetary policy as the rest of the world recoiled in horror as Ben Bernanke instituted QE program after program. 
 
@@ -43,21 +43,21 @@ Think back to this period. It wasn&#8217;t long ago the rest of the world was ch
 This US dollar weakness was a boom for China. But now having flipped from extreme weakness to unbearable strength, it is proving a terrible headwind.
 
 
-  <img src="http://themacrotourist.com/pictures/ChurchNov2515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ChurchNov2515.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/ChurchNov2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/ChurchNov2515.png" width="600" height="400">
 
 Over the past few quarters the Chinese have allowed their currency to weaken from 6 to 6.40, but that is small potatoes when compared to the massive declines seen by other currencies. 
 
 Take for example the Japanese Yen versus the Chinese Yuan:
 
 
-  <img src="http://themacrotourist.com/pictures/CNYJPYNov2515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CNYJPYNov2515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CNYJPYNov2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CNYJPYNov2515.png" width="600" height="342">
 
 The cross rate has gone from 12 in 2012 to 20 in 2015. That&#8217;s a gain of 66% for the Chinese currency. 
 
 Now maybe you will say the Japanese Yen is a special case. It was overpriced to begin with. Although the Yuan&#8217;s increase versus the Japanese Yen is more dramatic, it is the same story with most other currencies. The trade weighted Yuan is exploding higher:
 
 
-  <img src="http://themacrotourist.com/pictures/RealCNYNov2515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/RealCNYNov2515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/RealCNYNov2515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/RealCNYNov2515.png" width="600" height="342">
 
 In this day and age of limited economic growth with too much indebtedness, currency strength is a death sentence for an economy. Japan tried to weather the currency strength after their tsunami disaster, but they eventually changed leaders to usher in a new monetary policy to weaken the Yen and break the back of deflation. Then Europe tried to withstand the monetary avalanche from Japan and America, but the Euro strengthened to a point where Draghi had to tap out and institute QE. Now we have the US riding down this same road, and although they will also eventually be forced to the same outcome, the Chinese monetary tie to America will break first.
 

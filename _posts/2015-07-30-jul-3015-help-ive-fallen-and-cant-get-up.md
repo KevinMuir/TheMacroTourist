@@ -19,12 +19,12 @@ tags:
   - world trade
 ---
 
-  <img src="http://themacrotourist.com/pictures/NoSoGoodJul3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/NoSoGoodJul3015.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/NoSoGoodJul3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/NoSoGoodJul3015.png" width="600" height="400">
 
 Over the past half dozen years, world trade volume has been in a steadily increasing uptrend. After the 2008 credit crisis, the global economy had been quietly healing, with quarter after quarter, one foot was put in front of the previous one, resulting in steady progress. 
 
 
-  <img src="http://themacrotourist.com/pictures/WorldTradeJul3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/WorldTradeJul3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/WorldTradeJul3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/WorldTradeJul3015.png" width="600" height="342">
 
 Yet something changed starting at the end of 2014. The year end reading of trade volume ticked at an all time new high, but we have headed straight down every month since then. 
 
@@ -39,12 +39,12 @@ To some degree it will depend on the policy responses from a couple of the large
 Last year&#8217;s collapse in the price of crude oil was brought on when the Saudis turned on the supply tap and purposely left it flowing even as the world inventories began overflowing. Over the course of four months, crude oil plunged from the mid $90s to all the way down to $43. The bearishness towards crude oil hit a feverish pitch, with _&#8216;legendary&#8217;_ trader Dennis Gartman, epitomizing the overwhelmingly negative sentiment when he declared [**&#8216;crude will go the way of whale oil&#8217;**.](http://themacrotourist.com/blog/2015/05/05/may-0515-the-coming-collapse-in-the-crude-whale-oil-spread-2/)
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DennisMay0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DennisMay0515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DennisMay0515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DennisMay0515.png" width="600" height="342">
 
 In the frenzy of the decline, the Saudis refused to convene an OPEC meeting to curtail production, but they stated they believed that $60 was a fair price. At the time oil was trading sub-$50 and &#8216;legendary&#8217; traders like Gartman were still forecasting its demise. I argued that if the Saudis wanted $60, then they would most likely get $60. I thought we would trade $10 on either side of $60 for some months (maybe years) to come. Proving that even a blind squirrel finds an acorn every now and then, I got that one right, and we rallied back up to $60 in May and June. 
 
 
-  <img src="http://themacrotourist.com/pictures/CLJul3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CLJul3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CLJul3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CLJul3015.png" width="600" height="342">
 
 But the recent commodity collapse has taken its toll on crude oil, and we have declined back down to sub-$50. 
 
@@ -73,14 +73,14 @@ I am not going to over think this trade. Druck and other smart guys think oil is
 Gold has fallen and can&#8217;t get up. It is still awfully ugly.
 
 
-  <img src="http://themacrotourist.com/pictures/FallenJul3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/FallenJul3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/FallenJul3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/FallenJul3015.png" width="600" height="342">
 
 I am bullish on our little yella&#8217; friend, but you don&#8217;t need to read another mope on the internet spouting on about the chance to pick gold up on the cheap.
 
 Instead I will leave you with this thought; gold has been plummeting in US dollar terms. There can be no denying that fact. But have you had a look at gold in Australian or Canadian dollars?
 
 
-  <img src="http://themacrotourist.com/pictures/GOLDSJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/GOLDSJul2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/GOLDSJul2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GOLDSJul2815.png" width="600" height="342">
 
 Gold priced in CAD or AUD is still up significantly from last year&#8217;s lows. If you are a gold company in one of these countries, the price of the commodity you produce is still hanging in there. Yet the market has destroyed all gold companies&#8217; share prices. 
 

@@ -20,12 +20,12 @@ tags:
   - Ned Davis
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/Gold660Jan2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/Gold660Jan2115.png" width="600" height="242">
+  <img src="http://themacrotourist.com/pictures/Azure/Gold660Jan2115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/Gold660Jan2115.png" width="600" height="242">
 
 Towards the end of last year the gold bears were as confident as the US basketball team heading off to the Olympics. And it was easy to see why. Over the past three years gold had gone from being a hedge fund darling to a complete and utter pariah. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GoldJan2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GoldJan2115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GoldJan2115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GoldJan2115.png" width="600" height="342">
 
 The move lower from $1800 down to $1185 was relentless. Every time it looked like it might bounce, new sellers emerged. For the first $400 or $500 lower, many hedge funds stuck with their previous long positions. However, by the time we got down below $1300, the overwhelming hedge fund consensus had become bearish. 
 

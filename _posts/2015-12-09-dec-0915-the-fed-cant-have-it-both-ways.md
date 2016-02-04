@@ -15,14 +15,14 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/pictures/Hobbit2Dec0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Hobbit2Dec0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Hobbit2Dec0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Hobbit2Dec0915.png" width="600" height="342">
 
 I find too many traders spend far too long discussing _what should be_ instead of _what is._ A trader&#8217;s opinion is like the claim from an elderly grandmother that she was once quite a dish &#8211; it might be true, but it really doesn&#8217;t do anything for you. Instead of arguing about what the Fed _should do_, I would much rather spend that time figuring out what _they will do._ 
 
 To help me understand what is going on through the FOMC members&#8217; minds, I read former Texas Fed President Bob McTeer&#8217;s blog religiously. 
 
 
-  <img src="http://economyblog.ncpa.org/"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/McTeerDec0915.png" width="600" height="100">
+  <img src="http://economyblog.ncpa.org/" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/McTeerDec0915.png" width="600" height="100">
 
 Yesterday he wrote a piece titled [November Jobs Report Seals the Deal for December Lift-Off](http://economyblog.ncpa.org/november-jobs-report-seals-the-deal-for-december-lift-off/). Bob argues a Fed hike at the next meeting December 16th is a done deal. That&#8217;s hardly original thinking. But let&#8217;s dig a little deeper into his piece:
 
@@ -37,12 +37,12 @@ It&#8217;s that last point I would like to focus on. Bob is bewildered by the st
 I am not so confused by the stock market&#8217;s reaction. Since the 2008 credit crisis, the stock market has been driven by the expansion of the Fed&#8217;s balance sheet.
 
 
-  <img src="http://themacrotourist.com/pictures/SPXBSDec0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SPXBSDec0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/SPXBSDec0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/SPXBSDec0915.png" width="600" height="342">
 
 It wasn&#8217;t long ago that all of us traders followed the Fed&#8217;s monetization schedule closely (the infamous POMO days). On the days with larger bond purchases, the stock market dramatically outperformed the average day. I have **_zero doubt_** the Fed&#8217;s quantitative easing programs affected the stock market. The only question is to what degree?
 
 
-  <img src="http://themacrotourist.com/pictures/QEDec0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/QEDec0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/QEDec0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/QEDec0915.png" width="600" height="342">
 
 The economic optimists will argue the effect was small. I happen to not agree, and fall into the camp who believe the Fed&#8217;s program was _the driving factor_ of the stock market&#8217;s terrific performance during the past six years.
 
@@ -55,7 +55,7 @@ We will have to subtract the Fed&#8217;s new found tightening instruments from t
 Nordea&#8217;s Martin Enlund has already created a chart that shows the tightening levels (it&#8217;s unfortunately a few months old):
 
 
-  <img src="http://themacrotourist.com/pictures/EnlundDec0915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/EnlundDec0915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/EnlundDec0915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/EnlundDec0915.png" width="600" height="342">
 
 You will notice the spikes higher in the lower half of the chart that indicate Fed tightening are often followed quickly by stock market dips.
 

@@ -19,32 +19,32 @@ tags:
   - USD
 ---
 
-  <img src="http://themacrotourist.com/pictures/PandaTooDec1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/PandaTooDec1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/PandaTooDec1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/PandaTooDec1015.png" width="600" height="342">
 
 Almost ever since the IMF has agreed to include the Chinese Yuan in the Special Drawing Rights basket at the end of November, the Chinese Yuan has been declining. 
 
 
-  <img src="http://themacrotourist.com/pictures/CNYGIPDec1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CNYGIPDec1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CNYGIPDec1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CNYGIPDec1015.png" width="600" height="342">
 
 The Yuan&#8217;s weakness has been steady, and it is not a great leap to deduce the move has been _orchestrated._ Some of the ZeroHedge types are making a big deal about this &#8220;supposed&#8221; devaluation. 
 
 
-  <img src="http://themacrotourist.com/pictures/ZHDec1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ZHDec1015.png" width="600" height="100">
+  <img src="http://themacrotourist.com/pictures/ZHDec1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/ZHDec1015.png" width="600" height="100">
 
 I am hard pressed to call the recent decline a &#8220;free fall.&#8221; Have a look at the chart for the past year:
 
 
-  <img src="http://themacrotourist.com/pictures/CNYDec1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CNYDec1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CNYDec1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CNYDec1015.png" width="600" height="342">
 
 The CNYUSD rate is approaching the panic high levels reached during this summer&#8217;s _actual_ devaluation. But when you zoom out to a longer term picture, the recent Yuan weakness is minuscule:
 
 
-  <img src="http://themacrotourist.com/pictures/CNYLTDec1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CNYLTDec1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CNYLTDec1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CNYLTDec1015.png" width="600" height="342">
 
 This long term currency strength is having a detrimental effect on the Chinese current account. Have a look at the spread between the Onshore and Offshore Chinese Yuan:
 
 
-  <img src="http://themacrotourist.com/pictures/CNHCNYDec1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CNHCNYDec1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CNHCNYDec1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CNHCNYDec1015.png" width="600" height="342">
 
 It continues to widen as capital leaves China. 
 
@@ -59,19 +59,19 @@ Recently, after the official announcement of the Yuan being included in the SDR 
 But herein lies a problem. This steady decline is only encouraging more selling. I stumbled on this great tweet by Ben Rabidoux that sums up the situation perfectly:
 
 
-  <img src="http://themacrotourist.com/pictures/BenDec1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BenDec1015.png" width=350" height="200">
+  <img src="http://themacrotourist.com/pictures/BenDec1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/BenDec1015.png" width=350" height="200">
 
 I couldn&#8217;t agree more. China needs to either let the Yuan float freely, or devalue dramatically lower. 
 
 Over the past half dozen years we have seen many countries try to withstand the pressure of a strong currency. Japan&#8217;s unbelievable Yen strength after the Tsunami disaster eventually ushered in a new Prime Minister elected on a platform of reversing the deflationary wave that had enveloped the country. For a while Europe tried to resist the urge to engage in QE to lower the value of the Euro, but in the end Mario and the rest of the ECB over ruled the Germans. Since the credit crisis of 2008, every time a country has experienced a currency appreciation due to relatively tight monetary policy, they have eventually succumbed to the deflationary cloud that descends on their economy and panicked. **China will be no different.** And make no mistake, the pressure on China is immense. Have a look at this chart of the Yuan versus the Yen, Euro and US dollar:
 
 
-  <img src="http://themacrotourist.com/pictures/CNYJPYDec1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CNYJPYDec1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/CNYJPYDec1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CNYJPYDec1015.png" width="600" height="342">
 
 The rest of the world has devalued against the US dollar, and China has been stubbornly trying to hold out while the fate of the IMF SDR decisions was up in the air. This has cost the Chinese economy.
 
 
-  <img src="http://themacrotourist.com/pictures/RankDec1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/RankDec1015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/RankDec1015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/RankDec1015.png" width="600" height="342">
 
 I continue to believe the Chinese Yuan needs to decline a lot lower than the recent weakness from 6.40 to 6.44. That move is less than 1%! ZeroHedge might call that a free fall, but I think it is a _rounding error._ 
 

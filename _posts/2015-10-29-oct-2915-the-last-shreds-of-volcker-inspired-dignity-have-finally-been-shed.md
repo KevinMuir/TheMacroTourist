@@ -14,7 +14,7 @@ tags:
   - Lamar Odon
 ---
 
-  <img src="http://themacrotourist.com/pictures/FedOct2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/FedOct2815.png" width="500" height="600">
+  <img src="http://themacrotourist.com/pictures/FedOct2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/FedOct2815.png" width="500" height="600">
 
 Here we go again. I hate to sound like one of those tinfoil hat wearing conspiracy nut jobs, but it is hard to dismiss the correlation. At the previous FOMC meeting on September 17th, stock markets were struggling. Credit spreads were blowing out. Financial conditions were tightening. Global markets were looking shaky. It was not the environment the Federal Reserve wanted to put through the first interest increase in nine years. So they took a pass. 
 
@@ -31,21 +31,21 @@ Huh? Markets stop going down, and now all of a sudden a rate hike is back on the
 The Federal Reserve has about as much credibility as Lamar Odom&#8217;s claims he was at the Las Vegas brothel to watch some movies with the nice young ladies, and no, there is absolutely no way he mixed illicit drugs with booze and &#8220;performance&#8221; enhancing pills. 
 
 
-  <img src="http://themacrotourist.com/pictures/CharlieOct2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CharlieOct2815.png" width="300" height="400">
+  <img src="http://themacrotourist.com/pictures/CharlieOct2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/CharlieOct2815.png" width="300" height="400">
 
 The last shreds of Volcker inspired dignity have finally been shed. The Federal Reserve is not even pretending anymore they are doing anything except responding to the month to month movements in the markets. 
 
 The economic releases during the past month have been tepid and consistently unimpressive. Whether it is the Dallas Fed Manufacturing Activity coming in at &#8211;12.7 versus an expected &#8211;6.5. Or the Durables Ex Transportation release stinking up the joint with &#8211;0.4% versus the consensus 0.0%. How about Monday&#8217;s terrible Consumer Confidence Index reading of 97.6 as opposed to the anticipated 102.9? Although I am cherry picking the especially bad ones, the economy _has not rebounded_ in the past month and a half since the last FOMC meeting.
 
 
-  <img src="http://themacrotourist.com/pictures/ECOSURPOct2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ECOSURPOct2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/ECOSURPOct2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/ECOSURPOct2815.png" width="600" height="342">
 
 The Bloomberg Economic Surprise index shows the macro economic numbers continue to lag considerably below expectations. The Fed thinks the economy has improved over the past month and a half &#8211; I don&#8217;t see it.
 
 Nor do consumers.
 
 
-  <img src="http://themacrotourist.com/pictures/BBNatOct2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BBNatOct2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/BBNatOct2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/BBNatOct2815.png" width="600" height="342">
 
 The Bloomberg US National Economy Expectations Diffusion Index measures consumers&#8217; opinions about whether the national economy is getting better, or worse. The index has slipped again this month, to a new one year low.
 

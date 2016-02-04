@@ -19,17 +19,17 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/BearLetMeOut.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BearLetMeOut.png" width="600" height="900">
+  <img src="http://themacrotourist.com/pictures/Azure/BearLetMeOut.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BearLetMeOut.png" width="600" height="900">
 
 Back in 2011 when the stock market had taken a pause and looked like it was about to roll over, I remember being bullish. It seemed like everyone was convinced that the bull market had run its course and we were due to resume the great bear market. The S&P 500 had declined from 1350 down to under 1100 and it looked ugly. I remember saying to my trading buddies that &#8220;right now I am long and hurting, but it won&#8217;t be long before we are hitting new highs and I will be short and screaming at the stupidity of the buyers for chasing it.&#8221; Well I did nail the long trade, but like a chump, I have been fighting it all too often since then as we have pushed to new high after new high&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXJan2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXJan2815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXJan2815.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXJan2815.png" width="600" height="342">
 
 This bull market is now over six years old, and although sentiment never got 1999 frothy, there is no doubt that a sense of complacency has crept into the collective psyche of investors. Smart bearish guys have been laughed out of the room as the relentless bid from the Central Banks and their agents have steam rolled financial markets to new highs. If you even suggest that stocks might due for a decline you get labelled a crackpot perma-bear that &#8220;just doesn&#8217;t get it.&#8221; [Meanwhile, the strategists that suggest loading up on stocks after a 200% increase are the _prudent ones_ whose opinion is met with agreeing nods from the investing masses.](http://gfbblogs.azurewebsites.net/blog/2014/11/14/nov-1414-so-bullish-it-hurts-famous-last-words/)
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BullishNov1414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BullishNov1414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BullishNov1414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BullishNov1414.png" width="600" height="342">
 
 My main worry is that there is precious little worry out there. There seems to be an utter lack of concern about the really momentous changes that are happening in the financial markets. Almost the entire yield curve of Switzerland has moved to negative yields. Think about the absurdity of that for a second. Switzerland can make money by issuing bonds! Or think about the amount of buying that the Bank of Japan is doing. They are basically monetizing their debt with equity purchases. The CME even has a Central Bank rebate program for S&P 500 futures. F&#8217; me. These are not normal times. Yet everyone is merrily going along ignoring all the warning signs. 
 
@@ -42,7 +42,7 @@ During this next correction, there is going to absolutely no where to hide. Bond
 The classic 60/40 portfolio (60 percent equities with 40 percent bonds) has had an amazing run over the past few decades. I couldn&#8217;t find a chart of a 60/40, but I did find this chart of a 50/50 portfolio&#8217;s drawdowns. In the US, there has not been a draw down of more than 20% since the 1980s. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/6040Jan2815-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/6040Jan2815-1.png" width="500" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/6040Jan2815-1.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/6040Jan2815-1.png" width="500" height="342">
 
 **Here is my prediction: in the next decade this portfolio will experience a decline that rivals the 1920s decline.** Remember this is in real terms. The decline might be the result of a return of inflation. Or it might be the result of a market crash. I don&#8217;t know, but financial assets have been goosed to levels where they are destined to disappoint. You might find a way to hide in the least expensive bond market over the short run. But over the long run, these sorts of yields with this stock market valuation is going to result in a big drawdown. I suspect that this classic 60/40 portfolio gets cut in half in real terms.
 

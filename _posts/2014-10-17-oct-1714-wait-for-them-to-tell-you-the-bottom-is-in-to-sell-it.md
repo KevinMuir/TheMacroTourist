@@ -29,7 +29,7 @@ Maybe I am being too cute by fading the recent sell off. Maybe the stock market 
 However I am going to listen to that great trader Yogi Berra who knew enough to avoid crowded trades. Although I believe we will eventually have a big sell off in the equity market, I don&#8217;t think this is it. All of these guys puking out their positions 150 S&P handles lower than last month&#8217;s high are panicking.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BabyOct1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BabyOct1714.png" width="600" height="700">
+  <img src="http://themacrotourist.com/pictures/Azure/BabyOct1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BabyOct1714.png" width="600" height="700">
 
 The credit crisis of 2008 left quite a scar on the investing public. I know that I made the mistake of getting bullish too early. Coming into the decline, I had set up bearishly, covered it into the swoon, and then made the mistake of going long at what I thought were panic lows. Of course we all know the decline kept going, and going, and going. 
 
@@ -70,7 +70,7 @@ Many market pundits keep talking about QE4. Stop and think about this for a seco
 Yesterday&#8217;s initial jobless claims shows that the American economy is doing just fine. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ClaimsOct1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ClaimsOct1714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ClaimsOct1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ClaimsOct1714.png" width="600" height="342">
 
 In fact, it is better than fine. The Fed needs to let go of the training wheels and let the economy ride on its own. **And they cannot be held hostage to Wall Street.** If the leverage trades come off and risk assets back up, so be it. Wall Street is doing a shitty job pricing risk anyway. 
 
@@ -87,4 +87,4 @@ Today Fed Chairwoman Yellen speaks. It will be the first time since the sell off
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct1714.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct1714.png" width="600" height="342"></p>

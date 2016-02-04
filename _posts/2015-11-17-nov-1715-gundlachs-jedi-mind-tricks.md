@@ -16,7 +16,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/JediNov1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/JediNov1715.png" width="600" height="275">
+  <img src="http://themacrotourist.com/pictures/JediNov1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/JediNov1715.png" width="600" height="275">
 
 On Sunday, the world&#8217;s largest bond manager tried to throw cold water on the idea that a December hike by the Federal Reserve was a done deal. As reported by Reuters:
 
@@ -37,12 +37,12 @@ On Sunday, the world&#8217;s largest bond manager tried to throw cold water on t
 No sooner had Gundlach raised the idea of a &#8220;no hike&#8221; in December, CNBC took the theme and slapped it up on TV.
 
 
-  <img src="http://themacrotourist.com/pictures/DecemberNov1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/DecemberNov1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/DecemberNov1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/DecemberNov1715.png" width="600" height="342">
 
 I happen to agree with Gundlach about all of his concerns. Leveraged loans, high yield bonds and the CRB are all sucking wind.
 
 
-  <img src="http://themacrotourist.com/pictures/BKLNNov1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BKLNNov1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/BKLNNov1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/BKLNNov1715.png" width="600" height="342">
 
 Even with the recent rise in equities, these financial asset classes are still sitting at the lows. I have long held the belief that equities cannot continue rising indefinitely with the plumbing of the financial system showing such big cracks. 
 
@@ -53,7 +53,7 @@ The recent economic releases have indicated the global economic slowdown has inf
 But I don&#8217;t believe any of that matters. The Federal Reserve has been wanting to raise rates for quite some time. Too many members of the FOMC still cling to the Phillip&#8217;s Curve and the Taylor Rule for setting monetary policy. At the end of the day the FOMC members are a bunch of bureaucrats, and although they can delay some decisions, there reaches a point where their &#8220;rules&#8221; force them to act. The recent barnburner employment release will be the tipping point.
 
 
-  <img src="http://themacrotourist.com/pictures/TAYLORNov1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/TAYLORNov1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/TAYLORNov1715.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/TAYLORNov1715.png" width="600" height="342">
 
 The _&#8220;zero was an emergency rate, and the emergency is long past&#8221;_ crowd amongst the Federal Reserve Committee members will force a rate hike at December&#8217;s meeting. 
 

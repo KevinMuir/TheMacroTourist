@@ -20,7 +20,7 @@ My wife gets car sick as a passenger, so when we are together, she usually drive
 During this Canada Day holiday week, my wife will once again be driving me around like an old man. I thought I would leave you with this great picture of what it is like in our car&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CarJuly115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CarJuly115.png" width="600" height="420">
+  <img src="http://themacrotourist.com/pictures/Azure/CarJuly115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CarJuly115.png" width="600" height="420">
 
 Happy Canada Day! And to my American readers, have a great July 4th week-end!
 

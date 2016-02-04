@@ -21,15 +21,15 @@ tags:
   - Yen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/idiotDec1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/idiotDec1214.png" width="600" height="550">
+  <img src="http://themacrotourist.com/pictures/Azure/idiotDec1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/idiotDec1214.png" width="600" height="550">
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESGIPDec1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESGIPDec1214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESGIPDec1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESGIPDec1214.png" width="600" height="342">
 
 Yesterday was an extremely interesting day for the markets. The previous night we got the big bounce off the 118 Yen level, and it looked like we were going to return to the same old _&#8220;sell Yen buy US stocks&#8221;_ melt up. The trading before the open was choppy, but it was trying to move higher. Then the stock market opened, and in one of the more outrageously stupid moves I have seen in a long time, the buyer simply drove the market straight up almost 30 S&P 500 handles in the space of half an hour. There was no news at 930am that would account for this sort of move. It was simply a monster order driving the entire market straight up. If you try to tell me that it was the good economic reports that drove the stock market higher, then why didn&#8217;t it go higher at 830am when most of the news hit the tape? Isn&#8217;t the market supposed to be a discounting mechanism? I contend that the market was doing a fine job discounting the economic news, but what they can&#8217;t discount is the insanity of the constant program bids from what I believe to be the GIPF (Japanese Government Investment Pension Fund). Regardless of who it is, you can&#8217;t convince me that this is order flow is natural. This is not the result of the collective wisdom of thousands of different traders finding an equilibrium level for the stock market. No, this market is getting pushed up by a monster institutional order that is somehow directly tied to the Yen and the Japanese monetary changes. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESJPYDec1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESJPYDec1214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESJPYDec1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESJPYDec1214.png" width="600" height="342">
 
 But yesterday broke the pattern. Usually when this sort of buying comes into the market, it lasts the whole day. There might be a slight dip to suck in the short sellers, but the most likely action is for the market to close on the highs of the day. 
 
@@ -52,13 +52,13 @@ But here is a trade that traders might be overlooking. Prime Minister Abe desper
 If he does, then uranium might prove a sneaky decent long trade. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/UDec1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/UDec1214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/UDec1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/UDec1214.png" width="600" height="342">
 
 It has basically gone nowhere since the Japanese nuclear accident. My preferred way of playing it is the Uranium Participation Fund which is a small closed end fund that owns uranium. 
 
 It is now trading at a 10% discount to NAV, so it&#8217;s not like you are buying it with a lot of premium built into it.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/UPREMDec1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/UPREMDec1214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/UPREMDec1214.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/UPREMDec1214.png" width="600" height="342">
 
 When Abe wins the super majority, most traders will be busy selling the Yen. Instead, have a look at buying uranium&#8230;

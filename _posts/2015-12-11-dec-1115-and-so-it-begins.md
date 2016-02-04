@@ -17,7 +17,7 @@ tags:
   - Third Avenue Management
 ---
 
-  <img src="http://themacrotourist.com/pictures/TheodenDec1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/TheodenDec1115.png" width="600" height="250">
+  <img src="http://themacrotourist.com/pictures/TheodenDec1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/TheodenDec1115.png" width="600" height="250">
 
 And so it begins&#8230; 
 
@@ -40,7 +40,7 @@ From the WSJ:
 During the past year and a half the performance of the &#8220;Focused Credit Fund&#8221; has been abysmal, and it only seems to be getting worse:
 
 
-  <img src="http://themacrotourist.com/pictures/ThirdDec1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ThirdDec1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/ThirdDec1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/ThirdDec1115.png" width="600" height="342">
 
 For Third Avenue Management to take the unprecedented step of gating the fund means conditions are much worse than I previously believed. This isn&#8217;t some fly-by-night hedge fund operation that has suddenly blown up. This is a respected money manager whose reputation will be thoroughly sullied by this move. Things must be dire.
 
@@ -49,7 +49,7 @@ It&#8217;s not like Third Avenue is alone in their underperformance. It has been
 After the 2008 credit crisis, too many investors chased fixed income. At first they bought the relatively safe stuff, but as those yields were slowly squeezed to zero, investors ventured farther and farther out the risk curve. Products such as the Powershares Senior Loan ETF took off in popularity:
 
 
-  <img src="http://themacrotourist.com/pictures/BKLNDec1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BKLNDec1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/BKLNDec1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/BKLNDec1115.png" width="600" height="342">
 
 And it wasn&#8217;t just bank loans that enjoyed massive investor inflows. High yield funds seemed to offer the benefits of stock like returns with a coupon attached. 
 
@@ -60,12 +60,12 @@ Eventually the rally in credit securities reached a point where investors were n
 Now as the Fed withdraws the liquidity that was previously buoying all credit, investors are suddenly faced with the stark realization that high yield bonds can also decline in price&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/GobDec1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/GobDec1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/GobDec1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/GobDec1115.png" width="600" height="342">
 
 The news about Third Avenue gating redemptions has brought the direness of the situation to the forefront.
 
 
-  <img src="http://themacrotourist.com/pictures/JNKDec1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/JNKDec1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/JNKDec1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/JNKDec1115.png" width="600" height="342">
 
 This is terrible price action, and given all the bad news, I don&#8217;t see where the bounce will come from. 
 
@@ -74,7 +74,7 @@ The Fed has been clueless about the effect their policy guidance has had on fina
 I remember the last time a seemingly nondescript hedge fund halted redemptions. At the time, Bear Stearns insisted it was a temporary condition. Even the Fed believed the problems with mortgage securities were _isolated._ Of course we all know that the halting of redemptions by the Bear Stearns hedge fund was simply the first step in what proved to be a painful unwind that brought the global financial system to its knees. It is hugely ironic that Michael Lewis&#8217; movie about this period is just hitting the theatres.
 
 
-  <img src="http://themacrotourist.com/pictures/TheBigShortDec1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/TheBigShortDec1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/TheBigShortDec1115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/TheBigShortDec1115.png" width="600" height="342">
 
 But don&#8217;t worry &#8211; Wall Street and the Federal Reserve learned their lesson during the last crisis. No way they found a way to make new mistakes. I am sure the Third Avenue credit fund problem is an _isolated_ problem. Yeah, right&#8230;
 

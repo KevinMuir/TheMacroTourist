@@ -28,7 +28,7 @@ As usual prices move first, and the reason becomes apparent after.
 It turns out that the US and European sanctions on Russia are having interesting effects on the global financial system. The Russian oligarchs, fearful of having their US dollars confiscated, are buying Hong Kong dollars by the fistful. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PutinAug0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PutinAug0514.png" width="600" height="300">
+  <img src="http://themacrotourist.com/pictures/Azure/PutinAug0514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PutinAug0514.png" width="600" height="300">
 
 According to Bloomberg:
 
@@ -49,13 +49,13 @@ But what does this mean for Hong Kong?
 As the capital has flowed in, the Hong Kong Central Bank has been forced to print HKD to maintain the peg. This has caused the monetary base to jump sharply during the last month.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HKDMBAug0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HKDMBAug0514.png" width="600" height="342" />Hong Kong Monetary Base</a>
+  <img src="http://themacrotourist.com/pictures/Azure/HKDMBAug0514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HKDMBAug0514.png" width="600" height="342" />Hong Kong Monetary Base</a>
 </div>
 
 That in itself is not new. Ever since the 2008 credit crisis Hong Kong has been forced to defend the peg and the monetary base has been continually climbing.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HKDMBLTAug0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HKDMBLTAug0514.png" width="600" height="342" />Long term chart of HKD monetary base</a>
+  <img src="http://themacrotourist.com/pictures/Azure/HKDMBLTAug0514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HKDMBLTAug0514.png" width="600" height="342" />Long term chart of HKD monetary base</a>
 </div>
 
 Although this trend has been in place for quite some time, the Russian capital inflow has pushed this base up into new highs. 
@@ -87,4 +87,4 @@ Buying the Hong Kong dollar is a great risk reward trade. It might not work, and
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsAug0514.png" width="600" height="500"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug0514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsAug0514.png" width="600" height="500"></p>

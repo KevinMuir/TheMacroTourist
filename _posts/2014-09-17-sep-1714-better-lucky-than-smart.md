@@ -23,7 +23,7 @@ tags:
 Some people were lucky enough to be born smart, while others were smart enough to be born lucky. I am pretty sure that I am going to have to count on being lucky because I too all often get confused without helpful signs like this:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NoToilet.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NoToilet.png" width="600" height="450">
+  <img src="http://themacrotourist.com/pictures/Azure/NoToilet.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NoToilet.png" width="600" height="450">
 
 I definitely got lucky yesterday with the lifting of a portion of my short equity position into the previous day&#8217;s weakness. 
 
@@ -32,7 +32,7 @@ My trading premise has been that Yellen & Co. will be loath to bring forward the
 I thought I was going to have to wait until 2pm today for my thesis to play out, but yesterday the WSJ&#8217;s Jon Hilsenrath reported that the Fed would not remove its &#8220;considerable period&#8221; language. Hilsenrath is often viewed as the Fed&#8217;s mouthpiece when they want to leak information to the market so his comments sent the market exploding higher.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESU4GIPSep1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESU4GIPSep1714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ESU4GIPSep1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESU4GIPSep1714.png" width="600" height="342">
 
 My game plan is to wait until the actual Fed announcement to put my full short position back on. I am hoping we get another big up day today so that I can sell into a Fed induced euphoria. Regardless of the outcome of the meeting, I am going to re-establish my short throughout this afternoon&#8217;s trading. Even with a less hawkish Fed than expected, I think stocks are going to disappoint in the coming weeks.
 
@@ -53,7 +53,7 @@ This is why the US dollar has been rallying so hard. Yes, some of it is the resu
 As conditions have tightened, the US dollar has rallied, and with it, commodities have sunk. Have a look at this chart of the US dollar index and the inverse of the CRB index.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYCRYSep1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYCRYSep1714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYCRYSep1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYCRYSep1714.png" width="600" height="342">
 
 This rally in the US dollar and decline in commodities gives the Fed some extra room to leave rates lower for longer. 
 
@@ -68,7 +68,7 @@ I am already long a few different long commodity positions, but I want to increa
 Yesterday on the Hilsenrath news I bought a little GDX. It is at a decent support level and I think that the precious metal sector will be one of the beneficiaries if Yellen disappoints the bears.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDXSep1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDXSep1714.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GDXSep1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXSep1714.png" width="600" height="342">
 
 In the coming days I will be picking away at some more commodity type trades. **I expect that global growth is going to surprise on the upside as the worlds&#8217; Central Banks turn on the liquidity spigots.**
 
@@ -79,7 +79,7 @@ In the coming days I will be picking away at some more commodity type trades. **
 I came across this great chart that I thought I should share with you regarding Eurodollar options. There is clearly already a lot of rate hiking anticipation built into the short end of the yield curve. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDOptionsSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EDOptionsSep1614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EDOptionsSep1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDOptionsSep1614.png" width="600" height="342">
 
 If Yellen doesn&#8217;t raise rates as quickly as the market anticipates there are going to be a lot of dusty options in the Eurodollar square&#8230;
 
@@ -88,4 +88,4 @@ If Yellen doesn&#8217;t raise rates as quickly as the market anticipates there a
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep1714.png" width="600" height="542"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep1714.png" width="600" height="542"></p>

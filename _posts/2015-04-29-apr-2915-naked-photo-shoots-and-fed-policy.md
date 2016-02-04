@@ -48,7 +48,7 @@ After the photoshoot, we got dressed and headed out the door. There was a strang
 Today the Fed meets to decide monetary policy for the next month or so. They are widely expected to leave rates at 0% for another meeting. I can&#8217;t help but take a moment to reflect on how we got here. We are now in the sixth year of zero rates. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FFApr2915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FFApr2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FFApr2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FFApr2915.png" width="600" height="342">
 
 Surely this was never part of the plan. When Bernanke lowered rates to zero in December of 2008, it was supposed to be an &#8220;emergency measure.&#8221; They never planned on leaving them at zero for the next fifty Fed meetings. I guess like I never planned on getting naked for a photoshoot with my pregnant wife, the Fed&#8217;s perpetual zero interest rate policy just sort of simply &#8220;progressed&#8221; as well. 
 
@@ -59,7 +59,7 @@ They have blown the biggest financial asset bubble that has ever existed, and ar
 Don&#8217;t think for one second the Fed is not all too aware of the relationship between financial asset prices (like the S&P 500) and the size of their balance sheet.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXFedApr2915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXFedApr2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXFedApr2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXFedApr2915.png" width="600" height="342">
 
 There is a reason that governments don&#8217;t negotiate with terrorists. If they do, it only encourages more terrorism. Negotiating might save the first few hostages, but over the long run, it puts many more innocent people at risk. 
 
@@ -70,7 +70,7 @@ And just like the Fed was convinced that the wealth affect would kick start the 
 As we have approached the previously communicated economic conditions necessary for the Fed to remove the &#8220;emergency rate&#8221; rate of zero, the Fed has continually moved the goal posts. Every time we get close, they pull the ball away.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EmergencyLowRate.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EmergencyLowRate.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EmergencyLowRate.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EmergencyLowRate.png" width="600" height="342">
 
 They give lip service to the idea of raising rates, but they are simply too scared of how the markets will react. 
 
@@ -79,7 +79,7 @@ Remember Einhorn&#8217;s $250,000 lunch with Ben Bernanke? How can you forget Da
 The Fed went into the previous crisis with good intentions. They didn&#8217;t nefariously blow this massive bubble. But that ended up being the result. They have allowed things to progress to the point where there is no good way out. This will end badly. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HanLeia.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HanLeia.png" width="500" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/HanLeia.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HanLeia.png" width="500" height="600">
 
 This dilemma was no more planned than my naked pictures with my pregnant wife. But let me tell you the final chapter of that story. Just like the Fed hasn&#8217;t thought through all the unintended consequences of their easy money policies, my wife and I hadn&#8217;t thought through all the consequences of those pictures. After picking them up, we took the nice tasteful one and hung it up in our home. The racier artsy ones were quickly put in the closet, with us both vowing to never speak of them again. I thought the saga was over. 
 

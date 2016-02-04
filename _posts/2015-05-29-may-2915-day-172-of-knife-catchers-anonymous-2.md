@@ -20,12 +20,12 @@ So in a purely hypothetical exercise, let&#8217;s talk about one of the more cro
 It&#8217;s not as if I don&#8217;t understand why this trade would work. The ECB is in the midst of expanding their balance sheet while the Fed is about to raise rates (maybe). It is one of those &#8220;no brainer&#8221; put it on and forget about it, trades. Which is what everyone has been doing. Have a look at the weekly equity flows of US versus Europe:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FlowsMay2915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FlowsMay2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FlowsMay2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FlowsMay2915.png" width="600" height="342">
 
 And sentiment surveys are confirming this extreme positioning:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/OverweightMay2915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/OverweightMay2915.png" width="600" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/OverweightMay2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/OverweightMay2915.png" width="600" height="600">
 
 I have noticed this US stock market pessimism in my trader twitter feed. Considering American stock indexes are hovering near all time highs, sentiment is relatively bearish. Now, don&#8217;t misunderstand me and confuse this observation as a reason to be bullish. I can&#8217;t bring myself be outright long US stocks at these obscene valuations either. But I just wonder if the top could look so benign. Could we simply just roll over with so many traders looking for a top? Isn&#8217;t it more likely we top in an emotionally filled &#8220;just get me in&#8221; exciting affair? The market often goes where it will hurt the most traders, and I don&#8217;t think the pain trade for the US stock market is lower. 
 
@@ -34,7 +34,7 @@ The European stock market on the other hand is stuffed to the gills with fast mo
 For the past couple of quarters this trade worked well. The ECB&#8217;s Quantitative Easing was achieving its objective of filling the European system with liquidity, sending the short end of the curve lower in yields, and also causing the Euro currency to fall. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ECBTotalMay2915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ECBTotalMay2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ECBTotalMay2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECBTotalMay2915.png" width="600" height="342">
 
 This ECB balance sheet expansion was a much needed policy adjustment. 
 
@@ -45,7 +45,7 @@ Which might be the case right now in Europe. The Euro currency has stopped decli
 And if that is the case, then the dramatic European stock overweighting by all the fast money guys will bite them in the ass. Have a look at the chart of the EuroStoxx 50 versus the Euro currency:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURSX5EMay2915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURSX5EMay2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EURSX5EMay2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURSX5EMay2915.png" width="600" height="342">
 
 For the past couple of quarters European stocks have been joined at the hip with the Euro currency. The failure of the Euro to continue its decline is an ominous sign. 
 
@@ -54,7 +54,7 @@ Over the past few days, some of the fast money guys have started to get nervous 
 Yesterday the Eurostoxx was down almost 1.5% while the S&P was barely lower. Once Europe closed, the S&P rallied to close on the highs. And this morning, the same thing has happened. European stocks are down big again, dragging the S&P lower, but not by nearly as much. Have a look at the trading over the past couple of days:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CompareMay2915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CompareMay2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CompareMay2915.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CompareMay2915.png" width="600" height="342">
 
 This trade of long Europe / short US stocks is being unwound. There is no doubt in my mind it has finally become too crowded, and it has stopped working. The failure of a crowded trade to stop working is the first step, the next one is when some of the smarter traders head for the exit. This is where we are now. The shrewder traders are taking the position off. Pretty soon the mopey slow traders are going to stampede for the exit. 
 

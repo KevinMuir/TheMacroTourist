@@ -13,19 +13,19 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/HedgiesRealize.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HedgiesRealize.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/HedgiesRealize.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HedgiesRealize.png" width="600" height="342">
 
 Last night the S&P 500 finished at a new all time closing high. It did this with little fanfare.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXMay1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXMay1515.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/SPXMay1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXMay1515.png" width="600" height="342"></p> 
 
 We have not yet broken out cleanly, but this is the fourth time pushing up against this resistance level. Just as triples bottoms are as rare as sober Lindsay Lohan sightings, quadruple tops are equally uncommon. The more a security pushes up against a level, the more likely it will eventually break through. The S&P 500 is bumping along the 2120 level, valiantly trying to break clear, and in the mean time, making a series of higher lows. The chances of 2120 holding and making a quadruple top is extremely low. I might not like it, but the stock market wants to go higher.
 
 Lately I have noticed a lot of hedge fund managers turn pessimistic about the stock market&#8217;s prospects. Einhorn, Tepper, Gundlach; they have all been issuing warnings about equities. This pessimism has raised my antennae, and I have been worried there might be too many hedgies leaning the wrong way.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AIIBULLSMAY1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AIIBULLSMAY1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/AIIBULLSMAY1515.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/AIIBULLSMAY1515.png" width="600" height="342">
 
 The reason there is so little excitement about the market is there are precious few bulls. 
 
@@ -52,7 +52,7 @@ According to one of the sharper traders out there &#8211; &#8220;Two and Twenty&
 I don&#8217;t know if they took a poll at the conference, or if this was an anecdotal comment, but I believe it. When I read through my research and other market commentary, I am struck by the amount of calls that the Fed &#8220;will not hike in 2015.&#8221; I know the inflation numbers have continued to come in under target, but at the same time, the employment figures are pushing well past the point where 0% Fed Funds are justified. Yesterday&#8217;s continuing claims hit a new low we haven&#8217;t seen since the 1970s.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ContMay1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ContMay1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ContMay1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ContMay1415.png" width="600" height="342">
 
 It is amazing that we have claims ticking at 264k and yet, Fed Funds are still zero! I know, I know, the employment picture is much more complicated than just claims. But this is just bat shit crazy! 
 
@@ -63,7 +63,7 @@ There has never been a Fed that has started a rate tightening campaign with infl
 Last year the market was busy pricing in a Fed that was going to steadily march short rates higher. The specs put on a record short 3 month Eurodollar position to position themselves for higher short term interest rates.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDSpecMay1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EDSpecMay1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EDSpecMay1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDSpecMay1415.png" width="600" height="342">
 
 Yet over the past quarter, they have not only covered their entire short position, but they have gone net long. This is corroborating the skepticism about rate hikes in 2015. 
 

@@ -44,7 +44,7 @@ That was even more up and down, but it again travelled 60 handles! Awesome!
 To contrast this, I randomly chose a big up day from last month &#8211; March 4th:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM40304Apr1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESM40304Apr1614.png" width="600" height="342" />S&P 500 trading March 4th, 2014 &#8211; BORING!</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ESM40304Apr1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM40304Apr1614.png" width="600" height="342" />S&P 500 trading March 4th, 2014 &#8211; BORING!</a>
 </div></p> 
 
 It was a strong positive day and we finished 25 handles higher, but it was just chug, chug, chug higher. The dips were tiny and boring. 
@@ -68,7 +68,7 @@ ZeroHedge had the best reporting about this development:
 Therefore this downgrade of the Japanese economic assessment was taken favourably by the markets as it increased the likelihood of further Japanese monetary stimulus. Have a look at this great chart, again by ZH:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JapanDowngradeApr1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JapanDowngradeApr1614.png" width="600" height="342" />Intraday Trading with Japanese Downgrade</a>
+  <img src="http://themacrotourist.com/pictures/Azure/JapanDowngradeApr1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JapanDowngradeApr1614.png" width="600" height="342" />Intraday Trading with Japanese Downgrade</a>
 </div>
 
 I think that the near term direction of the market is going to hinge a lot more on these three other countries than it does on the Fed. Watch for shifts from these other banks and don&#8217;t worry about the Fed.
@@ -82,7 +82,7 @@ Yesterday was not kind to my precious metals position. And given the pain that I
 How bad was it?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDApr1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDApr1614.png" width="600" height="342" />Gold trading over the past 3 days</a>
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDApr1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDApr1614.png" width="600" height="342" />Gold trading over the past 3 days</a>
 </div>
 
 It was U.G.L.Y. In the space of a few hours, gold got drilled for $50 and silver was even worse.
@@ -127,7 +127,7 @@ Of course during this time, the media&#8217;s infatuation with Uncle Carl was he
 Let&#8217;s have a look at the chart of the trading in the stock:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IEPApr1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/IEPApr1614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/IEPApr1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/IEPApr1614.png" width="600" height="342">
 
 At the height of the frenzy Carl issued $270 million of stock at $135 per share. Well, that secondary held issue price for a whopping one day. 
 
@@ -140,4 +140,4 @@ Since then, it has been a steady drip lower and anyone who bought Carl stock any
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsApr1614.png" width="600" height="521">
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr1614.png" width="600" height="521">

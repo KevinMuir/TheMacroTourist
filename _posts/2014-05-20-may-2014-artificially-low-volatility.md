@@ -21,7 +21,7 @@ tags:
 Over the past year I have been lucky enough to have avoided the trap of playing for the &#8220;inevitable&#8221; VIX bounce.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VIX5YearsMay2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/VIX5YearsMay2014.png" width="600" height="342" />VIX Index over the last 5 years</a>
+  <img src="http://themacrotourist.com/pictures/Azure/VIX5YearsMay2014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/VIX5YearsMay2014.png" width="600" height="342" />VIX Index over the last 5 years</a>
 </div>
 
 Although I would like to chalk my foresight up to a terrific market call, the truth is that I have been long volatility in other asset classes. [My working thesis is that the next crisis will not look like the last one. Buying protection on the asset class that crashed last time will most likely not work as the trade it too obvious.](http://gfbblogs.azurewebsites.net/blog/2014/01/30/thursday-january-30th-2014-investors-are-mistakenly-hedging-for-the-last-crisis/) 
@@ -33,7 +33,7 @@ Unfortunately, these trades have performed no better than the long VIX trade.
 Have a look at the long term chart of the VIX:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VIXMay2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/VIXMay2014.png" width="600" height="342" />VIX Index</a>
+  <img src="http://themacrotourist.com/pictures/Azure/VIXMay2014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/VIXMay2014.png" width="600" height="342" />VIX Index</a>
 </div>
 
 It is creeping along the lows. The past two years have been a steady dripping lower.
@@ -41,7 +41,7 @@ It is creeping along the lows. The past two years have been a steady dripping lo
 But what about bond volatility? What does it look like?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MOVEMay2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MOVEMay2014.png" width="600" height="342" />MOVE Index (bond volatility)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/MOVEMay2014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/MOVEMay2014.png" width="600" height="342" />MOVE Index (bond volatility)</a>
 </div>
 
 Bond volatility has also trended lower. In fact it might be performing even worse than VIX.
@@ -49,7 +49,7 @@ Bond volatility has also trended lower. In fact it might be performing even wors
 What about foreign exchange volatility? Let&#8217;s look at that.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPMG7VOLMay2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPMG7VOLMay2014.png" width="600" height="342" />JPM G7 Volatility Index</a>
+  <img src="http://themacrotourist.com/pictures/Azure/JPMG7VOLMay2014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPMG7VOLMay2014.png" width="600" height="342" />JPM G7 Volatility Index</a>
 </div>
 
 Although it is not yet at the lows like the VIX and MOVE indexes, it is also dragging close to the bottom.
@@ -57,7 +57,7 @@ Although it is not yet at the lows like the VIX and MOVE indexes, it is also dra
 I decided to create a home made index that combines these three different volatility measures. Here is the chart:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/KVOLMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/KVOLMay1614.png" width="600" height="342" />K-VOL Index</a>
+  <img src="http://themacrotourist.com/pictures/Azure/KVOLMay1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/KVOLMay1614.png" width="600" height="342" />K-VOL Index</a>
 </div>
 
 What is interesting is that during 1994 to 2002 this volatility index traded in a fairly predictable band. Even the LTCM (Long Term Capital Management) crisis was just a tiny blip outside this band.
@@ -87,7 +87,7 @@ And let me ask you, do you think the economic situation has improved or deterior
 Have a look at the total credit outstanding in the economy:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CreditMay2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CreditMay2014.png" width="500" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CreditMay2014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CreditMay2014.png" width="500" height="342">
 
 Do you see that tiny decline over the last couple of years? That is the amount of debt deflation that we have experienced. It is **tiny** in the big picture. 
 
@@ -108,4 +108,4 @@ As Minksy noted nothing is more destabilizing than stability &#8211; especially 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay2014.png" width="600" height="630"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay2014.png" width="600" height="630"></p>

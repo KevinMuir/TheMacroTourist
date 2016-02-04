@@ -23,12 +23,12 @@ tags:
 I have had a tough summer with my market calls. Not a lot has gone my way and it was one of those times when I would have been better off flattening all my positions and heading to the lake. One of the few trades that has worked for me has been my long US dollar call. The past couple of months, the dollar has been on a tear, rallying from 79.50 on the DXY index to over 83.00.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYSep0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYSep0314.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYSep0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYSep0314.png" width="600" height="342">
 
 But now I notice that the large speculators are pushing their luck with big net short positions in both the Euro and the Yen.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CFTCSep0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CFTCSep0314.png" width="500" height="300">
+  <img src="http://themacrotourist.com/pictures/Azure/CFTCSep0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CFTCSep0314.png" width="500" height="300">
 
 As you know, I hate being on the same side as the hedge funds. Whenever a trade gets crowded, I find it better to silently slip out the back door. 
 
@@ -39,12 +39,12 @@ Most traders will probably think that buying EUR into the face of all this bad n
 Remember, Europe is mired in a deflationary vicious circle. Credit is being destroyed. And when credit is destroyed, _the supply of Euros decreases._ At the same time, during the past year the US has been expanding their balance sheet and _creating more US dollars._ And this is why, at the margin, the Euro has been stronger than most market pundits have forecasted. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FEDEUROSep0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FEDEUROSep0314.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FEDEUROSep0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FEDEUROSep0314.png" width="600" height="342">
 
 However, currency prices are not solely influenced by relative Central Bank balance sheet size. Another big factor is relative interest rates. The recent move lower in European interest rates has been the driving factor in this summer&#8217;s move lower in the EUR rate.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURSep0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURSep0314.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EURSep0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURSep0314.png" width="600" height="342">
 
 This graph is a little more complicated than most of my charts, but I think it is important to show how there are two factors at work to explain EUR movement. During 2013 many forecasters were confused by the Euro&#8217;s strength. Since the relative interest rate was stable, the Euro followed the inverse of the ECB&#8217;s balance sheet change. The balance sheet was shrinking, so therefore the Euro rallied &#8211; much to most traders&#8217; surprise since the European economy was obviously deteriorating. However over the past couple of months, as Draghi pushed overnight rates to negative levels, all the while the market has started to price in US Fed rate hikes, the widening interest rate differential has helped drive the Euro lower. 
 
@@ -59,4 +59,4 @@ I am buying a little Euro, knowing full well that I am catching a falling knife 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep0314.png" width="600" height="550"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep0314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep0314.png" width="600" height="550"></p>

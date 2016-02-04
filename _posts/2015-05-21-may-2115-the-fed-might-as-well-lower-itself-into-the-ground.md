@@ -15,7 +15,7 @@ tags:
   - inflation
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/WorldCentralBankers.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/WorldCentralBankers.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/WorldCentralBankers.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/WorldCentralBankers.png" width="600" height="400">
 
 Imagine you were in a terrible car accident in the mid 1990s and spent the last two decades in a coma. Upon awakening, your first questions are how the economy and markets are doing. Your family, perplexed at your questions, nonetheless proceed to answer.
 
@@ -64,7 +64,7 @@ This is the reason the market is so confused by the Fed&#8217;s minutes. The Fed
 However, by being so mopey, the Fed has made the situation infinitely worse. The market is rightly skeptical of any promise to raise rates. Have a look at the _infamous_ Dot Plots from the Federal Reserve&#8217;s communications.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FOMCMay2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FOMCMay2115.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/FOMCMay2115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FOMCMay2115.png" width="600" height="400">
 
 The red line is the market inferred future rate of Fed Funds. The other lines represent the Fed officials&#8217; median forecast over the past six months. 
 
@@ -79,7 +79,7 @@ The other interesting part of this chart is the fact the market is pricing futur
 The market refuses to believe the Fed has the nerve to follow through with what they are saying. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FedLackofFaith.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FedLackofFaith.png" width="600" height="300">
+  <img src="http://themacrotourist.com/pictures/Azure/FedLackofFaith.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FedLackofFaith.png" width="600" height="300">
 
 This will make the eventual rate hike all the more volatile. 
 

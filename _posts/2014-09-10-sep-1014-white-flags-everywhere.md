@@ -20,21 +20,21 @@ tags:
 I don&#8217;t know what all the fuss is about Apple&#8217;s new watch, I already wear a great timepiece that does everything I need it to do.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SeikoSep1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SeikoSep1014.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/SeikoSep1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SeikoSep1014.png" width="600" height="442">
 
 You should see it spit out bond yield calculations. While most guys are still fumbling through their cumbersome Bloomberg screens, I can calculate YTM and accrued interest values like Rain Man.
 
 As for Apple&#8217;s new product launch, I know that both the iPhone and the iPad were initially met with skepticism that betrayed their eventual success, but I just don&#8217;t get the appeal of this new watch. Most young people already don&#8217;t wear one. Sticking the email from your phone onto your wrist is probably not going to change their habit. In this day and age, notifications are next to useless.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/watchSep1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/watchSep1014.png" width="500" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/watchSep1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/watchSep1014.png" width="500" height="342">
 
 Tim Cook stated that they started work on the iWatch shortly after Steve Jobs death. This is the first example of the future of Apple without their great visionary leader. I have long argued that it will be impossible for anyone to achieve the sort of success that Apple achieved under Steve Jobs. For one, the company is so big that the law of large numbers makes it extremely difficult for anyone (even Steve&#8217;s ghost) to move the needle. But more importantly, it takes a real independent individual to be strong enough to produce the kind of products that are truly revolutionary. Tim Cook is a great operator, but that is all. Very few individuals have the strength of character (arrogance) to tell the world what they need &#8211; even when they don&#8217;t know it yet.
 
 This watch is Tim&#8217;s attempt to replicate Steve&#8217;s special talent. I know that many Apple fan boys are going to talk about the great opportunities of Apple&#8217;s wearable device line, but I will take the other side of this trade. Google Glass was launched with great buzz as well, but now only goofballs are caught with them on, and even then, they are at risk of getting beat up.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/glassSep1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/glassSep1014.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/glassSep1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/glassSep1014.png" width="600" height="342">
 
 My suspicion is that it won&#8217;t take long for the Apple watch to be shunned just as much as Google Glass.
 
@@ -45,7 +45,7 @@ I don&#8217;t think the iWatch is doing to be that sort of dud, but there is a l
 If I had to guess, my bet would be that yesterday&#8217;s intraday euphoric highs are going to mark the top in Apple for some time to come&#8230; 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AAPLSep1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AAPLSep1014.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/AAPLSep1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/AAPLSep1014.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -56,7 +56,7 @@ Over the past couple of weeks I have noticed a lot of white flags going up by th
 All the while that the bears are abandoning their positions, the bull market has emboldened market participants even further out the risk curve. In a report that will go down in the annals of disastrously stupid ideas, Citibank produced a report that can be summarized as &#8220;Don’t Hate Credit, Just Use Leverage for 10% Returns.&#8221; 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/yieldSep1014-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/yieldSep1014-1.png" width="600" height="360">
+  <img src="http://themacrotourist.com/pictures/Azure/yieldSep1014-1.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/yieldSep1014-1.png" width="600" height="360">
 
 The basic idea is that to achieve the returns that investors are expecting, the only real solution is to use leverage. If you are going to use leverage, then buying high yield is better than sovereigns because you need to use less leverage to achieve your return. **Stop and think about the audacity of this report. This is kind of stupidity you see at tops, not bottoms.** 
 
@@ -71,16 +71,16 @@ It is tough because this hasn&#8217;t worked in so long, but I am adding to my b
 Speaking of high yield credit, it continues to trade even more poorly than equities.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HYGSep1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HYGSep1014.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/HYGSep1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HYGSep1014.png" width="600" height="342">
 
 The big bounce after this summer&#8217;s swoon has once again rolled over. Often the bond market sniffs out problems before the equity market. Given the inability of high yield to stabilize, I expect stocks will follow it lower.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HYGSPXSep1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HYGSPXSep1014.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/HYGSPXSep1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HYGSPXSep1014.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionSep1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionSep1014.png" width="600" height="500"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionSep1014.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionSep1014.png" width="600" height="500"></p>

@@ -20,7 +20,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/FloppyDiskJan3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FloppyDiskJan3015.png" width="500" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/FloppyDiskJan3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FloppyDiskJan3015.png" width="500" height="400">
 
 Back in 2000 if you were to buy a new program for your shiny new Intel Pentium computer, you might have been given a stack of these peculiar strange objects pictured above. For my younger readers &#8211; these are called _floppy disks_. Loading these onto your computer was a laborious boring affair. Microsoft Office itself was more than a couple dozen of these disks. 
 
@@ -49,7 +49,7 @@ But I am a little perplexed as why it is illegal for Apple&#8217;s CFO to get a 
 Which is exactly what just happened. Yesterday Yellen met with Senate Democrats in a closed luncheon. Out of nowhere the stock market exploded higher. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXJan3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXJan3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXJan3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXJan3015.png" width="600" height="342">
 
 And no wonder. As the news trickled out it became obvious that Yellen had indeed given a wink and a nod about future monetary policy.
 
@@ -72,4 +72,4 @@ And this is yet another example of how much the world&#8217;s Central Bankers ar
 </p>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HemingwayJan3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HemingwayJan3015.png" width="300" height="500">
+  <img src="http://themacrotourist.com/pictures/Azure/HemingwayJan3015.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HemingwayJan3015.png" width="300" height="500">

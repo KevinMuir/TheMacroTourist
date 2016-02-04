@@ -21,7 +21,7 @@ tags:
 Over the past few weeks we have been busy at work on our algo strategies, and we think we have come up with the optimum formula:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ProprietaryJun1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ProprietaryJun1714.png" width="400" height="125"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/ProprietaryJun1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ProprietaryJun1714.png" width="400" height="125"></p> 
 
 <hr size="3" width="85%" />
 
@@ -32,13 +32,13 @@ As stocks continue their relentless march higher, market participants are becomi
 Although stocks have almost tripled off the 2009 panic lows, stocks have merely mirrored the Fed&#8217;s massive balance sheet expansion. If you measure the Fed&#8217;s Total Balance Sheet versus the price of stocks, this ratio has been strangely level over the last half dozen years.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXFEDJun1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXFEDJun1714.png" width="600" height="342" />Ratio of S&P 500 to Fed&#8217;s Balance Sheet</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPXFEDJun1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXFEDJun1714.png" width="600" height="342" />Ratio of S&P 500 to Fed&#8217;s Balance Sheet</a>
 </div>
 
 Are the bulls expecting the Fed to continue expanding their balance sheet forever? Do they expect the Fed to continue to fuel stock market gains at this rate in perpetuity?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FARBASTJun1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FARBASTJun1714.png" width="600" height="342" />Fed&#8217;s Total Balance Sheet (white line) vs S&P 500 (yellow line)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/FARBASTJun1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FARBASTJun1714.png" width="600" height="342" />Fed&#8217;s Total Balance Sheet (white line) vs S&P 500 (yellow line)</a>
 </div>
 
 So far, all of the stock market expansion has come on the back of an increase in the Fed&#8217;s balance sheet. Over the last few years, the moment the Fed has tried to stop the expansion, stocks have immediately sagged.
@@ -64,7 +64,7 @@ The Fed&#8217;s balance sheet expansion is no longer going to be a tailwind at t
 It is interesting that although market participants are all bulled up about stocks, their expectations for economic growth are rather muted. This probably has something to do with the fact that during the period of 2011&#8211;13, each hopeful economic recovery seemed to inexplicably sag at inopportune moments. Have a look at this chart of the Bloomberg Economic Surprise Index. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ECOJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ECOJun1614.png" width="600" height="342" />Bloomberg Economic Surprise Index</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ECOJun1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECOJun1614.png" width="600" height="342" />Bloomberg Economic Surprise Index</a>
 </div>
 
 This index measures the performance of the economy versus _economists&#8217; expectations._ So when the index is rising, the economy is outperforming the economists&#8217; expectations. Starting in 2011 and for the next few years, the economy seemed to roar out of the gate to start the new year. But then in March, the momentum faded. 
@@ -84,18 +84,18 @@ I think the surprise is going to be that the economy outperforms expectations, b
 The situation in Iraq continues to deteriorate. It is disconcerting to realize that the bad guys have captured US equipment and have pimped them up with their own flags and undercar LED lighting.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HumveeJun1714-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HumveeJun1714-1.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/HumveeJun1714-1.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HumveeJun1714-1.png" width="600" height="342">
 
 I am not sure how liquid these bonds are, but there is an Iraqi 5.8s of 2028 bond. As expected, it has had a tough week:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IRAQJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/IRAQJun1614.png" width="600" height="342" />Iraq 5.8s of 2028 bond</a>
+  <img src="http://themacrotourist.com/pictures/Azure/IRAQJun1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/IRAQJun1614.png" width="600" height="342" />Iraq 5.8s of 2028 bond</a>
 </div>
 
 $96 down to $89 seems like a fairly large move for a bond. But if you step back and look at the longer term chart, this is actually another case of the market assuming a level of optimism that seems wholly misplaced.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IRAQLTJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/IRAQLTJun1614.png" width="600" height="342" />Same Iraq bond &#8211; longer term chart</a>
+  <img src="http://themacrotourist.com/pictures/Azure/IRAQLTJun1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/IRAQLTJun1614.png" width="600" height="342" />Same Iraq bond &#8211; longer term chart</a>
 </div>
 
 In 2012 these bonds were $75. And that was before you had these guys, who were kicked out of al-Qaeda for being too much of a bunch of assholes, taking over wide swaths of Iraq. Once again, the market is blind to the real risks&#8230; I guess buying an Iraqi bond yielding 7.3% makes sense to some leveraged up hedge fund, but I would argue that the yield pickup probably doesn&#8217;t justify the risk&#8230; 
@@ -105,4 +105,4 @@ In 2012 these bonds were $75. And that was before you had these guys, who were k
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJun1714.png" width="600" height="650"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun1714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun1714.png" width="600" height="650"></p>

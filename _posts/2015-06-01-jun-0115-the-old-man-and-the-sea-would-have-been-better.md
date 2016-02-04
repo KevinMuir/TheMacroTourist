@@ -17,7 +17,7 @@ tags:
   - Petrobas
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/HemingwayLoans.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HemingwayLoans.png" width="600" height="600">
+  <img src="http://themacrotourist.com/pictures/Azure/HemingwayLoans.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HemingwayLoans.png" width="600" height="600">
 
 Over the week-end, Greek Premier Alexis Tsipras stomped down on the intensity pedal with an aggressive editorial in Le Monde. The Telegraph&#8217;s Ambrose Evans-Pritchard summed it up nicely:
 
@@ -42,14 +42,14 @@ Over the past few weeks many have been blaming Greek Finance Minister Yanis Varo
 The Greeks have little to lose in these negotiations. Although their economy has stabilized, it is by no means improving in any appreciable way. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GreeceEmpJun0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GreeceEmpJun0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GreeceEmpJun0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GreeceEmpJun0115.png" width="600" height="342">
 
 Unemployment is still running 26% and the economy is still mired in a vicious deflationary trap.
 
 As negotiations have dragged on, money has fled Greece faster than Lindsay Lohan at a dry film promotional party. The Greek Target 2 intra-euro system liability has returned to levels last seen during the 2011 Euro crisis. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GreekT2Jun0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GreekT2Jun0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GreekT2Jun0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GreekT2Jun0115.png" width="600" height="342">
 
 As capital has left Greece, the Central Bank has been forced to step in to make loans to the Greek banks whose deposits have disappeared. Even though the ECB is Europe&#8217;s Central Bank, there are still individual country Central Banks. These countries&#8217; bank provide liquidity in times of need, and turn to the ECB to bridge their loans. This borrowing by a EU member Central Bank is called the Target 2 balance. The Greek Central Bank borrowing has exploded higher over the past six months, with total loans almost at the same level as during the height of the Euro crisis of 2011.
 
@@ -76,7 +76,7 @@ Although I believe the Greeks should hold tough in their negotiations, there wil
 If I were forced to guess the outcome, I would probably err on the side European officials will acquiesce to the Greek demands. At the end of the day, government officials want to kick the can down the road. No one wants to be the one who ushers in the next credit crisis. I don&#8217;t think any government will willfully take away the printing press. Although many will mouth words of fiscal responsibility, when it comes down to it, none of this &#8220;extend and pretend&#8221; will stop until the markets say enough is enough. To think otherwise is just naive.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HemingwayKick.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HemingwayKick.png" width="600" height="700">
+  <img src="http://themacrotourist.com/pictures/Azure/HemingwayKick.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HemingwayKick.png" width="600" height="700">
 
 <hr size="3" width="85%" />
 
@@ -85,21 +85,21 @@ If I were forced to guess the outcome, I would probably err on the side European
 The US dollar has been rallying over the past couple of weeks, and that strength has been weighing on gold. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDDXYJun0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDDXYJun0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDDXYJun0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDDXYJun0115.png" width="600" height="342">
 
 Although it is tough to cheerful as gold slumps lower, gold bulls shouldn&#8217;t be too despondent. Gold is acting pretty great in the other major currencies.
 
 Here is a chart for European holders:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDEURJun0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDEURJun0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDEURJun0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDEURJun0115.png" width="600" height="342">
 
 We are no where near the lows. Gold has been hanging tough expressed in Euros.
 
 And in Yen, the picture is downright bullish:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDYENJun0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDYENJun0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDYENJun0115.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDYENJun0115.png" width="600" height="342">
 
 So yes, gold in US dollars is sucking wind, but in most other currencies, it is behaving quite well. Gold bulls, hang in there! 
 
@@ -111,7 +111,7 @@ Last month when Mexico came to market with their 100 year bond denominated in Eu
 
 
   <img src="http://themacrotourist.com/pictures/Azure/PBRCDSJun0115.png 
-"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PBRCDSJun0115.png" width="600" height="342">
+" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PBRCDSJun0115.png" width="600" height="342">
 
 Makes perfect sense. Lending PBR for a century sounds like a terrific idea &#8211; put me in for 25.
 

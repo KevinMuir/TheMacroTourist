@@ -16,17 +16,17 @@ tags:
   - Volcker
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/NoBidsUnderneath.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NoBidsUnderneath.png" width="600" height="550">
+  <img src="http://themacrotourist.com/pictures/Azure/NoBidsUnderneath.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NoBidsUnderneath.png" width="600" height="550">
 
 I have been waiting for this moment for a while. I have long held the belief that the Central Banks will eventually lose control of the long end. But over the past couple of years it seemed like I was the only one who ever worried about it. Even though Central Banks around the world were shovelling heaps of liquidity into the economy, the markets became convinced that monetary theory no longer applied, and that any injections were accompanied by a decline in the velocity of money. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VelocityMay1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/VelocityMay1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/VelocityMay1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/VelocityMay1215.png" width="600" height="342">
 
 This massive decline in the velocity of money has masked the effects of all the Central Banks &#8220;printing.&#8221; If liquidity is pumped into the system, yet it sits inert on the balance sheets of the banking system and is not lent out, then the &#8220;printing&#8221; does nothing more than drive down the risk free short rate. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ExcessMay1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ExcessMay1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ExcessMay1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ExcessMay1215.png" width="600" height="342">
 
 Ever since the 2008 credit crisis, the banks have been loath to lend out the excess liquidity. There are many reasons for this reluctance, but I believe the increased capital requirements due to the changes in rules, which were in response to the asinine bank behaviour during the previous boom, is to blame. Here is a quote from a Bloomberg story that captures this sentiment:
 
@@ -43,7 +43,7 @@ Now maybe you are saying to yourself they should be under assault. The banks did
 **But this collapse in the velocity of money has resulted in an unprecedented Central Bank balance sheet expansion.** 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FARBASTMay1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FARBASTMay1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/FARBASTMay1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/FARBASTMay1215.png" width="600" height="342">
 
 Since the start of the first QE program, the Federal Reserve has increased their balance sheet approximately five fold. 
 
@@ -64,7 +64,7 @@ The bubble has been in the bond market. This in turn has created bubbles in most
 When the German 10 year bund hit 0.05% that was the obscene number. Think about it like the blow off top in gold during the early 1980s. At that time, the market was _convinced_ that Volcker would never be able to tame inflation. He was busy cranking rates, but the market initially ignored his efforts.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDSMay1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDSMay1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDSMay1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDSMay1215.png" width="600" height="342">
 
 Volcker kept increasing the Fed Funds rate until he broke inflation. It was tough, and for a while, the market **did not believe it could be done.** But eventually monetary theory kicked in. Volcker was far from powerless, it just took a while for his prescription to take effect.
 
@@ -73,7 +73,7 @@ The same deal applies to today&#8217;s market. Monetary expansion has not stoppe
 The total disbelief the ECB could create inflation was the blow off top in global fixed income with the German bund hitting 0.05%. It was the $800 gold moment. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BundMay1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BundMay1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BundMay1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BundMay1215.png" width="600" height="342">
 
 I have said a hundred times, but I will repeat it again &#8211; **we are going to look back to this period and laugh at the idea the Central Banks were powerless to create inflation.**
 
@@ -88,7 +88,7 @@ I would have thought the bond market would have bounced by now, but there has be
 Although we have declined a long way, the key will be to remember how stretched we are to upside on a long term chart.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USGG10May1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USGG10May1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/USGG10May1215.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG10May1215.png" width="600" height="342">
 
 Don&#8217;t try to buy dips because it has gone too far too fast. We are probably going to get a bounce sometime in the coming days, but that rally will just be a chance to reload on the short side. 
 

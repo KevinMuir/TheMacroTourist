@@ -23,31 +23,31 @@ I continue to be amazed at the confidence of the bulls. I have seen enough marke
 As this bull market ages, instead of getting more concerned about the potential for a correction, the bulls use it as proof that the risks are smaller than the bears would have you believe.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MacroTouristSep0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MacroTouristSep0814.png" width="600" height="550"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/MacroTouristSep0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/MacroTouristSep0814.png" width="600" height="550"></p> 
 
 In the last four years since the depths of the 2008/9 credit crisis, we have rallied over 200% in the S&P 500. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXSep0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXSep0814.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXSep0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXSep0814.png" width="600" height="342">
 
 According to the great research shop Bespoke Investment Group this bull market is now the fourth oldest bull market on record:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BespokeSep0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BespokeSep0814.png" width="500" height="800">
+  <img src="http://themacrotourist.com/pictures/Azure/BespokeSep0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BespokeSep0814.png" width="500" height="800">
 
 Although there is nothing saying that we aren&#8217;t going to rally for another couple of years like we did in 1949, 1974 and 1987, I just don&#8217;t get how you can get _more bullish as this bull market extends itself in both price and time._ 
 
 I would suggest that although you should avoid the perma-bears that are constantly calling for the end of the world, the fact that we have been rallying for so long should neither give you comfort to follow the recently hot handed perma-bulls.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ferrisSep0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ferrisSep0814.png" width="600" height="450">
+  <img src="http://themacrotourist.com/pictures/Azure/ferrisSep0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ferrisSep0814.png" width="600" height="450">
 
 Contrary to the natural human tendency to be more confident of something when everyone else is doing it, the fact that stock prices have risen so much actually _increases your risk._ Buying the S&P 500 today at 2,000 when the crowd is all too quick to confirm the wisdom of your purchase, is much more risky than buying it four years ago at under 700, when that same crowd was convinced the financial system was collapsing into the abyss. 
 
 There is no doubt that I have been early and wrong in my bearishness. But I refuse to find solace in the fact that stocks seem impervious to bad news. We all know the famous Wall Street axiom that stocks love to climb a wall of worry. However, there is no &#8220;wall of worry.&#8221; Those of bearish persuasion have largely become extinct.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SentSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SentSep0414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SentSep0414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SentSep0414.png" width="600" height="342">
 
 This is no &#8220;wall of worry&#8221; but instead of an ocean of complacency. As we drift along and the good weather emboldens the masses, you should not take comfort in the absence of storm clouds. And as we get farther and farther away from the shores of fundamental value, you should be more and more concerned. 
 
@@ -64,19 +64,19 @@ I don&#8217;t have the answer for the question of what will derail this bull mar
 For those that don&#8217;t think that the Fed&#8217;s QE programs have had a direct effect on the stock market, I simply present this chart.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXvsFedSep0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXvsFedSep0814.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXvsFedSep0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXvsFedSep0814.png" width="600" height="342">
 
 I am convinced that the Fed has had a _huge effect on risky asset prices._ This relationship is not by chance. I have sat on this desk and watched QE programs affect risky assets on the very day that the Fed executes them in the open market. 
 
 I have also watched the end of both QE1 and QE2 cause an almost immediate sag in risky assets. Here is a chart of the trading in the S&P 500 during the end of QE1.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/QE1Sep0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/QE1Sep0814.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/QE1Sep0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/QE1Sep0814.png" width="600" height="342">
 
 And here is the end of QE2.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/QE2Sep0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/QE2Sep0814.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/QE2Sep0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/QE2Sep0814.png" width="600" height="342">
 
 The Fed ended both of those programs cold turkey so a direct comparison to the end of QE3, which is being slowly weaned lower, is probably not fair. But if you believe, as I do, that the Fed&#8217;s QE programs have put an unnatural bid to the stock market, you have to be concerned about the ending of QE3. 
 
@@ -93,4 +93,4 @@ At the very least it makes sense to take a deep breath and question whether you 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep0814.png" width="600" height="442"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep0814.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep0814.png" width="600" height="442"></p>

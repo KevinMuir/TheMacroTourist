@@ -18,19 +18,19 @@ tags:
   - Yen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/YenShortsApr1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/YenShortsApr1415.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/YenShortsApr1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YenShortsApr1415.png" width="600" height="400">
 
 One of the best macro trades of the past couple of years has been to be short the Japanese Yen. Since the introduction of Abeconomics in late 2012, the Yen has declined from 78 to 120. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYApr1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYApr1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JPYApr1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYApr1415.png" width="600" height="342">
 
 The ride has been especially smooth, with only one real hiccup during the summer of 2013 when the Yen rallied from 103 to 94. Apart from that early test of resolve, Yen shorts have had it easy.
 
 And the hedge funds and other speculators have taken advantage of this terrific trend. They got short big time in 2012 and stayed short for the next couple of years. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YenCFTCApr1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/YenCFTCApr1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/YenCFTCApr1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/YenCFTCApr1415.png" width="600" height="342">
 
 Until now&#8230; During the past month the specs have been reeling in a lot of their short positions. Late last fall we were still bouncing around near time record speculative short positions, but last week that had fallen to the least amount of speculative shorts in the past few years.
 
@@ -45,12 +45,12 @@ This new development of Hamada&#8217;s signals has created an interesting opport
 Not only that, the Yen is already showing signs of being tired. Since the beginning of the year, it has been going sideways while the US dollar has been rocketing against most other currencies.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYJPYApr1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYJPYApr1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/DXYJPYApr1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYJPYApr1415.png" width="600" height="342">
 
 I am buying some Yen in here, risking that we won&#8217;t get a breakout above the recent range high.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYGPOApr1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYGPOApr1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JPYGPOApr1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYGPOApr1415.png" width="600" height="342">
 
 The technicals show that the Yen weakness is petering out, the smart specs have covered, but the market is still anticipating further weakness, and most importantly, the Japanese government seems to be sending signals we have reached the end of this trend. This all adds up to a good risk reward for Yen long positions.
 
@@ -61,12 +61,12 @@ The technicals show that the Yen weakness is petering out, the smart specs have 
 The last half a year has been disappointing for gold bulls. Although the gold bugs might tell you how the trading is setting up for a big move higher, I think the best you can say about the technical action is that at least it has stopped going down.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDApr1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDApr1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDApr1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDApr1415.png" width="600" height="342">
 
 But the real story for gold is how it is behaving for non-US dollar holders. Have a look at this chart of gold denominated in Euros.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDEURApr1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDEURApr1415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDEURApr1415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDEURApr1415.png" width="600" height="342">
 
 That is a stunningly good looking chart. I am talking Kate Upton technical curves here. The trend is so clearly higher. The gold bugs should stop pulling up the chart of gold in USD and instead should put up gold denominated in other currencies if they want to make a bullish technical argument&#8230;
 
@@ -77,4 +77,4 @@ Kevin Muir
 the Macro Tourist
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png" width="300" height="300">
+  <img src="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png" width="300" height="300">

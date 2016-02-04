@@ -19,7 +19,7 @@ tags:
 With the mind blowing 165 handle rally in the S&P 500 over the past two weeks, we have now hit a point of absurd smugness from the equity bulls. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/bruceOt2914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/bruceOt2914.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/bruceOt2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/bruceOt2914.png" width="600" height="400">
 
 I have been waiting for the opportunity to add to my short equity position, and yesterday I pulled the trigger at the close. 
 
@@ -36,7 +36,7 @@ But let&#8217;s step back and look at the calendar. If you were the portfolio ma
 From a market sentiment perspective, I have also said that too many fast money types were still looking for the decline to continue, so there was likely to be another another push higher. Here is a great chart by Yardeni that measures the amount of market participants who believe we are in a correction.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/correctionOct2914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/correctionOct2914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/correctionOct2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/correctionOct2914.png" width="600" height="342">
 
 Given the crowded nature of the correction camp, the point of maximum pain was higher. 
 
@@ -55,4 +55,4 @@ I would like to see some real weakness for the rest of the week. If that doesn&#
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct2914.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2914.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct2914.png" width="600" height="342"></p>

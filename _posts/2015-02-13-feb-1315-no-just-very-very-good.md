@@ -23,7 +23,7 @@ tags:
   - Varoufakis
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/LiarsPokerFeb1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/LiarsPokerFeb1315.png" width="600" height="442">
+  <img src="http://themacrotourist.com/pictures/Azure/LiarsPokerFeb1315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/LiarsPokerFeb1315.png" width="600" height="442">
 
 The other day the Greek Finance Minister gave the following sombre quote
 
@@ -66,7 +66,7 @@ There is no doubt in my mind that the Greek Finance Minister is also very, very 
 Here he is flying economy as he hustles from high level meetings all over Europe.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/economyFeb1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/economyFeb1315.png" width="400" height="300">
+  <img src="http://themacrotourist.com/pictures/Azure/economyFeb1315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/economyFeb1315.png" width="400" height="300">
 
 He fired all of his security staff claiming that since he is acting on behalf of the Greek people, he has no need to worry about his security. 
 
@@ -77,7 +77,7 @@ He set expectations low so that his adversaries would view any conciliation as a
 </p>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/varouFeb1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/varouFeb1315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/varouFeb1315.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/varouFeb1315.png" width="600" height="342">
 
 **Varoufakis might claim he is not playing games, but like any true master, he is simply making the game look easy.**
 

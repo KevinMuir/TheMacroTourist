@@ -34,7 +34,7 @@ I have two reasons for this skepticism. The first is that I think that there is 
 The second reason is that I am skeptical is that I can&#8217;t see this trend of corporate profits as a percent of GDP growing dramatically. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ProfitsGDPFeb2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ProfitsGDPFeb2614.png" width="600" height="342" />Corporate Profits as a percentage of GDP</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ProfitsGDPFeb2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ProfitsGDPFeb2614.png" width="600" height="342" />Corporate Profits as a percentage of GDP</a>
 </div>
 
 As is evident from this graph, corporate profits as a percent of GDP exploded higher in 2000. Although it had risen during the Dot Com bubble, it went vertical in 2000 as Greenspan lowered interest rates to absurdly low rates. Then during the 2008 credit crisis these profits quickly evaporated, but we have managed to steadily return to the pre-crisis highs.
@@ -54,7 +54,7 @@ I recall reading a book about a fellow who was addicted to drugs. He wasn&#8217;
 And just like the drug addict couldn&#8217;t help himself, I can&#8217;t help myself from trying to pick a top in some of these stupid crazy mo-mo stocks. Yesterday I succumbed to the desire and bought some puts on Facebook and Tesla. I know it is stupid. The chances that I am able to pick the top is pretty close to nil. I know that the odds favour the bubble continuing and that trying to short these names is a mugs game. But I can&#8217;t help myself. My only defence is that I am not yet a true addict and have kept these purchases strictly recreational. I have bought so little that it is barely to going to move my P&L. I also did not short, but bought puts to ensure that my risk is limited. I am embarrassed &#8211; but I can&#8217;t stop myself and getting a little taste will hopefully quell my craving for trying to be a hero and picking a top. But then again, isn&#8217;t that what all addicts say?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/RoofiesFeb2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RoofiesFeb2614.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/RoofiesFeb2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/RoofiesFeb2614.png" width="600" height="400">
 
 <hr size="2" width="85%" />
 

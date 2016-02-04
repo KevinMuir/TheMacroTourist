@@ -35,7 +35,7 @@ Last night, in an attempt to defend the plunging Ruble, the Russians were forced
 But I wonder if the US and the Europeans have really thought through what they have done. There might be unintended consequences that they have not considered.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/stupidDec1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/stupidDec1614.png" width="500" height="350">
+  <img src="http://themacrotourist.com/pictures/Azure/stupidDec1614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/stupidDec1614.png" width="500" height="350">
 
 From a military point of view, the Americans keep applying pressure on the Russians, but they are not the kind of people who are simply going to roll over. 
 

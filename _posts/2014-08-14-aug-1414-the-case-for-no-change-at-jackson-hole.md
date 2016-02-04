@@ -51,4 +51,4 @@ There are precious little signals to indicate that Yellen will use the Jackson H
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png" width="600" height="500"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png" width="600" height="500"></p>

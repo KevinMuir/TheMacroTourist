@@ -29,7 +29,7 @@ Last year China introduced an economic rebalancing program that shifted their fo
 I am quickly skimming through how we got here because I am more interested in where we go from here. Have a look at this chart of China&#8217;s Year over Year % GDP growth. It does a good job of demonstrating the &#8220;economic miracle&#8221; of the 2000s, along with the 2008 credit crisis and subsequent bounce, and finally the recent surprising slump.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CHINAGDPMay0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CHINAGDPMay0114.png" width="600" height="342" />China GDP YoY % Change</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CHINAGDPMay0114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CHINAGDPMay0114.png" width="600" height="342" />China GDP YoY % Change</a>
 </div>
 
 Over the years I have been what could be kindly referred to as a China skeptic. I have been very sympathetic to famed short seller James Chanos&#8217; opinion that there has been a tremendous amount of mal-investment in China. 
@@ -47,7 +47,7 @@ The costs of the economic rebalancing are weighing heavily on the Chinese econom
 The Chinese government had been allowing their currency to steadily appreciate over the past few years, but since the recent economic stutter started, they quickly allowed the currency to plummet.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CNYMay0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CNYMay0114.png" width="600" height="342" />CNY rate (higher rate means weaker Renminbi)</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CNYMay0114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CNYMay0114.png" width="600" height="342" />CNY rate (higher rate means weaker Renminbi)</a>
 </div></p> 
 
 Some market participants view the recent currency depreciation as a sign that things must be much worse than the government is letting on. Weakening the currency is the classic response to a severe slow down in manufacturing. 
@@ -57,7 +57,7 @@ I am not as fussed about the recent currency depreciation. At the end of the day
 Have a look at this chart of CNYJPY cross rate:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CNYJPYMay0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CNYJPYMay0114.png" width="600" height="342" />CNYJPY Cross Rate</a>
+  <img src="http://themacrotourist.com/pictures/Azure/CNYJPYMay0114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CNYJPYMay0114.png" width="600" height="342" />CNYJPY Cross Rate</a>
 </div>
 
 The Chinese Renminbi has been steadily appreciating against the Japanese Yen since 2012. There is only so much appreciation that the Chinese are going to take before they resort to the same devaluation tactics.
@@ -113,4 +113,4 @@ I fully expect that if their economy continues to slow that the Chinese governme
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay0114.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay0114.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay0114.png" width="600" height="700"></p>

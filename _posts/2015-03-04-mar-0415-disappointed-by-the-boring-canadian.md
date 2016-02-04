@@ -21,7 +21,7 @@ tags:
   - US dollar
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/loonieMar0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/loonieMar0415.png" width="400" height="500">
+  <img src="http://themacrotourist.com/pictures/Azure/loonieMar0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/loonieMar0415.png" width="400" height="500">
 
 The other morning I awoke to a Maclean&#8217;s cover that was to say the least, a little bearish on oil and the Canadian dollar. For my non-Canadian readers, Maclean&#8217;s is our Newsweek equivalent. It is not a business magazine, so a cover story means we are hitting the point of maximum exposure. When Maclean&#8217;s has figured out a business story, you better think about going the other way.
 
@@ -34,14 +34,14 @@ I have spoken in the past about one newsletter writer I enjoy reading, but who I
 My hat is off to him for having called Canada&#8217;s decline so far. And maybe he is right that Canada is destined to get a lot worse. Maybe oil never will go back up. Maybe our housing market will crash. Maybe the loonie is destined to trade at 1.50 or 2.00. Maybe this newsletter writer will cover his shorts in Canadian bank stocks at single digits like he forecasts.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CMMar0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CMMar0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CMMar0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CMMar0415.png" width="600" height="342">
 
 But I am worried that he might be getting a little ahead of himself. 
 
 Although I am bearish on Canadian housing, I find Americans assume that everyone is going experience the same sort of housing bust they lived through in 2007/8. A couple of years ago, there was an article in the Globe and Mail about a San Francisco hedge fund manager who had staked 95 percent of his investors&#8217; assets on a wager that Canada&#8217;s housing market and banking sector are about to come apart at the seams.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/shortCanadaMar0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/shortCanadaMar0415.png" width="600" height="400">
+  <img src="http://themacrotourist.com/pictures/Azure/shortCanadaMar0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/shortCanadaMar0415.png" width="600" height="400">
 
 This hedge fund manager was convinced that the Canadian housing market would crash the same way the American housing market imploded. But the American decline was unique. There was a spectacular amount of fraud that created a perfect storm. Canadian housing will go down, there is no doubt about it. But I have said it before, and I will repeat it again: **we are going to bore them with our Canadian-ness**. Our decline will be a long drawn out affair. We are just not the same sort of people as the Americans. We don&#8217;t run from one side of the boat to the other as quickly. Too many American hedge funds assume that the Canadian housing bust will be the same as the US &#8211; it won&#8217;t be. It will be boring and frustrating slow.
 
@@ -72,7 +72,7 @@ My suspicion is that before it is all through, my American hedge fund friends wi
 Back to my newsletter writer. I think his attitude about Canada is quite helpful in understanding market sentiment. Whenever I hear someone talk about a &#8220;lifestyle changing trade,&#8221; my antennae immediately get raised. The Market Gods are an unmerciful bunch. The last time I heard someone as confident about a trade was when one of the hedge fund managers I know said he was going to buy a G5 when his favourite stock got taken out. (Now don&#8217;t get mistaken and think I am in the same league as this guy &#8211; I am happy just to spring for business class once every ten years on the way to Disney with the family).
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/G5Mar0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/G5Mar0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/G5Mar0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/G5Mar0415.png" width="600" height="342">
 
 I don&#8217;t need to tell you how that one ended. The Market Gods do not like that sort of talk, and it worries me that the Canadian bears are tempting them again. The fact that a hedge fund manager is confident enough to have 95 percent of his fund in a short Canada bet demonstrates the one sided nature of this trade.
 
@@ -83,7 +83,7 @@ But have they made money for the correct reasons? Has Canada imploded as they fo
 Let&#8217;s start with our housing prices. Have they collapsed? Are we struggling with new lows from the ravaged Canadian economy?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HousingMar0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HousingMar0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/HousingMar0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HousingMar0415.png" width="600" height="342">
 
 Not a chance. In fact it is just the opposite. Canadian house prices have stubbornly refused to go down and are still bouncing along at the highs. 
 
@@ -94,7 +94,7 @@ Yet so far it hasn&#8217;t been a problem, and all those Canada bears are still 
 Let&#8217;s move on to the banking sector. The article about the hedge fund manager who was 95 per cent short Canadian financial assets with a particular emphasis on the banking sector was from April 2013. Let&#8217;s look and see how his Canada bank short is working for him.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BanksMar0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BanksMar0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/BanksMar0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BanksMar0415.png" width="600" height="342">
 
 Nope, that hasn&#8217;t worked either. 
 
@@ -107,7 +107,7 @@ The CAD has definitely been under more pressure than some of the other currencie
 But the vast majority of the decline in CAD was actually US dollar strength. Here is a chart of the USDCAD rates alongside the DXY US Dollar Index.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADDXYMar0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CADDXYMar0415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CADDXYMar0415.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADDXYMar0415.png" width="600" height="342">
 
 Although the Canada bears will point to the P&L on their sheets from this trade, they haven&#8217;t been right for the reasons they forecasted. They might as well have just bought US dollars. That has been the main driver in their profits.
 

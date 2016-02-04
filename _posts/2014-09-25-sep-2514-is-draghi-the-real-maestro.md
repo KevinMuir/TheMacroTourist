@@ -29,12 +29,12 @@ It didn&#8217;t feel like one of those &#8220;I have to put $2 billion to work i
 It was just a good old fashioning bull skewering of the bears.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BullSep2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BullSep2514.png" width="550" height="392">
+  <img src="http://themacrotourist.com/pictures/Azure/BullSep2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/BullSep2514.png" width="550" height="392">
 
 The action felt reminiscent of the big up moves you get in the middle of bear markets. Many investors don&#8217;t realize it, but most of the biggest one day moves have occurred in the midst of bear markets, not bull runs. Here is a list of the biggest one day Dow Jone moves by points and percentage.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/LargestSep2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/LargestSep2514.png" width="500" height="742">
+  <img src="http://themacrotourist.com/pictures/Azure/LargestSep2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/LargestSep2514.png" width="500" height="742">
 
 As I reflected on this observation my colleagues rightfully poked fun at me that the previous three day decline can hardly be construed as a bear market. And they are indeed correct. 
 
@@ -43,22 +43,22 @@ But it doesn&#8217;t change my feeling that yesterday&#8217;s rally was a little
 Stupid stuff like my terrible GoPro short were exploding higher:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GPROSep2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GPROSep2514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/GPROSep2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/GPROSep2514.png" width="600" height="342">
 
 While they chased all the crap, real companies like banks were left behind. Have a look at this chart showing the trading in the Nasdaq 100 versus the Bank Index.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NDXBKXSep2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NDXBKXSep2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/NDXBKXSep2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/NDXBKXSep2414.png" width="600" height="342">
 
 **And most worrying, even though the stock market exploded higher, the high yield debt market had a terrible day.** 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HYGSep2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HYGSep2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/HYGSep2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HYGSep2414.png" width="600" height="342">
 
 The high yield debt market has actually had a **terrible three days.** The junk bond market has been just as bad.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JNKSep2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JNKSep2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/JNKSep2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/JNKSep2414.png" width="600" height="342">
 
 I would understand if the corporate bond market was down because of a back up in risk free rates, but spreads are widening. 
 
@@ -67,12 +67,12 @@ I don&#8217;t expect stocks to follow credit spreads tick for tick, but having t
 But the two markets seem to have diverged.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HYGSPXSep2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HYGSPXSep2414.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/HYGSPXSep2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HYGSPXSep2414.png" width="600" height="342"></p> 
 
 Let&#8217;s have a look a little more closely at this summer&#8217;s trading.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HYGSPXCloseSep2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HYGSPXCloseSep2414.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/pictures/Azure/HYGSPXCloseSep2414.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/HYGSPXCloseSep2414.png" width="600" height="342"></p> 
 
 This might be a case of &#8220;it doesn&#8217;t matter until it matters.&#8221; You will notice that in June when the high yield market rolled over stocks at first shrugged it off. But eventually the stock market followed the high yield market lower. Then they both rallied together out the hole. 
 
@@ -87,7 +87,7 @@ I can point out all the reasons why this rally is crap, but that doesn&#8217;t s
 The real question we need to ask is whether last week&#8217;s selling was an end to the bull run, or simply a correction in the upward move of the past few months. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPSep2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXGIPSep2514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPSep2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXGIPSep2514.png" width="600" height="342">
 
 Could yesterday be a one or two day rally within a new emerging downtrend?
 
@@ -112,7 +112,7 @@ I did buy back a little of my Nasdaq short yesterday. It would be great if I cou
 I have to give Draghi credit, that guy can really jawbone markets. He is truly world class at accomplishing what he wants through words alone.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DraghiSep2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DraghiSep2514.png" width="520" height="242">
+  <img src="http://themacrotourist.com/pictures/Azure/DraghiSep2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/DraghiSep2514.png" width="520" height="242">
 
 He is walking such a fine line, but he never seems to stumble. He needs to appease the Germans who do not want the debt monetized, yet the rest of Europe is slipping into a deflationary spiral that he needs to halt. The easiest way to do this would be to engage in a US/Japanese style QE, but that option is limited due to political concerns. Draghi managed to get his LTRO program past the Germans, but there is no real demand for credit so it has been a bust. 
 
@@ -123,7 +123,7 @@ There has never been a huge appetite for QE at the ECB, but the US/Japan/UK/Swis
 During the last week Draghi has continued to talk the Euro lower with sweet whisperings of more balance sheet expansion. The Euro has responded by sinking to new lows for this move.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURSep2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURSep2514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EURSep2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURSep2514.png" width="600" height="342">
 
 As the Euro sinks, there is less and less need for Draghi to actually follow through with his pledges to expand the balance sheet. Maybe he can accomplish his goal by allowing the currency to do the easing for him.
 
@@ -132,7 +132,7 @@ It is masterful on his part.
 His handiwork can be seen as the relationship between the Euro and the ECB balance sheet has broken down. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURLOTSSep2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURLOTSSep2514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EURLOTSSep2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURLOTSSep2514.png" width="600" height="342">
 
 Draghi&#8217;s pledges have allowed the Euro to focus on the fact that rates are negative in Germany and rising in the US. 
 
@@ -149,4 +149,4 @@ How an Italian Central Banker has managed to accomplish this move while maintain
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionSep2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionSep2514.png" width="600" height="552"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionSep2514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionSep2514.png" width="600" height="552"></p>

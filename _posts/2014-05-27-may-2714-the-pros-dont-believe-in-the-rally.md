@@ -22,7 +22,7 @@ tags:
 The S&P 500 ticked at all time new closing high on Friday. For the first time ever it closed with a 19 handle &#8220;big figure.&#8221;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXMay2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXMay2714.png" width="600" height="342" />S&P 500 Index &#8211; new closing high!</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPXMay2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXMay2714.png" width="600" height="342" />S&P 500 Index &#8211; new closing high!</a>
 </div>
 
 What is interesting is that stocks are rallying in the midst of many market &#8220;experts&#8221; calling for a correction.
@@ -46,7 +46,7 @@ When you combine the large S&P 500 contract with the E-mini contract, the specul
 This is the chart of the net speculator position for the S&P 500 E-mini:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESSpecShortsMay2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESSpecShortsMay2714.png" width="600" height="342" />S&P 500 E-mini speculator net position</a>
+  <img src="http://themacrotourist.com/pictures/Azure/ESSpecShortsMay2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESSpecShortsMay2714.png" width="600" height="342" />S&P 500 E-mini speculator net position</a>
 </div>
 
 The previous time we had speculators this short was into the early year &#8220;trash crash.&#8221; But this latest selling has been into the face of a rising market.
@@ -54,7 +54,7 @@ The previous time we had speculators this short was into the early year &#8220;t
 Here is the same chart but with the S&P 500 plotted above:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXSpecMay2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXSpecMay2714.png" width="600" height="342" />S&P 500 above with speculator&#8217;s net positon below</a>
+  <img src="http://themacrotourist.com/pictures/Azure/SPXSpecMay2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXSpecMay2714.png" width="600" height="342" />S&P 500 above with speculator&#8217;s net positon below</a>
 </div></p> 
 
 The hedge funds and other speculators are selling into this rally. They don&#8217;t believe. 
@@ -74,7 +74,7 @@ Over the week-end I finished James Rickards&#8217; book &#8211; The Death of Mon
 Although the title makes it sound like a tinfoil hat wearing hyperbolic gold bug fluff piece, there are actually some really great parts.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/tinfoilMay2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/tinfoilMay2714.png" width="600" height="490">
+  <img src="http://themacrotourist.com/pictures/Azure/tinfoilMay2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/tinfoilMay2714.png" width="600" height="490">
 
 Given the book&#8217;s title you would think the James asset allocation would be 50% gold and the other 50% guns, ammo and freeze dried food. However, when you cycle through his hyperbole, you end up with his conclusion that only 20% of your portfolio should be in precious metals. 
 
@@ -89,7 +89,7 @@ For example there is the [PHYS Sprott Physical Gold Trust](http://sprottphysical
 During the height of the gold bull market, this product was red hot and traded at a large premium to NAV. However, since gold has become an investment pariah, the premium has actually shrunk to a discount. Here is the chart of the premium/discount to NAV:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PHYSMay2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PHYSMay2714.png" width="600" height="342" />PHYS price with premium/discount to NAV on bottom panel</a>
+  <img src="http://themacrotourist.com/pictures/Azure/PHYSMay2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PHYSMay2714.png" width="600" height="342" />PHYS price with premium/discount to NAV on bottom panel</a>
 </div>
 
 For me, buying PHYS instead of GLD is a no brainer.
@@ -97,7 +97,7 @@ For me, buying PHYS instead of GLD is a no brainer.
 But I actually prefer another trust that has been around much longer than the Sprott product. For my long term retirement accounts I own [Central Fund of Canada.](http://www.centralfund.com/) This product owns both gold and silver. The discount to NAV is even larger for this product as it doesn&#8217;t have the same marketing push as the Sprott Fund:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CEFMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CEFMay2614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/CEFMay2614.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/CEFMay2614.png" width="600" height="342">
 
 By buying CEF you can effectively own physical gold and silver at a 5% discount to spot. 
 
@@ -112,4 +112,4 @@ I know this a bold prediction, so I am going to take the chicken way out and cou
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay2714.png" width="600" height="650"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2714.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay2714.png" width="600" height="650"></p>

@@ -21,7 +21,7 @@ tags:
 Well, my trading continues to be ugly. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/UglySep0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/UglySep0514.png" width="400" height="700">
+  <img src="http://themacrotourist.com/pictures/Azure/UglySep0514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/UglySep0514.png" width="400" height="700">
 
 Yes, I am talking that sort of ugly&#8230;
 
@@ -30,7 +30,7 @@ A couple of days ago, I wrote this [piece on why Draghi and the rest of the ECB 
 Regardless of the fact that the Euro had set up with a massive speculative short position going into the meeting, the market beat the Euro like a red headed step child. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURGIPSep0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURGIPSep0514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/EURGIPSep0514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURGIPSep0514.png" width="600" height="342">
 
 We fell through 3 different big handles on the news. 
 
@@ -47,7 +47,7 @@ Let&#8217;s get back to yesterday&#8217;s ECB announcement. Draghi did not come 
 Yet at the same time, even the Germans realize that Europe is sinking into a deflationary morass that has the potential of dragging their economy into another depression. The European Central Bankers realize that given non-EU countries&#8217; massive balance sheet expansions (US, Japan, UK), a failure to match would result in Europe importing everyone&#8217;s deflation. That is why although Draghi did not come out and say that he was outrightly engaging in QE, he did commit to **expanding the ECB balance sheet to the levels seen in the summer of 2012**.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ECBBSSep0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ECBBSSep0514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ECBBSSep0514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECBBSSep0514.png" width="600" height="342">
 
 This commitment is all that matters. If the market believes him (and his credibility does seem very high), then it doesn&#8217;t matter what he buys. He has to figure out how he is going to get around all sorts of legal issues regarding circumventing the prohibitions against monetizing deficit financing, but as long as he succeeds in expanding the balance sheet, then the game has completely changed. 
 
@@ -62,7 +62,7 @@ The trouble with Draghi&#8217;s plan is that he is expanding the balance sheet p
 This delay in implementing the balance sheet expansion is why Draghi & Co. also cut all three benchmark over night rates by 10 basis points. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ECBZEROSep0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ECBZEROSep0514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/ECBZEROSep0514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECBZEROSep0514.png" width="600" height="342">
 
 In a crazy move, Draghi pushed rates deeply into negative territory. Although some thought he would cut one or two of these rates, few thought he would cut all three by 10 basis points. But Draghi wanted to show that he was serious about arresting the disinflationary spiral. 
 
@@ -79,11 +79,11 @@ I know that many would argue that buying European equities is probably the prefe
 And don&#8217;t forget that the ECB meeting euphoria marked the top during the last LTRO announcement.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SX5ESep0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SX5ESep0514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/pictures/Azure/SX5ESep0514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/SX5ESep0514.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep0514.png" width="600" height="500"></p>
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep0514.png" style="margin:30px atuo;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep0514.png" width="600" height="500"></p>
