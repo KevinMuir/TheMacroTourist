@@ -25,14 +25,14 @@ Don&#8217;t believe me? Let&#8217;s go through the charts.
 
 The first QE program was introduced in the midst of the credit crisis panic on November 25, 2008. At first there was a big move lower in yield as market participants were still dealing with the ongoing deflationary collapse. However, as the QE began to work its magic, yields _rose._
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USGG10YRaMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/USGG10YRaMay1614.png" width="600" height="342" />US 10 Yr Treasury Yield during the first QE program</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USGG10YRaMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USGG10YRaMay1614.png" width="600" height="342" />US 10 Yr Treasury Yield during the first QE program</a>
 </div>
 
 The first QE program ended on March 31, 2010. Let&#8217;s have a look at what happened to yields when the Fed stopped buying treasuries.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USGG10YRbMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/USGG10YRbMay1614.png" width="600" height="342" />US 10 Yr Treasury Yield after the end of QE </a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USGG10YRbMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USGG10YRbMay1614.png" width="600" height="342" />US 10 Yr Treasury Yield after the end of QE </a>
 </div>
 
 Surely that has to be a fluke right? Well, let&#8217;s have a look at QE2.
@@ -41,16 +41,16 @@ QE2 was signalled by Bernanke during the Jackson Hole Central Bank symposium dur
 
 Let&#8217;s have a look at what happened to yields after that signal:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USGG10YRcMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/USGG10YRcMay1614.png" width="600" height="342" />US 10 Yr Treasury Yield during QE2</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USGG10YRcMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USGG10YRcMay1614.png" width="600" height="342" />US 10 Yr Treasury Yield during QE2</a>
 </div>
 
 Again yields _rose_ during the QE program. 
 
 But this time at the end of QE2 when the Fed pulled up off the accelerator, surely yields must have risen? Nope.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USGG10YRdMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/USGG10YRdMay1614.png" width="600" height="342" />US 10 Yr Treasury Yield after QE2</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USGG10YRdMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USGG10YRdMay1614.png" width="600" height="342" />US 10 Yr Treasury Yield after QE2</a>
 </div>
 
 Again, just the opposite of conventional wisdom occurred. Instead of the end of QE causing yields to rise, they dramatically fell!
@@ -59,8 +59,8 @@ After QE2 it gets more complicated because the Fed tried to influence the yield 
 
 But let&#8217;s just put that aside and instead focus on QE3. What has happened to yields since the Fed has embarked on the program jokingly referred to as QE infinity? This program was open ended so surely it must have caused yields to fall. After all, that is a lot of bonds the Fed was buying&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USGG10YReMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/USGG10YReMay1614.png" width="600" height="342" />US 10 Yr Treasury Yield during QE3</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USGG10YReMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USGG10YReMay1614.png" width="600" height="342" />US 10 Yr Treasury Yield during QE3</a>
 </div>
 
 Again, just the opposite of what most market participants believed should happen occurred. Contrary to the near universal belief that QE programs are bond friendly, yields rose during QE3!
@@ -147,8 +147,8 @@ Tepper&#8217;s warning, the ECB&#8217;s talking down of expectations and Japan&#
 
 This week I have traded with about as much panache as a nervous teenage boy at his prom.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PromMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PromMay1614.png" width="500" height="666" />The MacroTourist at his prom</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PromMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PromMay1614.png" width="500" height="666" />The MacroTourist at his prom</a>
 </div>
 
 The push to new highs shook me off my sizeable stock market short. Although I was wise enough to simply replace my shorts with puts, I really could have used the full delta on the move lower. The rest of my book went decidedly against me.
@@ -173,6 +173,5 @@ This week, I don&#8217;t trust myself to do much except to get smaller. So that&
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsMay1614.png" width="600" height="700" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay1614.png" width="600" height="700"></p>

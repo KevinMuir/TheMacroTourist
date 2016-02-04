@@ -23,21 +23,20 @@ I wish I could simply climb aboard dumb trades like buying Apple because of a st
 
 So far I have avoided shorting Apple, even though the stock split strategy seems to be working even better than the bulls would have ever hoped.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AAPLJun0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AAPLJun0914.png" width="600" height="342" />AAPL &#8211; Trading 101</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AAPLJun0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AAPLJun0914.png" width="600" height="342" />AAPL &#8211; Trading 101</a>
 </div>
 
 I am nervous about the ease in which the bulls are making money. This sort of euphoria regarding a stock split is eerily reminiscent of other dangerous points in the market. In fact, over the last few decades Apple itself has split its stock 3 times. Have a look at the timing of Apple&#8217;s stock splits versus the market:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AAPLSplitJun0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AAPLSplitJun0914.png" width="600" height="342" />S&P 500 with Apple Stocks splits highlighted</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AAPLSplitJun0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AAPLSplitJun0914.png" width="600" height="342" />S&P 500 with Apple Stocks splits highlighted</a>
 </div>
 
 As Meatloaf counselled, &#8220;Two out of three ain&#8217;t bad.&#8221; Twice the split in Apple&#8217;s stock coincided with a major market peak. Of course, this time is different&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/meatloafJun1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/meatloafJun1014.png" width="200" height="200" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/meatloafJun1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/meatloafJun1014.png" width="200" height="200">
 
 <hr size="3" width="85%" />
 
@@ -47,8 +46,8 @@ As Meatloaf counselled, &#8220;Two out of three ain&#8217;t bad.&#8221; Twice th
 
 It has once again hit new lows:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/KVOLJun0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/KVOLJun0914.png" width="600" height="342" />K-Vol Index (Stocks, bonds and FX home-made vol index)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/KVOLJun0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/KVOLJun0914.png" width="600" height="342" />K-Vol Index (Stocks, bonds and FX home-made vol index)</a>
 </div>
 
 I fully concede that using the low volatility as a forecasting tool is extremely difficult. In 2006/7 the low volatility continued for quite some time before the shit eventually hit the fan.
@@ -65,9 +64,8 @@ I am going to write about this more extensively in the future, but I am tossing 
 
 Many Canada bears love to point to Canada&#8217;s consumer debt levels and say that this trend is not sustainable. And I agree&#8230; mostly&#8230;.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DebtIncomeJun0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DebtIncomeJun0914.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DebtIncomeJun0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DebtIncomeJun0914.png" width="600" height="342">
 
 But what if the high debt levels of Canada, UK and Australia are not destined to crash any time soon? What if the surprise is going to be how there is no consumer debt crash in these countries?
 
@@ -79,9 +77,8 @@ Since the credit crisis, Americans have been very reluctant to take on debt. The
 
 It has taken a while, but that fear is slowly fading. Have a look at the latest consumer credit growth:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CreditJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CreditJun0614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CreditJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CreditJun0614.png" width="600" height="342">
 
 Credit growth has dramatically picked up and is now expanding at the fastest rate since the crisis.
 
@@ -97,6 +94,5 @@ Right now no one can imagine the US economy booming and consumers actually havin
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJun1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJun1014.png" width="600" height="650" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJun1014.png" width="600" height="650"></p>

@@ -72,6 +72,6 @@ tags:
   </p>
   
   <p>
-    For those that want to track future Fed activities, here is the link to the Fed&#8217;s web site <a href="http://www.newyorkfed.org/markets/tot_operation_schedule.html">NY Fed Tentative Schedule</a>.
+    For those that want to track future Fed activities, here is the link to the Fed&#8217;s web site <img src="http://www.newyorkfed.org/markets/tot_operation_schedule.html">NY Fed Tentative Schedule</a>.
   </p>
 </div>

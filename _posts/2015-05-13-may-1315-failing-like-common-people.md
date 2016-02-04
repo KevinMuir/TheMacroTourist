@@ -16,17 +16,15 @@ In the mid 1990s, after ten years of struggling, a British pop group by the name
 
 Pulp’s popularity hit a crescendo in 1995 with the release of their album “A different class.”
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/Pulp.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/Pulp.png" alt="%cliboard" width="500" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/Pulp.png" alt="http://themacrotourist.com/pictures/Azure/Pulp.png" style="margin:30px auto;display:block;" width="500" height="500">
 
 On that album is a song titled [“Common People.”](https://www.youtube.com/watch?v=yuTMWgOduFM) This song has been called one of the defining tracks of Britpop.
 
 The song tells the story of a young Greek woman. Her father is rich, but she wants to live like “common people.”
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PulpLyrics1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PulpLyrics1.png" alt="%cliboard" width="600" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PulpLyrics1.png" alt="http://themacrotourist.com/pictures/Azure/PulpLyrics1.png" style="margin:30px auto;display:block;" width="600" height="500">
 
 For years after the song was released, Pulp fans speculated on the identity of the young woman. There was even a [BBC documentary](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QtwIwAA&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLtodth1h1Oo&ei=XTNTVfmnKouuogSj0IDAAw&usg=AFQjCNFOpqzuHWD63taE1bCJvUnE-BZUcQ) devoted to the subject. But for two decades her identity remained a mystery.
 
@@ -34,9 +32,8 @@ And so it probably would have remained had it not been for the recent Greek fina
 
 The events of the past few months has put Yanis in the spotlight. And with that spotlight has brought some attention to his “loaded” wife Danae Stratou.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DanaeStratou.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/DanaeStratou.png" alt="%cliboard" width="500" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DanaeStratou.png" alt="http://themacrotourist.com/pictures/Azure/DanaeStratou.png" style="margin:30px auto;display:block;" width="500" height="400">
 
 It turns out Stratou was the only Greek student studying art at St. Martin’s college during the same time as Pulp’s songwriter Jarvis Cocker. Although no one is admitting it &#8211; after all it is far from a flattering song, it appears the mystery has been solved.
 
@@ -48,17 +45,15 @@ Yanis’ wife Danae Stratou is most likely the young woman who wanted to live li
 
 I must admit that Yanis had me fooled. The photo ops travelling in economy class on the way to various finance minister meetings were skillfully planned. I had pictured him more like the struggling professor, not some wealthy socialite.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/YanisMay1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/YanisMay1315.png" alt="%cliboard" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/YanisMay1315.png" alt="http://themacrotourist.com/pictures/Azure/YanisMay1315.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 I guess that Burberry scarf is not some knock off he bought on his visit to Hong Kong.
 
 So although Yanis claims to understand the plight of everyday Greeks, isn’t he just as hypocritical as the woman in the “Common People?”
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CommonPeople2.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/CommonPeople2.png" alt="%cliboard" width="500" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CommonPeople2.png" alt="http://themacrotourist.com/pictures/Azure/CommonPeople2.png" style="margin:30px auto;display:block;" width="500" height="600">
 
 And the real question is whether the Greek people (and government) are also turning on him. Is his hard nosed negotiating style not only pissing off the Germans, but also putting doubts into the minds of the Greek people?
 
@@ -142,9 +137,8 @@ As we countdown to the Greek end game, I am expecting the markets to once again 
 
 Whatever happens, I don’t think Yanis will make it out unscathed. He is far from “Common People” and they will turn on him.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/YanisMoto.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/YanisMoto.png" alt="%cliboard" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/YanisMoto.png" alt="http://themacrotourist.com/pictures/Azure/YanisMoto.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Get ready for some fireworks. Just because few are talking about it doesn’t mean the risk has gone away. If anything, this should only make you more worried.
 

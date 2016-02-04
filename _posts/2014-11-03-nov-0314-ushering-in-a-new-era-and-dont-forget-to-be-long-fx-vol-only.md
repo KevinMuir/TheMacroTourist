@@ -30,33 +30,29 @@ I believe that the recent the Japanese GPIF&#8217;s (Government Pension Investme
 
 Although I do not begrudge the GPIF asset shift, the Bank of Japan timing and aggressiveness of the new stimulus, has introduced much more risk than most realize. The Japanese are playing with forces whose power they underestimate.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/sabreNov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/sabreNov0114.png" width="480" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/sabreNov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/sabreNov0114.png" width="480" height="342">
 
 The Bank of Japan was already on a schedule to increase their balance sheet by 60 trillion Yen in the coming year. But Friday&#8217;s announcement to increase it to 80 trillion Yen caught the market off guard. It is not as if their balance sheet has been shrinking like the ECB&#8217;s. The BoJ has actually been the most aggressive Central Bank out there over the past couple of years.
 
 Have a look at the Bank of Japan&#8217;s total balance sheet size over the past 15 years.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BOJTOTALNov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BOJTOTALNov0114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BOJTOTALNov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BOJTOTALNov0114.png" width="600" height="342">
 
 The explosion higher since the introduction of Abeconomics is unprecedented by a major Central Bank. The fact that they _are now increasing it_ is even more ballsy. 
 
 It is not as if they are having any problems creating inflation. Have a look at this chart of their CPI.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPNCPINov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPNCPINov0114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPNCPINov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPNCPINov0114.png" width="600" height="342">
 
 I know that it has been boosted by the recent sales tax increase, but inflation is inflation. Prices are going up in Japan.
 
 What is most interesting is that this increase in the QE program comes at a time when their 10 year real rate is already at record breaking negative levels.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPNRRNov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPNRRNov0114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPNRRNov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPNRRNov0114.png" width="600" height="342">
 
 Increasing the Quantitative Easing program (and also shifting their mix to even riskier securities because they are running out of JGBs to monetize) is akin to a formula one driver barely staying on the road during a turn, but deciding that accelerating even faster into the next one is right play. 
 
@@ -104,9 +100,8 @@ My guess is that at some point the Yen will be going down faster than the Japane
 
 However, in the mean time, stocks are running like they stole something. The Bank of Japan has told you that not only are they increasing the absolute amount of their quantitative easing, but they are going to buy more equities because they are running out of government bonds. Stop and think about that for a moment&#8230; The absurdity of a Central Bank monetizing equities is almost beyond belief. It distorts all the pricing signals and exponentially increases the macro risk for private investors. But it is what it is. No sense in getting all indignant about it. It will end badly, but in the mean time there is no reason to step in front of the freight train. The buying could very well feed on itself and create the biggest bubble we have ever seen. I do not rule that out. Central Banks trading S&P futures was something I would never have guessed in a million years, but here we are&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CMENov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CMENov0114.png" width="500" height="800" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CMENov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CMENov0114.png" width="500" height="800">
 
 <hr size="3" width="85%" />
 
@@ -118,9 +113,8 @@ Over the week-end, as I reflected on the past two days, I am struck by the fact 
 
 Although it feels like the Yen has gone a long way over the past couple of years since the introduction of Abeconomics, step back and look at the really long term chart. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPYNov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPYNov0114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPYNov0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYNov0114.png" width="600" height="342">
 
 We might be simply getting started.
 
@@ -130,9 +124,8 @@ We might be simply getting started.
 
 Given the massive moves in the FX market over the past few days you would think that FX volatility would be going through the roof. And although it has indeed risen, G7 forex vol is still remarkably low.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CVIXNov0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CVIXNov0314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CVIXNov0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CVIXNov0314.png" width="600" height="342">
 
 I think that the volatility in the foreign exchange market will only continue to rise. This move by the BoJ is just the start of a series of new initiatives from various other countries to attempt to inflate their way out of the problem. 
 
@@ -152,6 +145,5 @@ Wait for it to climb back up. No sense being a hero. But if it can manage to get
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsNov0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsNov0314.png" width="600" height="242" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsNov0314.png" width="600" height="242"></p>

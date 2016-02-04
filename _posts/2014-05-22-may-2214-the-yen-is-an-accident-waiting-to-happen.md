@@ -20,27 +20,23 @@ tags:
 ---
 &#8220;Spanish bulls force end to bullfight after injuring three matadors.&#8221; This was the headline from the Associated Press that detailed how for the first time in 35 years, the famed San Isidro festival was forced to stop their bullfight after the bulls gored two matadors and tossed a third into the air.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/Bulls2May2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/Bulls2May2214.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/Bulls2May2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/Bulls2May2214.png" width="600" height="400">
 
 One can&#8217;t help but smile at the parallel with the current stock market. This bull market also refuses to lie down and die. It too is causing unheard of casualties amongst those betting against it. The bull market is goring the shorts like these Spanish bullfighters (I don&#8217;t usually take pleasure in another human being&#8217;s suffering, but bullfighting seems to be a barbaric spectacle and it is good to see the bulls win one for a change&#8230; although I don&#8217;t think that is going to change the bulls&#8217; fate&#8230;)
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BullsMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BullsMay2214.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BullsMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BullsMay2214.png" width="600" height="400">
 
 I also noticed that the bears are having an especially difficult time of it lately. Their plight has turned into a little bit of an internet sensation, with a video of a British Columbia mother black bear saving her cub from highway traffic generating over 225,000 views.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BearMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BearMay2214.png" width="600" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BearMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BearMay2214.png" width="600" height="450">
 
 By far my favourite witty comment about this daring rescue of the baby bear was from Mark Dow:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/YellenMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/YellenMay2214.png" width="600" height="250" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/YellenMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/YellenMay2214.png" width="600" height="250">
 
 The image of Yellen driving down the BC highway trying to mow down baby bears made me laugh.
 
@@ -66,9 +62,8 @@ The unusually accommodative monetary policy of the past half dozen years has for
 
 Remember this chart?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ZirpManiaMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ZirpManiaMay2214.png" width="600" height="385" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ZirpManiaMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ZirpManiaMay2214.png" width="600" height="385">
 
 This chart highlights the various mini-bubbles that have sprung up since the start of ZIRP (zero interest rate policy).
 
@@ -84,8 +79,8 @@ There is simply so much easy money trying to earn an extra return that any trade
 
 The short Japanese Yen trade was a spectacular trade for hedge funds in 2012 and 2013. The Yen moved from 75 to 105 in less than one year.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPYMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPYMay2214.png" width="600" height="342" />JPY Rate (higher means weaker Yen)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPYMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYMay2214.png" width="600" height="342" />JPY Rate (higher means weaker Yen)</a>
 </div>
 
 This trade was very popular with hedge funds and was a home run for those that put it on.
@@ -94,8 +89,8 @@ However, over the last year, it has basically gone sideways. Although it hasn&#8
 
 This lack of follow through has shaken off some of the shorts, but on the whole, the short positioning amongst the speculative community is still elevated.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPYShortsMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPYShortsMay2214.png" width="600" height="342" />JPY CME Non-Commercial Short positions</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPYShortsMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYShortsMay2214.png" width="600" height="342" />JPY CME Non-Commercial Short positions</a>
 </div>
 
 The speculative short position is by no means as large as 2007. Nor is it as large as it was a year ago.
@@ -104,8 +99,8 @@ Yet, it is still much higher than where it has trended in the past.
 
 So far 2014 has proven to be an especially sideways period for the Yen, and for the second time since this big move began, the price has hit the 200 day moving average.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPYMAMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPYMAMay2214.png" width="600" height="342" />JPY rate with 200 day moving average</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPYMAMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYMAMay2214.png" width="600" height="342" />JPY rate with 200 day moving average</a>
 </div>
 
 The last time the 200 day moving average provided solid support before another move higher (weaker yen). Will hitting the 200 day prove an equally fortuitous opportunity this time?
@@ -114,8 +109,8 @@ I don&#8217;t have a really solid reason for feeling this way, but I am worried 
 
 Call it my spidey sense, but I am worried that the short Yen trade is the next one to come unravelled.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/spideyMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/spideyMay2214.png" width="522" height="344" />Macrotourist spidey sense</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/spideyMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/spideyMay2214.png" width="522" height="344" />Macrotourist spidey sense</a>
 </div>
 
 (I don&#8217;t know why, but when my spidey sense kicks in, I seem to always get featured in the lookatthisfuckinghipster blog)
@@ -154,8 +149,8 @@ Gold is therefore correlated with the reciprocal level of real rates.
 
 Have a look at this chart of gold vs the reciprocal 30 year real rate:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GOLD30May2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GOLD30May2214.png" width="600" height="342" />Gold (yellow line) vs reciprocal US 30 Yr real rate (white line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GOLD30May2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLD30May2214.png" width="600" height="342" />Gold (yellow line) vs reciprocal US 30 Yr real rate (white line)</a>
 </div>
 
 Over time I expect real rates to remain decidedly negative, but the move lower of the long end of the bond market over the past year combined with a falling level of inflation, pushed real rates to levels that ushered in the big gold market correction.
@@ -166,6 +161,5 @@ However between the bond market rally of the past month and the recent rise in i
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsMay2214.png" width="600" height="650" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay2214.png" width="600" height="650"></p>

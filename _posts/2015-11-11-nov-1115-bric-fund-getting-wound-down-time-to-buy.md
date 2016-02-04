@@ -13,23 +13,20 @@ tags:
   - Goldman Sachs
   - "Jim O'Neil"
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SquidNov1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/SquidNov1115.png" width="400" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SquidNov1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SquidNov1115.png" width="400" height="500">
 
 Almost fifteen years ago, Goldman Sach&#8217;s Jim O&#8217;Neil coined the term &#8220;BRIC&#8221; to describe the up and coming economies of Brazil, Russia, India and China. I doubt Jim had any clue how popular the term would ultimately become&#8230;
 
 And with that popularity came the trendy specialized funds. But like all fame, it eventually fades. Especially when performance lags.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BRKNov1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/BRKNov1115.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BRKNov1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BRKNov1115.png" width="600" height="342">
 
 With that terrible underperformance, investors have fled the Goldman Sachs&#8217; BRIC fund more quickly than Charlie Sheen at a court mandated AA meeting.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BRICBNov1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/BRICBNov1115.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BRICBNov1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BRICBNov1115.png" width="600" height="342">
 
 Over the week-end Goldman Sachs decided enough was enough, and decided to wind the BRIC fund down.
 

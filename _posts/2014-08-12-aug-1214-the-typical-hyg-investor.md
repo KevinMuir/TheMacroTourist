@@ -21,9 +21,8 @@ tags:
 ---
 One of the big problems with the Fed&#8217;s ZIRP (zero interest rate policy) is the fact that it has sent a lot of investors out the risk curve. Many of these investors have bought high yield and junk bonds in an attempt to pick up a little yield. But in a lot of cases, these products are not suitable.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TypicalHYGAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TypicalHYGAug1214.png" width="600" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TypicalHYGAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TypicalHYGAug1214.png" width="600" height="500">
 
 This move out the risk curve has been a long grinding affair. In the initial stages of the Fed&#8217;s financial repression, many investors held out, hoping that the ZIRP would be a limited time offer. However as the Fed has continued with their insane policies for the last 4+ years, investors have slowly accepted that to pick up any yield at all, they have to venture out the risk curve. 
 
@@ -33,21 +32,18 @@ This mismatch of risk tolerances is a disaster in the making. As it becomes clea
 
 In fact this has probably already started. The outflows from this sector has dramatically increased during the last month. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HYGoutflowsAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/HYGoutflowsAug1214.png" width="600" height="362" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HYGoutflowsAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HYGoutflowsAug1214.png" width="600" height="362">
 
 The recent run of outflows is one of the longest streaks over the past couple of decades. Yet so far the price has actually hung in there pretty well.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BUHYAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BUHYAug1214.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BUHYAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BUHYAug1214.png" width="600" height="342">
 
 When the Fed reverses course and _actually starts raising rates_, this is going to get really ugly. The decline of the last couple of weeks might have felt scary, but in the big picture, this was just a slight hiccup.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HYGAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/HYGAug1214.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HYGAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HYGAug1214.png" width="600" height="342">
 
 From a timing perspective, until this summer, predicting the top was a tough call. These bubbles go on until they stop, and trying to time the top is always a fool&#8217;s errand. 
 
@@ -63,9 +59,8 @@ During the last month, we had the push lower, which was followed by this week&#8
 
 During the past month, I was lucky enough to side step the recent down draft in the precious metals. But that whole time I have felt a little naked. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SILVAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SILVAug1214.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SILVAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SILVAug1214.png" width="600" height="342">
 
 Yesterday the precious metals seem to get a bid for no real reason. I have been waiting for a signal to get back into the position, and this was all I needed to return to the long side.
 
@@ -81,9 +76,8 @@ One of my favourite trades is what I have labelled the &#8220;pop and drop.&#822
 
 I was fortunate to catch the recent high in the stock market using this technique, and I am wondering if we now have a similar opportunity in the bond market. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TYU4Aug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TYU4Aug1214.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TYU4Aug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TYU4Aug1214.png" width="600" height="342">
 
 The recent move into bonds has had a certain &#8220;panicky&#8221; feel to it. There has been a lot of safe haven buying because of geo-political turmoil. However, I believe we are about to enter into a massive bond bear market. Although this view was popular six months ago, many investors have thrown in the towel on the idea that the bond market will ever go down. It would be just like the Market Gods to put in a top at the very moment everyone has given up on the trade.
 
@@ -93,6 +87,5 @@ I am shorting some US 10 year Treasury futures, using the recent highs as a stop
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsAug1214.png" width="600" height="500" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsAug1214.png" width="600" height="500"></p>

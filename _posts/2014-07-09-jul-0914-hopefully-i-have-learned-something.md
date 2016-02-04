@@ -35,8 +35,8 @@ This recovery has been slow and painful &#8211; no doubt about that. But this la
 
 For example let&#8217;s have a look at yesterday&#8217;s JOLTS Job Openings (which measures the amount of job openings that employers are taking specific actions to fill):
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JOLTSJul0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JOLTSJul0914.png" width="600" height="342" />JOLTS Job Openings</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JOLTSJul0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JOLTSJul0914.png" width="600" height="342" />JOLTS Job Openings</a>
 </div>
 
 May&#8217;s release was 4,635 versus an expected 4350! This was a barn burner number! And it is not like this is an aberration &#8211; the trend has clearly been higher. 
@@ -63,16 +63,16 @@ After that curt introduction my old man went back to work and left me with my ne
 
 After going home and thinking about my meeting with my broker, I finally summoned up the courage in the next couple of days to phone him up and give him an order&#8230; to short Canadian dollars.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CADJul0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CADJul0914.png" width="600" height="342" />USDCAD Rate (higher rate means lower Canadian Dollar)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CADJul0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CADJul0914.png" width="600" height="342" />USDCAD Rate (higher rate means lower Canadian Dollar)</a>
 </div>
 
 You see at the time things were really bad in Canada. Our economy was stinking up the joint and things seemed very dire. Shorting Canada seemed like a slam dunk.
 
 Of course you can guess how the story went from there&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CAD3Jul0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CAD3Jul0914.png" width="600" height="342" />USDCAD Rate (higher rate means lower Canadian Dollar)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CAD3Jul0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CAD3Jul0914.png" width="600" height="342" />USDCAD Rate (higher rate means lower Canadian Dollar)</a>
 </div>
 
 My first trade was a complete an utter failure (like all first trades should be otherwise you might think you actually know something when you don&#8217;t). 
@@ -91,6 +91,5 @@ Hopefully I have learned a thing or two since I was 17 years old and my old man 
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJul0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJul0914.png" width="600" height="700" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJul0914.png" width="600" height="700"></p>

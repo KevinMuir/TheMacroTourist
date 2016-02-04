@@ -17,27 +17,23 @@ tags:
   - US dollar
   - Yellen
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/RiskyBusiness.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/RiskyBusiness.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/RiskyBusiness.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RiskyBusiness.png" width="600" height="400">
 
 We knew that yesterday&#8217;s FOMC meeting was an important one, and it certainly didn&#8217;t disappoint. The S&P rallied 30 handles and the US dollar index traded in a 3 big figure range.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ESM5GIPMar1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ESM5GIPMar1915.png" width="600" height="342" /></a>
-</div></p> 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DXYGIPMar1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DXYGIPMar1915.png" width="600" height="342" /></a>
-</div>
+  <img src="http://themacrotourist.com/pictures/Azure/ESM5GIPMar1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESM5GIPMar1915.png" width="600" height="342"></p> 
+
+
+  <img src="http://themacrotourist.com/pictures/Azure/DXYGIPMar1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYGIPMar1915.png" width="600" height="342">
 
 As expected Yellen & Co. removed the controversial word &#8220;patient&#8221; from the statement, but that was all the hawks got. Everything else was dovish. Big time.
 
 The focus of many market participants was the Fed&#8217;s walking down of interest rate expectations via the infamous &#8220;dots.&#8221; 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DOTMar1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DOTMar1915.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DOTMar1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DOTMar1915.png" width="600" height="342">
 
 The chart above shows the magnitude of the Fed&#8217;s downgrading of projected rate increases. The purple line shows the latest median projection. It is significantly lower than the dark blue line which was the Dec 2014 projection. 
 
@@ -57,8 +53,8 @@ The sentence &#8220;raise the target&#8230; when it has seen **further improveme
 
 Yesterday I showed you this chart of PCE Core Inflation:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PCECoreMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PCECoreMar1715.png" width="600" height="342" /> </a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PCECoreMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PCECoreMar1715.png" width="600" height="342" /> </a>
 </div>
 
 This has become the most important chart out there. The Federal Reserve has just promised that rates are not going to be raised until they are confident inflation will stay above their target. Not only does it need to tick above the target, they need to be confident that it will stay above the 2 percent level for the medium term. 
@@ -77,6 +73,5 @@ Kevin Muir
   
 the MacroTourist
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MTArrow.png" width="200" height="100" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MTArrow.png" width="200" height="100">

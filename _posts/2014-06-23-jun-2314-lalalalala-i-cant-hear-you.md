@@ -23,38 +23,37 @@ On Friday the Canadian government released their most recent statistics on infla
 
 As you would expect, the Loonie firmed on this news, pushing to new 5 month highs.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CADJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CADJun2314.png" width="600" height="342" />USDCAD rate (lower rate = CAD strength)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CADJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CADJun2314.png" width="600" height="342" />USDCAD rate (lower rate = CAD strength)</a>
 </div>
 
 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/OtterJun2314.png"><img class="size-full wp-image-14271" style="float:right; margin:5px 5px 5px 5px; padding-bottom: 0.5em;"   alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/OtterJun2314.png" width="200" height="150" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/OtterJun2314.png"><img class="size-full wp-image-14271" style="float:right; margin:5px 5px 5px 5px; padding-bottom: 0.5em;"   style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/OtterJun2314.png" width="200" height="150">
 
 This hotter than expected inflation release is obviously putting the Bank of Canada in a bit of a bind. With the Fed taking a &#8220;fingers in the ears &#8211; I can&#8217;t hear you&#8221; approach to inflation, this leaves the rest of the world (including Canada) in a quandary in terms of their resolve in tightening monetary policy as inflation heats up.
 
 It&#8217;s difficult for the Bank of Canada to argue that the trend for inflation is anything but higher.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CADCPIJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CADCPIJun2314.png" width="600" height="342" />CPI YoY Rate</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CADCPIJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CADCPIJun2314.png" width="600" height="342" />CPI YoY Rate</a>
 </div>
 
 The real question is how much inflation will the Bank of Canada will be willing to tolerate. 
 
 The Canadian monetary stance is already tighter than the US ZIRP level.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CANUS2YRJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CANUS2YRJun2314.png" width="600" height="342" />US 2 Year Yield (yellow line) vs CAD 2 Year Yield (white line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CANUS2YRJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CANUS2YRJun2314.png" width="600" height="342" />US 2 Year Yield (yellow line) vs CAD 2 Year Yield (white line)</a>
 </div>
 
 My expectations were that the Fed was going to gradually tighten monetary policy while Canada tightens even more slowly, eventually reversing the spread between the two yield curves. However Yellen&#8217;s refusal to acknowledge the risks from rising inflation is going to delay this scenario. Eventually this extreme easiness from the Fed is going to cause the reversal between the US and Canadian rates to be all the more violent, but it has probably delayed its arrival.
 
 My short 2016 Eurodollars vs long 2016 BAX futures trade had been slowly working, but took a hit on Friday&#8217;s news.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EDU6BAU6Jun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EDU6BAU6Jun2314.png" width="600" height="342" />Mar 2016 Eurodollars (white line) vs Mar 2016 BA Futures (yellow line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EDU6BAU6Jun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EDU6BAU6Jun2314.png" width="600" height="342" />Mar 2016 Eurodollars (white line) vs Mar 2016 BA Futures (yellow line)</a>
 </div>
 
 Although I don&#8217;t think Canada is going to lead the next tightening cycle, I am going to cover the position as I am worried about Yellen & Co.&#8217;s extreme dovish policies. I am still somewhat aghast at the responses she made during the last FOMC press conference. It is hard to conclude anything but that the Fed is going to be extremely slow in raising rates. In fact, it looks like they are only going to do it kicking and screaming. 
@@ -77,8 +76,8 @@ The date on the quote is February, but I purposely left off the year. Can you gu
 
 Let&#8217;s dial the chart of Canadian real estate to see what happened since Jarislowsky&#8217;s big call about Canadian real estate being in a bubble.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CADHOUSEJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CADHOUSEJun2314.png" width="600" height="342" />Canadian Real Estate Index</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CADHOUSEJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CADHOUSEJun2314.png" width="600" height="342" />Canadian Real Estate Index</a>
 </div>
 
 Now I don&#8217;t mean to pick on Jarislowsky, and I am certainly not a Canadian real estate market bull by any means. But I did want to show that bubbles can continue for way longer than even the wisest market veterans forecast. I guess to be fair Jarislowsky didn&#8217;t predict that the housing bubble would pop, he just stated that it was in a bubble.
@@ -89,8 +88,8 @@ All my American hedge fund friends love predicting the demise of the Canadian re
 
 The US real estate crash of 2008 left a scar that not only made American hedge fund managers see real estate bubbles everywhere else, but it has also stopped the US from inflating another real estate bubble. Have a look at the US housing market versus the UK and Canada.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USUKCADHouseJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/USUKCADHouseJun2314.png" width="600" height="342" />UK Housing (green) Canada Housing (yellow) US housing (white)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USUKCADHouseJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USUKCADHouseJun2314.png" width="600" height="342" />UK Housing (green) Canada Housing (yellow) US housing (white)</a>
 </div>
 
 It is not only Canada that is experiencing a housing bubble. Many other areas of the world are experiencing a real estate rally that is absurd. But given the madness that we have seen from the world&#8217;s Central Banks, buying real estate is an obvious response for most individuals.
@@ -107,6 +106,5 @@ But ever since the start of the great world Central Bank monetary expansion of 2
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJun2314.png" width="600" height="700" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJun2314.png" width="600" height="700"></p>

@@ -21,8 +21,8 @@ tags:
 ---
 A few days ago at the Ira Sohn conference, the legendary (and he really deserves that adjective as opposed to the many other &#8220;CNBC qualified&#8221; legendary traders) Paul Tudor Jones gave a presentation called “Manic depressive trading in a volatility-compressed world.” It is unusual for Paul to have made the speech as he is more of the old school style hedge fund manger &#8211; let your results speak for themselves and stay out of the media. Over the years I have never once seen him on the business news giving his opinion about the market. Apart from a 60 minutes piece where he promoted his charity, Paul does not give interviews. In fact there is even a famous PBS documentary called &#8220;Trader&#8221; that was made about Paul in 1987. In the piece, he correctly forecasts the 1987 crash that was still months away. Yet it seems that Paul Tudor Jones hates the documentary and has subsequently bought all the remaining copies. Every now and then someone posts it to Youtube, but he must have bought the copyright as well because it is quickly pulled. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PTJMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PTJMay0914.png" width="571" height="378" />Paul Tudor Jones from the movie &#8220;Trader&#8221;</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PTJMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PTJMay0914.png" width="571" height="378" />Paul Tudor Jones from the movie &#8220;Trader&#8221;</a>
 </div>
 
 It was therefore quite unusual to have Paul speak at the Ira Sohn conference. 
@@ -41,14 +41,14 @@ As reported by the ValueWalk website, Paul went on to note:
 
 The JP Morgan G7 Volatility Index is hitting new lows for this move:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPMG7May0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPMG7May0914.png" width="600" height="342" />JP Morgan Realized G7 FX Vol</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPMG7May0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPMG7May0914.png" width="600" height="342" />JP Morgan Realized G7 FX Vol</a>
 </div></p> 
 
 When you step back and look at volatility over the past few decades, we have only been this low in 1996 and 2007:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/G7VOLLTMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/G7VOLLTMay0914.png" width="600" height="342" />JP Morgan G7 Vol over the last couple decades</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/G7VOLLTMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/G7VOLLTMay0914.png" width="600" height="342" />JP Morgan G7 Vol over the last couple decades</a>
 </div></p> 
 
 According to Josh Brown from the Reformed Broker website, Paul blames this collapse in forex volatility to &#8220;&#8230;lack of interest rate volatility, globally, for the current environment.&#8221;
@@ -71,22 +71,22 @@ Both calls have been terrible.
 
 Let&#8217;s start with the really bad one. The Japanese Yen volatility has collapsed over the last few months. Here is the Yen 3 month ATM implied rate:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPY3MTHVOLMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPY3MTHVOLMay0914.png" width="600" height="342" />JPY 3 mth ATM Implied Vol</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPY3MTHVOLMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPY3MTHVOLMay0914.png" width="600" height="342" />JPY 3 mth ATM Implied Vol</a>
 </div>
 
 This is due to the fact that after the big move from 75 to 100, the Yen has basically gone sideways for the last year:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPYMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPYMay0914.png" width="600" height="342" />USDJPY Rate</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPYMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYMay0914.png" width="600" height="342" />USDJPY Rate</a>
 </div>
 
 The FX rate has been amazingly stable. It is as if the Japanese government had decided that they were going to move it up to 100 USDJPY and peg it there. 
 
 My other long volatility trade has not worked out either. The US Treasury market has also been remarkably quiet. Have a look at the Merrill Lynch Option Volatility Estimate MOVE Index which measures the implied volatility of the Treasury market:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MOVEMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MOVEMay0914.png" width="600" height="342" />MOVE Index</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MOVEMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MOVEMay0914.png" width="600" height="342" />MOVE Index</a>
 </div>
 
 This is also chugging along the bottom of the range.
@@ -99,9 +99,8 @@ The question is should I give up? Do I throw in the towel on my ideas?
 
 At the risk of looking like an idiot that throws good money after bad, I am going to increase the size of both of these positions into this dip. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DoubleDownMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DoubleDownMay0914.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DoubleDownMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DoubleDownMay0914.png" width="600" height="342">
 
 I know that doubling down should be reserved for lunch, but this is not the same as fighting with the market by adding to a trade with an open ended loss. There is a limit to how low volatility can go. At this point, the market has just become dumb complacent. 
 
@@ -111,8 +110,8 @@ The world is becoming more unbalanced. Debt is piling on at a fierce rate. Meanw
 
 The only solace that I take in my terrible long volatility positions is that at least I knew enough to stay away from being long the VIX as well:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/VIXMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/VIXMay0914.png" width="600" height="342" />VIX Index</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/VIXMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/VIXMay0914.png" width="600" height="342" />VIX Index</a>
 </div>
 
 It would have been nice to have been smart (bold) enough to short the VIX against my other two long positions, but I just don&#8217;t have the stomach to play that game.
@@ -135,8 +134,8 @@ Or did he?
 
 The market is definitely interpreting Draghi&#8217;s comments as the all systems go signal for easing. Have a look at this index that measures the market&#8217;s implied one year change in the ECB rate:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ECB1YRMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ECB1YRMay0914.png" width="600" height="342" />ECB Priced Moves next 12 months</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ECB1YRMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ECB1YRMay0914.png" width="600" height="342" />ECB Priced Moves next 12 months</a>
 </div>
 
 The market has priced in 13 basis points of easing over the next 12 months.
@@ -159,6 +158,5 @@ I am staying short Eurostoxx.
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsMay0914.png" width="600" height="725" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay0914.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay0914.png" width="600" height="725"></p>

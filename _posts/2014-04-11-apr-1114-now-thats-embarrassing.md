@@ -24,8 +24,8 @@ tags:
 ---
 Well this is a little embarrassing. Not quite as embarrassing as when, after conceiving the MacroTourist out of wedlock, my parents decided to get married with me as as the ring bearer &#8211; but embarrassing nonetheless. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MarriedApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MarriedApr1114.png" width="481" height="712" />The MacroTourist at 2 years old</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MarriedApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MarriedApr1114.png" width="481" height="712" />The MacroTourist at 2 years old</a>
 </div>
 
 After writing a post about how I was going to do my best Jesse Livermore impersonation and go for the big money by &#8220;sitting for a while&#8221;, the market immediately embarked on one of the more volatile, confusing and just plain strange days in quite some time.
@@ -42,17 +42,15 @@ Why did I feel so strongly about dialling down risk? I hate to say this, but the
 
 Let&#8217;s have a look at a chart of yesterday&#8217;s trading:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXApr1114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXApr1114.png" width="600" height="342">
 
 After Wednesday&#8217;s relief rally, the selling returned and was relentless. There was simply no bounce at all. 
 
 Even though the market sold off hard, what was strange was that the VIX barely rose.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/VIXApr1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/VIXApr1014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/VIXApr1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/VIXApr1014.png" width="600" height="342">
 
 I have written about how [VIX is not the best way to play a market decline](http://gfbblogs.azurewebsites.net/blog/2014/01/30/thursday-january-30th-2014-investors-are-mistakenly-hedging-for-the-last-crisis/), but even I am surprised at how little the VIX moved up during yesterday&#8217;s sell off. I can&#8217;t construe this as anything but bearish. We need some fear to make a bottom. That move up in VIX is hardly the stuff of bottoms.
 
@@ -84,9 +82,8 @@ As I mentioned, yesterday I significantly dialled down risk. Although I acknowle
 
 As I mentioned, yesterday I sold my EEM long. Although the developed markets have had a tough couple of weeks, the emerging markets have defied this slump and headed straight up. Have a look at the chart of the EEM vs the SPY:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPYEEMApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPYEEMApr1114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPYEEMApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPYEEMApr1114.png" width="600" height="342">
 
 Much of the recent underperformance of EEM has been made up with this massive rally. There seems to be a lot of hedge funds that were short emerging market against long US stocks, so I attribute some of this strength to that trade winding down. 
 
@@ -100,8 +97,8 @@ I am a pretty terrible single stock analyst. Many of my theories are more big pi
 
 Over the past couple of years, General Motors and Toyota have traded together in a surprisingly tight correlation.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TMGMApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TMGMApr1114.png" width="600" height="342" />GM (in yellow) vs Toyota (in white)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TMGMApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TMGMApr1114.png" width="600" height="342" />GM (in yellow) vs Toyota (in white)</a>
 </div>
 
 I am going to take a flyer and bet on this correlation breaking down and here&#8217;s why:
@@ -110,9 +107,8 @@ Both companies are suffering from news about safety issues and recalls. However,
 
 But here is the real kicker. What do you think is the most popular stock amongst the hedge funds?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HFApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/HFApr1114.png" width="600" height="600" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/HFApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HFApr1114.png" width="600" height="600"></p> 
 
 Yup &#8211; you got it! GM.
 
@@ -126,6 +122,5 @@ I am buying Toyota and shorting General Motors. I am going to trade it small and
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsApr1114.png" width="600" height="650" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsApr1114.png" width="600" height="650"></p>

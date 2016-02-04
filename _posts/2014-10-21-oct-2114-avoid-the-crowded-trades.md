@@ -23,15 +23,13 @@ Yesterday as I reflected on this fact, I realized I was in the midst of doing it
 
 I can&#8217;t seem to find the quote, but recently I was reading some market commentary from a fellow who had been visiting one of the world&#8217;s largest hedge funds. He said that the PM told him that the long US dollar trade was a &#8220;no brainer.&#8221;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/nobrainer.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/nobrainer.png" width="480" height="480" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/nobrainer.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/nobrainer.png" width="480" height="480">
 
 This belief is evident in the speculative positioning of the Chicago currency futures. We have created a graph that sums up the net US dollar speculative exposure across the six major currencies (Euro, Yen, Pound, Australian and Canadian dollars, and the Swiss Franc).
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USSpecOct2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/USSpecOct2114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USSpecOct2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USSpecOct2114.png" width="600" height="342">
 
 The net long exposure by speculators is sitting at the highs where it stalled the previous two times. The idea about being long the US dollar is by no means an original one. Everyone one and their dog seems to have it on.
 
@@ -39,9 +37,8 @@ Even though I am hard pressed to come up with a reason that the US dollar is goi
 
 This might be a mistake as currencies often trend for years. If it does then I will kick myself for second guessing my fundamental views. Yet I think that this is the wise thing to do. I am fed up on being on the same side of the trade with all these hedge funds when they inevitably all head for the exit at the same time.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/foolmeonce.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/foolmeonce.png" width="400" height="242" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/foolmeonce.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/foolmeonce.png" width="400" height="242">
 
 <hr size="3" width="85%" />
 
@@ -51,9 +48,8 @@ A couple of weeks ago I joked that there are no such things as triple bottoms. T
 
 Gold might be trying to put in a magical triple bottom.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GOLDOct2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GOLDOct2114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDOct2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDOct2114.png" width="600" height="342">
 
 I bought some gold and silver yesterday. I have been avoiding the long side for fear of the US dollar bull market pushing gold down through that support level. But at this point I have to admit that it very well might hold. And if it does, then I need to be long.
 
@@ -67,6 +63,5 @@ For the past week or so I have been arguing that the world is not coming to an e
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsOct2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsOct2114.png" width="600" height="342" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct2114.png" width="600" height="342"></p>

@@ -15,9 +15,8 @@ tags:
   - Valeant
   - VRX
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BathroomNov0215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/BathroomNov0215.png" alt="%cliboard" width="500" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BathroomNov0215.png" alt="http://themacrotourist.com/pictures/BathroomNov0215.png" style="margin:30px auto;display:block;" width="500" height="600">
 
 “What the hell are you doing?” my boss asked me. “Yesterday you lost fifty, and now today almost a hundred… What’s going on?”
 
@@ -77,9 +76,8 @@ I couldn’t agree more.
 
 CNBC’s high school girl infatuation with these hedge fund managers only costs you money. Don’t forget that during the last cycle, there were plenty of blowhards the media also fawned all over. Where are they now?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/EddieNov0215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/EddieNov0215.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/EddieNov0215.png" alt="http://themacrotourist.com/pictures/EddieNov0215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Thanks for reading,
   

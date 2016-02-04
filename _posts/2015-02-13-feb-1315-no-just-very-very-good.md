@@ -22,9 +22,8 @@ tags:
   - Liars Poker
   - Varoufakis
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/LiarsPokerFeb1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/LiarsPokerFeb1315.png" width="600" height="442" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/LiarsPokerFeb1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/LiarsPokerFeb1315.png" width="600" height="442">
 
 The other day the Greek Finance Minister gave the following sombre quote
 
@@ -66,9 +65,8 @@ There is no doubt in my mind that the Greek Finance Minister is also very, very 
 
 Here he is flying economy as he hustles from high level meetings all over Europe.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/economyFeb1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/economyFeb1315.png" width="400" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/economyFeb1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/economyFeb1315.png" width="400" height="300">
 
 He fired all of his security staff claiming that since he is acting on behalf of the Greek people, he has no need to worry about his security. 
 
@@ -78,9 +76,8 @@ He set expectations low so that his adversaries would view any conciliation as a
   &#8220;I&#8217;m the finance minister of a bankrupt country&#8221;
 </p>
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/varouFeb1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/varouFeb1315.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/varouFeb1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/varouFeb1315.png" width="600" height="342">
 
 **Varoufakis might claim he is not playing games, but like any true master, he is simply making the game look easy.**
 

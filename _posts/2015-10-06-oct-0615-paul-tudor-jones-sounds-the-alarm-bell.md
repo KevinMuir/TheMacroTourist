@@ -13,9 +13,8 @@ tags:
   - Paul Tudor Jones
   - stocks
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ChefOct0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/ChefOct0615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ChefOct0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ChefOct0615.png" width="600" height="342">
 
 The Fed&#8217;s tone deafness when it has come to the recent global economic slowdown has been perplexing. The FOMC committee has been strangely reluctant to acknowledge the role their hawkish rhetoric has played on the global economy. I had assumed this mis-calculation was due to their reliance on econometric models that rely too heavily on the Phillips Curve and NAIRU. However, _yesterday hedge fund manager Paul Tudor Jones spoke to Bloomberg and offered an alternative theory_ that must be considered.
 
@@ -25,17 +24,15 @@ Paul Tudor Jones made the following points (from Bloomberg):
 
 > The Federal Reserve board is managing for the balance sheet as opposed to local economic conditions. Every time we have had this sort of set of macro variables &#8211; a huge bear market in commodities, slowing global growth &#8211; you have typically seen the Fed respond with an easing. I think of &#8217;98 particular. And normally it would be a great time to own stocks. Now, for the first time since Volcker probably, you see the Fed managing for the balance sheet to take out the tail risk associated with expanding debt globally, not to mention our Federal debt.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/JonesOct0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/JonesOct0615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/JonesOct0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/JonesOct0615.png" width="600" height="342">
 
 According to Tudor Jones, the Federal Reserve is worried about the growth in credit, both domestically and internationally. They are in essence looking at the consequences of QE1, QE2, Operation &#8220;Twist&#8221;, QE3 and not liking what they see. 
 
 Over the past seven years, the Federal Reserve&#8217;s balance sheet has grown at a rate never experienced.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/FARBASTOct0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/FARBASTOct0615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/FARBASTOct0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/FARBASTOct0615.png" width="600" height="342">
 
 The expansion of the Fed&#8217;s balance sheet has encouraged a period of borrowing that has expanded the total credit in the global financial system, but has produced little real growth. 
 
@@ -67,9 +64,8 @@ And I agree with him. If the world&#8217;s Central Banks are balance sheet const
 
 The global economy needs credit growth to simply tread water. There is so much debt out there, any slowing of the expansion of that debt unleashes a contractionary credit destruction cycle that is extremely difficult to stop.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CrashOct0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CrashOct0615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CrashOct0615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CrashOct0615.png" width="600" height="342">
 
 Once you slow down the credit growth, the vicious circle of deflation rears its ugly head. 
 

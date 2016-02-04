@@ -9,23 +9,20 @@ permalink: /blog/2015/12/14/dec-1415-lets-get-this-over-with/
 categories:
   - macro
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SquirrelDec1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/SquirrelDec1415.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SquirrelDec1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SquirrelDec1415.png" width="600" height="400">
 
 I don&#8217;t know about you, but I am looking forward to Wednesday&#8217;s FOMC meeting. We have spent what seems like an eternity debating the timing of the Federal Reserve&#8217;s move off of the zero interest rate. And just when it seems like it might finally be settled, guys like DoubleLine&#8217;s Jeffrey Gundlach wade back into the fray, and make provocative claims that rekindle the market&#8217;s hope the hike will once again be put off.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/JeffDec1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/JeffDec1415.png" width="600" height="200" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/JeffDec1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/JeffDec1415.png" width="600" height="200">
 
 I understand why Gundlach is making this statement. Credit markets are trading like the Grim Reaper is at the door.
 
 High yield and junk bonds are once again making new lows.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/JNKDec1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/JNKDec1415.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/JNKDec1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/JNKDec1415.png" width="600" height="400">
 
 Even though markets are struggling, it would be a colossal error for the Fed to delay tightening again. They have already lost a tremendous amount of integrity with their previous withdrawal of higher rate guidance. Doing it twice would be a disaster of William McChesney Martin proportions.
 

@@ -28,9 +28,8 @@ Yet the level of inflation is consistently running below their target. There has
 
 I contend we are getting inflation; it&#8217;s just not in the CPI. We are getting financial asset price inflation. Like an addict, the Fed has returned to their old ways. The easy monetary policy of the past half dozen years has created another speculative financial asset bubble. Five years of QE will do that&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/drugsFeb2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/drugsFeb2415.png" width="500" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/drugsFeb2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/drugsFeb2415.png" width="500" height="400">
 
 I would have never guessed that the Fed could create another financial asset bubble. I was sure their balance sheet expansion would go into assets they didn&#8217;t want to rise. I was wrong. 
 
@@ -48,9 +47,8 @@ Today Yellen is testifying in front of Congress in her Humphrey Hawkins appearan
 
 These comments were made last summer on July 25th. Let&#8217;s have a look at how these sectors have performed since her warning.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SOCLFeb2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SOCLFeb2415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SOCLFeb2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SOCLFeb2415.png" width="600" height="342">
 
 The social media stocks have stopped rising. At least the publicly listed ones have. Although the Facebooks and Twitters of the world are no longer exploding higher in valuation, you would be hard pressed to argue that the bloom has come off the rose for this sector.
 
@@ -84,9 +82,8 @@ Although the easily tracked publicly traded social media valuations have not ris
 
 The other area of Yellen&#8217;s concern &#8211; the biotech bubble is much easier to spot.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/XBIFeb2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/XBIFeb2415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/XBIFeb2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/XBIFeb2415.png" width="600" height="342">
 
 Since last summer&#8217;s comments, the biotech index is up 60%. If Yellen was worried about biotech last summer, what does she think now?
 
@@ -104,11 +101,9 @@ It will be a difficult line to straddle. But if I had to guess, I would lean tow
 
 I sympathize with Yellen&#8217;s predicament. She has been handed a _can&#8217;t win_ situation. The real answer to this problem is to never reach this point in the first place&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/LindsayFeb2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/LindsayFeb2415.png" width="500" height="342" /></a>
-</div>
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MTArrow.png
-"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MTArrow.png" width="150" height="75" /></a>
-</div>
+  <img src="http://themacrotourist.com/pictures/Azure/LindsayFeb2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/LindsayFeb2415.png" width="500" height="342">
+
+
+  <img src="http://themacrotourist.com/pictures/Azure/MTArrow.png
+"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MTArrow.png" width="150" height="75">

@@ -13,9 +13,8 @@ tags:
   - emerging markets
   - SPY
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/OwenOct0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/OwenOct0715.png" alt="%cliboard" width="600" height="550" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/OwenOct0715.png" alt="http://themacrotourist.com/pictures/OwenOct0715.png" style="margin:30px auto;display:block;" width="600" height="550">
 
 It might seem like I am a big huge Kodiak grizzly bear on the markets. I can’t hide my belief that if the Federal Reserve continues positioning themselves as ready to pull the trigger on a rate rise at the slightest economic uptick, then risk assets will continue to struggle, and maybe even crash. Given the Federal Reserve’s reluctance to give up the hawkish rhetoric, even in the face of an economic downturn, US risk assets will have some tough slogging ahead of them. But I am by no means bearish on all risk assets.
 
@@ -23,9 +22,8 @@ For the past couple of years we have been inundated by investors touting their A
 
 Let’s look at how far US equities have run against emerging markets. I will chart the EEM ETF so that the US dollar strength is also taken into account.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SPYEEMOct0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SPYEEMOct0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SPYEEMOct0715.png" alt="http://themacrotourist.com/pictures/SPYEEMOct0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Over the past 5 years US stocks are up over 70% and the emerging markets are down about 23%. That’s a huge outperformance. A money manager who has been on the wrong side of this trade had their face ripped off.
 
@@ -33,9 +31,8 @@ And we have now hit the stupid part of this divergence. Over the past quarter, e
 
 Even though almost all risk assets throughout the globe are relatively expensive due to the minuscule interest rates, emerging markets equities are trading at the lower band of their P/E ratio.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/MXEFOct0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/MXEFOct0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/MXEFOct0715.png" alt="http://themacrotourist.com/pictures/MXEFOct0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Although I don’t envision the Federal Reserve riding to the rescue of risk assets, let’s stop and think about the bigger picture. The rest of the world is desperately trying to reflate. Not only that, there has been a big shift in competitive advantage due to the large appreciation of the US dollar. I am a big believer in the saying that _nothing cures low prices like low prices._ It takes a while, but eventually it kicks in. The emerging markets have been hammered, and there is no denying things don’t look good. But isn’t that when you should be buying?
 
@@ -45,9 +42,8 @@ I know it is not this simple. And I am well aware that a declining currency is g
 
 But even though I am bearish on the US, I am more optimistic about the rest of the world. Other countries don’t need a Federal Reserve that is easing, they simply need one that isn’t threatening to tighten at every little economic uptick. There is plenty of stimulus out there, the Federal Reserve just has to settle down and let things ride.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/LetOct0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/LetOct0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/LetOct0715.png" alt="http://themacrotourist.com/pictures/LetOct0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I am starting to buy emerging markets equities. There is no rush as you never know when this sort of emotional selling will end. It could have already bottomed, or we could be headed another 20% lower.
 

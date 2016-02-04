@@ -21,17 +21,15 @@ tags:
   - Russia
   - Ukraine
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/johnnyFeb1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/johnnyFeb1015.png" width="500" height="442" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/johnnyFeb1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/johnnyFeb1015.png" width="500" height="442">
 
 I try to avoid discussing politics in this letter. At the end of the day, the last thing we need is another knob on the internet spouting his wisdom on how to fix all the world&#8217;s ills. Instead I try to focus on how these political realities will affect the market. Although my personal views might shine through in the language I use to describe the situation, I really have no interest in trying to convince you about _what should be done_, but instead want to remind you as traders, all that matters is _what will be done._ 
 
 Over the past few weeks I have watched as my favourite warmonger has advocated for the United States to arm the Ukrainian people to fight the Russian invaders. Of course he wants to arm the Ukrainians. Senator John McCain has never seen a conflict he doesn&#8217;t think wouldn&#8217;t be fixed by the Americans selling weapons to one side. (In fact, I am even pretty sure that it was McCain that helped finance the rebels defeat of Darth Vader&#8217;s Imperial Forces.)
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/rebelFeb1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/rebelFeb1015.png" width="500" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/rebelFeb1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/rebelFeb1015.png" width="500" height="342">
 
 It should be no surprise then that McCain has been pushing hard for the US to arm the Ukrainian government.
 
@@ -43,9 +41,8 @@ So far the Administration has resisted the looming call of the banging on the wa
 
 Yesterday Obama met with Germany&#8217;s Angela Merkel to discuss the situation.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MerkelFeb1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MerkelFeb1015.png" width="550" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MerkelFeb1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MerkelFeb1015.png" width="550" height="342">
 
 Although in the subsequent press conference Merkel was much more dovish than Obama, the fact that she came to America indicates that this situation has taken a turn for the worse. 
 
@@ -81,9 +78,8 @@ Don&#8217;t be fooled into thinking that this situation is not serious because t
 
 Yesterday I was chatting with a colleague about the performance of gold over the past few months. Although gold has bounced nicely off the year end lows, the move from $1,150 to $1,240 is no barn burner performance by any means. Yet as a Canadian, when I look at gold&#8217;s return during this period, I am reminded of its true power as a currency alternative. My gold priced in Canadian dollars has actually rallied from $1,300 CAD per gold oz. to $1,550 CAD. The return has been almost double in Canadian dollars.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GOLDCADFeb1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GOLDCADFeb1015.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDCADFeb1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDCADFeb1015.png" width="600" height="342">
 
 And the returns in local terms have been even higher for the Europeans. Or how about the Russians? Or the Ukrainians? Or the Belarusians? (writing that out reminds me so much of a Star Trek episode I think they should use it in a marketing campaign.)
 

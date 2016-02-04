@@ -26,9 +26,8 @@ tags:
 
 "I know I shouldn&#8217;t do it, but the pressure of seeing all these stupid idiots chasing these dumb stocks so f&#8217;ng high is sometimes too much to bear. I know that top ticking always looks glamorous, but the reality of trying to time the top is a life of roller coaster emotions, lots of red P&Ls and the shame of not being part of the _in_ crowd. I know that if you keep trying to top tick too often you will end up penniless, without a family and stuck writing a bitter financial blog under some fictional movie character&#8217;s name (who doesn&#8217;t even exist in the movie either).
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FightClubMar0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FightClubMar0714.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FightClubMar0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FightClubMar0714.png" width="600" height="342">
 
 I had been relatively clean for more than 6 years now. I have had the occasional relapse where I dabbled in some recreational top ticking, but on the whole, I have been letting the market work its way higher without trying to engage in calling a top and going big time short. I guess that is because the pain from the last time is still with me.
 
@@ -64,9 +63,8 @@ Thanks for listening to me."
 
 I mentioned the other day that Russia was not going to be leaving Crimea anytime soon. Have a look at what Russian TV has done to their map for that area&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/RTVMar0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/RTVMar0614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/RTVMar0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RTVMar0614.png" width="600" height="342">
 
 They have changed the Crimea to the same colour as Russia! The Russians might not have officially annexed Crimea, but they are going to occupy it for years to come. 
 

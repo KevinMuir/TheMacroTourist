@@ -17,9 +17,8 @@ tags:
   - stocks
   - Yellen
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/TIMESep3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/TIMESep3015.png" alt="%cliboard" width="600" height="700" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/TIMESep3015.png" alt="http://themacrotourist.com/pictures/TIMESep3015.png" style="margin:30px auto;display:block;" width="600" height="700">
 
 Regular readers of the MacroTourist know I hold Carl Icahn in no great esteem. It all started when he made a fool of himself on CNBC arguing with Bill Ackman [(here’s the link &#8211; go to minute 20)](https://www.youtube.com/watch?v=hCZRk1lL90Q). When Carl started losing and attacked the interviewer with a litany of profane sulks, my opinion of the revered “guru” collapsed. I have no doubt the guy makes money. He knows how to play the game exceptionally well. But nothing makes me madder than sharks who pretend they are minnows.
 
@@ -47,15 +46,13 @@ For an old guy, Icahn is amazingly technologically media savvy. He was one of th
 
 Yesterday Ichan took his media presence to a new level. On his website, Carl released a polished video titled “DANGER AHEAD &#8211; A message from Carl Icahn”.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://carlicahn.com/"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/DangerSep3015.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://carlicahn.com/" alt="http://themacrotourist.com/pictures/DangerSep3015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 It is slick. No doubt about that. But it is unbelievably ironic that Carl Icahn is now warning about the dangers of an overheated, over leveraged market.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/DogSep3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/DogSep3015.png" alt="%cliboard" width="600" height="700" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/DogSep3015.png" alt="http://themacrotourist.com/pictures/DogSep3015.png" style="margin:30px auto;display:block;" width="600" height="700">
 
 And he is pumping this theme hard.
 
@@ -93,9 +90,8 @@ Let’s not forget Larry Finks’ transgression of insinuating corporate raiders
 
 > &#8220;I will say what I mean &#8211; I am too old to not say what I mean. Blackrock is an extremely dangerous company. Blackrock is there to make money. That&#8217;s what Larry does, and he does a great job at it&#8230; People are buying junk bonds not understanding what they are buying. Wall Street does what Wall Street does best. It sells securities. I used to laugh when some of these guys sell these bonds. I used to say, &#8216;you know, the mafia has a better code of ethics than you guys.&#8217; You know you are selling this crap, and you keep selling it. And in fact you are shorted some of it. And that is what is really going on. And it&#8217;s just deja vu&#8230;. Blackrock is sort of a name on it. And that&#8217;s sort of the problem you had in &#8217;07 when you had brand names of these housing things. We are going to a cliff. You get this party mobile. You are all having a drink and having fun. And you know who is pushing that thing? It&#8217;s Larry Fink and Janet Yellen. And they are pushing the god damn thing. Every now and then Janet wants to put the brakes on it. And Larry says, no &#8211; let it go. People in the party are yelling &#8211; no, no, no &#8211; don&#8217;t touch those brakes. This is fun! And they are moving towards this cliff. And this thing is going to go over this cliff, and you know what is going to destroy it? They are going to hit a black rock.&#8221;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BlackrockSep3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/BlackrockSep3015.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BlackrockSep3015.png" alt="http://themacrotourist.com/pictures/BlackrockSep3015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 To think Larry Fink responsible for the overly easy monetary policies of the past two decades is ridiculous. To even suggest Larry is somehow responsible for the currently easy policy is ludicrous. Yellen and the Federal Reserve don’t answer to Fink. After the 2008 credit crisis the Fed is busy trying to regulate funds like Blackrock and banks like JP Morgan even further. If anything, they probably should listen to Fink a little more than they do.
 
@@ -113,9 +109,8 @@ Carl is a masterful trader. There is no denying that fact. He has put his ear do
 
 I have no problem with Carl being short and making some money from a dislocation. I just don’t buy for one second that Carl is doing it for anyone but himself. I don’t mind sharks &#8211; you know when you are dealing with guys like Dan Loeb they are out for themselves. It’s when the sharks try to convince you they are friendly that it pisses me off. Make no mistake, Icahn is a shark &#8211; a big huge mean great white.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SharkSep3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SharkSep3015.png" alt="%cliboard" width="600" height="200" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SharkSep3015.png" alt="http://themacrotourist.com/pictures/SharkSep3015.png" style="margin:30px auto;display:block;" width="600" height="200">
 
 <hr size="3" width="85%" />
 
@@ -123,9 +118,8 @@ I have no problem with Carl being short and making some money from a dislocation
 
 I stole this next chart from fellow Canadian David Rosenberg. The ratio of the price of platinum to gold strangely followed US treasury yields, tick for tick, since most of the period after the 2008 credit crisis.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/PlatGoldSep3015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/PlatGoldSep3015.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/PlatGoldSep3015.png" alt="http://themacrotourist.com/pictures/PlatGoldSep3015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 In 2015 the correlation broke down. The platinum/gold ratio sank, but yields have yet to follow. I am not sure if it is the end of the correlation, or a signal that bonds should be bought, but I am keeping my eye on it.
 

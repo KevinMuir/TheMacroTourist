@@ -21,9 +21,8 @@ tags:
   - stocks
   - Swiss
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/drugsJan1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/drugsJan1615.png" width="400" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/drugsJan1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/drugsJan1615.png" width="400" height="400">
 
 Last year when the ECB broke the taboo regarding major Central Banks moving rates below zero, it was novel. Never before had a major Central Bank moved rates into negative territory. However it was a little like trying pot in college. Or how your wife admitted that she once made out with another girl at a party on a dare. For sure it was outside the realm of a typical night out, but it was hardly the stuff that was going to shake the world. After all, the ECB only ventured 25 basis points away from the zero bound. 
 
@@ -45,17 +44,15 @@ Let&#8217;s not forget about the ECB. They were the ones that broke the taboo in
 
 Have a look at the chart of the 3 month EuroSwiss contract for March 2015.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EuroSwissJan1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EuroSwissJan1615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EuroSwissJan1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EuroSwissJan1615.png" width="600" height="342">
 
 The idea that the short end is bound by zero has been blown out of the water. 
 
 If the EuroSwiss 3 month contract trades at 100.69, why can&#8217;t the European 3 month contract also climb above zero? Have a look at the Euribor contract for March expiry.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EuriborJan1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EuriborJan1615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EuriborJan1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EuriborJan1615.png" width="600" height="342">
 
 I am taking a stab at the long side of the Euribor futures market. I think that there is a decent chance that the ECB is going to push their rates into negative territory. Everyone is busy shorting euros to try to capitalize on the coming ECB easing program, **I think long Euribor is a better risk reward.**
 
@@ -65,9 +62,8 @@ I am taking a stab at the long side of the Euribor futures market. I think that 
 
 There can be no denying that yesterday&#8217;s move in the Swiss Franc was a historic event. Everyone knows the famous story about when Soros broke the Bank of England. I have created a chart that compares the two moves.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EURCHFJan1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EURCHFJan1615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EURCHFJan1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURCHFJan1615.png" width="600" height="342">
 
 The move in the Swiss Franc was larger, and more importantly, it happened all at once. The pound crisis happened over a period of days. The unravelling of the Franc peg was an almost instantaneous affair.
 
@@ -79,9 +75,8 @@ Market participants have become convinced that these asset prices are &#8220;rig
 
 Do you really think that this chart of the S&P 500 vs the Fed&#8217;s balance sheet is a coincidence?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FedBSJan1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FedBSJan1615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FedBSJan1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FedBSJan1615.png" width="600" height="342">
 
 And then, do you really think the Fed is going to be there to prop up stock prices on the first dip? 
 

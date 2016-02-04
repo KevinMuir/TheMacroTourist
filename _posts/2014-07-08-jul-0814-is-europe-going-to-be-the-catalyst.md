@@ -21,16 +21,15 @@ tags:
 ---
 There can be no denying that it has been a tough couple of months for the bears.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AWBearJul0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AWBearJul0814.png" width="530" height="620" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AWBearJul0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AWBearJul0814.png" width="530" height="620">
 
 
 
 Since the middle of May we have chugged straight up with barely a pause along the way.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXJul0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXJul0814.png" width="600" height="342" />S&P 500 Index</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXJul0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXJul0814.png" width="600" height="342" />S&P 500 Index</a>
 </div>
 
 
@@ -41,9 +40,8 @@ Why I am more confident about the short side? For one, from a sentiment point of
 
 Today also marks the start of earning season. I don&#8217;t have an up to date chart, but I am going to post the old one anyway as the longer term trend does not change. Almost all the recovery in the stock market since the 2007/8 credit crisis has occurred during non-reporting earnings periods.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/OffSeasonApr2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/OffSeasonApr2414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/OffSeasonApr2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/OffSeasonApr2414.png" width="600" height="342">
 
 
 
@@ -65,8 +63,8 @@ And yesterday that is exactly what happened. The European stock markets have sta
 
 Have a look at this chart of the European bank index versus the US bank index.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EUROBanksJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EUROBanksJul0714.png" width="600" height="342" />Euro Bank Index (white bar) vs US Bank Index (yellow line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EUROBanksJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EUROBanksJul0714.png" width="600" height="342" />Euro Bank Index (white bar) vs US Bank Index (yellow line)</a>
 </div>
 
 
@@ -75,8 +73,8 @@ There was a pop when Draghi introduced negative rates, but since then European b
 
 If you have a look at the chart of the European bank index since the ECB meeting, it is far from reassuring.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SX7PJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SX7PJul0714.png" width="600" height="342" />Euro Bank Index trading since Draghi&#8217;s move to negative rates</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SX7PJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SX7PJul0714.png" width="600" height="342" />Euro Bank Index trading since Draghi&#8217;s move to negative rates</a>
 </div>
 
 
@@ -91,8 +89,8 @@ I have decided to re-enter the short side of the European stock market. I shorte
 
 One of my trading philosophies is to try to avoid &#8220;crowded trades.&#8221; I hate being part of the crowd. Sometimes this hurts me as I exit winning positions too quickly as they become popular. Or even worse, sometimes I fade the crowd in a foolish attempt to be smarter than the herd (like today&#8217;s short stock market position) and I get run over by the group.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FishJul0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FishJul0814.png" width="600" height="342" />The MacroTourist stupidly fading the group again</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FishJul0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FishJul0814.png" width="600" height="342" />The MacroTourist stupidly fading the group again</a>
 </div>
 
 
@@ -103,8 +101,8 @@ However there is a strange discrepancy occurring in the crude oil market that I 
 
 Let&#8217;s first have a look at the long term chart of crude oil.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CLJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CLJul0714.png" width="600" height="342" />Crude Oil</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CLJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CLJul0714.png" width="600" height="342" />Crude Oil</a>
 </div>
 
 
@@ -119,8 +117,8 @@ Even if the speculators have given up on actively shorting the crude oil market,
 
 But have a look at the CFTC data for long positions in crude oil by the speculators:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CLSpecLongsJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CLSpecLongsJul0714.png" width="600" height="342" />Crude Oil Spec Long Position</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CLSpecLongsJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CLSpecLongsJul0714.png" width="600" height="342" />Crude Oil Spec Long Position</a>
 </div>
 
 
@@ -131,8 +129,8 @@ Maybe I am missing something, but when you look at the data it screams crowded l
 
 And when you step back and look at the data over the last few decades, it becomes even more perplexing.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CrudeLTSpecLongsJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CrudeLTSpecLongsJul0714.png" width="600" height="342" />Crude Oil Spec Long Position over the last few decades</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CrudeLTSpecLongsJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CrudeLTSpecLongsJul0714.png" width="600" height="342" />Crude Oil Spec Long Position over the last few decades</a>
 </div>
 
 
@@ -145,6 +143,5 @@ I might be foolishly dismissing a huge warning signal, but until I see more anec
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJul0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJul0814.png" width="600" height="700" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJul0814.png" width="600" height="700"></p>

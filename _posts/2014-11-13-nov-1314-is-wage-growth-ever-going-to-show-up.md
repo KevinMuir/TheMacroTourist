@@ -18,9 +18,8 @@ tags:
 ---
 Yesterday I stumbled upon this great tweet by Joseph Weisenthal that highlighted the relationship between the US NFIB Business Compensation Plans versus ECI Private Sector Wages.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/wagesNov1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/wagesNov1314.png" alt="%cliboard" width="600" height="576" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/wagesNov1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/wagesNov1314.png" style="margin:30px auto;display:block;" width="600" height="576">
 
 There are lots of signs that we should soon start to see some wage acceleration &#8211; this chart is not groundbreaking by any means. But what I found most interesting was the comment stream from the tweet. Instead of just accepting that the odds favour this relationship holding up, a lot of commentators were more interested in explaining why it isn’t going to work this time.
 
@@ -48,9 +47,8 @@ I am not yet betting on this outcome, but I am watchful for the signs that globa
 
 I continue to add to my short EURJPY trade. Europe simply can’t afford to have their currency rising so strongly against the Yen.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EURJPYNov1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/EURJPYNov1314.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EURJPYNov1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/EURJPYNov1314.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Right now I know that everyone is all beared up on the Yen. I know, I know &#8211; it can only go down. And I know that the ECB is a continual disappointment when it comes to expanding their balance sheet.
 
@@ -60,6 +58,5 @@ But here is a thought; what if the Yen has hit a point where it is making the Ba
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsNov1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsNov1314.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsNov1314.png" style="margin:30px auto;display:block;" width="600" height="342">

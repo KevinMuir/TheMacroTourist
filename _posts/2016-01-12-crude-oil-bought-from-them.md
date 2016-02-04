@@ -16,9 +16,8 @@ tags:
   - HIBOR
   - PBOC
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/PBOCJan1216.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/PBOCJan1216.png" alt="%cliboard" width="500" height="550" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/PBOCJan1216.png" alt="http://themacrotourist.com/pictures/PBOCJan1216.png" style="margin:30px auto;display:block;" width="500" height="550">
 
 Last December I speculated the Peoples Bank of China (PBOC) would be forced to devalue the Chinese currency ([Nov 25/15 &#8211; The CNY will be devalued](http://themacrotourist.com/blog/2015/11/25/nov-2515-cny-will-be-devalued/) and [Dec 10/15 &#8211; One and done for PBOC too](http://themacrotourist.com/blog/2015/12/10/dec-1015-one-and-done-for-pboc-too/)). I thought they would do a big one time devaluation right before the Federal Reserve&#8217;s first rate hike. That way, if things went FUBAR, the Chinese could blame it on the American rate hike. Instead of devaluing, the Chinese announced they would target a basket of currencies instead of just soft pegging to the US dollar.
 
@@ -32,15 +31,13 @@ Faced with this onslaught, the Chinese authorities have been forced to curb the 
 
 These words were backed with action and the PBOC managed to bring the offshore CNH level back in line with CNY, along with stabilizing the price:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CNYCNHJan1216.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/CNYCNHJan1216.png" alt="%cliboard" width="800" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CNYCNHJan1216.png" alt="http://themacrotourist.com/pictures/CNYCNHJan1216.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 Yet here is the problem; the Chinese calmed the markets, but at what cost? When the PBOC intervened to buy CNY they withdrew liquidity from the economy. This caused a squeeze in funding. And last night&#8217;s move was epic!
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/HIBORJan1216.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/HIBORJan1216.png" alt="%cliboard" width="800" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/HIBORJan1216.png" alt="http://themacrotourist.com/pictures/HIBORJan1216.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 The HIBOR (Hong Kong InterBank Offered Rate &#8211; the rate at which Hong Kong banks lends to one another) spiked to 66.815%!
 
@@ -60,9 +57,8 @@ I was already leaning towards the long side of the oil market (much to my chagri
 
 It comes from Raymond James&#8217; Canadian energy analyst [Jeremy McCrae.](https://ca.linkedin.com/in/jeremy-mccrea-cfa-49894411) The analysis is based on the shape of the crude oil curve. Currently the price of near dated crude trades for a lot less than the further dated deliveries.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CurveJan1216.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/CurveJan1216.png" alt="%cliboard" width="800" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CurveJan1216.png" alt="http://themacrotourist.com/pictures/CurveJan1216.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 The shape of this curve is known as &#8216;contango.&#8217; What is unusual about this situation is that the slope of the curve is steep. **Extremely steep.** In fact, it is so steep that Jeremy McCrae labels it a &#8220;super contango.&#8221;
 
@@ -86,17 +82,15 @@ To measure the specific steepness Jeremy examines the price of the first month c
 
 And here is Jeremy&#8217;s chart:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ContangoJan1216.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/ContangoJan1216.png" alt="%cliboard" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ContangoJan1216.png" alt="http://themacrotourist.com/pictures/ContangoJan1216.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 This is superb work. I wish I had done it. Recreating it with other commodities will go on my must do list immediately&#8230;
 
 And if Jeremy&#8217;s work hasn&#8217;t convinced you about the merits of a long side trade, have a look at the price of oil in relation to gold:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CrudeGoldJan1216.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/CrudeGoldJan1216.png" alt="%cliboard" width="800" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CrudeGoldJan1216.png" alt="http://themacrotourist.com/pictures/CrudeGoldJan1216.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 We have just hit levels last seen in the depths of the 1986 crude oil bear market. Yesterday I sold some of my gold and replaced it with even more oil.
 

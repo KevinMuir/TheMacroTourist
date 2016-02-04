@@ -14,21 +14,18 @@ tags:
   - ECB
   - German
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PreparetoDie.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PreparetoDie.png" width="500" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PreparetoDie.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PreparetoDie.png" width="500" height="450">
 
 There is really only one story to talk about this morning. The German Bund mini-crash is the driving force behind all other global macro price movements over the past couple of days. The selling in the bund started on Monday, and has been relentless all week long.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/RXGIPJun0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/RXGIPJun0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/RXGIPJun0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RXGIPJun0415.png" width="600" height="342">
 
 During the past couple of decades, there has only been one other 3 day decline that was larger &#8211; the 1998 Long Term Capital Management crisis.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/RXA3Jun0315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/RXA3Jun0315.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/RXA3Jun0315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RXA3Jun0315.png" width="600" height="342">
 
 There has been no real obvious catalyst for the move. Yes, there was some hotter than expected inflation numbers out of Europe earlier in the week, but the bund was already declining before they were released. Some pundits are blaming Draghi’s comments from yesterday’s ECB meeting as the reason for the sell off. Draghi said the markets should expect some more volatility. I don’t see how that can be construed as a reason to beat the bund like a red headed step child. If anything, his commitment to staying the course was more bund unfriendly:
 
@@ -40,9 +37,8 @@ Remember, QE programs are not bond positive. They create inflation, and ultimate
 
 But the reality is bunds are in a bear market. We had a huge move off the 0.05% bat shit crazy top in the bund market. It then consolidated for a couple of weeks. And the selling has now resumed. It’s that simple.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDBR10Jun0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GDBR10Jun0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Jun0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDBR10Jun0415.png" width="600" height="342">
 
 It’s not like a 95 basis point 10 year is some stupid high level. It is still an incredibly low yield. In fact, the ECB welcomes a steeper yield curve. When German 10 year yields were 0.05% and shorter maturities were all negative, the market was not functioning correctly. A flat yield curve anchored by negatives rates is not the stuff of a healthy financial market. This return to normalcy is a necessary condition for the European economy to start recovering.
 

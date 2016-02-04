@@ -18,9 +18,8 @@ tags:
 ---
 In the space of two trading sessions the S&P 500 has gone from hitting new highs to erasing all the gains for the year. It has been quick and relentless.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ESM4GIPApr0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ESM4GIPApr0814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ESM4GIPApr0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESM4GIPApr0814.png" width="600" height="342">
 
 So far, although I have avoided the damage, I have not profited from the sell off as I have mistakenly believed this would be more of a rotation than a full blow sell rout.
 
@@ -40,8 +39,8 @@ Whereas I thought they were overly bullish a month ago when they were fawning al
 
 So yesterday I decided to try to catch the falling knife of the Nasdaq equity market. I realize that I am dealing with a market where I can no longer lose a finger or two, but I am standing against a tidal wave of hedge fund liquidation. This knife is more like a full on machete, and it is no longer aiming at just my hands.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/Knifeinhead.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/Knifeinhead.png" width="600" height="900" />Knife catching from the last bear market in 2008</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/Knifeinhead.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/Knifeinhead.png" width="600" height="900" />Knife catching from the last bear market in 2008</a>
 </div>
 
 This is an extremely dangerous market to be trying to knife catch, so I am protecting myself by buying ATM (at the money) calls on the Nasdaq.
@@ -50,13 +49,12 @@ The pessimism is quite thick and once again, I am taking the other side of the p
 
 However, the market is never that easy, and I suspect that it will find some excuse to make the bears look foolish.
 
-Although I trade this account from a purely discretionary basis, we follow a whole bunch of indicators/systems that help give us clues for market direction. One of my favourite systems, that over the years I have learned to never underestimate, gave its second buy signal this morning. And one of my favourite traders from <a href="http://www.QuantifiableEdges.com" target="_blank">www.QuantifiableEdges.com</a> has a whole host of studies that shows that the odds favour the bulls over the short term.
+Although I trade this account from a purely discretionary basis, we follow a whole bunch of indicators/systems that help give us clues for market direction. One of my favourite systems, that over the years I have learned to never underestimate, gave its second buy signal this morning. And one of my favourite traders from <img src="http://www.QuantifiableEdges.com" target="_blank">www.QuantifiableEdges.com</a> has a whole host of studies that shows that the odds favour the bulls over the short term.
 
 Finally, April has historically been the strongest of all the months. Have a look at this chart that outlines the returns by month:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/StocksAprilApr0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/StocksAprilApr0814.png" width="500" height="390" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/StocksAprilApr0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/StocksAprilApr0814.png" width="500" height="390">
 
 It is scary, but I am going to stand in there and take a stab on the long side. Hopefully “turnaround Tuesday” will kick in. Either that, or I am going to need some help getting that knife out of my head.
 
@@ -76,8 +74,8 @@ Last week-end, Bloomberg columnist Barry Ritholz wrote a quick piece regarding t
 
 Barry makes some pretty good points, but I think he is probably not aware that a couple of years ago, the Pets.com sock puppet got in on the WhatsApp first round of funding through a connection with Sequoia, and since Zuck’s $19 billion purchase of the company, the Pets.com sock puppet has been living life pretty hard and fast.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PetsComPuppet.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PetsComPuppet.png" width="640" height="480" />Pets.Com puppet in a typical night of debachery</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PetsComPuppet.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PetsComPuppet.png" width="640" height="480" />Pets.Com puppet in a typical night of debachery</a>
 </div>
 
 And as for Barry’s point that this market is dramatically different from the stock mania of 1999, I think he is right, but he is missing the real point.
@@ -94,6 +92,5 @@ Instead what we have is a market filled with thousands of hedge funds all standi
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsApr0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsApr0814.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsApr0814.png" width="600" height="600">

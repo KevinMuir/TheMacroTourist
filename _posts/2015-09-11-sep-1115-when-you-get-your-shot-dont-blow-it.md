@@ -9,9 +9,8 @@ permalink: /blog/2015/09/11/sep-1115-when-you-get-your-shot-dont-blow-it/
 categories:
   - macro
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ShotSep1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/ShotSep1115.png" alt="%cliboard" width="500" height="700" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ShotSep1115.png" alt="http://themacrotourist.com/pictures/ShotSep1115.png" style="margin:30px auto;display:block;" width="500" height="700">
 
 The MacroTourist is still getting caught up from his summer vacation, so instead of writing about the markets today, I am going to take a moment to tell a story. Actually, it is two stories, but they blend into one lesson. Most of my older readers will already know this truth to be self evident, but for my younger followers, I hope this post offers a little bit of enlightenment.
 

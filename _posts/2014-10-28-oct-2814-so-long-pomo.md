@@ -24,9 +24,8 @@ The results of the first week of the program were&#8230; how should we say this&
 
 Just for kicks I pulled up the POMO schedule for the Fed last year at this time. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/POMOOct2814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/POMOOct2814.png" width="450" height="1200" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/POMOOct2814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/POMOOct2814.png" width="450" height="1200">
 
 The Fed was buying more than that amount 4 out of 5 days each and every week! The ECB&#8217;s measly $2 billion USD equivalent is an odd lot. That needs to be a daily fill instead of a weekly amount. 
 
@@ -38,9 +37,8 @@ There is a real risk that the ECB will not be able to deliver the needed balance
 
 Yesterday the Federal Reserve made the final purchase of bonds for the QE3 program. They purchased $931 million of 20&#8211;25 year bonds, bringing their balance sheet to nearly $4.5 trillion dollars.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FARBASTOct2814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FARBASTOct2814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FARBASTOct2814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FARBASTOct2814.png" width="600" height="342">
 
 Now we get to see if the US economy can stand on its own feet without the help of the Federal Reserve&#8217;s garden hose of liquidity. 
 
@@ -62,9 +60,8 @@ Right now there is an overwhelming gloom about the global economy. There doesn&#
 
 But I came across this great chart by @Emergingtrends:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/globalOct2814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/globalOct2814.png" width="600" height="650" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/globalOct2814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/globalOct2814.png" width="600" height="650">
 
 It would be just like the Market Gods to have the economy bottom when no one is expecting it. If that happens, the moves in some of these markets that have priced in a secular stagnation will be outsized. 
 
@@ -74,9 +71,8 @@ It would be just like the Market Gods to have the economy bottom when no one is 
 
 Recently I have noticed a lot of articles about how to protecting yourself from deflation. This one from the National Post is typical.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://business.financialpost.com/2014/10/22/how-to-protect-your-portfolio-against-deflation/?__lsa=4cdf-bbee"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/deflationOct2814.png" width="600" height="800" /></a>
-</div>
+
+  <img src="http://business.financialpost.com/2014/10/22/how-to-protect-your-portfolio-against-deflation/?__lsa=4cdf-bbee"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/deflationOct2814.png" width="600" height="800">
 
 Ask yourself this: if the newspapers are writing articles about how to go about safeguarding your portfolio against deflation, what is the most likely outcome? Let me give you a hint &#8211; take away two letters and replace them with an &#8220;i&#8221; and a &#8220;n&#8221;.
 
@@ -84,6 +80,5 @@ Ask yourself this: if the newspapers are writing articles about how to go about 
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsOct2814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsOct2814.png" width="600" height="342" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct2814.png" width="600" height="342"></p>

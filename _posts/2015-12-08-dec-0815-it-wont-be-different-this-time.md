@@ -15,15 +15,13 @@ tags:
   - PBOC
   - US dollar
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CommodityBearsDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CommodityBearsDec0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CommodityBearsDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CommodityBearsDec0815.png" width="600" height="342">
 
 The commodity carnage continued yesterday with the Bloomberg commodity index falling to levels last seen in 1999.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BCOMLTDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/BCOMLTDec0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BCOMLTDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BCOMLTDec0815.png" width="600" height="342">
 
 The decline has been relentless. Iron ore, oil, copper, even grains, they are all being taken out to the wood shed and shot.
 
@@ -59,21 +57,18 @@ Although I understand the logic about the deflationary wave unleashed with a low
 
 With the Yuan&#8217;s soft peg to the US dollar, over the past few years, the Chinese currency has become one of the strongest currencies. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/WestpacDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/WestpacDec0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/WestpacDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/WestpacDec0815.png" width="600" height="342">
 
 This currency strength has slowed down the Chinese economy, and created a situation where instead of the Yuan being pegged too low, it is now pegged too high. Capital is fleeing China. Instead of being required to sell Yuan to defend the peg, the PBoC is now forced to buy Yuan.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CNHCNYDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CNHCNYDec0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CNHCNYDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CNHCNYDec0815.png" width="600" height="342">
 
 These persistent outflows are causing China&#8217;s FX reserves to decline.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/FXDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/FXDec0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/FXDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/FXDec0815.png" width="600" height="342">
 
 This outflow needs to be stopped. It is obvious to everyone the Yuan is too strong, and until it gets lowered, capital will flee China.
 
@@ -91,17 +86,15 @@ With the Yuan being pegged too high, the Chinese government is being forced to s
 
 Have a look at this great chart by Bespoke Investments that outlines the selling of US Treasuries by China (through their Belgium holdings):
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ChinaSellDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/ChinaSellDec0815.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ChinaSellDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ChinaSellDec0815.png" width="600" height="600">
 
 There is obviously much more that influences bond rates than the action of one foreign Central Bank, but a the margin, there can be no doubt the Chinese selling is causing rates to rise in the US. 
 
 And herein lies the problem. Real rates in the US have been rising, and this is slowing the global economy. Have a look at the chart of the US 10 year Real Rate (the US 10 year bond minus the CPI rate):
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/RRDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/RRDec0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/RRDec0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/RRDec0815.png" width="600" height="342">
 
 What if this increase in real rates could be slowed (or even reversed) with the end of Chinese selling? 
 

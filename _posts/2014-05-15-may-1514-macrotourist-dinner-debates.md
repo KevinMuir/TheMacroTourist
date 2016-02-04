@@ -45,14 +45,12 @@ I contend that no amount of regulation is going to stop the next bubble. If you 
 
 All this talk about not repeating the same mistake was nothing more than talk. The same policies are being followed and we can expect the same results. In fact, given the magnitude of the monetary stimulus, I expect the bubble to be even bigger than ever.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HistoryMay1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/HistoryMay1514.png" width="500" height="575" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HistoryMay1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HistoryMay1514.png" width="500" height="575">
 
 <hr size="3" width="85%" />
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsMay1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsMay1514.png" width="600" height="725" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay1514.png" width="600" height="725"></p>

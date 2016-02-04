@@ -22,15 +22,13 @@ tags:
 ---
 When macro tourists such as myself think about India, they often focus on India&#8217;s large role in the gold market. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/goldFeb2615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/goldFeb2615.png" width="500" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/goldFeb2615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/goldFeb2615.png" width="500" height="600">
 
 We get lots of headlines when an Indian spends $200k making himself a gold shirt. (Someone should really let them in on a secret; gold is not the same as mithril and it won&#8217;t save you from the orc chieftain&#8217;s spear like it did for Frodo.)
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/frodoFeb2615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/frodoFeb2615.png" width="500" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/frodoFeb2615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/frodoFeb2615.png" width="500" height="400">
 
 The large role that gold plays in Indian society often makes that the sole focus of foreign analysts.
 
@@ -38,15 +36,13 @@ Yet, I think there is another Indian asset class that is not being sufficiently 
 
 Although India is one of the original BRICS countries, during the last boom they were the DUFF &#8211; designated ugly fat friend. (Hey don&#8217;t judge me for knowing this movie &#8211; that&#8217;s what happens when you have a 15 and 12 year old daughter &#8211; thank goodness I have my 9 year old son to watch X-men movies with&#8230;)
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/duff2Feb2515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/duff2Feb2515.png" width="500" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/duff2Feb2515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/duff2Feb2515.png" width="500" height="500">
 
 India was viewed as a bureaucratic, incompetent, inefficient country when compared to their more dynamic neighbour China. Although India&#8217;s economy has grown, there has never been the same sort of enthusiasm from investors as there has been for China. Here is a chart of the Bloomberg Indian market capitalization as of percent of the world market:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/IndiaPercentFeb2615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/IndiaPercentFeb2615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/IndiaPercentFeb2615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/IndiaPercentFeb2615.png" width="600" height="342">
 
 Investors have viewed India as a second class growth opportunity. Until now&#8230;
 
@@ -98,12 +94,11 @@ I am a big Prem Watsa fan. Although he has a much different style of investing, 
 
 Since listing, the fund has unfortunately being rallying. I bought a little early on, but not nearly enough as I did not anticipate the excitement to move the fund to a premium to NAV so quickly.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FIHFeb2615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FIHFeb2615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FIHFeb2615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FIHFeb2615.png" width="600" height="342">
 
 They issued stock at $10 and there were some fees with the deal, so the NAV is probably $9.70 or so. That means we are already trading at a 7% premium. I wish I had bought more when it was below issue, but I got too cute.
 
 Yet with the world stock markets on fire, I think India has the potential of being a top performer in the months and years to come. Buying Prem&#8217;s fund is a chance to get in early on this coming boom. I am buying it and putting it in the drawer. I think the mistake will be selling this too early&#8230;
 
-[<img  style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MTMistake.png" width="130" height="65" />](http://themacrotourist.com/pictures/Azure/MTMistake.png)</div>
+[<img  style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MTMistake.png" width="130" height="65" />](http://themacrotourist.com/pictures/Azure/MTMistake.png)</div>

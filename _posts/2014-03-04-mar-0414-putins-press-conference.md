@@ -21,14 +21,13 @@ tags:
 ---
 This morning the market is exploding higher on news that the situation in Ukraine is de-escalating. Markets are surprised at Putin&#8217;s comments, but we know that Putin has some other pressing business:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PutinMar0314.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PutinMar0314.jpg" width="500" height="350" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PutinMar0314.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PutinMar0314.jpg" width="500" height="350">
 
 Before moving on to his new task, Putin gave a press conference that assuaged the market&#8217;s concern that Russia was interested in annexing Ukraine. As the press conference continued, the markets pushed higher on every comment:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ESH4GIPMar0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ESH4GIPMar0414.PNG" width="600" height="342" />S&P 500 E-mini trading this morning</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ESH4GIPMar0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESH4GIPMar0414.PNG" width="600" height="342" />S&P 500 E-mini trading this morning</a>
 </div>
 
 I tuned into RT.com and watched the press conference in its entirety. It was highly entertaining to watch Putin masterfully spin this situation in his favour. Obviously the markets are buying his assurances that he is not overthrowing Ukraine, but merely ensuring social stability. I am not going to bother judging the morality of his motives. The reality is that all nations that march into other countries without a clear unanimous mandate from the rest of the world, all have plenty of ways to justify their motives. But at the end of the day, they usually are doing so to serve their own interests. Rarely are the occupying countries interested in serving the needs of the citizens of the other country. Unfortunately it is not just Russia that is guilty of this behaviour.
@@ -43,8 +42,8 @@ If the markets are able to take the Ukraine situation off the front burner, the 
 
 My most pressing concern is trying to decide if the recent European stock under performance is solely on Russian aggression concerns, or if my trade has started to work.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EURSPXMar0314.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EURSPXMar0314.PNG" width="600" height="342" />EuroStoxx 50 Index / S&P 500 Index</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EURSPXMar0314.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURSPXMar0314.PNG" width="600" height="342" />EuroStoxx 50 Index / S&P 500 Index</a>
 </div></p> 
 
 Over the last couple of days, European stocks have been hammered as compared to US stocks. I am long US stocks versus short European, and although I did cover a quarter of this position in yesterday&#8217;s portfolio reduction, if the move has been solely on the back of geo-political events, then I would be foolish to not cover the rest into the dip.
@@ -55,16 +54,16 @@ Although I am going to sit tight with my equity positions, I am going to re-shor
 
 I am re-shorting my 2s and 5s that I covered, but I am also going to add a new position of short the 10 year. We hit 2.60% in terms of yield yesterday, which was a level that we bottomed at in January. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USGG10YRMar0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/USGG10YRMar0414.PNG" width="600" height="342" />US 10 Year Treasury Yield</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USGG10YRMar0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USGG10YRMar0414.PNG" width="600" height="342" />US 10 Year Treasury Yield</a>
 </div>
 
 **I continue to believe that the market is being overly pessimistic about US growth, while at the same time underestimating the Fed&#8217;s resolve in continuing to wind down the QE program on schedule.** Prior to this morning, I worried that if the Ukraine situation escalated that all the Fed&#8217;s plans would be put on hold. But I think that although Putin is not going to leave anytime soon, it will be stable enough that the market will soon forget about it.
 
 Before I leave you, I want to relay one last thing. As I mentioned earlier, this morning I watched the entire Putin press conference. It was quite funny to hear Putin chastise reporters for asking questions that he felt were dumb. But the most amusing part came towards the end. One of the reporters asked about the rumours that Ukrainian President Yanukovych was dead. Putin responded that he himself had seen the exiled President just a few days ago and that &#8220;Yanukovych will live longer than those who circulate that sort of gossip.&#8221; Now that is not something you hear at a world leader&#8217;s press conference very often&#8230; Make no mistake about who Putin is&#8230; 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PutinKilledHimMar0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PutinKilledHimMar0414.png" width="600" height="785" />For how long after this photo do you think this guy lived?</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PutinKilledHimMar0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PutinKilledHimMar0414.png" width="600" height="785" />For how long after this photo do you think this guy lived?</a>
 </div>
 
 <hr size="2" width="85%" />

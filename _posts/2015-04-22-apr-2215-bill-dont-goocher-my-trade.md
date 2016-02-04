@@ -17,21 +17,18 @@ tags:
   - ECB
   - Germany
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GandalfApr2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GandalfApr2215.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GandalfApr2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GandalfApr2215.png" width="600" height="600">
 
 Yesterday former &#8220;Bond King&#8221; Bill Gross decided the time was right to go public about the potential outsized rewards of shorting German Bunds at a 0.10% yield.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BundsShortApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BundsShortApr2115.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BundsShortApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BundsShortApr2115.png" width="600" height="342">
 
 Not only did Bill tweet about it, he then got on CNBC and hawked his trade to the masses.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GrossApr2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GrossApr2215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GrossApr2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GrossApr2215.png" width="600" height="342">
 
 Now I am fully aware that I am a hack who shouldn&#8217;t be wandering into half the squares I trade, but Bill&#8217;s peddling of the short bund trade brought out a whole new breed of macro tourists. Suddenly everyone wanted to get a short position on the sheets. Even Gandalf is rumoured to have put on a bund short on Gross&#8217; recommendation. 
 
@@ -47,9 +44,8 @@ As for the longer term ramifications of Gross&#8217; call; I have two messages f
 
 I have one final question; if Bill does manage to tick the low in Bund yields, will we forever know this as the **Gross Bottom?**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDBR10Apr2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GDBR10Apr2215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Apr2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDBR10Apr2215.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -65,17 +61,15 @@ The ECB&#8217;s QE liquidity is flowing into the system, and not translating int
   The most frequent client question is not based around economics or any market technicals but simply, ‘who is buying Bunds at these levels’. The question usually comes with a look of incredulity. Other than the ECB buying, Figure 1 shows the net buying by investor classification, based on Citi’s flows, which we think are representative of the market. The data shows that banks and asset managers have been the biggest buyers in the most weeks. Hedge funds had been short (perhaps erroneously positioned for a Fed QE style reaction) while pension and insurance industry flow has been more stable. Netting out all investors, German government bond flows are positive (more buying than selling), excluding central banks. Why? As we have remarked before, banks are buyers and likely to extend duration, while asset managers will be funding it costly to be short Bunds given the performance, even in global funds which tend to have more room to short core European bonds.
 </p>
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CitiApr2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CitiApr2215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CitiApr2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CitiApr2215.png" width="600" height="342">
 
 The real problem is that Draghi has failed to push back up long term inflation expectations. Yes, QE has stabilized the recent calamitous fall, but they are still way too low.
 
 Here is everyone&#8217;s favourite long term inflation gauge &#8211; the EU 5 year forward 5 year inflation swap:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EU5Y5YApr2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EU5Y5YApr2215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EU5Y5YApr2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EU5Y5YApr2215.png" width="600" height="342">
 
 The market has been overwhelmed by a collective belief that the return of inflation is about as likely as Justin Bieber straightening out his act and stop being such a D-bag. This refusal to believe that the ECB can create inflation is the primary reason that their QE program has so far been ineffective and done nothing more except push down the remaining fixed income assets to stupidly low rates.
 

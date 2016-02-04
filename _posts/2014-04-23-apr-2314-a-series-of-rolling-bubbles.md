@@ -31,8 +31,8 @@ Therefore putting two and two together, I speculated that if Elon was successful
 
 So I decided that it made sense to buy a little Tesla with the idea that it was either going to go up, or blow up. I said to my buddies, &#8220;I am buying Tesla because it is either going to $1,000 or it is going to go to zero. I am buying it and putting it away in a drawer.&#8221; It was early Spring of 2013. I stamped my blue ticket and purchased Tesla at $36. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TSLAApr2313.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TSLAApr2313.png" width="600" height="342" />TSLA trading last year</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TSLAApr2313.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TSLAApr2313.png" width="600" height="342" />TSLA trading last year</a>
 </div>
 
 So far so good, right? Well, this is where my colossal mistake occurs. 
@@ -41,8 +41,8 @@ In the ultimate error of mixing trading time frames, I got nervous about the sto
 
 Well, this proved to be the ULTIMATE MOPE MOVE!
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TSLALTApr2313.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TSLALTApr2313.png" width="600" height="342" />TSLA chart since my trades</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TSLALTApr2313.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TSLALTApr2313.png" width="600" height="342" />TSLA chart since my trades</a>
 </div>
 
 A few months later, when TSLA had moved from $36 to over $100, my buddy who I had recommended the trade to, phoned me up to congratulate me on my great call. 
@@ -57,8 +57,8 @@ There was silence on the other end of the phone as my buddy tried to comprehend 
 
 Here I was with this great call, but I completely botched the execution. Yes &#8211; my theory was correct, but being correct without making money doesn&#8217;t mean shit. It is like my grandmother claiming she was once quite a dish &#8211; it might have once been true but it doesn&#8217;t count for much&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GrandmaApr2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GrandmaApr2314.png" width="600" height="700" />The MacroTourist&#8217;s Grandma</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GrandmaApr2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GrandmaApr2314.png" width="600" height="700" />The MacroTourist&#8217;s Grandma</a>
 </div>
 
 Why I am telling you this story?
@@ -81,9 +81,8 @@ As you know, I am a big oil and natural gas bull. One of my colleagues likes to 
 
 After all, have a look at the competitiveness of solar energy during the past couple of decades:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SolarApr2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SolarApr2314.png" width="480" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SolarApr2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SolarApr2314.png" width="480" height="342">
 
 Well, my response to solar competitiveness as an alternative to fossil fuels is &#8211; bring it on! We are going to need all the alternatives we can get to feed the energy thirst developing world. 
 
@@ -111,6 +110,5 @@ I don&#8217;t have time as the market is now open and I need to go trade, but ye
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsApr2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsApr2314.png" width="600" height="700" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsApr2314.png" width="600" height="700"></p>

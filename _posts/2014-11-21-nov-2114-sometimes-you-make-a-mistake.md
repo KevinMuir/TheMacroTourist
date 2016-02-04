@@ -23,9 +23,8 @@ tags:
 ---
 Sometimes in trading, the most well thought plan ends up looking just plain stupid in hindsight. You say to yourself, &#8220;why the heck didn&#8217;t I realize that before I put the trade on?&#8221; You cringe as you have to cover your position on what was obviously a big mistake.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ElmoExperimentsNov2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ElmoExperimentsNov2114.png" width="300" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ElmoExperimentsNov2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ElmoExperimentsNov2114.png" width="300" height="300">
 
 But pretending you didn&#8217;t make the mistake doesn&#8217;t help. All you can do is fix it, and drive on.
 
@@ -37,9 +36,8 @@ Then the PBOC (People&#8217;s Bank of China) followed up with a surprise cut to 
 
 On that news, I immediately covered all my equity shorts. I might think that valuations are dumb, but I am not going to fight the avalanche of liquidity that is coming.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/avalanche.gif"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/avalanche.gif" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/avalanche.gif"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/avalanche.gif" width="600" height="342">
 
 In hindsight I am pretty mad at myself. After the G20 meeting, [I wrote about how something big was in the works.](http://gfbblogs.azurewebsites.net/blog/2014/11/18/nov-1814-something-big-in-the-works/) It was dumb of me to try to top tick the S&P 500 when I thought the rest of the world was on the cusp of reflating.
 
@@ -51,6 +49,5 @@ The chances of a mania have increased. The bulls will be even more emboldened wi
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsNov2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsNov2114.png" width="600" height="342" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsNov2114.png" width="600" height="342"></p>

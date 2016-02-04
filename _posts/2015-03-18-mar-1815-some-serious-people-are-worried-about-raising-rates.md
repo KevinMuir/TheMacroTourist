@@ -18,9 +18,8 @@ tags:
   - inflation
   - Ray Dalio
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ChristineLagardeBOJ.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ChristineLagardeBOJ.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ChristineLagardeBOJ.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ChristineLagardeBOJ.png" width="600" height="342">
 
 Usually IMF Head Christine Lagarde is too busy hobnobbing with the financial elite to take time out to issue warnings about the financial markets, but yesterday she cautioned US rate increases could trigger instability in emerging markets:
 
@@ -84,9 +83,8 @@ I really enjoy Bob McTeer&#8217;s blog. Too many writers are busy writing in the
 
 They worry that the Federal Reserve has already left rates for too low for long. The Fed policy is already running more easy than most economic models would dictate.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TAYLORMar1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TAYLORMar1815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TAYLORMar1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TAYLORMar1815.png" width="600" height="342">
 
 According to the classic Taylor model the Fed Funds should be 2.25%. Many economists are looking at these indicators and concluding we are making the same mistake that we vowed to never make again.
 
@@ -98,43 +96,37 @@ We have levered the system to the point where even the threat of raising sends r
 
 The markets remember the 2004 tightening cycle, and the removal of the word &#8220;patient&#8221; was the first step in a series of hikes that sent the Fed Funds from 1% to 5.25%.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/StrategasMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/StrategasMar1715.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/StrategasMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/StrategasMar1715.png" width="600" height="600">
 
 From that point on, the Federal Reserve raised rates by 0.25% at every meeting for the next two years.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FDTRMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FDTRMar1715.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FDTRMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FDTRMar1715.png" width="600" height="342">
 
 So when the markets see the Federal Reserve warming up to raising rates, all they can do is imagine the worst.
 
 Which is why the US dollar is going like this:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DXYMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DXYMar1715.png" width="600" height="342" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/DXYMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYMar1715.png" width="600" height="342"></p> 
 
 Which is causing commodities to do this:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CRYMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CRYMar1715.png" width="600" height="342" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/CRYMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRYMar1715.png" width="600" height="342"></p> 
 
 Which means that inflation looks like this:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PCECoreMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PCECoreMar1715.png" width="600" height="342" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/PCECoreMar1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PCECoreMar1715.png" width="600" height="342"></p> 
 
 Even though the market is doing a huge amount of tightening for the Fed, will they go ahead and raise rates anyway? Or will the Federal Reserve listen to the warnings from the likes of Ray Dalio and Christine Lagarde? 
 
 This morning Bloomberg Briefs had a great chart highlighting economists predictions about the Federal Reserve&#8217;s direction:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BloombergMar1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BloombergMar1815.png" width="500" height="800" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BloombergMar1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BloombergMar1815.png" width="500" height="800">
 
 90% of economists think they will drop the word patient and 92% think the Federal Reserve will hike by September. 
 

@@ -23,23 +23,20 @@ tags:
 ---
 Yesterday&#8217;s FOMC meeting provided few surprises, yet the market reaction was fairly exciting. I had been expecting Yellen to leave the contentious &#8220;considerable time&#8221; language in the Fed&#8217;s statement. I was hoping for an afternoon stock market rally to short into. Well, I got the rally and now it is just a matter of waiting.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/waitSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/waitSep1814.png" width="600" height="442" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/waitSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/waitSep1814.png" width="600" height="442">
 
 The trading was all over the map, and there were many different cross currents following the statement release and subsequent Yellen press conference.
 
 The stock market behaved as I had been expecting. The FOMC meeting was bullish, and apart from some volatility right after the release, the indexes pushed higher.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ESGIPSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ESGIPSep1814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ESGIPSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESGIPSep1814.png" width="600" height="342">
 
 The reason the market did not shoot straight up even though the &#8220;considerable time&#8221; language was left in the statement, was that the infamous dots were raised. For those unfamiliar with Wall Street&#8217;s new dot obsession, the Fed has recently introduced a chart with each Fed member&#8217;s estimate of future Fed Funds rates. It is supposed to help the markets understand the Fed Governor&#8217;s expectations of monetary policy. I think it is dumb because the dots look like Grade 4&#8217;s made the predictions.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/dotsSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/dotsSep1814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/dotsSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/dotsSep1814.png" width="600" height="342">
 
 The dots indicate that for 2015 we have one Fed member who thinks that the Fed Funds will be 2.90% and three who think that it will be under 0.375%. For 2016 the disparity is even more brutal. Three FOMC members think Fed Funds will be almost 4%, while there is one who thinks that we will still be under 0.50% and another two who think we will still be under 2%.
 
@@ -63,9 +60,8 @@ This is why I think that the yield curve eventually steepens as the bond market 
 
 But in the meantime, the market is somewhat buying into the idea that the dot plots mean something. The US dollar in particular interpreted the news most hawkishly. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DXYSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DXYSep1814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DXYSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYSep1814.png" width="600" height="342">
 
 When Hilsenrath&#8217;s article about the likelihood of the &#8220;considerable time&#8221; language remaining in the Fed statement hit, the US dollar sold off quite hard. When the actual announcement confirmed his prediction, the US dollar rallied. The US dollar chose to interpret the Fed&#8217;s statement and subsequent Yellen press conference as more hawkish even though the &#8220;considerable time&#8221; was untouched.
 
@@ -77,9 +73,8 @@ I think the market is mis-reading this Fed&#8217;s willingness to raise rates. R
 
 Today Scotland goes to the polls to decide if they want to remain part of the United Kingdom. Last year, I took the whole family to the UK for a month long summer vacation. Although we spent time in Ireland and England, we spent the longest stretch in Scotland. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/highlandSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/highlandSep1814.png" width="600" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/highlandSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/highlandSep1814.png" width="600" height="450">
 
 I distinctly remember getting into a cab in Edinburgh on the way to the hotel and chatting with my cab driver. Quickly I learned how important it was to him about seceding from England. He was passionate about Scotland controlling its future. 
 
@@ -111,9 +106,8 @@ I hope that the Scots ignore these warnings and simply vote for what they believ
 
 If they want to have independence, then by all means they should go for it. **Ignore the bankers&#8217; and politicians&#8217; worrisome predictions.** It will be fine. Soros says that divorce is always messy. I guess he should know as he has gone through three of them. But divorces don&#8217;t have to be. If everyone behaves like adults, there is no reason that there has to be problems. And in fact, often the two parties find that they can be even happier just being &#8220;friends.&#8221;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/scotSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/scotSep1814.png" width="600" height="442" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/scotSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/scotSep1814.png" width="600" height="442">
 
 **If Scotland does vote to secede, and UK markets get hit hard, then I will be looking to be a buyer into that weakness.** I don&#8217;t think there will be any rush, but I would be looking to fade any real panic.
 
@@ -125,15 +119,13 @@ Although I might outright buy Pounds or FTSE if we get a serious break, I am als
 
 Talisman Energy has been suffering from their exposure to the North Sea. Icahn and some other activists own the name, and it is likely that this company will get sold, but with the Scottish vote looming, I think the process was put on hold. If we get a NO vote, then I will think about picking some it up.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TLMSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TLMSep1814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TLMSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TLMSep1814.png" width="600" height="342">
 
 Also, my favourite little energy stock Ithaca Energy has being trading like the grim reaper has a big position. I think that a lifting of the uncertainty from the Sottish referendum will help this stock as well. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/IAESep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/IAESep1814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/IAESep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/IAESep1814.png" width="600" height="342">
 
 If the vote is YES, I will watch these two names for weakness. I won&#8217;t rush to buy them because I suspect it will be a long process before they turn back up, but if they get stupid, I will be there to catch them.
 
@@ -141,6 +133,5 @@ If the vote is YES, I will watch these two names for weakness. I won&#8217;t rus
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsSep1814.png" width="600" height="542" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep1814.png" width="600" height="542"></p>

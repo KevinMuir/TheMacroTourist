@@ -13,9 +13,8 @@ tags:
   - stocks
   - Yellen
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ZIRPSep2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/ZIRPSep2815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ZIRPSep2815.png" alt="http://themacrotourist.com/pictures/ZIRPSep2815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Last Thursday after the markets closed, Fed Chairwoman Janet Yellen made a speech that reassured markets the FOMC committee was on a path to raise rates in 2015.
 
@@ -23,9 +22,8 @@ Last Thursday after the markets closed, Fed Chairwoman Janet Yellen made a speec
 
 This was a much different tone than Yellen struck at the previous week’s September FOMC meeting when the Federal Reserve passed on raising rates. On that day, news the Fed would delay the start of the rate tightening cycle caused the stock market to initially spike higher, but then sold off relentlessly for the next week.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SPOOZSep2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SPOOZSep2815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SPOOZSep2815.png" alt="http://themacrotourist.com/pictures/SPOOZSep2815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Monetary hawks interpreted the reaction as a signal the Federal Reserve had “lost control” of the markets. These pundits argued the market actually wants the Fed to raise rates, and that waiting is causing markets to sell off.
 
@@ -41,9 +39,8 @@ Far be it for me to fade Cooperman, but I respectfully disagree with his analysi
 
 Ever since the 2008 credit crisis, every Central Banking mistake has been overestimating the strength of the recovery. Too many Central Banks have raised rates only to find their economy collapse, and these hawkish CBs were quickly forced to lower rates back down. From the WSJ:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/LaunchSep2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/LaunchSep2815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/LaunchSep2815.png" alt="http://themacrotourist.com/pictures/LaunchSep2815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 This is not the same type of recovery Cooperman has experienced over his long career. This balance sheet recession means all previous play books should be thrown out the window.
 
@@ -61,15 +58,13 @@ Many hawkish pundits believe the Fed is holding down interest rates at unnatural
 
 Now some would argue there is inflation, it is simply in financial asset prices. There is some truth to that idea. The Federal Reserve cannot control where the stimulus goes.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SPXSep2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SPXSep2815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SPXSep2815.png" alt="http://themacrotourist.com/pictures/SPXSep2815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 But that stimulus is being withdrawn. The Federal Reserve has stopped expanding its balance sheet, they have begun slowly withdrawing reserves with reverse repos, and they are now readying the market for the first interest rate hike in almost a decade. All these factors have already caused the US dollar to run like it stole something.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/DXYSep2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/DXYSep2815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/DXYSep2815.png" alt="http://themacrotourist.com/pictures/DXYSep2815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The US dollar is signalling that policy is too tight. The American economy cannot handle a continually strengthening dollar. Not only does this currency strength crimp US growth, but it is a huge anchor around the neck of the global economy.
 

@@ -18,29 +18,25 @@ tags:
   - Germany
   - Merkel
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/imbackJan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/imbackJan0514.png" width="300" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/imbackJan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/imbackJan0514.png" width="300" height="342">
 
 After a couple of weeks away from the screens, I&#8217;m back&#8230; However like Jack Torrance from the famous Kubrick movie The Shinning, I feel like I am seeing things.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ShinningJan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ShinningJan0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ShinningJan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ShinningJan0514.png" width="600" height="342">
 
 It is one thing for short term rates to be pushed to negative yields, but on Friday the German 5 year note ticked below zero! 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/German5Jan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/German5Jan0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/German5Jan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/German5Jan0514.png" width="600" height="342">
 
 For the privilege of having Germany hold your money for five years, you get exactly zero return. Think about that for a second. **Five years with a zero return.** I would have never guessed that a major bond curve could negative that far out. 
 
 In a stunning development, the German yield curve now trades right in line with the Japanese curve.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/YieldCurveJan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/YieldCurveJan0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/YieldCurveJan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/YieldCurveJan0514.png" width="600" height="342">
 
 The Japanification of Europe seems to be finally complete. 
 
@@ -48,9 +44,8 @@ I know that this morning there are renewed worries about a Greece exit from the 
 
 I have long held the belief that the ECB&#8217;s policies are simply too tight. The ECB&#8217;s two biggest rivals, the Federal Reserve and the Bank of Japan, have been expanding their balance sheet at an astonishing pace. During this same period, the ECB has allowed their balance sheet to contract by more than a third.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BSJan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BSJan0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BSJan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BSJan0514.png" width="600" height="342">
 
 The ECB&#8217;s relative tightness has meant that Europe has imported all of the Japanese and US deflation. There are obviously many more factors affecting the various global economies, but at its root, the ECB&#8217;s unwillingness to match the Fed and Bank of Japan&#8217;s expansion has doomed Europe to a moribund economy.
 

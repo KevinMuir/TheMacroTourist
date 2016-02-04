@@ -21,9 +21,8 @@ tags:
 ---
 I feel compelled to give the dark side of the equity market a shot. We all know what happened to Aunt Beru and Uncle Owen when they defied the power of the dark side. I don&#8217;t want to end up like them&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/StarWarsJun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/StarWarsJun2514.png" width="500" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/StarWarsJun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/StarWarsJun2514.png" width="500" height="342">
 
 As for my timing, I am not sure why I want to give this spot a whirl. Maybe it is the fact that my twitter stream is filled with smug bulls openly mocking all the bears. Maybe it is the record low in the volatility indices. Or maybe it is the absurdly lopsided put/call ratio readings. 
 
@@ -31,9 +30,8 @@ There are a ton of indicators that show that this rally is extended, vulnerable 
 
 Yet the continual steady grind higher has created an attitude of invincibility amongst market participants. Even the bears have given up trying to pick a top and instead are spending their time creating jokes like this:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TwoDaysJun2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TwoDaysJun2614.png" width="600" height="442" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/TwoDaysJun2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TwoDaysJun2614.png" width="600" height="442"></p> 
 
 Over the years I have found that markets often turn at the point where the good or bad news is fully accepted by the market place. To me, this is what it feels like right now. Even the bears have succumbed to the power of this bull market. No one can imagine the stock market ever correcting again.
 
@@ -45,8 +43,8 @@ Most traders like the market the higher it goes, and hate it as it heads lower. 
 
 I am not sure if this is one of those times, but I am going to try it out. I am shorting a medium size position of S&P 500 and Nasdaq futures into the recent strength. If we rally into new highs, I will let it go against me for a few days, or even a week before I pull the rip cord on the stop. I can&#8217;t expect to time the top perfectly, but I have been patient about putting out some shorts, so I can afford to sell into strength instead of trying to puke on the way down with all the other market chasers.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXJun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXJun2514.png" width="600" height="342" />S&P 500 trading</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXJun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXJun2514.png" width="600" height="342" />S&P 500 trading</a>
 </div>
 
 
@@ -65,8 +63,8 @@ These higher yielding equities will be especially vulnerable to inflation, and t
 
 I am buying long term cheap puts on the XLU utilities ETF.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/XLUJun2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/XLUJun2614.png" width="600" height="342" />XLU Utilities ETF</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/XLUJun2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/XLUJun2614.png" width="600" height="342" />XLU Utilities ETF</a>
 </div>
 
 
@@ -83,16 +81,16 @@ But Draghi did not engage in full blown unconditional QE, and his program had a 
 
 In a worrying development, the ECB&#8217;s balance sheet continues to shrink.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ECBTotalBSJun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ECBTotalBSJun2514.png" width="600" height="342" />ECB Total Balance Sheet</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ECBTotalBSJun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ECBTotalBSJun2514.png" width="600" height="342" />ECB Total Balance Sheet</a>
 </div>
 
 
 
 Given the lack of credit growth, it is no surprise that despite the negative rates, the Euro currency is actually rallying.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EURJun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EURJun2514.png" width="600" height="342" />EUR Currency</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EURJun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURJun2514.png" width="600" height="342" />EUR Currency</a>
 </div>
 
 
@@ -101,8 +99,8 @@ Since the historic ECB meeting earlier in the month, EUR has actually been quiet
 
 This is even as the German bond market pushes to new lows in yield.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDBR10Jun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GDBR10Jun2514.png" width="600" height="342" />German 10 Year Yield</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Jun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDBR10Jun2514.png" width="600" height="342" />German 10 Year Yield</a>
 </div>
 
 
@@ -117,6 +115,5 @@ I might be not giving Draghi&#8217;s recent moves enough chance to work through 
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJun2614-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJun2614-1.png" width="600" height="700" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun2614-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJun2614-1.png" width="600" height="700"></p>

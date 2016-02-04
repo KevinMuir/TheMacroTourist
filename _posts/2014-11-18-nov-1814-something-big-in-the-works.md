@@ -24,27 +24,23 @@ tags:
 ---
 I am a big proponent of the saying, &#8220;when everyone knows something, no one knows anything.&#8221; I am always asking myself what has the market fully priced in and where might the surprise come from?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/sharkNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/sharkNov1814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/sharkNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/sharkNov1814.png" width="600" height="342">
 
 During the past six months the market has become convinced that inflation is the least of their worries. Break even inflation rates have plummeted.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USBE10Nov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/USBE10Nov1814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USBE10Nov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USBE10Nov1814.png" width="600" height="342">
 
 This is a natural response to the monster wave of selling that has hit the commodity markets. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CRYNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CRYNov1814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CRYNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRYNov1814.png" width="600" height="342">
 
 The global economy is suffering from a massive lack of demand, which is dragging down economic growth.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDPNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GDPNov1814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDPNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDPNov1814.png" width="600" height="342">
 
 Now these revelations are far from enlightening. Even my wife&#8217;s Grandmother says that the recent global slowdown is the talk of her nursing home. I am more interested in watching for clues for _when this might change._ 
 
@@ -52,9 +48,8 @@ Recently there has been a slight shift in tone amongst the global leaders when i
 
 US Treasury Jack Lew recently gave a speech where he warned that Europe risks slipping into a &#8220;lost decade.&#8221;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/LewNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/LewNov1814.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/LewNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/LewNov1814.png" width="600" height="400">
 
 From the Wall Street Journal:
 
@@ -101,6 +96,5 @@ I am buying EuroStoxx futures and shorting an equivalent amount of S&P 500. Euro
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsNov1814.png" width="600" height="342" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsNov1814.png" width="600" height="342"></p>

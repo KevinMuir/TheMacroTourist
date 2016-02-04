@@ -22,35 +22,30 @@ tags:
 ---
 The US dollar bulls are out in full force this morning.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/bullsNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/bullsNov0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/bullsNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/bullsNov0514.png" width="600" height="342">
 
 The herd is stampeding anything that might lie in their way.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DXYNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DXYNov0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DXYNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYNov0514.png" width="600" height="342">
 
 The media is ascribing this morning&#8217;s US dollar strength to the Republican victories in last night&#8217;s mid term elections. Although I acknowledge that is a factor, I think the Yen&#8217;s weakness, which is dragging all the other currencies lower, is the driving force behind this latest US dollar rally. Over the past few days, every time it seemed like the Yen might be ready to pause from this massive decline, the rally was measured in minutes before a fresh new wave of sell orders hit the market. It is my opinion that some really large long term players are putting this trade on in size. They are still not finished. In the mean time, the US dollar is rallying hard and in the process, crushing a lot of commodity trades.
 
 This morning&#8217;s biggest casualty is the precious metals. Gold and silver have been taken out to the wood shed and shot.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GOLDNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GOLDNov0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDNov0514.png" width="600" height="342">
 
 The longer term chart looks terrible, with gold breaking down and proving once and for all that **there really is no such things as triple bottoms.**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GOLDLTNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GOLDLTNov0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDLTNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDLTNov0514.png" width="600" height="342">
 
 The Market Gods, in their typical devious wickedness, rallied the price of gold just enough to fool investors into thinking that _maybe triple bottoms were real after all._ When everyone was sucked in (me included), the Gods proceeded to send the price of gold crashing through the supposed &#8220;triple bottom&#8221; level. The next time I think that a triple bottom might hold, I am going to cook myself a steaming plate of unicorn meat and remind myself that there are no such things as triple bottoms.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/unicornmeatNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/unicornmeatNov0514.png" width="350" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/unicornmeatNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/unicornmeatNov0514.png" width="350" height="400">
 
 Yeah, yeah, we all know that the Market Gods love to inflict as much pain on as many market participants as possible, but where do we go from here?
 
@@ -62,9 +57,8 @@ I remember someone once asked the legendary hedge fund trader Kyle Bass how the 
 
 When you examine the chart of gold priced in Yen, the picture is dramatically different.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GOLDYENNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GOLDYENNov0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDYENNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDYENNov0514.png" width="600" height="342">
 
 Gold is not hitting 5 year lows as is the case for gold price in US dollars, but instead gold priced in Yen is slowly increasing. This makes sense as you simply don&#8217;t print with reckless abandon and have a collapsing gold price. 
 
@@ -82,9 +76,8 @@ Either way, I think that the Japanese have embarked down a precarious road and t
 
 I continue to pound the table on the fact that you need to own FX volatility. It has recently increased, but don&#8217;t let anyone talk you out of the position. It is still cheap.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CVIXNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CVIXNov0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CVIXNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CVIXNov0514.png" width="600" height="342">
 
 Yesterday&#8217;s revelations about the ECB mutiny just highlight the risks in the FX market. I will talk about it that more tomorrow, but for the mean time &#8211; stay safe and trade from the long side of the FX volatility market. 
 
@@ -92,6 +85,5 @@ Yesterday&#8217;s revelations about the ECB mutiny just highlight the risks in t
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsNov0514.png" width="600" height="262" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsNov0514.png" width="600" height="262"></p>

@@ -22,9 +22,8 @@ tags:
 ---
 Negative yielding bonds, absurdly large quantitative easing programs, Central Banks trading S&P 500 futures &#8211; there is no doubt the world has come unglued. Therefore it should be no surprise that even the Yellowstone grizzly bears are feeling a little disoriented these days. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/bearFeb1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/bearFeb1915.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/bearFeb1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/bearFeb1915.png" width="600" height="400">
 
 Although we have had a brutally cold winter in eastern North America, the west has been suffering with strangely warm temperatures. This has resulted in the Yellowstone grizzly bears awakening from their hibernation. Usually the earliest we see our furry friends is mid March. This year they have already been spotted out and about looking for food. Given the relentless bid in risk assets, I suggest that maybe they should just head back in for a little more hibernation&#8230;
 
@@ -38,9 +37,8 @@ I noticed that I am by no means alone in this capitulation. Yesterday one of the
 
 Many technicians (and hedge funds too) are getting all hot and bothered about the &#8220;breakout&#8221; in the Nasdaq. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NasdaqFeb1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/NasdaqFeb1915.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NasdaqFeb1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NasdaqFeb1915.png" width="600" height="342">
 
 As usual the technicians are the most bullish after it has already been rallying for three weeks. 
 
@@ -50,9 +48,8 @@ But I would be surprised if that was the case. I think we are in the midst of a 
 
 I noticed that for the first time in a long while, the speculators were net long VIX futures.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/VIXFeb1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/VIXFeb1915.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/VIXFeb1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/VIXFeb1915.png" width="600" height="342">
 
 This obviously reflects their worry about potential negative shocks. And this worry has also translated into hedge funds selling stocks during the past month. 
 

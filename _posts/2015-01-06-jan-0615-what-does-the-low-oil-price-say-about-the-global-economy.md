@@ -20,9 +20,8 @@ tags:
 ---
 The carnage in the oil square continues this morning. Yesterday the near month WTI contract was down over $2 and closed right at $50. That big round figure was blown out overnight as we are already down another $1.15 this morning. We are now trading at levels last seen in the depths of the 2008 credit crisis. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CLJan0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CLJan0614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CLJan0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CLJan0614.png" width="600" height="342">
 
 I had thought that the $55 level would hold, but that level&#8217;s support proved temporary. At this point I think it is safe to say that the decline has gotten out of control. Although at first the Saudis and the Americans welcomed the declining oil price as a way to inflict economic pain on Russia and Iran, the selling has taken a life of its own. **We are now deeply entrenched in one of those Soros reflexive situations where the declining price is not creating more demand, but instead more selling.** As the price declines, desperate crude producers are selling more oil to make up for the lower price. 
 
@@ -36,9 +35,8 @@ Proponents of this theme also point out that a bust in the energy sector might s
 
 I am not sure that this comparison is fair. I came upon this great tweet that outlined the percentage of energy related names in the high yield market:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HYENERGYJan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/HYENERGYJan0514.png" width="600" height="700" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HYENERGYJan0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HYENERGYJan0514.png" width="600" height="700">
 
 Don&#8217;t get me wrong, I think that the damage in the energy square is going to be massive. I am just not sure that it will necessarily spread to the rest of the market. 
 
@@ -52,9 +50,8 @@ When you combine the plummeting oil price with the collapsing global bond yields
 
 Oil&#8217;s decline might be a symptom of a global economy that is spiralling downward. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/WORLDGDPJan0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/WORLDGDPJan0614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/WORLDGDPJan0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/WORLDGDPJan0614.png" width="600" height="342">
 
 I think that the market has gotten overly pessimistic about the price of oil, but so far I am wrong. Although I still wouldn&#8217;t buy energy stocks or bonds, I am sticking by my call that we chop around $55 to $70 for foreseeable future.
 
@@ -62,9 +59,8 @@ But I do want to highlight some important consequences of the low oil price. Alt
 
 The other interesting development from the low oil price will be the effect on non-traditional energy. The more than halving of the price of oil is a big blow to the development of electric cars. It can&#8217;t be good for solar, or wind energy either.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/WindmillJan0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/WindmillJan0614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/WindmillJan0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/WindmillJan0614.png" width="600" height="342">
 
 It will be extremely difficult with non-traditional energy sources to compete with oil priced at $50 bucks. I know that not all energy is easily exchangeable, but when the main storable energy source has declined by 55% in less than a year, it would be foolish to think it won&#8217;t pressure these other forms of non-traditional energy. For all those &#8220;greens&#8221; that were hoping to wean our economy off fossil based fuels, the process will be all the more challenging with the new lower oil price.
 

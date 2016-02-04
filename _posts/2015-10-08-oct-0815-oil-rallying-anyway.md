@@ -15,15 +15,13 @@ tags:
   - Saudi Aramco
   - Saudis
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/MenOct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/MenOct0815.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/MenOct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/MenOct0815.png" width="600" height="400">
 
 The common narrative for the collapse in the price of crude oil over the past year is that the shale oil supply gut finally overwhelmed demand. I can&#8217;t disagree that ultimately, the equilibrium price of oil was much lower than the $100 WTI was trading for in the summer of 2014, but too many forget the role the Saudis played in last year&#8217;s collapse.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CL1Oct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CL1Oct0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CL1Oct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CL1Oct0815.png" width="600" height="342">
 
 WTI crude oil collapsed from $100 down to $45 during the 3rd quarter of 2014. Although there were some bears that were predicting the shale oil supply gut would eventually result in a much lower oil price, the speed of the descent was startling even to the most ursine of crude oil watchers. 
 
@@ -57,9 +55,8 @@ I know it is not quite this simple. There are other actors that also play large 
 
 Have a look of this chart of Brent Crude Oil versus the Saudi Aramco Light Crude Price Differential for Asia.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/COSaudiOct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/COSaudiOct0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/COSaudiOct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/COSaudiOct0815.png" width="600" height="342">
 
 The yellow line is the premium/discount to the Asian benchmark while the white line is the price of Brent crude oil. Notice the almost perfect correlation.
 
@@ -71,25 +68,22 @@ I think the global economy experienced a fairly significant slowdown over the pa
 
 In an attempt to regain market share, last week Saudi Aramco lowered their premium back down. Normally this would cause the price of oil to slump. Instead, the market shrugged it off and headed higher.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CL1GPOOct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CL1GPOOct0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CL1GPOOct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CL1GPOOct0815.png" width="600" height="342">
 
 Could this be a signal that demand is finally dictating price as opposed to supply? Maybe the trader in me is reading too much into the recent crude oil price action, but there could reach a point where even with the Saudis pumping hand over fist, the price might still rally. 
 
 Have a look at the tanker rates for crude oil out of China:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/tankerOct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/tankerOct0815.png" width="600" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/tankerOct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/tankerOct0815.png" width="600" height="300">
 
 Maybe China is taking advantage of the low prices and &#8220;loading up the boat?&#8221; 
 
 I was incorrectly too bullish on oil for the past few years. My thesis was that as China became more prosperous, the hockey stick demand for energy would overwhelm supply. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ConsumptionOct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/ConsumptionOct0815.png" width="300" height="200" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ConsumptionOct0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ConsumptionOct0815.png" width="300" height="200">
 
 I underestimated both the lack of growth from the developed nations and the massive supply increase from new technological methods of drilling.
 

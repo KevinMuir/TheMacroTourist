@@ -12,9 +12,8 @@ tags:
   - 2008 crisis
   - regulators
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/RegulatorsOct1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/RegulatorsOct1315.png" alt="%cliboard" width="600" height="325" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/RegulatorsOct1315.png" alt="http://themacrotourist.com/pictures/RegulatorsOct1315.png" style="margin:30px auto;display:block;" width="600" height="325">
 
 What’s the saying about regulators? _They always manage for the last crisis…_
 
@@ -48,15 +47,13 @@ But let’s not let our hatred of the inequity of the financial system confuse t
 
 What do you think happens when you increase the banks’ capital requirements and apply greater scrutiny to the loans they are making? Uh doh… They make less loans. And what do you think happens when there are less loans being made? The velocity of money falls. Therefore it is no surprise that in the years following the 2008/9 crisis the velocity of money has plummeted.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/velocityOct1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/velocityOct1315.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/velocityOct1315.png" alt="http://themacrotourist.com/pictures/velocityOct1315.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Don’t forget the equation made famous by Friedman (so much so, he made himself a licence plate to celebrate it):
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/MVPQ.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/MVPQ.png" alt="%cliboard" width="400" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/MVPQ.png" alt="http://themacrotourist.com/pictures/MVPQ.png" style="margin:30px auto;display:block;" width="400" height="342">
 
 There is much debate about this equation, but let’s just admit that in a broad sense, it holds true.
 

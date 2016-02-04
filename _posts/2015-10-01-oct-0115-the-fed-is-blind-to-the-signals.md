@@ -15,31 +15,27 @@ tags:
   - inflation
   - Phillips curve
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/InflationOct0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/InflationOct0115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/InflationOct0115.png" alt="http://themacrotourist.com/pictures/InflationOct0115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The Federal Reserve Presidents make me laugh. Their stubborn belief that inflation is about to come roaring back is amusing. They are still clinging with confidence to their belief the Phillips curve, or the modern day equivalent &#8211; the Non-Accelerating Inflation Rate of Unemployment (NAIRU), can predict when inflation will perk its head back up.
 
 Even though the last twenty-five years has barely shown a relationship between inflation and unemployment, the Federal Reserve is predicting inflation is just around the corner due to the supposedly tight labour market. I don’t know about you, but I see little evidence the actual relationship between unemployment and inflation:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/PhillipOct0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/PhillipOct0115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/PhillipOct0115.png" alt="http://themacrotourist.com/pictures/PhillipOct0115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 looks anything like the theoretical relationship the Fed believes exists:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/OriginalOct0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/OriginalOct0115.png" alt="%cliboard" width="400" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/OriginalOct0115.png" alt="http://themacrotourist.com/pictures/OriginalOct0115.png" style="margin:30px auto;display:block;" width="400" height="300">
 
 Yet the Federal Reserve insists on preparing the markets for higher rates. After all, according to their models, the economy is close to reaching NAIRU, and once it hits that level, inflation will explode higher.
 
 Even though the simple act of preparing the markets for higher rates is causing a vicious collapse in inflation expectations, the Federal Reserve believes they know better than the market, and that any decline in inflation expectations is temporary.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/US5BEOct0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/US5BEOct0115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/US5BEOct0115.png" alt="http://themacrotourist.com/pictures/US5BEOct0115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The chart above is the 5 year break even inflation level, but all the different terms look similar. Over the past few months, the market has priced in collapsing levels of inflation.
 
@@ -61,39 +57,33 @@ It’s like they somehow miraculously believe the olden days of expanding privat
 
 Let’s go over the history of 5 year breakeven inflation levels since the 2008 credit crisis. Right off the start, the Federal Reserve had no clue how quickly the vicious cycle of debt destruction could take hold. They were late recognizing the severity of the crisis, and by the time they acted, 5 year breakeven levels were negative! Think about that for a second. The market was pricing in negative inflation levels for the next five years!
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/USBE2Oct0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/USBE2Oct0115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/USBE2Oct0115.png" alt="http://themacrotourist.com/pictures/USBE2Oct0115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 When the Federal Reserve finally woke up, they flooded the system with money in the form of QE, and inflation expectations returned to more normal levels.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/USBE3Oct0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/USBE3Oct0115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/USBE3Oct0115.png" alt="http://themacrotourist.com/pictures/USBE3Oct0115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Thinking they had saved the day, the Federal Reserve stopped expanding their balance sheet and waited for inflation to take off. Except it didn’t.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/USBE4Oct0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/USBE4Oct0115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/USBE4Oct0115.png" alt="http://themacrotourist.com/pictures/USBE4Oct0115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 As soon as they stepped off the accelerator, the economy (and inflation expectations) sank. The true extent of the damage done during the 2008 credit crisis sank in. Realizing more was needed, Bernanke signalled more QE was on its way at the Jackson Hole Central Banking conference in 2010.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/USBE5Oct0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/USBE5Oct0115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/USBE5Oct0115.png" alt="http://themacrotourist.com/pictures/USBE5Oct0115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 This did the trick for a while, but because the size of the balance sheet expansion was known in advance, inflation expectations peaked ahead of the end of the program, and fell in anticipation of the winding down of the program. With no QE, break even levels fell even further, and Bernanke tried a novel approach of term expansion of the Fed’s balance sheet with Operation “Twist.” That helped stabilize inflation expectations, but realizing creating inflation was harder than originally believed, Bernanke surprised the market with QE3.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/USBE6Oct0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/USBE6Oct0115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/USBE6Oct0115.png" alt="http://themacrotourist.com/pictures/USBE6Oct0115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 That program was open ended and frightened the market to some extent. The highs in inflation expectations were made on the day of the announcement. While in operation, QE3 managed to keep break evens within the recent range. Yet since the end of QE3, break evens have headed only one way &#8211; down. First it was the taper that pressured levels lower. Then it was the Federal Reserve’s preparing the markets for the first rate hike.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/USBE7Oct0115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/USBE7Oct0115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/USBE7Oct0115.png" alt="http://themacrotourist.com/pictures/USBE7Oct0115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 And although 5 year inflation breakeven levels have not collapsed like 2008, the last six months has seen the level move from 2% down to 1.10%. We are now sitting at levels not seen since 2009.
 

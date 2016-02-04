@@ -18,9 +18,8 @@ tags:
   - tech
   - Unicorn
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SVNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/SVNov1215.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SVNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SVNov1215.png" width="600" height="400">
 
 This summer I binge watched the entire two seasons of HBO&#8217;s Silicon Valley. I must admit, I found it pretty entertaining. 
 
@@ -28,9 +27,8 @@ For those who don&#8217;t know the show, it is an HBO comedy series based on a g
 
 At the start of the second season, the Pied Piper employees (that is the name of the group&#8217;s tech startup), are working on raising money from various Venture Capitalists. Hilarity ensues as the show&#8217;s goofball realizes the ruder he behaves, the more the VCs want to invest in his company because, to be so arrogant, they figure he must be really good. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/IntolerantNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/IntolerantNov1215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/IntolerantNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/IntolerantNov1215.png" width="600" height="342">
 
 As the Pied Piper pitch men are ruder and ruder to the VCs, their valuation keeps rising. But eventually the show&#8217;s lead character realizes a down round is the worst thing that can happen to a private tech company. To guard against the next round being a disappointment, he instead lowers the price of the current financing round.
 
@@ -40,17 +38,15 @@ This whole Silicon Valley boom has been fuelled by easy money, with private comp
 
 And there is no doubt they have played this game well. Have a look at the number of &#8220;Unicorns&#8221; (private companies with a value of greater than $1 billion dollars) created during this cycle:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CrowdedNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CrowdedNov1215.png" width="600" height="250" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CrowdedNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CrowdedNov1215.png" width="600" height="250">
 
 Does that look sustainable? Does that seem healthy? I don&#8217;t know about you, but it certainly feels frothy to me. 
 
 In case you feel differently, have a look at the kind of crap that is getting funded these days.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/TinderNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/TinderNov1215.png" width="600" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/TinderNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/TinderNov1215.png" width="600" height="500">
 
 Now apart from being a little pissed these millennials seem to be way more, how should I say this&#8230; liberated? than when I was in university, I think these kinds of ridiculous investments are a sign of way too much money chasing too few good ideas. This absurdity is what you see at the end of the cycle, not the beginning.
 
@@ -96,9 +92,8 @@ Fred&#8217;s piece on negative gross margins demonstrates the late stage of the 
 
 Have a look at this chart of the stages of a market, and ask yourself at what stage do you think the private tech startup cycle is at:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/StagesNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/StagesNov1215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/StagesNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/StagesNov1215.png" width="600" height="342">
 
 I don&#8217;t know if we are still at _delusional_, or _new paradigm&#8230;_ But I think there is a good chance we have already rolled over and are bumping along at the _denial_ phase.
 
@@ -122,9 +117,8 @@ From Re/Code:
 
 I am convinced we have now rolled over and are about to enter the distribution phase of this cycle. There will be rallies, but the top is in for these stocks. From here on in, these private company Unicorn stocks will go from strong hands into weak ones.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/UnicornNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/UnicornNov1215.png" width="300" height="350" /></a>
-</div> [ I am looking for ways to short the Unicorn club. I am aware of GSV Capital, but it is trading at a wicked discount to NAV. If anyone knows any other closed end funds that hold positions in the Unicorns, please pass them along. ] 
+
+  <img src="http://themacrotourist.com/pictures/UnicornNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/UnicornNov1215.png" width="300" height="350"> [ I am looking for ways to short the Unicorn club. I am aware of GSV Capital, but it is trading at a wicked discount to NAV. If anyone knows any other closed end funds that hold positions in the Unicorns, please pass them along. ] 
 
 <hr size="3" width="85%" />
 
@@ -132,15 +126,13 @@ I am convinced we have now rolled over and are about to enter the distribution p
 
 One of the strange spreads I like to follow is the _platinum/gold ratio_ versus the _yield on US treasuries._ Over the past half dozen years it has shown a surprising high degree of correlation.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/XPTGLDNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/XPTGLDNov1215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/XPTGLDNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/XPTGLDNov1215.png" width="600" height="342">
 
 Yet during the past couple of months there has been a large divergence. I have plotted out the regression analysis to get a feel of how stretched the spread has become.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SpreadNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/SpreadNov1215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SpreadNov1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SpreadNov1215.png" width="600" height="342">
 
 Over the past few days, it has hit a level where it has rebounded in the past. 
 

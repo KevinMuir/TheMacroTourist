@@ -18,9 +18,8 @@ tags:
 ---
 Lately I have gotten into more trouble trying to catch falling knives than I would care to admit. I don&#8217;t know why &#8211; all those trades seem like _such good ideas._ Whatever could go wrong?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/propaneOct3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/propaneOct3014.png" width="600" height="780" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/propaneOct3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/propaneOct3014.png" width="600" height="780">
 
 The latest debacle is my recent attempt to get cute in the precious metals market. Even though the trend is clearly down, somehow I have visions of being the hero and timing the bottom. 
 
@@ -34,9 +33,8 @@ Most people with a problem have devised elaborate coping mechanisms to convince 
 
 I am by no means a Charlton Heston &#8220;they are going to pry the gold bars out of my cold dead hands&#8221; type. When the hedge funds were stuffed to the gills with the shiny yellow stuff in 2009 and 2010, I was skeptical that the bull story was as easy as they claimed. However, on the way down, I made the **huge mistake of getting _bullish too early._** I will fess up that I never thought that the Fed&#8217;s monetary expansion would so conveniently go into only the assets that they wanted to rise. So although I didn&#8217;t preclude a rise in stocks, I thought that at the very least it would be accompanied with a rise in gold and other commodities. Well, that sure was wrong. We now know that the Fed&#8217;s largesse did in fact flow mainly into financial assets, with hard assets actually heading lower.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CRYSPXOct3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CRYSPXOct3014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CRYSPXOct3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRYSPXOct3014.png" width="600" height="342">
 
 For the first few QE programs, the CRB index followed the stock market quite closely. The Fed&#8217;s liquidity pushed up both markets equally. But then starting in 2012 something changed. From that point on, the Fed&#8217;s QE programs mainly sent stocks higher while commodities languished. 
 
@@ -112,6 +110,5 @@ I am running out of time this morning, and I am by no means done. I am going to 
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsOct3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsOct3014.png" width="600" height="342" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct3014.png" width="600" height="342"></p>

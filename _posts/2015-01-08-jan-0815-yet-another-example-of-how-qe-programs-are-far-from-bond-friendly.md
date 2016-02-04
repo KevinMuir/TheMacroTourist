@@ -26,9 +26,8 @@ tags:
 ---
 I know the conventional wisdom is that Quantitative Easing programs cause rates to _fall_, but I am perplexed at how many times we are going to have to see the exact opposite thing happen before this myth is finally debunked. Many of you are probably shaking your head and thinking that I don&#8217;t have a clue about what I am talking about. That very well might be true, but let&#8217;s have a look at the chart anyway.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/QE10Jan0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/QE10Jan0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/QE10Jan0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/QE10Jan0815.png" width="600" height="342">
 
 During all three major Quantitative Easing programs the US 10 year Treasury yield rose from start to finish. And each time the program ended, the rate plummeted even further as the Fed wound down its stimulus.
 
@@ -54,9 +53,8 @@ I have long held the belief that the Fed will be loathe to raise rates, and this
 
 What is interesting is that these comments have once again saved the S&P 500 from drifting below its 100 day moving average.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXJan0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXJan0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXJan0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXJan0815.png" width="600" height="342">
 
 Apart from the September swoon, the S&P 500 has managed to only spend a few days below this technical line before bouncing. I am not suggesting you should run out and buy stocks, but if you are looking for a spot to get short, you might want to wait and see how much we bounce before giving it to them.
 
@@ -66,15 +64,13 @@ Apart from the September swoon, the S&P 500 has managed to only spend a few days
 
 Yesterday saw some crazy action in the long end of the German bund market. At the beginning of the week the 30 year was yielding 1.34%. On Tuesday the yield dove straight down to finish at 1.17%. Yesterday the panic continued with a sickening swoosh down to 1.08%. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDBR30GIPJan0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GDBR30GIPJan0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR30GIPJan0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDBR30GIPJan0815.png" width="600" height="342">
 
 But by the end of the day, the yield had pushed back up to 1.24%. This has the feeling of a capitulation trade.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDBR30Jan0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GDBR30Jan0815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR30Jan0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDBR30Jan0815.png" width="600" height="342">
 
 During the buying panic it was difficult to see where it might stop. However now that we have gotten the big reversal, I think it is time for a punt on the short side of the bund market (betting on higher yields). Don&#8217;t forget that I think that QE programs are inflationary, and cause yields to rise. As an ECB QE program becomes more certain, I believe it will cause long bunds to fall in price, not rise. I have shorted bunds and will use yesterday&#8217;s panic highs as a stop.
 

@@ -17,23 +17,22 @@ tags:
 ---
 There can be no denying that yesterday&#8217;s lockup expiry trading in Twitter was nothing short of abysmal. Given how much CNBC hyped the potential selling, the carnage was all the more surprising. Have a look at the trading over the past couple of days:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TWTRGIPMay0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TWTRGIPMay0714.png" width="600" height="342" />TWTR trading over the past couple of days</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TWTRGIPMay0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TWTRGIPMay0714.png" width="600" height="342" />TWTR trading over the past couple of days</a>
 </div>
 
 It was not as if the stock was trading near the daily highs either. Over the past couple of months the stock had been steadily eroding. In fact it went into the lockup expiry near the all time low:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TWTRMay0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TWTRMay0714.png" width="600" height="342" />TWTR daily chart</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TWTRMay0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TWTRMay0714.png" width="600" height="342" />TWTR daily chart</a>
 </div>
 
 The constant barrage of CNBC coverage for the expiry of the lockup in the previous week negates any chance that this was a surprise for the market. 
 
 Other large tech company IPO lockups have seen selling on the first day of free trading, but nothing compares to the disaster of yesterday&#8217;s Twitter performance. Bespoke came up with this great chart that outlined various other large tech IPO lockup expiries:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BespokeLockupMay0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BespokeLockupMay0714.png" width="550" height="300" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/BespokeLockupMay0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BespokeLockupMay0714.png" width="550" height="300"></p> 
 
 LinkedIn was the only company that came close, with an intraday decline of almost 12%, but even they managed to finish that day down only 6.5%.
 
@@ -73,6 +72,5 @@ I am already short Nasdaq, but I might use any strength that develops in the nex
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsMay0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsMay0714.png" width="600" height="700" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay0714.png" width="600" height="700"></p>

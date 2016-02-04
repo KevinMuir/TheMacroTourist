@@ -19,9 +19,8 @@ tags:
   - Japan
   - JPY
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/bluffingNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/bluffingNov0714.png" width="250" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/bluffingNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/bluffingNov0714.png" width="250" height="300">
 
 A few days ago Reuters broke a story about the growing dissension within the ranks of the ECB. Titled [&#8220;Central bankers to challenge Draghi on ECB leadership style&#8221;](http://www.reuters.com/article/2014/11/04/us-ecb-governors-exclusive-idUSKBN0IO1GY20141104?feedType=RSS&feedName=topNews&utm_source=twitter), the article detailed how the national Central Bankers were furious with Mario&#8217;s &#8220;secretive management style and erratic communication.&#8221; They were especially angered that Mario committed publicly to expand the ECB&#8217;s balance sheet to levels seen in the midst of the last European sovereign debt crisis. 
 
@@ -37,9 +36,8 @@ It turns out that Draghi&#8217;s bold gamble to make public the balance sheet ex
 
 The Maestro strikes again! Mario ended up getting exactly what he wanted. He came out during the press conference looking very much like a man in control. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/draghiNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/draghiNov0714.png" width="520" height="242" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/draghiNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/draghiNov0714.png" width="520" height="242">
 
 I will admit that during the Q&A he might have referred reporters to the ECB statement a little more than usual, but there is no doubt that **Mario won the battle.**
 
@@ -51,9 +49,8 @@ Mario even went so far to answer a question about the level of balance sheet exp
 
 I looked it up and that was pretty close to the highs in terms of the ECB&#8217;s balance sheet size. It was a little over €3 trillion in March of 2012.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ECBTOTALNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ECBTOTALNov0714.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ECBTOTALNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ECBTOTALNov0714.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -65,9 +62,8 @@ At this point you might be saying to yourself &#8211; &#8220;great Draghi won th
 > Speaking Wednesday at the Schwab IMPACT conference, the ex-central bank chief said the ECB faces political barriers to enacting such an aggressive program.  
 > &#8220;The barriers to doing it are not really economic,&#8221; he said. &#8220;The legal and political barriers being thrown up are going to make it very difficult to do that.&#8221;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/bernankeNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/bernankeNov0714.png" width="245" height="276" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/bernankeNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/bernankeNov0714.png" width="245" height="276">
 
 I am sure that Draghi was especially pleased with those helpful comments from his former peer. But he was ready for the question when it was asked at the ECB meeting Q&A.
 
@@ -107,9 +103,8 @@ This recent move by the ECB is just another step along the road to more and more
 
 It was one thing for the Japanese to engage in aggressive QE during 2012 and 2013, but to expand it at this point is rubbing salt in the wound.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EURJPYNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EURJPYNov0714.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EURJPYNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURJPYNov0714.png" width="600" height="342">
 
 I am betting that the EURJPY levels seen at the end of 2013 are going to hold. I think that the Europeans cannot afford for that cross rate to go any higher. I don&#8217;t know how, but I think they are going to keep it below that level. 
 
@@ -119,6 +114,5 @@ I have argued that the aggressive action by the Japanese is going to force the r
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsNov0714.png" width="600" height="342" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsNov0714.png" width="600" height="342"></p>

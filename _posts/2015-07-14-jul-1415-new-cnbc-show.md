@@ -13,17 +13,15 @@ tags:
   - gold
   - smart money index
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CNBCWorstJul1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/CNBCWorstJul1415.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CNBCWorstJul1415.png" alt="http://themacrotourist.com/pictures/CNBCWorstJul1415.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Gold sentiment sure is terrible. I knew things were bad, but when CNBC announced their new TV show (pictured above), I was a little taken aback by the full extent of the pervasive bearishness.
 
 I guess their negativity is well warranted. To say gold has been a disappointment is like saying Lindsay Lohan is a ‘casual drinker.’
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/GOLDSJul1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/GOLDSJul1415.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/GOLDSJul1415.png" alt="http://themacrotourist.com/pictures/GOLDSJul1415.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 We are once again bumping along the $1,150 support level. This is the third time, and the traders amongst us are worried, as we know there is no such thing as a ‘triple bottom.’ The more often it hits a support level, the more likely that support will ultimately fail.
 
@@ -33,17 +31,15 @@ Sentiment is bad, that much we can agree on. But we can’t expect gold to botto
 
 This comes at a time of year when gold has traditionally rallied. Have a look at gold seasonality chart:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/GOLDSeasonJul1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/GOLDSeasonJul1315.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/GOLDSeasonJul1315.png" alt="http://themacrotourist.com/pictures/GOLDSeasonJul1315.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 We are about to embark on the most bullish period for gold. I am not sure CNBC and the rest of the gold bears are choosing the best moment to get negative.
 
 As for the speculative positioning, there is clear apathy regarding gold’s prospects.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/GOLDSPECJul1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/GOLDSPECJul1315.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/GOLDSPECJul1315.png" alt="http://themacrotourist.com/pictures/GOLDSPECJul1315.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 On a relative basis, we are at approaching the lows of the speculative positioning. Again, probably not time to get short gold.
 
@@ -59,9 +55,8 @@ One of the differences has been the nature of the intraday trading. During this 
 
 Lately the market has been selling off towards the end of the day. There is an indicator known as the “Smart Money Index” which measures the relative performance of the first half hour of trading versus the last half hour. The thinking is that the public (dumb money) buys the open, while institutions (smart money) buy the close. By measuring the difference you can observe the relative flows between the two groups.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SmartJul1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SmartJul1315.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SmartJul1315.png" alt="http://themacrotourist.com/pictures/SmartJul1315.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 My recent feeling of unease is evident in this chart. The Smart Money Index has been plummeting for the past couple of months.
 

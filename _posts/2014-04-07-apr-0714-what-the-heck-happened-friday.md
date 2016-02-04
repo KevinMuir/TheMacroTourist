@@ -22,8 +22,8 @@ Even though the numbers were what the market would have been expecting, the trad
 
 For the first hour the stock market was relatively well behaved. The stock market futures slowly grinded higher, with the S&P 500 future opening up 8 points from before the unemployment number release. But once the stock market opened, the selling began. And it was relentless.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NDXGIPApr0714.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/NDXGIPApr0714.PNG" width="600" height="342" />NDX futures (white line) and S&P 500 futures (yellow line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NDXGIPApr0714.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NDXGIPApr0714.PNG" width="600" height="342" />NDX futures (white line) and S&P 500 futures (yellow line)</a>
 </div>
 
 It was quickly clear was that the Nasdaq was leading the move lower. Many times during the morning it looked like the S&P 500 was going to stabilize and attempt to move higher, but then the large selling in the Nasdaq returned and overwhelmed any hope of a rally in the rest of the market.
@@ -38,14 +38,14 @@ Although I was by no means long, I have not being nearly short enough. I have ma
 
 And it is not like there haven’t been signals. Last week Todd Harrison (from Minyanville) and Jason Goepfert (from Sentiment Trader) highlighted a chart that showed _for the first time ever_, the S&P 500 hit a 52 week high at the same time the Smart Money Index hit a 3 month low. The SMI (Smart Money Index) measures the difference of the Dow Jones return for the first 30 minutes of trading versus the last 30 minutes trading. Traditionally a healthy market is filled with more buying towards the end of the day as opposed to the beginning. The SMI index usually just tracks the S&P fairly closely.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SMARTSPXApr0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SMARTSPXApr0414.PNG" width="600" height="342" />SMART (in white) vs SPX (in yellow)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SMARTSPXApr0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SMARTSPXApr0414.PNG" width="600" height="342" />SMART (in white) vs SPX (in yellow)</a>
 </div>
 
 However, over the last month the two indexes have _gone in completely opposite directions._
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SMARTSPXSTApr0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SMARTSPXSTApr0414.PNG" width="600" height="342" />Same chart &#8211; just zooming in</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SMARTSPXSTApr0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SMARTSPXSTApr0414.PNG" width="600" height="342" />Same chart &#8211; just zooming in</a>
 </div>
 
 No one knows what to make of this sort of action because it has never happened.
@@ -88,8 +88,8 @@ And so once again, the market has once again dismissed this latest leak as the d
 
 Although I am not sure if the program is going to come tomorrow, next week, next month or next year, I think the market is being overly pessimistic about the chances that Germany relents and allows the ECB to expand. If you have a look at the German 10 year rates, you will notice that the recent deflationary dip has caused even the German real rates to move up into the positive territory:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/German10YRRApr0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/German10YRRApr0414.PNG" width="600" height="342" />German 10 Year Yield (white line) vs EU CPI (yellow line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/German10YRRApr0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/German10YRRApr0414.PNG" width="600" height="342" />German 10 Year Yield (white line) vs EU CPI (yellow line)</a>
 </div>
 
 It will be increasingly difficult for the Germans to argue that monetary conditions are too loose as their real yields firmly trade in the green.
@@ -98,8 +98,8 @@ The current conditions will cause deflation to continue, and eventually, even th
 
 For that reason, I think it is time to short German 10 year bonds. If you look at the yields versus the US bonds, you will notice that we are at recent all time wides:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GERUS10Apr0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GERUS10Apr0414.PNG" width="600" height="342" />German 10 Yr Yld (white line) vs US (yellow line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GERUS10Apr0414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GERUS10Apr0414.PNG" width="600" height="342" />German 10 Yr Yld (white line) vs US (yellow line)</a>
 </div>
 
 I know that many will think &#8211; if the ECB is about to institute QE, why would you short Bunds?
@@ -110,6 +110,5 @@ Remember &#8211; QE is inflationary. And what is a bond investor’s worst night
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsApr0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsApr0714.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsApr0714.png" width="600" height="600">

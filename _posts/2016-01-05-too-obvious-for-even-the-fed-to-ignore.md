@@ -13,9 +13,8 @@ tags:
   - Fed
   - NAPM
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ObviousJan0516.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/ObviousJan0516.png" alt="%cliboard" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ObviousJan0516.png" alt="http://themacrotourist.com/pictures/ObviousJan0516.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 The cluelessness of the FOMC members continues to astound me. I know they can&#8217;t go around expressing their private concerns out loud, but the blinders they have on regarding the strength of the US economy were designed for the Budweiser Clydesdales.
 
@@ -49,9 +48,8 @@ On New Years Eve the Chicago Business Barometer index was released.  It got lit
 
 Have a look at the chart:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ChicagoJan0516.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/ChicagoJan0516.png" alt="%cliboard" width="800" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ChicagoJan0516.png" alt="http://themacrotourist.com/pictures/ChicagoJan0516.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 **There has never been a reading at this level that has not resulted in a recession!**
 
@@ -59,9 +57,8 @@ Fine, you might argue Chicago does not constitute the whole of America, but it i
 
 The National ISM Manufacturing index was released yesterday, and it too slipped to new lows:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/NAPMJan0516.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/NAPMJan0516.png" alt="%cliboard" width="800" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/NAPMJan0516.png" alt="http://themacrotourist.com/pictures/NAPMJan0516.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 The US economy is far from strong.
 

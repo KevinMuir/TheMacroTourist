@@ -15,9 +15,8 @@ tags:
   - Ray Dalio
   - Yuan
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BridgewaterJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/BridgewaterJul2815.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BridgewaterJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BridgewaterJul2815.png" width="600" height="400">
 
 Over the week-end I took time out to read Bridgewater&#8217;s report on the Chinese stock market crash. Usually I don&#8217;t have access to the world&#8217;s largest hedge fund&#8217;s research pieces, so when the FT published the full report [(click here to read it)](http://ftalphaville.ft.com/files/2015/07/Bridgewater-Greater-Risks-in-China.pdf), I jumped at the chance. 
 
@@ -37,9 +36,8 @@ As you would expect from Bridgewater, the report is quite analytical. It is fill
 
 I think the team at Bridgewater is overweighting the importance of the Chinese stock market crash while underweighting the signals other market instruments are sending. The Chinese stock market has definitely shit the bed from the highs, but the rally was rather preposterous in the first place. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SHCOMPJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/SHCOMPJul2815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SHCOMPJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SHCOMPJul2815.png" width="600" height="342">
 
 I don&#8217;t know if I buy all of Bridgewater&#8217;s arguments about the damage done to the Chinese economy as a result of the bursting of the stock market bubble. There can be no denying there was some naive buying at the highs, but there has to be some accounting for the fact the stock market was only up there for a couple of months. Having a multi year bull market collapse is much different than some speculative spike coming back to earth. 
 
@@ -53,15 +51,13 @@ Herein lies the real problem with the recent Chinese stock market rally (and col
 
 > “no, it’s not the data, I am watching the markets. And whenever I have seen a stock market explode with record volume and record breadth, and move to that degree, like \*\*day follows night,\*\* six to twelve months down the road you are out of that recession and into a full blown recovery. ”
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DruckApr2715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DruckApr2715.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DruckApr2715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DruckApr2715.png" width="600" height="400">
 
 Although Druck was wise enough to point out the fact the Chinese stock market was relatively undeveloped and maybe more probe to false signals, he was still setting himself up with pro-growth positions. For example he was buying oil on anticipation of a global economic uptick. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CLJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CLJul2815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CLJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CLJul2815.png" width="600" height="342">
 
 I am not picking on Druckenmiller as I have nothing but the upmost respect for him. I am merely trying to point out why this commodity rout has been so painful. Not only did the Chinese stock market rally trick millions of new Chinese retail investors, but it sent signals about a coming economic recovery that fooled many smart investors on this side of the world. 
 
@@ -69,21 +65,18 @@ Part of the reason why Bridgewater&#8217;s report seems so alarmist is they were
 
 Zerohedge recently reported that China&#8217;s electricity consumption grew at the slowest pace in 30 years:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ChinaElecJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/ChinaElecJul2815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ChinaElecJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ChinaElecJul2815.png" width="600" height="342">
 
 Chinese iron ore has been in free fall:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ChineseIronOreJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/ChineseIronOreJul2815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ChineseIronOreJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ChineseIronOreJul2815.png" width="600" height="342">
 
 It has been disappointment after disappointment. Meanwhile the Chinese economy is suffering from the weight of an ever rising currency, and it is drowning.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/WestpacJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/WestpacJul2815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/WestpacJul2815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/WestpacJul2815.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -103,9 +96,8 @@ At the risk of being disrespectful of the world&#8217;s largest hedge fund, I hu
 
 Gold seems to be struggling to make a bottom. The rallies are still met with selling, and we don&#8217;t seem to be able to get any traction. I had to suffer through another of Sprott&#8217;s paper gold manipulation interviews this week-end (although Eric did have some other great bullish points, it is always frustrating when he trots out the manipulation argument). Instead of complaining about the &#8216;paper selling&#8217;, I am going to pull out the tuxedo baby to deal with the short sellers.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Tuxedobaby.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Tuxedobaby.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Tuxedobaby.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Tuxedobaby.png" width="600" height="600">
 
 Thanks for reading,
   

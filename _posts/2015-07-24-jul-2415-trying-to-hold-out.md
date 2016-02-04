@@ -18,15 +18,13 @@ tags:
   - Yen
   - Yuan
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CommodityBear.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CommodityBear.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CommodityBear.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CommodityBear.png" width="600" height="400">
 
 The pain in commodity land continues overnight. The catalyst for the latest sell off is the terrible Chinese manufacturing PMI number. Analysts were expecting slightly over 50, but the actual number came in at a little over 48.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CHINAPMIJUl2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CHINAPMIJUl2415.png" width="600" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CHINAPMIJUl2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CHINAPMIJUl2415.png" width="600" height="300">
 
 A reading below 50 means the Chinese manufacturing sector is contracting. 
 
@@ -34,33 +32,29 @@ Why any analyst believed the Chinese economy is holding up is beyond me. The dec
 
 And it is no wonder. The strength of the Chinese Yuan makes it like treading water holding a cement cinder block. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CNYJPYJul2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CNYJPYJul2415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CNYJPYJul2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CNYJPYJul2415.png" width="600" height="342">
 
 The Japanese Yen has been devalued against the Chinese Yuan by over 65% over the past couple of years. Although it is probably one of the weakest crosses, the fact China has tied its currency to the US dollar means almost all currencies are down dramatically against the Yuan. 
 
 The trade weighted Yuan chart resembles what technical analysts call the rocket ship formation:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/YuanJul2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/YuanJul2415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/YuanJul2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/YuanJul2415.png" width="600" height="342">
 
 Ever since the end of the credit super cycle in 2008, every country that has allowed their currency to appreciate has imported the world&#8217;s deflation and eventually been forced to ease aggressively to counteract the self reinforcing debt destruction vicious circle. 
 
 In 2010 and 2011, the Japanese did not match the Americans&#8217; aggressive monetary expansion. This relative monetary tightness meant the Yen rallied, and the Japanese economy suffered as they imported the world&#8217;s deflation.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/JPYJul2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/JPYJul2415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/JPYJul2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/JPYJul2415.png" width="600" height="342">
 
 Eventually this proved too much even for the stoic Japanese people. They elected a new leader whose platform was based on an aggressive monetary expansion. Ever since then the Japanese economy has shed its deflationary tendencies.
 
 When the Japanese started up the printing press, the Americans were still engaged in quantitative easing. The Europeans on the other hand were scolding the world about the dangers of aggressive monetary policies. During this period the ECB was actually allowing their balance sheet to decline! Again, by refusing to ease aggressively Europe imported the world&#8217;s deflation. The Euro rallied and the economy tanked.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ECBJul2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/ECBJul2415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ECBJul2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ECBJul2415.png" width="600" height="342">
 
 The ECB (led by our hard money German friends) held out for a while, but when the EURJPY spiked to 150 the pain ultimately proved too much to be bear and the ECB tapped out. By waiting so long, the ECB had to take the unorthodox step of pushing rates into negative territory. 
 

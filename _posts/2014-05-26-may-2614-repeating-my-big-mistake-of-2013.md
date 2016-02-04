@@ -23,9 +23,8 @@ tags:
 ---
 I want to present a chart outlining my biggest mistake of 2013.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CRYSPXMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CRYSPXMay2614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CRYSPXMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRYSPXMay2614.png" width="600" height="342">
 
 This is a chart of the S&P 500 (yellow line), the CRB Index (white line) and the Fed&#8217;s balance sheet (green line).
 
@@ -41,9 +40,8 @@ During the first three years of the QE programs, the Fed&#8217;s monetary expans
 
 But then something happened in 2012 and from then on, financial assets were the only beneficiary of the Fed&#8217;s easy money:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CRYSPXbMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CRYSPXbMay2614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CRYSPXbMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRYSPXbMay2614.png" width="600" height="342">
 
 Only recently over the past few months has the CRB showed any signs of life. 
 
@@ -57,9 +55,8 @@ I am not sure if this is simply a case of testing Keynes theory about markets st
 
 Right now corporate profits are hitting all time highs as a percentage of GDP:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ProfitsMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ProfitsMay2614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ProfitsMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ProfitsMay2614.png" width="600" height="342">
 
 Although some might argue that with profits at these levels and interest rates this low, stocks are reasonably priced, I question the sustainability of both of those situations.
 
@@ -73,14 +70,12 @@ At the risk of repeating my mistake of 2013, in the coming weeks, I am going to 
 
 I am not sure of much in life, but I know that nothing is this simple. The Fed has so far not experienced any real negative consequences from their reckless policies. You can&#8217;t solve all of economic problems with printing. It just ain&#8217;t that easy&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PrintMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PrintMay2614.png" width="600" height="800" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PrintMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PrintMay2614.png" width="600" height="800">
 
 <hr size="3" width="85%" />
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsMay2614.png" width="600" height="620" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay2614.png" width="600" height="620"></p>

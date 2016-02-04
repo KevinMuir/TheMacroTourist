@@ -15,21 +15,18 @@ tags:
   - economy
   - Stanley Druckenmiller
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BananaStandApr2715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BananaStandApr2715.png" width="500" height="1000" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BananaStandApr2715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BananaStandApr2715.png" width="500" height="1000">
 
 Want to see a scary chart? Take a gander at the Chinese Shanghai Stock Exchange Index.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SHCOMPApr2715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SHCOMPApr2715.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SHCOMPApr2715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SHCOMPApr2715.png" width="600" height="342">
 
 It&#8217;s not often that a stock index more than doubles in less than a year. And with that meteoric rise has come all sorts of dire warnings about the massive bubble that is being blown. A favourite indicator with the doomsday crowd is the chart of the number of new stock accounts that are being opened in China.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NewChinaApr2715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/NewChinaApr2715.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NewChinaApr2715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NewChinaApr2715.png" width="600" height="342">
 
 Over 3 million new accounts are being opened every week. And more importantly, that number is rising at a parabolic rate. 
 
@@ -55,9 +52,8 @@ And then we get a CNBC style interruption from Stephanie, but Druckenmiller cont
   &#8220;no, it&#8217;s not the data, I am watching the markets. And whenever I have seen a stock market explode with record volume and record breadth, and move to that degree, like **day follows night,** six to twelve months down the road you are out of that recession and into a full blown recovery. &#8221;
 </p>
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DruckApr2715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DruckApr2715.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DruckApr2715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DruckApr2715.png" width="600" height="400">
 
 Think about how different Druckenmiller&#8217;s thinking is from most other analysts. Instead of second guessing the Chinese stock market rally, he simply accepts it, and says to himself, &#8220;what does this mean?&#8221; He then thinks, if that happens, &#8220;how is everyone else positioned? And where are the surprises going to come from?&#8221; 
 

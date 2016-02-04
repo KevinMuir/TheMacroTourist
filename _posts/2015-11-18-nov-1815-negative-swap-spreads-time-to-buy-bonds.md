@@ -12,15 +12,13 @@ tags:
   - bonds
   - swap spreads
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SpreadsNov1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SpreadsNov1815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SpreadsNov1815.png" alt="http://themacrotourist.com/pictures/SpreadsNov1815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Last week I wrote about the perplexing move in US swap spreads ([Nov 10/15 &#8211; How many other “could never happen’s” are out there)](http://themacrotourist.com/blog/2015/11/10/nov-1015-how-many-other-could-never-happens-are-out-there/). Since then, there has been an awful lot of ink spilled in the main stream financial press questioning the illogical negative pricing of US swap spreads.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/US10SPNov1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/US10SPNov1815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/US10SPNov1815.png" alt="http://themacrotourist.com/pictures/US10SPNov1815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Although many have theories, there is no definite answer about the cause, nor the potential consequences of this peculiar anomaly. Most market pundits conclude with some vague uneasiness about the baffling pricing distortion. This Bloomberg conclusion is typical:
 
@@ -36,29 +34,25 @@ I continue to believe this strange anomaly is signalling something very wrong wi
 
 Yesterday the former macro hedge fund manger for the massive GLG group, Raoul Pal tweeted a chart of Japanese swap spreads along with the yield on the Japanese government bond.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/PalNov1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/PalNov1815.png" alt="%cliboard" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/PalNov1815.png" alt="http://themacrotourist.com/pictures/PalNov1815.png" style="margin:30px auto;display:block;" width="600" height="600">
 
 I am going to reproduce the chart with a better resolution, but I wanted to show the twitter post to include Raoul Pal’s comments.
 
 He is asserting the two previous big moves lower in Japanese swap spreads into negative territory was an **early indication of recession, which also followed with a logical move lower in yield for the JGBs.**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/TwoChartNov1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/TwoChartNov1815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/TwoChartNov1815.png" alt="http://themacrotourist.com/pictures/TwoChartNov1815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Obviously two examples from a country on the other side of the world does not make a conclusive theory. But given the unique nature of this recent move in US swap rates, you would be foolish to not consider the idea negative swap rates might signal an upcoming economic slowdown.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/USBuyNov1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/USBuyNov1815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/USBuyNov1815.png" alt="http://themacrotourist.com/pictures/USBuyNov1815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Looking at the US 10 year Treasury future, we have brushed down towards the bottom of the recent range.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/TYNov1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/TYNov1815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/TYNov1815.png" alt="http://themacrotourist.com/pictures/TYNov1815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 If you think negative swap spreads signal upcoming economic weakness, taking a shot on the long side of the US treasury market might make sense down here…
 

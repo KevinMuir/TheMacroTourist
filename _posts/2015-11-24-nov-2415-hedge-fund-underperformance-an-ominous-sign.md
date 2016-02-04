@@ -14,17 +14,15 @@ tags:
   - JNK
   - SUNE
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/AOKNov2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/AOKNov2415.png" width="600" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/AOKNov2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/AOKNov2415.png" width="600" height="500">
 
 Every time I turn around another hedge fund is blowing up or closing. I know the industry has experienced massive growth and some weeding out is to be expected, but the recent downturn has been unusually brutal. 
 
 Have a look at this great chart from Goldman Sachs that shows the performance of hedge funds versus the S&P 500 over the past fifteen years.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/HedgFundNov2315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/HedgFundNov2315.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/HedgFundNov2315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/HedgFundNov2315.png" width="600" height="342">
 
 Apart from the 2008 financial crisis, this has been the most difficult period for hedge funds since the turn of the century. 
 
@@ -34,9 +32,8 @@ Now that liquidity is not so plentiful, hedge funds are having a difficult time 
 
 Take for example SunEdison. The company has problems, but the credit market&#8217;s shutting off the tap has made the situation infinitely worse.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SUNENov2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/SUNENov2415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SUNENov2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SUNENov2415.png" width="600" height="342">
 
 This particular SUNE bond in the chart above is priced at 27 is now yielding 21.6%. The credit market has completely closed for SUNE making any bounce in their equity price extremely difficult. SUNE has almost $3 billion of debt, with an equity value of only $1 billion, so the bond market is now setting the tone for the stock price.
 
@@ -44,13 +41,11 @@ Although this is an extreme case, at the margin this is happening everywhere. Cr
 
 Have a look at the two big high yield bond ETFs:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/HYGNov2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/HYGNov2415.png" width="600" height="342" /></a>
-</div>
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/JNKNov2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/JNKNov2415.png" width="600" height="342" /></a>
-</div>
+  <img src="http://themacrotourist.com/pictures/HYGNov2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/HYGNov2415.png" width="600" height="342">
+
+
+  <img src="http://themacrotourist.com/pictures/JNKNov2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/JNKNov2415.png" width="600" height="342">
 
 With the Federal Reserve readying participants for higher rates, the markets are being slowly starved of oxygen. This is showing up in the credit markets first. We are seeing other strange effects (like negative swap spreads), but the Federal Reserve&#8217;s actions are affecting all financial markets (and not in a good way). Hedge funds are simply more finely tuned towards these financial conditions than most other investors. Maybe I am being too generous. Maybe I should say hedge funds are more _leveraged_ to this liquidity than other investors. 
 

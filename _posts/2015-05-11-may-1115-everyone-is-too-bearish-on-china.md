@@ -37,15 +37,13 @@ For the next year, the China bull market continued its steady climb. Then one da
 
 You would think that Hugh Hendry would have been raking it in. After all, his long awaited China day of reckoning was finally unfolding. If we use VALE as a proxy for the “China bull trade,” you will notice that the top was January 2011.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/VALEMay1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/VALEMay1115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/VALEMay1115.png" alt="http://themacrotourist.com/pictures/Azure/VALEMay1115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Given Hendry’s bearishness, you would expect him to have performed terrifically from the beginning of 2011 to the present time. But when we bring up his fund’s performance, you will notice that this was a difficult time for him:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HughMay1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/HughMay1115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HughMay1115.png" alt="http://themacrotourist.com/pictures/Azure/HughMay1115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Even though Hugh was about as bearish on China as you could get, he still managed to mess up and not take any money out of the market. He only had the recent big performance uptick after proclaiming he was going to “take the blue pill” and climb on board the Western markets bull run. Like we learned last week with Bill Gross’ selling bund straddles, it is a lot easier to be right than to take money out of the markets.
 
@@ -59,9 +57,8 @@ Just as everyone was way _too bullish_ on China in 2009, we have now entered the
 
 Last night the PBOC lowered their interest rate by 25 basis points. Instead of the market celebrating this move, the reaction was a muted _meh._ This Bloomberg story was typical of the lack of excitement.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ChinaMay1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ChinaMay1115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ChinaMay1115.png" alt="http://themacrotourist.com/pictures/Azure/ChinaMay1115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Instead of being hopeful, the market is interpreting easings as a sign things might be even worse than realized. This Reuters report sums up the gloomy mood:
 
@@ -91,9 +88,8 @@ Instead of being hopeful, the market is interpreting easings as a sign things mi
 
 I find it amusing at how ambivalent the market is treating the recent China moves. The Chinese stock market is running like it stole something. According to Druckenmiller that in itself should put you on the alert for improving economic conditions in the coming quarters.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ChinaImportsMay1115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ChinaImportsMay1115.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ChinaImportsMay1115.png" alt="http://themacrotourist.com/pictures/Azure/ChinaImportsMay1115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 But then, we also have a Central Bank that is also easing. Everything is pointing towards higher economic growth.
 

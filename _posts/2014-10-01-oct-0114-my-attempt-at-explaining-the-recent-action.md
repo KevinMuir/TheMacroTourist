@@ -32,9 +32,8 @@ When the Fed tried to wean the market off QE2, the same thing happened. This eve
 
 That program was introduced on September 13th, 2012. For the next year and a half, the Fed steadily pushed credit into the system.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FARBASTOct0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FARBASTOct0114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FARBASTOct0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FARBASTOct0114.png" width="600" height="342">
 
 At the end of 2013, Bernanke finally got around to putting the Fed on a schedule to taper down its purchases. The Fed was rightfully worried about a repeat of the end of QE1 and QE2, so they decided to not try the cold turkey again.
 
@@ -44,9 +43,8 @@ Which brings me to my explanation about what is going on in the markets. Remembe
 
 It is therefore no surprise that since the tapering announcement at the end of 2013, bond yields have declined (bond prices rallied).
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USGG10YROct0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/USGG10YROct0114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USGG10YROct0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/USGG10YROct0114.png" width="600" height="342">
 
 Bonds figured out quickly that tapering was a reduction in the inflationary stimulus, therefore it was bond friendly.
 
@@ -56,65 +54,56 @@ At first it was the most liquidity sensitive markets that rolled over. Commoditi
   
 are very dependant on abundant global liquidity, rolled over at the start of summer.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CRYSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CRYSep3014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CRYSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRYSep3014.png" width="600" height="342">
 
 With the rate of US dollar expansion slowing down, the FX market was the next one to figure it out.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DXYSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DXYSep3014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DXYSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYSep3014.png" width="600" height="342">
 
 In mid-summer, the US dollar started a rally that is still going strong. That makes perfect sense. If you slow down the expansion of US dollars credit, then it will cause the supply to also slow, and for the US dollar to rally.
 
 From there it wasn&#8217;t long before other liquidity sensitive markets like US small cap equities slumped. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NIWMSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/NIWMSep3014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NIWMSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NIWMSep3014.png" width="600" height="342">
 
 The ticked at the high during the summer months, and we are hitting new lows all the time today.
 
 High yield bonds were much on the same track.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NYHGSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/NYHGSep3014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NYHGSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NYHGSep3014.png" width="600" height="342">
 
 And junk bonds are almost identical looking.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JNKSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JNKSep3014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JNKSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JNKSep3014.png" width="600" height="342">
 
 As time has progressed, and the Fed keeps turning down the rate at which they are letting out liquidity, it has spread its way through the global financial system. This month Emerging Markets sold off quite hard.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EEMSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EEMSep3014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EEMSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EEMSep3014.png" width="600" height="342">
 
 And the drying up liquidity also weighed on the emerging market bonds.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EMBSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EMBSep3014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EMBSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EMBSep3014.png" width="600" height="342">
 
 The Fed&#8217;s withdrawal has one by one, dragged down the most liquidity sensitive markets. 
 
 But so far it has barely had an effect on the S&P 500.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPYSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPYSep3014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPYSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPYSep3014.png" width="600" height="342">
 
 Although we have come off a little bit during the last couple of weeks, the trend is much stronger compared to other risk assets. 
 
 And it isn&#8217;t really just a large cap value strength issue. An even better performing index has been the Nasdaq. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/QQQSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/QQQSep3014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/QQQSep3014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/QQQSep3014.png" width="600" height="342">
 
 Which brings me to my explanation about what is happening in the markets. Global financial markets are reacting to the gradual withdrawal of liquidity addition from the Fed. Yes, I know that the Fed is _not withdrawing liquidity_, but instead merely slowing down the rate at which they are adding to it. But prices move from the marginal change, so that slowing down is important.
 
@@ -134,6 +123,5 @@ The market action over the last few months has been entirely consistent with a F
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsOct0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsOct0114.png" width="600" height="342" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsOct0114.png" width="600" height="342"></p>

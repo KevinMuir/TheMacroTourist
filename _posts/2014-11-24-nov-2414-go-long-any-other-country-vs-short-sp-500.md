@@ -22,15 +22,13 @@ tags:
   - SPX
   - US
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/atomicNov2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/atomicNov2414.png" width="600" height="550" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/atomicNov2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/atomicNov2414.png" width="600" height="550">
 
 For the past couple of years we have seen two stock markets dramatically outperform the rest of the world. It is no coincidence that these two countries&#8217; balance sheets have also exploded upwards like an atomic explosion. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CBNov2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CBNov2414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CBNov2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CBNov2414.png" width="600" height="342">
 
 Both the Federal Reserve and the Bank of Japan have expanded their balance sheet like drunken sailors over the past half dozen years. The other two big Central Banks, the PBOC (People&#8217;s Bank of China) and the ECB, have been much more reserved in their expansion. 
 
@@ -38,9 +36,8 @@ Regardless of what you think is the correct policy, there can be no denying that
 
 The S&P 500 has been one of the best performing stock indexes over the last half dozen years. And recently with the aggressive Bank of Japan monetary expansion, the Nikkei has caught up with the crazy move to the upside.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/StocksNov2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/StocksNov2414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/StocksNov2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/StocksNov2414.png" width="600" height="342">
 
 Meanwhile emerging markets are basically unchanged over the last five years, and the Eurostoxx is up just over 10%.
 
@@ -48,9 +45,8 @@ The US stock market bulls will tell you why the &#8220;US is the cleanest shirt 
 
 Maybe they are correct. Maybe the US is really that much better than the rest of the world and deserves the massive inflows they are receiving.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ForeignNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ForeignNov1814.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ForeignNov1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ForeignNov1814.png" width="600" height="342">
 
 But how do they explain Japan? Is that too &#8220;the cleanest shirt in a dirty pile?&#8221; Do the fundamentals also justify the 85% increase in the Nikkei over the past two years? 
 
@@ -78,6 +74,5 @@ Meanwhile, the US is becoming progressively more tight, while the rest of the wo
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsNov2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsNov2414.png" width="600" height="242" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsNov2414.png" width="600" height="242"></p>

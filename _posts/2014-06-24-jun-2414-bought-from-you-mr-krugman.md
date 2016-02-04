@@ -26,9 +26,8 @@ It all started with University of Oregon&#8217;s Tim Duy&#8217;s blog post title
 
 Tim goes on to show you why inflation is all under control and not a problem that any Central Banker should worry about.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/KrugmanCat.png"><img class="size-full wp-image-14271" style="margin:5px 5px 5px 5px; padding-bottom: 0.5em;"  alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/KrugmanCat.png" width="250" height="250" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/KrugmanCat.png"><img class="size-full wp-image-14271" style="margin:5px 5px 5px 5px; padding-bottom: 0.5em;"  style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/KrugmanCat.png" width="250" height="250">
 
 We then had my favourite Dr Evil impersonator Paul Krugman follow up with a [&#8220;yeah, I completely agree&#8221;](http://krugman.blogs.nytimes.com/2014/06/23/british-lessons-on-inflation-hysteria/) post in the New York Times. 
 
@@ -40,8 +39,8 @@ Although Yellen might have recent history on her side, the longer history of Cen
 
 Let&#8217;s have a look at this so called &#8220;inflation hysteria&#8221; that the academics claim is gripping Wall Street. I don&#8217;t know about Tim Duy or Paul Krugman, but I have seen a few hysterias in my day and it is indeed frightening when prices shoot straight up with no thought about the absurd rises. This &#8220;inflation hysteria&#8221; must be especially frightening because Wall Street must be scrambling to buy every inflation hedge in the book. Break-even levels must be exploding higher&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/US5BEJun2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/US5BEJun2414.png" width="600" height="342" />US 5 year Break Even level</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/US5BEJun2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/US5BEJun2414.png" width="600" height="342" />US 5 year Break Even level</a>
 </div>
 
 
@@ -50,8 +49,8 @@ Wait, that is the so called &#8220;inflation hysteria?&#8221; US 5 year break ev
 
 Maybe I am missing something. Let&#8217;s try looking at the longer term chart&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/US5BELTJun2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/US5BELTJun2414.png" width="600" height="342" />US 5 year Break Evens level longer term chart</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/US5BELTJun2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/US5BELTJun2414.png" width="600" height="342" />US 5 year Break Evens level longer term chart</a>
 </div>
 
 
@@ -80,9 +79,8 @@ I continue to be amazed at how much the markets seem to be ignoring the increasi
 
 In trying to understand the situation, I try to find non-political analysis information streams and there is no better source than the Middle East Perspective blog by Rick Francona. [His recent post](http://francona.blogspot.com/2014/06/urgent-isis-seizes-almost-all-iraq.html) about the military developments by ISIS show a level of sophistication that is not being appreciated by the markets. ISIS&#8217; usage of social media is also scarily efficient. This meme of #BRINGBACKOUR HUMVEES is especially clever.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MichelleJun2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MichelleJun2414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MichelleJun2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MichelleJun2414.png" width="600" height="342">
 
 
 
@@ -98,6 +96,5 @@ I don&#8217;t expect the markets to go straight down because of these increased 
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJun2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJun2414.png" width="600" height="650" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJun2414.png" width="600" height="650"></p>

@@ -21,17 +21,16 @@ I am away from the office and not there to enjoy the return of the financial ass
 
 Right around the time I was born, Norway made a wonderful discovery in the waters off their coast. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BikeAug1514.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 15, 14 at 7:27:37 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/BikeAug1514.jpg" width="600" height="400" />Modern Norwegian Transport</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BikeAug1514.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 15, 14 at 7:27:37 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/BikeAug1514.jpg" width="600" height="400" />Modern Norwegian Transport</a>
 </div>
 
 Deep below the surface of the water lay an abundant massive reservoir of energy. New technologies with off shore drilling had made the unearthing possible. Suddenly, overnight, Norway&#8217;s economic fortunes skyrocketed higher. They were going to be rich with the gift that had been left in their waters.
 
 Being a sensible practical people, the Norwegians smartly set up a long term fund to save the &#8220;gift&#8221;. The Petroleum Fund of Norway was established to save the surplus wealth. Although the Norwegians did not suddenly all drive gold plated Ferraris, there was still a massive boom in their economy as the energy industry was developed.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NorwayAug1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 15, 14 at 7:35:57 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/NorwayAug1514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NorwayAug1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 15, 14 at 7:35:57 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/NorwayAug1514.png" width="600" height="342">
 
 Many personal fortunes were made as this enormous wealth found its way into the economy. Today, Sweden&#8217;s neighbour enjoys a GDP per person of approximately $42,000. Norway, which is a very similar country except for their energy reserves has a GDP per person which is 33% higher at $56,000. 
 
@@ -55,6 +54,5 @@ The astute international investor had realized that eventually the money would f
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 15, 14 at 8:05:09 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png" width="600" height="450" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 15, 14 at 8:05:09 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png" width="600" height="450"></p>

@@ -28,21 +28,18 @@ Yesterday I saw the following story cross my Bloomberg:
    
 > The dollar had the longest rally since teenagers bought Beatles albums and Lyndon Johnson was president as the Federal Reserve signaled interest rates will rise next year while other central banks pushed stimulus plans. The U.S. Dollar Index rose for a 10th consecutive week, the longest since at least March 1967.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/1967Sep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/1967Sep2314.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/1967Sep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/1967Sep2314.png" width="600" height="600">
 
 It has been pretty well a straight up kind of affair.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DXYBSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DXYBSep2314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DXYBSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYBSep2314.png" width="600" height="342">
 
 One of the fellows at the office has had a good size Yen short on the whole way and yesterday he remarked at how it was the first day in quite some time that his P&L actually decreased.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPYSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPYSep2314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPYSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYSep2314.png" width="600" height="342">
 
 As I heard that my trading antennae perked up and I realized that it was probably time to try a short US dollar position. The money has come easy for the US dollar bulls and we are due for a correction.
 
@@ -54,9 +51,8 @@ Yesterday I put on a small Yen long. I actually don&#8217;t think it matters whi
 
 Even if you think the Fed is going to hawkishly raise rates, given past rate hikening cycles, we are due to take a break in the US dollar bull run. Have a look at this great chart from JP Morgan that highlights the US dollar performance around this period:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DXYcyclesSep2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DXYcyclesSep2214.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DXYcyclesSep2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYcyclesSep2214.png" width="600" height="342">
 
 The interesting thing to note is that the current bull move is roughly spot on in terms of previous moves. It seems that the US dollar rallies ahead of the first rate hike, but then goes sideways for quite some time. 
 
@@ -70,9 +66,8 @@ Hopefully even if I am wrong about the prospect of the Fed being more dovish tha
 
 When Plosser announced his resignation from the FOMC there was of course many comments about how the Fed is slowly losing all of its hawks. There is no doubt that that Plosser helped balance the dovish Fed.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HawksSep2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/HawksSep2214.png" width="600" height="242" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HawksSep2214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HawksSep2214.png" width="600" height="242">
 
 But we need to remember that he wasn&#8217;t going to get a vote for the next couple of years anyway. Even if he had stayed, his hawkishness would have done very little to change the outcome of Fed policies.
 
@@ -94,9 +89,8 @@ On the ECB meeting day the market gave him a big benefit of the doubt. Traders l
 
 For a week or so, the market started to price in an end to the downward move in inflation.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EU5y5ySep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EU5y5ySep2314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EU5y5ySep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EU5y5ySep2314.png" width="600" height="342">
 
 But the reality is that this is not going to happen overnight. The optimism that followed the previous ECB meeting has faded and the market has resumed pricing in lower and lower inflation.
 
@@ -120,15 +114,13 @@ Even though it appears like all is well, there are more and more signs of cracks
 
 US small caps are trading heavy, with the Russell 2000 no where near the highs like its big cap brothers. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/IWMSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/IWMSep2314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/IWMSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/IWMSep2314.png" width="600" height="342">
 
 And emerging markets are not only not near their highs, but have made a big move and are breaking down.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EEMSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EEMSep2314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EEMSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EEMSep2314.png" width="600" height="342">
 
 I understand that some of that weakness can be attributed to the US dollar rally, but there can be no denying that the emerging markets are not confirming the recent US large cap move to new highs.
 
@@ -136,9 +128,8 @@ For a whole host of reasons, global growth is slowing. It is being exacerbated b
 
 Copper which has a reputation of having a PHD in economics in terms of forecasting economic growth has been weak. And emerging markets have traditionally followed copper very closely.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EEMvsCopperSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EEMvsCopperSep2314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EEMvsCopperSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EEMvsCopperSep2314.png" width="600" height="342">
 
 Will this resolve itself with a move lower in EEM? Or will copper rally back up? Maybe a bit of both?
 
@@ -158,6 +149,5 @@ And finally, I had said that I wanted to re-load on my INP CN position in the lo
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsSep2314.png" width="600" height="642" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep2314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep2314.png" width="600" height="642"></p>

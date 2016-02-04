@@ -19,8 +19,7 @@ tags:
 **The Yardeni Fundamental Stock Market Indicator**
 
 <div style="float:right; width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/YardeniApr1515.png"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em; padding-left: 1 em" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/YardeniApr1515.png" width="260" height="239" /></a>
-</div>
+  <img src="http://themacrotourist.com/pictures/Azure/YardeniApr1515.png"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em; padding-left: 1 em" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/YardeniApr1515.png" width="260" height="239">
 
 The great strategist Ed Yardeni has devised an index that he calls the &#8220;Fundamental Stock Market Indicator.&#8221; It is defined as the _Average of Consumer Comfort Index and his Boom-Bust Barometer, which is the CRB raw industrials spot index divided by the four week moving average of initial employment claims._ Sounds a little too complicated to work, right? That&#8217;s what I thought. So a couple of years ago, I decided to model up his indicator and continue to track it. And what do you know &#8211; it actually works quite well at tracking the S&P 500.
 
@@ -28,8 +27,8 @@ There are divergences that seem to be portend the end of its usefulness, but the
 
 Here is the chart I created with the formulas Yardeni provided:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/YardeniApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/YardeniApr1514.png" width="600" height="342" />S&P 500 in orange and Yardeni indicator in white</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/YardeniApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/YardeniApr1514.png" width="600" height="342" />S&P 500 in orange and Yardeni indicator in white</a>
 </div></p> 
 
 So if in the future this model continues its predictive nature, then what does it mean for the market?
@@ -38,8 +37,8 @@ To figure that out , let&#8217;s go through the different components one by one.
 
 Let&#8217;s have a look at how this index has behaved versus the S&P 500 for the last decade:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ABCSNPApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ABCSNPApr1514.png" width="600" height="342" />ABC Comfort Index (white line) vs S&P 500 (orange line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ABCSNPApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ABCSNPApr1514.png" width="600" height="342" />ABC Comfort Index (white line) vs S&P 500 (orange line)</a>
 </div>
 
 Although it did loosely track in the beginning to the mid 2000&#8217;s, for the past 5 years it has gone sideways while the S&P 500 has gone straight up.
@@ -48,30 +47,30 @@ So that variable does not explain the Yardeni&#8217;s Fundamental Stock Indicato
 
 The &#8220;Boom-Bust&#8221; indicator is defined as the CRB raw industrials spot index divided by the four week moving average of initial employment claims. How does it stack up versus the S&P 500?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BOOMBUSTApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BOOMBUSTApr1514.png" width="600" height="342" />Boom-Bust (white line) vs S&P 500 (orange line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BOOMBUSTApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BOOMBUSTApr1514.png" width="600" height="342" />Boom-Bust (white line) vs S&P 500 (orange line)</a>
 </div>
 
 This part of the equation obviously explains a lot more as the correlation during the past few years is very close. The Boom-Bust was a little ahead of the stock market during 2010&#8211;2011, but since then the S&P has played catch up.
 
 Let&#8217;s have a look at the two parts of this Boom-Bust indicator separately. First the numerator &#8211; the CRB Raw Industrials Index:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CRBRINDApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CRBRINDApr1514.png" width="600" height="342" />CRB Raw Industrials Spot Price</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CRBRINDApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRBRINDApr1514.png" width="600" height="342" />CRB Raw Industrials Spot Price</a>
 </div>
 
 This index hasn&#8217;t moved all that much during the past few years, so this isn&#8217;t the answer to what makes the Yardeni Indicator track the market so well.
 
 Now let&#8217;s move over to the denominator. The Four Week moving average of initial jobless claims has certainly being moving lower:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FourJobsApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FourJobsApr1514.png" width="600" height="342" />Four week average of Initial Jobless claims</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FourJobsApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FourJobsApr1514.png" width="600" height="342" />Four week average of Initial Jobless claims</a>
 </div>
 
 This part of the equation is obviously the big driver during the last couple of years. This is obvious when you plot the S&P versus the inverted jobless claims:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SNPJOBSApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SNPJOBSApr1514.png" width="600" height="342" />Inverted Jobless Claims (white line) vs S&P (orange line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SNPJOBSApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SNPJOBSApr1514.png" width="600" height="342" />Inverted Jobless Claims (white line) vs S&P (orange line)</a>
 </div>
 
 So what can we draw from all of this?
@@ -94,6 +93,5 @@ And finally, in this period of hedge fund liquidation, it is helpful to remember
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsApr1514.png" width="618" height="542" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsApr1514.png" width="618" height="542"></p>

@@ -22,9 +22,8 @@ After two years of the most boring, unnatural, continual grinding higher action 
 
 You should play it cool like this guy.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/bananaOct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/bananaOct2014.png" alt="%cliboard" width="600" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/bananaOct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/bananaOct2014.png" style="margin:30px auto;display:block;" width="600" height="500">
 
 Who hasn’t brought their own bananas to a rock concert but being too afraid to eat them in public? Not this guy. He is not afraid to stand out in the crowd eating his banana, and I am going to follow his lead.
 
@@ -44,25 +43,22 @@ In the mean time as we try to understand the day to day squiggles, I think the a
 
 The ECB’s continual shrinking of their balance sheet has been weighing heavily on their economy. It has also had the effect of dampening the global expansion by the other Central Banks. Have a look at this chart that shows net liquidity injections by the four large Western Central Banks.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NetOct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/NetOct2014.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NetOct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/NetOct2014.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 During 2013 the Fed’s QE program was running full tilt so the contractionary ECB policy was offset. But over the last year as the Fed has wound down its QE program, the effect of the ECB’s balance sheet shrinking has become more pronounced.
 
 This has resulted in Europe sinking into a disinflationary spiral. Have a look at the German 5 year break even inflation rate chart.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GER5YBEOct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/GER5YBEOct2014.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GER5YBEOct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/GER5YBEOct2014.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 It has been steadily sinking.
 
 For some reason the ECB loves to use the five-year/five-year-break-even swap rate as their preferred gauge of long term inflation expectations. This rate has also been plunging over the past year.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EU5Y5YOct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/EU5Y5YOct2014.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EU5Y5YOct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/EU5Y5YOct2014.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 In late August, Draghi’s Jackson Hole speech stopped the decline. He seemed to understand what was needed, and the market was hopeful that the decline could be arrested.
 
@@ -94,9 +90,8 @@ I am already short as I luckily took a punt into the big spike up during last we
 
 This morning, I am going to increase the position.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDBR10Oct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/GDBR10Oct2014.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Oct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/GDBR10Oct2014.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 German 10 year yields hit 75 basis points in the panic buying. If Draghi follows through with promises, then this will prove a truly “stupid” price.
 
@@ -106,6 +101,5 @@ I don’t think the hedge funds were wrong when they all piled into their Europe
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsOct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsOct2014.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsOct2014.png" style="margin:30px auto;display:block;" width="600" height="342">

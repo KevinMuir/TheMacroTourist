@@ -39,7 +39,7 @@ I listened to them all and would highly recommend them. I found them enlightenin
 For those that are interested &#8211; here is the [link.](http://www.bbc.co.uk/programmes/b03nsrhw)
 
 <p style="text-align: center;">
-  <a href="http://www.bbc.co.uk/programmes/b03nsrhw"><img class="aligncenter" style="display: block; border: 0px;" title="MINTJimOneilJan2114.jpg" alt="MINTJimOneilJan2114" src="http://themacrotourist.com/blogs/2014/01/MINTJimOneilJan2114.jpg" width="500" height="363" border="0" /></a>
+  <img src="http://www.bbc.co.uk/programmes/b03nsrhw"><img class="aligncenter" style="display: block; border: 0px;" title="MINTJimOneilJan2114.jpg" alt="MINTJimOneilJan2114" src="http://themacrotourist.com/blogs/2014/01/MINTJimOneilJan2114.jpg" width="500" height="363" border="0" /></a>
 </p>
 
 Four hour long BBC radio programs from a former research analyst hardly constitutes thorough research, but if you are like me and want to understand the issues for long term macro investors, O&#8217;Neil does a great job of discussing the relative merits of each country.

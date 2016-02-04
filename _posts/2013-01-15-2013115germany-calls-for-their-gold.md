@@ -44,7 +44,7 @@ tags:
 <img class="aligncenter" alt="" src="http://themacrotourist.com/blogs/Tin%20Foil%20Hat%20Jan%2015%2013.jpeg" />
 
 <p class="p1">
-  There is a famous Canadian fund manager who believes that the Federal Reserve does not have the gold in the vault. His theories strike me as a little on the tin foil hat side (<a href="http://en.wikipedia.org/wiki/Tin_foil_hat" target="_blank">wikipedia entry</a>) as I have no worries that the Federal Reserve has engaged in a massive deception to hide the fact that it has secretly sold all of its gold.
+  There is a famous Canadian fund manager who believes that the Federal Reserve does not have the gold in the vault. His theories strike me as a little on the tin foil hat side (<img src="http://en.wikipedia.org/wiki/Tin_foil_hat" target="_blank">wikipedia entry</a>) as I have no worries that the Federal Reserve has engaged in a massive deception to hide the fact that it has secretly sold all of its gold.
 </p>
 
 <p class="p1">

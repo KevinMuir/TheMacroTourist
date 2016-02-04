@@ -20,37 +20,32 @@ tags:
   - stocks
   - US dollar
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DontApr1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DontApr1515.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DontApr1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DontApr1515.png" width="600" height="342">
 
 It&#8217;s tough slugging for the bears these days. The ECB QE driven dash to zero yield is lifting all asset classes across the board. At the fore front of this bull market run is the German bund. Yesterday the 10 year hit a new low yield, with the trend showing no signs of abating.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDBR10Apr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GDBR10Apr1615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Apr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDBR10Apr1615.png" width="600" height="342">
 
 The entire German curve is slowly slipping more and more below zero.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GERCurveApr1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GERCurveApr1515.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GERCurveApr1515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GERCurveApr1515.png" width="600" height="342">
 
 This yield compression is making it difficult to be a bear on risk assets. It is forcing investors out the risk curve, putting an incessant bid to stocks and other bond alternatives. 
 
 The ferociousness of the rally in the long end of the European bond market is perplexing. Contrary to popular belief, longer duration yields in the US _rose_ during the various Fed QE programs.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/QEApr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/QEApr1615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/QEApr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/QEApr1615.png" width="600" height="342">
 
 Yet there has been no signs of a similar reaction in the German bund market. The entire curve has just been steadily dropping lower in yield.
 
 The ECB has so far failed to ignite the inflation expectations that usually accompany a massive expansion of a Central Bank&#8217;s balance sheet. Have a look at the most commonly used long term inflation expectation indictor:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/E5YApr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/E5YApr1615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/E5YApr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/E5YApr1615.png" width="600" height="342">
 
 The crash lower in the second half of 2014 was the trigger for the ECB&#8217;s QE program, and although the ECB has managed to stop the decline, this indicator is still sitting at depressed levels. Yes, it seems to be slowly grinding higher, but _slow_ is the operative word. 
 
@@ -90,23 +85,20 @@ But have you noticed how many USD cross rate charts are looking quite US dollar 
 
 First let&#8217;s look at the US Dollar index. It seems tired and ready to roll over.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DXYApr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DXYApr1615.png" width="600" height="342" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/DXYApr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYApr1615.png" width="600" height="342"></p> 
 
 And one of the favourite hedge fund shorts, the Canadian Dollar is actually breaking out to the upside. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CADApr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CADApr1615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CADApr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CADApr1615.png" width="600" height="342">
 
 The much anticipated Loonie weakness is failing to materialize as all the hedgies have predicted. 
 
 Even the usual steady JPY short has not been adding any positive P&L to the sheets lately.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPYApr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPYApr1615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPYApr1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYApr1615.png" width="600" height="342">
 
 Anyone who has been calling for the US dollar strength to abate has looked foolish over the past year. Yet for the first time in a long while, the US dollar chart is looking heavy. The hedgies are still long US dollars, and if the correction finally does happen, then this could surprise a lot of traders. Be careful if you are trading from the long side with all the other &#8220;smart guys.&#8221; 
 
@@ -116,6 +108,5 @@ Kevin Muir
   
 the Macro Tourist
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png" width="300" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MacroTouristBison.png" width="300" height="300">

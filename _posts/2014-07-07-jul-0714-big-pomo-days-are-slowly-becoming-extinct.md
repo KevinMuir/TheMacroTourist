@@ -49,8 +49,8 @@ This is a dramatic shift in market participants’ thinking. There is basically 
 
 The tapering is no longer some super scary event that causes market participants to sit up all night worrying about the frightening prospects of life without QE.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/scaryJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/scaryJul0714.png" alt="%cliboard" width="600" height="415" />New Jersey Shore hedge fund spin off hopefuls worrying about the end of QE3</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/scaryJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/scaryJul0714.png" style="margin:30px auto;display:block;" width="600" height="415" />New Jersey Shore hedge fund spin off hopefuls worrying about the end of QE3</a>
 </div>
 
 &nbsp;
@@ -63,8 +63,8 @@ I will save the reasons of this potential decoupling for another day, but I want
 
 Over the past few years, I have watched the trading in the stock market be propped up by the daily Fed QE purchases for too long to believe it is merely a coincidence.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXFARBASTJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/SPXFARBASTJul0714.png" alt="%cliboard" width="600" height="342" />S&P 500 (yellow line) vs Fed Balance Sheet (white line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXFARBASTJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/SPXFARBASTJul0714.png" style="margin:30px auto;display:block;" width="600" height="342" />S&P 500 (yellow line) vs Fed Balance Sheet (white line)</a>
 </div>
 
 The expansion of the Fed’s balance sheet does not mirror the trading of the S&P 500 because of dumb luck. QE injections have a direct effect on the stock market.
@@ -171,9 +171,8 @@ And given that the Fed is methodically reducing the amount of QE should give the
 
 Have a look at the schedule for this month’s QE purchases:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/POMOJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/POMOJul0714.png" alt="%cliboard" width="600" height="900" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/POMOJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/POMOJul0714.png" style="margin:30px auto;display:block;" width="600" height="900">
 
 Given that the Fed keeps reducing the amount of QE, there are less and less days where the Fed buys more than $1 billion.
 
@@ -191,6 +190,5 @@ I am going to leave you with the words from George S. Patton &#8211; “If every
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsJul0714.png" alt="%cliboard" width="600" height="700" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsJul0714.png" style="margin:30px auto;display:block;" width="600" height="700">

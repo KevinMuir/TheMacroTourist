@@ -25,6 +25,5 @@ Kevin Muir
 
 the MacroTourist
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MTArrow.png" width="200" height="100" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MTArrow.png" width="200" height="100">

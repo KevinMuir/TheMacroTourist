@@ -21,15 +21,13 @@ tags:
   - Larry Fink
   - real estate
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BearApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BearApr2115.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BearApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BearApr2115.png" width="600" height="342">
 
 Remember last fall when the market was scared shitless the end of QE meant that the Fed would immediately start raising rates? Market pundits were convinced that once the final QE bond purchase settled at the end of October, the Fed would begin their rate hiking campaign. The hedgies and other speculators were so worried about this prospect they took out a record large short position in CME 3 month Eurodollar contracts (a contract that is used to hedge short term US dollar interest rate risk and has nothing to do with the Euro currency). 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EDSpecApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EDSpecApr2115.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EDSpecApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EDSpecApr2115.png" width="600" height="342">
 
 The prospect of the Fed hiking rates last fall is now quite amusing, but it was a real worry six months ago. What is even more entertaining is how the specs have not only completely abandoned their monster short position, but they have now flipped to net long! This means they have gone from betting that short term rates would rise to now leaning towards them actually declining. 
 
@@ -81,9 +79,8 @@ I don&#8217;t know about you, but I am not so keen on chasing some art bubble fa
 
 The high end art market bubble is yet another result of the terrible monetary and fiscal policies that have exacerbated the growing, and troubling inequality between the extremely rich and everyone else. As the very rich become even richer, they are looking for things to spend their money on. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ChariotApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ChariotApr2115.png" width="400" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ChariotApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ChariotApr2115.png" width="400" height="500">
 
 It is no surprise that pieces such as Giacometti&#8217;s &#8220;Chartio&#8221; pictured above which was recently bought for $101 million by hedge fund manager Steve Cohen are being snatched up by individuals who have benefited the most from the massive financial asset bubble. 
 
@@ -105,15 +102,13 @@ But I think that at the margin precious metals are starting to act better.
 
 Yesterday silver broke down below support, and it was looking ugly. Previously this sort of action would have triggered more selling. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SILVGPOApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SILVGPOApr2115.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SILVGPOApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SILVGPOApr2115.png" width="600" height="342">
 
 Yet the follow through selling never materialized. And since this break down, silver has smartly rallied back.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SILVGIPApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SILVGIPApr2115.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SILVGIPApr2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SILVGIPApr2115.png" width="600" height="342">
 
 I know it is tough to argue that the action is raging bullish, but the selling is drying up. The precious metals seem to be in the process of forming a long term bottom. Now we just need to convince Larry and his cronies to peel off some art into this mania and buy a little gold&#8230;
 

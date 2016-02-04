@@ -13,31 +13,27 @@ tags:
   - Fed
   - James Rickards
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/NoMoreJul0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/NoMoreJul0815.png" alt="%cliboard" width="600" height="375" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/NoMoreJul0815.png" alt="http://themacrotourist.com/pictures/NoMoreJul0815.png" style="margin:30px auto;display:block;" width="600" height="375">
 
 I don’t know about you, but I am so fed up of the Greek debacle jerking around markets all day, I can’t bring myself to write about it again this morning. And as for the Chinese slow motion stock crash, that topic is saturating the financial press to the point where I never want to see another picture of a Chinese housewife staring at a computer screen in horror. Let’s talk about something else, something that might be slipping under the radar as everyone focuses on these other two big stories.
 
 It was only a few weeks ago the topic of when the Fed would raise rates was dominating the financial news. I remember watching a CNBC interview with Jim Bianco and Jeffrey Gundlach ([Jun 10/15 &#8211; The party is over Luke](http://themacrotourist.com/blog/2015/06/10/jun-1015-the-party-is-over-luke/)) where they both predicted the Fed _would not_ raise rates in 2015. This call was definitely against consensus. At the time, the Fed was clearly readying the markets for a rate rise. This tweet by the Reformed Broker’s Josh Brown summed up the prevailing attitude:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BrownJul0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/BrownJul0815.png" alt="%cliboard" width="400" height="250" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BrownJul0815.png" alt="http://themacrotourist.com/pictures/BrownJul0815.png" style="margin:30px auto;display:block;" width="400" height="250">
 
 Yet even though the Fed was steering markets towards higher rates, the Fed has once again proved overly optimistic with their forecasts. Developments of the past month have pushed the Fed’s liftoff further into the future.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/FFZ5Jul0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/FFZ5Jul0815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/FFZ5Jul0815.png" alt="http://themacrotourist.com/pictures/FFZ5Jul0815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The market is coming around to the Bianco and Gundlach view that there will be no rate rises in 2015. The near month Fed Funds future is trading at 99.87, so with the December contract trading at 99.74, this equates to 13 basis points difference. Assuming the Fed sticks to 25 basis point increases, this means the market is pricing in approximately a 50/50 chance the Fed raises rates by December. Think about that for a second. A month ago the Fed was trying to convince the market rates could possibly be raised as early as September, and now the market thinks there is an equal chance the Fed does nothing in 2015!
 
 The infamous dot plots of the Fed’s forecast of future rates are becoming more and more of a joke.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/FOMCJul0815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/FOMCJul0815.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/FOMCJul0815.png" alt="http://themacrotourist.com/pictures/FOMCJul0815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The red line is where the market is pricing future rates. The purple line is the average of Fed’s latest forecast. The dots represent individual FOMC member’s estimates. Have a look at 2016 and 2017. There is only one FOMC member who thinks the rate will be lower than where the market is priced (Kocherlkota). There is one FOMC prediction for the current expected rate, but then _everyone else_ is significantly higher. And then for 2017 it is even worse! _Not one FOMC committee member_ believes rates will be as low as the market is pricing!
 
@@ -49,7 +45,7 @@ Someone will be really wrong here. Either the market is in for a rude surprise, 
 
 [<img class="aligncenter size-full wp-image-25464" src="http://themacrotourist.com/blogs/2015/07/RickardsJul0815.png" alt="RickardsJul0815" width="576" height="235" srcset="http://themacrotourist.com/wp-content/uploads/2015/07/RickardsJul0815-300x122.png 300w, http://themacrotourist.com/wp-content/uploads/2015/07/RickardsJul0815-520x212.png 520w, http://themacrotourist.com/wp-content/uploads/2015/07/RickardsJul0815.png 576w" sizes="(max-width: 576px) 100vw, 576px" />](http://themacrotourist.com/blogs/2015/07/RickardsJul0815.png)
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
+
 </div>
 
 I love to make fun of the gold bugs who find reasons to buy gold regardless of the news. With no sense of irony, they will sometimes use exact opposite market developments to argue gold has to go higher in each case. We all know these guys by name. CNBC and the other media outlets trot them out whenever markets start looking ugly.

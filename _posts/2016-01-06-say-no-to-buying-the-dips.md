@@ -12,9 +12,8 @@ tags:
   - AAPL
   - stocks
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/RenownJan0616.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/RenownJan0616.png" alt="%cliboard" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/RenownJan0616.png" alt="http://themacrotourist.com/pictures/RenownJan0616.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 For me, the most difficult part of trading is dealing with the fact market moves always last way, way longer than anyone expects (or maybe just much longer than I expect). Much to my detriment, I am always too early, and then when it finally turns my way, I continually make the same mistake of assuming it has run too far too fast the other way. Like Lindsay Lohan at a Hollywood vodka launch party, I struggle with this problem incessantly. They say admitting you have a problem is the first step to recovery, so maybe this post will prove cathartic for my trading. If Lindsay can get sober, maybe I can actually ride a trend for more than a week or two before I am already thinking about fading it.
 
@@ -22,9 +21,8 @@ For those suffering with a similar addiction, it might seem like the current sto
 
 Even though the bears are well acquainted with all the reasons the US stock market is overvalued and due for a decline, the bulls are just _waking up_ to this realization. For the longest time the Federal Reserve&#8217;s easy money policies have made the bears look like brain dead chicken littles, but have a look at what has happened since the Fed has stopped expanding its balance sheet:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SPXBSJan0616.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SPXBSJan0616.png" alt="%cliboard" width="800" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SPXBSJan0616.png" alt="http://themacrotourist.com/pictures/SPXBSJan0616.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 The Fed&#8217;s balance sheet leveled out in 2014, and since then, the stock market has gone sideways. But here is the real kicker; although the Fed&#8217;s balance sheet is not scheduled to decline, the non-traditional tools like reverse repos and issuance of interest bearing deposits the Fed is using to manage their tightening monetary policy campaign, have the _**same effect**_ as a balance sheet decline.
 
@@ -32,11 +30,10 @@ There are a ton of other reasons why the US stock market is overvalued, but unle
 
 But the most important part of this theory is that it is no longer just a theory. For the first time in a long time, market action is reflecting the bears&#8217; concerns. The stock market is trading heavy, with little ability to muster rallies of any real consequence. Suddenly the path of least resistance is down, not up.
 
-Even market darlings like Apple computer are sagging. For the longest time, this company could do no wrong. Everything was interpreted bullishly. Colossal flops like the Apple Watch (<a href="http://themacrotourist.com/blog/2015/05/27/may-2715-apple-announces-new-derek-zoolander-watch-edition/" target="_blank">Zoolander edition</a>) were quickly glossed over and unrealistic growth extrapolated forever into the future. Yet have a look at the chart lately:
+Even market darlings like Apple computer are sagging. For the longest time, this company could do no wrong. Everything was interpreted bullishly. Colossal flops like the Apple Watch (<img src="http://themacrotourist.com/blog/2015/05/27/may-2715-apple-announces-new-derek-zoolander-watch-edition/" target="_blank">Zoolander edition</a>) were quickly glossed over and unrealistic growth extrapolated forever into the future. Yet have a look at the chart lately:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/AAPLJan0616.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/AAPLJan0616.png" alt="%cliboard" width="800" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/AAPLJan0616.png" alt="http://themacrotourist.com/pictures/AAPLJan0616.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Apple has been struggling. And it is about time the stock market took notice to the poor company performance. It took forever, but the market can no longer ignore the bad news (from the Nikkei Asia Review):
 

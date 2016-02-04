@@ -20,8 +20,8 @@ tags:
 ---
 You have to give Mario Draghi credit. He sure knows how to manage market expectations. This latest move by the ECB has once again been played masterfully.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DraghiJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DraghiJun0614.png" width="600" height="500" />Draghi showed his Jedi mastery again&#8230;</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DraghiJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DraghiJun0614.png" width="600" height="500" />Draghi showed his Jedi mastery again&#8230;</a>
 </div>
 
 Over the last few weeks leading up to yesterday&#8217;s meeting, Draghi leaked enough information about the coming monetary easing to keep the market well bid. But he was careful to not give his whole hand away. By doing so, he was able to avoid the dreaded &#8220;sell the news &#8211; it&#8217;s all baked in&#8221; reaction. True mastery. I must admit that this guy knows how to play this game&#8230;
@@ -34,8 +34,8 @@ But Draghi & Co. weren&#8217;t satisfied with only lowering the interest rate in
 
 Most importantly was the introduction of a targeted four year 400 billion € LTRO (long term repurchase operation). There are plenty of questions of whether this will work. Force feeding banks cheap credit doesn&#8217;t help if no one wants to borrow. But short of actual QE, this is the next best thing.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ECBBSJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ECBBSJun0614.png" width="600" height="342" />ECB Balance Sheet</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ECBBSJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ECBBSJun0614.png" width="600" height="342" />ECB Balance Sheet</a>
 </div>
 
 One of my main worries for the European economy was the shrinking ECB balance sheet. This latest move from the ECB should arrest that decline and once again push it back into expansionary mode. It would obviously be a lot better if this expansion was more permanent, but Draghi has recognized this concern and made the TLTRO an especially long 4 years.
@@ -68,17 +68,16 @@ For example, the last time David Tepper made headlines was May 15th when he said
 
 But then yesterday the rally gathered steam when Tepper did an about face and said that his concerns had been alleviated.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXGIPJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXGIPJun0614.png" width="600" height="342" />S&P 500 trading over the last month</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXGIPJun0614.png" width="600" height="342" />S&P 500 trading over the last month</a>
 </div>
 
 Everyone deserves to change their opinion, and lord knows I get stuff wrong all the time. But I want to emphasize that if you were buying stocks yesterday because Tepper got bullish, you are trading with consensus. 
 
 At the beginning of the year as stocks rolled over, all the hedge fund managers got all beared up. As their fears have not been realized, they are scrambling to bring it back in.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BearJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BearJun0614.png" width="500" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BearJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BearJun0614.png" width="500" height="600">
 
 I understand that Tepper is changing his opinion based on a change in the investing landscape. The ECB&#8217;s actions have the potential of being truly game changing.
 
@@ -90,14 +89,13 @@ Yesterday&#8217;s ECB actions are indeed very reassuring for the European and gl
 
 Being short is scary as the bear camp has become even less populated, but I think you need to be loading up on cheap stock index puts. Avoid the temptation to blindly follow Tepper&#8217;s advice. He has already cost you 75 S&P handles. Make up your own mind. But don&#8217;t forget to ask yourself who is left to buy. There are precious few bears left. When the bears seem to be clinging on for dear life is often when the markets turn.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BearTreeJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BearTreeJun0614.png" width="600" height="600" />The last bear clinging on for dear life</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BearTreeJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BearTreeJun0614.png" width="600" height="600" />The last bear clinging on for dear life</a>
 </div>
 
 <hr size="3" width="85%" />
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJun0614.png" width="600" height="650" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJun0614.png" width="600" height="650"></p>

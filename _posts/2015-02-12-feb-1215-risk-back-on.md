@@ -17,15 +17,13 @@ tags:
   - stocks
   - Tim Cook
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/bigbirdFeb1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/bigbirdFeb1215.png" width="500" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/bigbirdFeb1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/bigbirdFeb1215.png" width="500" height="600">
 
 Tough days have returned for those of us preaching caution in the financial markets. Stock indices are once again rocketing higher, shrugging off bad news quickly, and screaming upwards on any sort of hint of good news. I guess that is what happens when you get almost every Central Bank in the world (apart from the US and China) pulling the rip cord on aggressive monetary easing. Every time you turn around another country is pushing short term rates down below zero, and it is often affecting the entire yield curve. I read recently that nearly a quarter of all Eurozone government bonds are now **negative yielding.** We even had our first corporate issuer with a negative yielding bond. Nestle&#8217;s bonds have slipped below zero. The absurdity of the whole situation seems lost of most investors. There is an increasing desperation to buy any risk asset, after all, it is probably a better alternative than paying someone to keep your money. The idea that this might not end well does not enter the equation. They need to buy something &#8211; anything&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/yieldFeb1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/yieldFeb1215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/yieldFeb1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/yieldFeb1215.png" width="600" height="342">
 
 All of this easy money is once again awakening the animal spirits. Nothing sums this froth up better than Apple&#8217;s recent run. Now before you dismiss me as some neophyte who doesn&#8217;t understand that by many fundamental metrics Apple is actually cheap, let me assure you I am familiar with all the bulls&#8217; arguments. I just don&#8217;t agree with the idea that the world&#8217;s biggest company can continue growing at anywhere near the rate that the bulls would have you believe. Apple&#8217;s CEO Tim Cook&#8217;s recent refutation of this idea could be the main driving force behind this latest runaway move.
 
@@ -45,9 +43,8 @@ Although I don&#8217;t expect Tim to admit he knows there is no way that Apple c
 
 Investors are eating it up hook line and sinker. We have now had two days of gapping into new highs, with another gap looking likely this morning.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AAPLFeb1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AAPLFeb1215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AAPLFeb1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AAPLFeb1215.png" width="600" height="342">
 
 Over the last couple of weeks, Apple has added over $100 billion of market cap. It has become the first company to ever surpass $700 billion, and in a sure sign that should send shivers down the spine of the bulls, there is talk about Apple becoming the first trillion dollar company. 
 
@@ -73,6 +70,5 @@ The US stock market is being fuelled by the cheap money sloshing around the glob
 
 I am going to leave you with this great tweet that I stumbled on yesterday&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/oilFeb1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/oilFeb1215.png" width="600" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/oilFeb1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/oilFeb1215.png" width="600" height="450">

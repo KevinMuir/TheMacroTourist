@@ -11,9 +11,8 @@ categories:
 tags:
   - Stanley Druckenmiller
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ProfessorOct2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/ProfessorOct2415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ProfessorOct2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ProfessorOct2415.png" width="600" height="342">
 
 Last week an old buddy asked me to zip off to NYC for the Grants Interest Rate Observer Conference. The lineup was impressive with Jim Chanos, John Hathaway and Martin Wolf being notable speakers, but for me, the real attraction was Stanley Druckenmiller. Unfortunately I couldn&#8217;t go, but my buddy was kind enough to send me his notes (for which I am grateful). 
 
@@ -31,17 +30,15 @@ Stop and think about for a second. One of the greatest traders of the past few g
 
 Not only that, Druck goes on to say everything since QE2 has been a mistake.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/AnotherOct2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/AnotherOct2415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/AnotherOct2415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/AnotherOct2415.png" width="600" height="342">
 
 I am not sure exactly when _it was, and wasn&#8217;t_, a mistake, but I know the quaint notion the economy can resume to normal is a pipe dream. 
 
 All these pundits who think the Federal Reserve can normalize rates and somehow everything will return to the days of old are dreaming. We have piled on so much debt, expanded the Central Bank balance sheet by such a gargantuan amount, there is simply no way the previous economic rules apply.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/FARBASTOct2615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/FARBASTOct2615.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/FARBASTOct2615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/FARBASTOct2615.png" width="600" height="342">
 
 I am not here to tell you I know how it will play out. I don&#8217;t think anyone knows with any degree of certainty. And I guess that&#8217;s my main point. When wise traders like Stanley Druckenmiller admit they don&#8217;t have a playbook because we are in such a unique situation, I think you should listen. 
 

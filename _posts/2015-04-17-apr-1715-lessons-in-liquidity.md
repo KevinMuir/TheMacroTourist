@@ -17,9 +17,8 @@ tags:
   - platinum
   - stocks
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GetOutApr1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GetOutApr1715.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GetOutApr1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GetOutApr1715.png" width="600" height="400">
 
 I started work on Canada&#8217;s biggest dealer&#8217;s institutional equity desk in the early 1990s. I was hired to help another trader whose large index client was increasingly taking more of his time. Back then Wells Fargo was the world&#8217;s biggest index fund and serving them took a fair amount of technical skill to execute the large baskets they wanted to transact. As my boss later told me, &#8220;there were candidates that had better computer abilities than you, and there were candidates that had more trading experience, but no one had your mixture of both skills.&#8221; I was lucky to be at the forefront of the computerized trading revolution, and therefore I progressed quicker than many other traders. Within a couple of years I had graduated from serving index clients to running a large equity index derivative book. Most of our trading was index arbitrage and making markets in ETFs for institutional clients, but we quickly became the biggest index player in Canada. 
 
@@ -77,8 +76,8 @@ And it&#8217;s not just sell side CEOs trying to scare Congress into loosening t
     This sort of decline is not limited to just fixed income. Have a look at this chart of NYSE trading:
   </p>
   
-  <div style="width: image width px; font-size: 80%; text-align: center;">
-    <a href="http://themacrotourist.com/pictures/Azure/NYSEApr1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/NYSEApr1715.png" width="600" height="342" /></a>
+  
+    <img src="http://themacrotourist.com/pictures/Azure/NYSEApr1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NYSEApr1715.png" width="600" height="342" /></a>
   </div>
   
   <p>
@@ -103,8 +102,8 @@ And it&#8217;s not just sell side CEOs trying to scare Congress into loosening t
     I keep waiting for this next relationship to break down. I know there are often superfluous correlations that work for a while, but eventually prove to be nothing more than a statistical fluke. But this one seems to have more staying power than I would have ever imagined.
   </p>
   
-  <div style="width: image width px; font-size: 80%; text-align: center;">
-    <a href="http://themacrotourist.com/pictures/Azure/GOLDPLATApr1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GOLDPLATApr1715.png" width="600" height="342" /></a>
+  
+    <img src="http://themacrotourist.com/pictures/Azure/GOLDPLATApr1715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDPLATApr1715.png" width="600" height="342" /></a>
   </div>
   
   <p>
@@ -115,6 +114,6 @@ And it&#8217;s not just sell side CEOs trying to scare Congress into loosening t
     Thanks for reading and have a great wk-end,<br /> Kevin Muir<br /> the Macro Tourist
   </p>
   
-  <div style="width: image width px; font-size: 80%; text-align: center;">
-    <a href="http://themacrotourist.com/pictures/Azure/TheMacroTouristBear.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TheMacroTouristBear.png" width="300" height="300" /></a>
+  
+    <img src="http://themacrotourist.com/pictures/Azure/TheMacroTouristBear.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TheMacroTouristBear.png" width="300" height="300" /></a>
   </div>

@@ -27,9 +27,8 @@ Although there is shortage of things to talk about, many market pundits seem to 
 
 A growing crowd of market watchers thinks that the Fed is behind the curve.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BehindSep1514-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BehindSep1514-1.png" width="600" height="300" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/BehindSep1514-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BehindSep1514-1.png" width="600" height="300"></p> 
 
 The market has suddenly become worried that the Fed is going to try to guide short term rates higher. 
 
@@ -51,9 +50,8 @@ And don&#8217;t forget last month&#8217;s terrible US employment report. With su
 
 In the meantime though, the market is fretting. The US dollar continues to rally and there are increasing signs of stress starting to pop up. Have a look at the trading of the REIT index on Friday.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/REITSep1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/REITSep1214.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/REITSep1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/REITSep1214.png" width="600" height="342">
 
 That is an ugly day. 
 
@@ -63,9 +61,8 @@ My suspicion is that they are pleased with the fact that the stock market and ot
 
 Also the recent rout in the commodity markets relieves the Fed of much of the worries about their dovishness translating into inflation.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CRYSep1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CRYSep1514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CRYSep1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRYSep1514.png" width="600" height="342">
 
 Given my belief that the Fed will err on disappointing the bears at this Wednesday&#8217;s FOMC meeting, I am tempted to cover a little of my short stock market position. But the one thing I have learned is that when the selling finally starts, it often keeps going on longer than I would have guessed. 
 
@@ -112,6 +109,5 @@ If the Fed does err on dovishness at this Wednesday&#8217;s meeting, then I am g
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsSep1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsSep1514.png" width="600" height="442" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep1514.png" width="600" height="442"></p>

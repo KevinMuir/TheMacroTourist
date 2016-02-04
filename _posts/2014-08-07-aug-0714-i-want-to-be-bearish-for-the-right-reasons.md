@@ -21,9 +21,8 @@ One of my pet peeves is when market pundits (who really should know better) use 
 
 In the post the author shows a graph of the price of the S&P 500 ETF with the rate of change in the number of units outstanding in the sub-graph at the bottom. In big red marker they have highlighted OUTFLOWS for the area where the number of units outstanding has declined. I have recreated the graph in my Bloomberg, but I have also included the total amount of units outstanding so we can get a better sense about what is going on.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPYOutAug0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPYOutAug0614.png" width="600" height="342" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPYOutAug0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPYOutAug0614.png" width="600" height="342"></p> 
 
 There has indeed recently been a big redemption of SPY ETF outstanding. But what does that really mean? 
 
@@ -49,9 +48,8 @@ We had TIPs redemptions that were absolutely massive. But that did not mean that
 
 Back to our SPY redemption headline from yesterday. If we expand the chart above a little further back in time, you will notice an interesting thing happened during the 2008 credit crash.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPYOutLTAug0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPYOutLTAug0614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPYOutLTAug0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPYOutLTAug0614.png" width="600" height="342">
 
 As the index plummeted, the amount of units outstanding of SPY ETF _actually increased._ Portfolio managers were most likely using the SPY as a way to gain exposure to the index without having to pick individual stocks. The amount of units outstanding doubled during 2008! Yet stocks kept going lower and lower.
 
@@ -69,9 +67,8 @@ Don&#8217;t get me wrong, I am bearish too. I just want to be bearish for the ri
 
 Yesterday we hit an air pocket in Yen. Out of nowhere the Japanese Yen spiked 60 pips. For no reason at all.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPYAug0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPYAug0714.png" width="600" height="342" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPYAug0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYAug0714.png" width="600" height="342"></p> 
 
 There was no rumour of some geo-political event. There was no economic news. There was no correlated asset pressuring the Yen higher.
 
@@ -91,6 +88,5 @@ I think this sort of vacuum move is a precursor of moves to come. There are a sl
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsAug0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsAug0714.png" width="600" height="450" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsAug0714.png" width="600" height="450"></p>

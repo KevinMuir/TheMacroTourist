@@ -13,11 +13,10 @@ tags:
   - Central Banks
   - Fortress
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CBOct1415.png
-"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CBOct1415.png
-" width="600" height="700" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CBOct1415.png
+"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CBOct1415.png
+" width="600" height="700">
 
 Earlier this week, another high profile macro hedge fund announced it was closing the doors. From the WSJ:
 
@@ -75,9 +74,8 @@ Take a guess at how many shares of Apple the Swiss National Bank holds? At the t
 
 Or how about the CME&#8217;s Central Bank incentive program?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/CMEOct1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/CMEOct1415.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/CMEOct1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/CMEOct1415.png" width="600" height="600">
 
 Why would Central Banks ever need to bang around S&P 500 futures? 
 

@@ -16,9 +16,8 @@ tags:
   - oil
   - Saudi Arabia
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DennisMay0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/DennisMay0515.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DennisMay0515.png" alt="http://themacrotourist.com/pictures/Azure/DennisMay0515.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Do you remember all the hysteria about the oil crash a few months ago? How can you forget the famous Dennis Gartman crude will “go the way of whale oil” comment? And then this [“Get Ready for $10 oil”](http://www.bloombergview.com/articles/2015-02-16/oil-prices-likely-to-fall-as-supplies-rise-demand-falls) Gary Shilling Bloombergview piece in mid-February certainly helped with the bearish sentiment. By the beginning of March, the “market experts” were so worried about the growing storage glut, they were predicting prices could fall all the way to $20:
 
@@ -64,9 +63,8 @@ The market got overly bearish below $50, and it is probably getting overly bulli
 
 As the market breaks above $60 in the coming days, the calls for a new bull market in crude oil will fill the airwaves. Ignore them and don’t forget it is was only a couple of months ago that crude oil was going to be as useful as “whale oil.”
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/WhaleOilMay0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/WhaleOilMay0515.png" alt="%cliboard" width="400" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/WhaleOilMay0515.png" alt="http://themacrotourist.com/pictures/Azure/WhaleOilMay0515.png" style="margin:30px auto;display:block;" width="400" height="500">
 
 <hr size="3" width="85%" />
 
@@ -78,9 +76,8 @@ The world economy is improving and this will keep a decent bid to crude oil.
 
 If so, what does this mean to the other markets? Have a look at this chart of the US Treasury 5/30 yield spread versus crude oil over the past half a year.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/US530CLMay0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/US530CLMay0515.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/US530CLMay0515.png" alt="http://themacrotourist.com/pictures/Azure/US530CLMay0515.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The curve has been moving almost lock step with crude oil. And if anything, the curve is predicting a little more upside in the crude oil price… Hmmm. Maybe I should chase oil after all…
 

@@ -18,15 +18,13 @@ tags:
   - stocks
   - Yellen
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/YellenSep2115.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/YellenSep2115.png" alt="%cliboard" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/YellenSep2115.png" alt="http://themacrotourist.com/pictures/YellenSep2115.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 I wouldn’t want Yellen’s job for all the money on the Fed’s balance sheet. She can’t win no matter what she does. Given the Federal Reserve’s mandate, Thursday’s decision to leave rates unchanged was the correct course of action. To start a tightening campaign with inflation running below target and the global economy imploding would be foolishness of the tallest order. Yet due to the ensuing stock market sell off, everyone is pissed at Yellen’s decision.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ESZ5Sep2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/ESZ5Sep2215.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ESZ5Sep2215.png" alt="http://themacrotourist.com/pictures/ESZ5Sep2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The monetary hawks are screaming blue murder that the market is selling off because the Fed is irresponsible (which is complete horse shit, but that doesn’t stop them). The doves are scared that Yellen can no longer engineer their reliable consistent steady climb higher. Somehow they think that constant 10% positive returns are their God given right.
 
@@ -34,15 +32,13 @@ Everyone is a critic of the Federal Reserve. Although I am sympathetic to the co
 
 The real mistake was committed almost twenty years ago when Greenspan recognized the dangers of the overly easy monetary policy, and instead of having the courage to tighten, merely gave a speech.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/TotalCreditSep2215-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/TotalCreditSep2215-1.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/TotalCreditSep2215-1.png" alt="http://themacrotourist.com/pictures/TotalCreditSep2215-1.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 December 5th, 1996 was probably the last time we could turn back. At that point Greenspan noted the possibility of the stock market being “irrationally exuberant.”
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SPXIrrSep2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SPXIrrSep2215.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SPXIrrSep2215.png" alt="http://themacrotourist.com/pictures/SPXIrrSep2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 On that date, credit as a percentage of GDP was roughly the same as during the 1929 boom high. Engaging in prudent economic policies would have been painful, but it might have been manageable.
 
@@ -50,9 +46,8 @@ But look at what happened to debt since then. It has exploded higher. Since then
 
 Have a look at total credit during the 2008 financial crisis.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/DestroySep2215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/DestroySep2215.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/DestroySep2215.png" alt="http://themacrotourist.com/pictures/DestroySep2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The mere plateauing of credit was enough to send the global economy into a monster deleveraging vicious circle.
 

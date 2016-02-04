@@ -19,9 +19,8 @@ tags:
 ---
 We all know that the global economy is stinking. Europe’s economy is a swampy deflationary mess. Japan’s looks a little better, but it questionable whether any of the growth is real, or if it is all just nominal price increases from its aggressive currency stealth devaluation. China is growing, but not nearly as fast as the world economy is accustomed. But into this global slowdown, the one standout has been the US economy. For the past little while, the US has seemed to be able to continue chugging along without being hampered by the weak global economy. But how long can that last? Is the US economy really as strong as traders believe? Should we really not worry about it? Are we sure it is good?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/goodNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/goodNov2614.png" alt="%cliboard" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/goodNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/goodNov2614.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 There is a big part of me that says don’t over think it. Economies tend to continue along in one direction far longer than a hyper active trader like myself imagines. An economy that is getting stronger usually continues to get stronger until the Central Bank chokes off growth by raising rates. That process can sometimes takes years, and second guessing when the strengthening momentum is going to peter out is a difficult endeavour.
 
@@ -31,21 +30,18 @@ I am unsure if the US economy is going to falter to the pressure of the global e
 
 First off, the initial claims rose by an unexpected 22k. Economists were expecting 288k claims. They came in at 313k. The disturbing aspect of the claims data is that it seems to be trending higher. It is a noisy series, but it isn’t headed the right way.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ClaimsNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ClaimsNov2614.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ClaimsNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ClaimsNov2614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 And just in case you don’t think that initial claims matter, have a look at the chart of the S&P 500 versus the inverted claims number.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JoblessClaimsSPXNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/JoblessClaimsSPXNov2614.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JoblessClaimsSPXNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/JoblessClaimsSPXNov2614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 It wasn’t just claims that disappointed. Have a look at the screen shot of the economic releases versus expectations.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ECONov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ECONov2614.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ECONov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ECONov2614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 There can be no denying that these releases were below forecast. Personal income, below forecast. Most of the goods data &#8211; disappointing. Chicago and University of Michigan sentiment numbers , below consensus. And finally the pending home sales topped off the weak numbers with another miss.
 
@@ -53,9 +49,8 @@ Is the global economic weakness spreading to the US? I am not sure, but this was
 
 And what really scares me is that global bond markets are all hitting new lows in terms of yields. The bond market is generally much better at forecasting the economy than stocks, so the recent dramatic decline in yields really freaks me out.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/10sNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/10sNov2614.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/10sNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/10sNov2614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 German 10 year yields are basically at an all time low of 73.5 basis points. Japanese 10 years yields have pushed back down to their all time low level of 43.7 basis points. The US 10 year is yielding a whopping 2.23 basis points, but it has been falling as well.
 

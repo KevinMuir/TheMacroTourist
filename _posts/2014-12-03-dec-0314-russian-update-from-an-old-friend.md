@@ -23,9 +23,8 @@ My best friend from high school is in many ways the polar opposite of me. My amb
 
 I am lucky to have my pal for many reasons, but lately the fact that he is selling to so many different markets, I have found his reports from all over the globe especially useful. One of the markets that his firm currently sells into is Russia. My buddy figures that since I refuse to explore the world like him, he is at least going to educate me one photo at time. For example, I now know that Russians love Bruce Willis and that his photo is plastered all over Moscow.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BruceDec0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BruceDec0314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BruceDec0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BruceDec0314.png" width="600" height="342">
 
 But what is especially helpful is my pal&#8217;s reports about the state of the actual business on the ground. About a month ago, when the Ruble was around 47 to the US dollar, he sent me an update about his Russian business: 
 
@@ -34,9 +33,8 @@ But what is especially helpful is my pal&#8217;s reports about the state of the 
 
 Since my buddy has sent that email, the Ruble has fallen another 15% and the price of crude oil has collapsed!
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/RubDec0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/RubDec0314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/RubDec0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RubDec0314.png" width="600" height="342">
 
 It is easy for us to sit in front of our trading screens and watch as the Russian financial markets collapse. But it is important to remember that there are real consequences to these moves. 
 
@@ -48,8 +46,8 @@ I am not going to bother debating whether those sanctions are justified or not. 
 
 The pressure on Putin has been cranked to a level that something big is going to happen. Maybe Obama will get lucky and Putin is going to cry uncle from all the sanctions and the orchestrated lowering of the oil price.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/RussiansDec0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/RussiansDec0314.png" width="600" height="442" /> </a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/RussiansDec0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RussiansDec0314.png" width="600" height="442" /> </a>
 </div>
 
 Then again, maybe Santa Claus is real and going to grant me my wish that the stock market start to be priced on fundamentals instead of Central Bank flows.
@@ -78,9 +76,8 @@ These are not normal times. The market is underestimating the chances of either 
 
 Well, here&#8217;s your answer:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TermDespositDec0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TermDespositDec0314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TermDespositDec0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TermDespositDec0314.png" width="600" height="342">
 
 Yesterday the Fed withdrew the largest amount from the system since the program was introduced! It is no wonder that the US dollar broke out to new highs yesterday. 
 
@@ -90,6 +87,5 @@ I will repeat it again, the Fed is tightening, and it is only a matter of time b
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsDec0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsDec0114.png" width="600" height="242" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsDec0114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsDec0114.png" width="600" height="242"></p>

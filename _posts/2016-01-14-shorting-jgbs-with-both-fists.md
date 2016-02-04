@@ -12,9 +12,8 @@ tags:
   - Japan
   - JGB
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/JGBWarningJan1416.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/JGBWarningJan1416.png" alt="%cliboard" width="600" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/JGBWarningJan1416.png" alt="http://themacrotourist.com/pictures/JGBWarningJan1416.png" style="margin:30px auto;display:block;" width="600" height="450">
 
 There was a time not that long ago when Japan was the only major economy with a zero interest rate.
 
@@ -22,25 +21,22 @@ Sixteen years ago as the new new millennium was being ushered in, most countries
 
 Yet it was during this crazy time that Japan entered a balance sheet recession. In March of 1999 the Bank of Japan lowered their overnight rate to the unprecedented level of 0% and it has since spent 12 of the last 16 years firmly stuck there.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/JpnONJan1416.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/JpnONJan1416.png" alt="%cliboard" width="800" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/JpnONJan1416.png" alt="http://themacrotourist.com/pictures/JpnONJan1416.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 When Japan first made the move to a zero interest rate, all the _Milton Friedman monetarists_ predicted runaway inflation. Surely setting overnight rates at such an unheard low level would create rampant price increases.
 
 But what almost everyone failed to realize was that Japan had entered what economist Richard Koo labelled a **&#8220;Balance Sheet Recession.&#8221;** The 1980&#8217;s Japanese bubble had created so much debt, the private sector was unwilling to borrow &#8211; at any price! As Japan lowered their interest rate, borrowers simply said thank you very much for the reduction in the cost of carry, and continued to pay down debt. There was zero desire to take out new debt. The velocity of money in the Japanese economy plummeted as credit contracted.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/VelocityJan1416.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/VelocityJan1416.png" alt="%cliboard" width="800" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/VelocityJan1416.png" alt="http://themacrotourist.com/pictures/VelocityJan1416.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 Milton Friedman&#8217;s famous idiom _&#8220;inflation is always and everywhere, a monetary phenomenon&#8221;_ was born from an era of stable monetary velocity. A collapse in the velocity was never contemplated as a response to absurdly low interest rates. Yet this is exactly what happened in Japan. Instead of inflation rearing its ugly head, deflation set in.
 
 But it took traders years to figure this out. During this period every smart Alec macro manager lost princely sums shorting JGBs (Japanese Government Bonds) assuming inflation was just around the corner. This trade was so popular, and such a perpetual loser, it was dubbed the _**Macro Widow Maker.**_ John Mauldin even joked that you couldn&#8217;t call yourself a macro trader until you had lost a fortune trading JGBs.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/JGBJan1416.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/JGBJan1416.png" alt="%cliboard" width="800" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/JGBJan1416.png" alt="http://themacrotourist.com/pictures/JGBJan1416.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Now a days these minuscule yields don&#8217;t seem that unusual, but spending almost the last two decades under a 2% yield for the 10 year has been truly mind blowing.
 
@@ -52,17 +48,15 @@ Japan was also the first to engage in quantitative easing. They have flirted wit
 
 The latest Japanese Prime Minister was elected on a platform of finally squashing the relentless pattern of lower prices. Prime Minister Abe put in place a series of policies that was labelled Abeconmics, designed to break the back of deflation. There was a series of programs and reforms, but the main weapon was an absolutely breath taking amount of Quantitative Easing.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BOJTAJan1416.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/BOJTAJan1416.png" alt="%cliboard" width="800" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BOJTAJan1416.png" alt="http://themacrotourist.com/pictures/BOJTAJan1416.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 It is difficult to understand how much &#8220;printing&#8221; the Bank of Japan has done over the past few years. Think about it this way; the US economy is a $18 trillion dollar economy with a Fed balance sheet a little more than $4.5 trillion. The US Central Bank&#8217;s balance sheet is approximately 25% of GDP. The Japanese economy is a 488 trillion Yen economy but the Bank of Japan&#8217;s balance sheet is 385 billion Yen! **Their balance sheet is almost 80% of the GDP!**
 
 It is no wonder that this all of this balance sheet expansion has sent the Japanese Yen into the toilet:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/YenJan1416.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/YenJan1416.png" alt="%cliboard" width="800" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/YenJan1416.png" alt="http://themacrotourist.com/pictures/YenJan1416.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Although there are plenty of naysayers who claim Prime Minister Abe&#8217;s program have made things worse, I disagree. The Japanese were engulfed in a massive deflationary vicious circle. A failure to act would have seen their economy collapse.
 
@@ -72,9 +66,8 @@ The Japanese have hit hard with their crazy aggressive QE program. In the proces
 
 Have a look at the big famed Big Mac index:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BigMacJan1416.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/BigMacJan1416.png" alt="%cliboard" width="350" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BigMacJan1416.png" alt="http://themacrotourist.com/pictures/BigMacJan1416.png" style="margin:30px auto;display:block;" width="350" height="400">
 
 Japan has gone from being one of the most expensive places in the world, to one of the cheapest.
 
@@ -92,9 +85,8 @@ I think QE works, you just need to do an uncomfortable amount. Japan has done th
 
 In the mean time, I think this recent JGB rally offers an excellent point to get short.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Japanese10YearJan1416.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Japanese10YearJan1416.png" alt="%cliboard" width="800" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Japanese10YearJan1416.png" alt="http://themacrotourist.com/pictures/Japanese10YearJan1416.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 We will look back at this period and be amazed anyone thought lending to the Japanese government with their massive debt and insanely aggressive monetary policies at 25 basis points for 10 years was a good idea. **I am shorting JGBs with both fists.** Everyone has forgotten about this trade, but I still have all the wounds from my previous attempts and I want to make sure I get some payback. Try it enough times, even I might get it right&#8230;
 

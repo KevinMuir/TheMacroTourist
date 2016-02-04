@@ -21,41 +21,35 @@ tags:
 ---
 After a hiatus of nearly a couple years, fear finally returned to the market. Yesterday there were some real panicky moves &#8211; the likes we haven’t seen in a long, long time. The largest volatility was in the US Treasury market where there was a mad desperate scramble to bring in the shorts. In the morning as all the bad news was hitting the tape, the bond market started moving higher. Suddenly there was a lack of offers. The shorts panicked and grabbed everything they could. Idiots with big short positions, like these guys below, were suddenly gripped by fear.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/UBFillsOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/UBFillsOct1614.png" alt="%cliboard" width="600" height="425" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/UBFillsOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/UBFillsOct1614.png" style="margin:30px auto;display:block;" width="600" height="425">
 
 The market found the weakest hand and exploited it. The chart of yesterday’s trading is pretty awesome.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/WNGIPOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/WNGIPOct1514.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/WNGIPOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/WNGIPOct1514.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 They jerked the Ultra Long Bond future up a full 7 points, squeezed out the shorts and then brought it all the way back down. You can see the severity of the move even better when you dial the daily chart.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/WNGPOOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/WNGPOOct1514.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/WNGPOOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/WNGPOOct1514.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 For a bit it seemed like the action might contain itself to the treasury market.
 
 In the morning the stock market gapped down, but actually rallied for the first hour. By noon it started fading. Then after lunch, the fear (and panicking) hit the equity market with a vengeance.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ESFillsOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ESFillsOct1514.png" alt="%cliboard" width="600" height="425" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ESFillsOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ESFillsOct1514.png" style="margin:30px auto;display:block;" width="600" height="425">
 
 At the lows, the S&Ps were down more than 65 handles on the day.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ESZ4GIPOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ESZ4GIPOct1514.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ESZ4GIPOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ESZ4GIPOct1514.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 And this was after a whole week of some pretty aggressive selling already.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ESZ4GPOOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ESZ4GPOOct1514.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ESZ4GPOOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ESZ4GPOOct1514.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Just like that, in the space of two quick weeks, all the equity gains for the year had suddenly disappeared.
 
@@ -78,9 +72,8 @@ There are already calls from some market constituents for the Fed to get prepare
 
 Here is an example of the type of model the Fed uses to set interest rates. I have used the Mankiw modified Taylor rule because the traditional Taylor rule is too tight for the Fed and they have come up with all sorts of reasons to be easier than Taylor originally planned.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TAYLOROct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/TAYLOROct1614.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TAYLOROct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/TAYLOROct1614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 If you notice on the graph, the spread between the model and the actual rate has finally gone negative. Due to the fact that the Fed is bound by zero, when the model called for negative rates, the spread was positive. The easing that would have usually been applied through lowering of the Fed Funds was accomplished through Quantitative Easing. At the end of the three previous QE programs (I am including Operation Twist), the models were still calling for negative rates. That is why Bernanke’s last QE program was not a set amount, but instead a promise to continue easing until the economy healed enough for the Fed Funds rate to come off zero.
 
@@ -100,15 +93,13 @@ Although I think the Fed’s winding down of QE was going to affect the markets 
 
 I have long argued that the ECB was too tight. With the Fed and the Bank of Japan aggressively expanding their balance sheet over the past couple of years, the ECB’s balance sheet has instead been shrinking.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ECBOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ECBOct1614.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ECBOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ECBOct1614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The conflicting Central Bank policies have resulted in Europe importing all the world’s deflation. And this is having an obvious affect on their economy. Have a look at GDP growth of the US and the UK (which both engaged in aggressive balance sheet expansion) versus Europe since the credit crisis.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDPOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/GDPOct1614.png" alt="%cliboard" width="500" height="542" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDPOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/GDPOct1614.png" style="margin:30px auto;display:block;" width="500" height="542">
 
 I remember seeing a study about the competitive devaluations that happened in the 1920s. The countries that waited to devalue suffered way more with a greater permanent loss of wealth. Bar fights rules seem to apply &#8211; hit hard, hit first and keep hitting until the other guy is down. Over the past couple of years, Europe has sat there like a chump and taken it while the rest of the world has engaged in massive quantitative easing.
 
@@ -128,9 +119,8 @@ Tepper even went on to say that Draghi’s comments marked the end of the bond b
 
 This optimism led to that final “risk on” push in the final days of summer. But since then it has become more and more clear that Draghi would not be able to follow through with his big promises. As autumn rolled in, the disappointments started.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/vaderOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/vaderOct1614.png" alt="%cliboard" width="400" height="550" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/vaderOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/vaderOct1614.png" style="margin:30px auto;display:block;" width="400" height="550">
 
 The dark side quickly enveloped the markets as it became obvious that the ECB’s much hoped for balance sheet expansion was no where as easy as Draghi insinuated.
 
@@ -156,6 +146,5 @@ But don’t mistake my trading call for a long term belief that stocks are going
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsOct1614.png" alt="%cliboard" width="600" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsOct1614.png" style="margin:30px auto;display:block;" width="600" height="300">

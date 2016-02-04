@@ -15,9 +15,8 @@ tags:
   - SCHOMP
   - Soros
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GeorgeBubbleChaser.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GeorgeBubbleChaser.png" width="400" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GeorgeBubbleChaser.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GeorgeBubbleChaser.png" width="400" height="500">
 
 My younger cockier self used to try to short every bubble out there. I used to rail against all the stupid prices, the parabolic moves and the ignorant performance chasing. But the last five years have been tough on me. Bubbles are so prevalent, with so many asset prices going to levels that make no sense. German 10 year bunds at 0.05%? How do you account for that sort of stupidity? The Central Banks are in the driver&#8217;s seat of these latest manias, and in some ways, they are even more delusional than the maddest crowd. 
 
@@ -25,15 +24,13 @@ As I have gotten older, and the tiniest bit wiser (although my wife says it is b
 
 There are lots of pundits who are proclaiming the Chinese equity market to be a massive bubble. I can&#8217;t say I disagree. Any equity index that more than doubles in one year is most likely a little bubbly. When you see banana stand guys trading stocks from their booths, you know the risks are high. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SHCOMPJul0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/SHCOMPJul0715.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SHCOMPJul0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SHCOMPJul0715.png" width="600" height="342">
 
 Yet the past three weeks have been tough on the Chinese stock market. The SHCOMP has plummeted over 30% during this period.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SHCOMP2Jul0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/SHCOMP2Jul0715.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SHCOMP2Jul0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SHCOMP2Jul0715.png" width="600" height="342">
 
 This sickening decline has retraced more than 50% of the recent rise. 
 
@@ -53,9 +50,8 @@ Remember the 1987 crash? Lots of investors mistakenly believed it was the start 
 
 What if the Chinese stock market correction of the last three weeks is more of a 1987 style crash instead of a 2008 roll over?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SPXSHCOMPJul0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/SPXSHCOMPJul0715.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SPXSHCOMPJul0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/SPXSHCOMPJul0715.png" width="600" height="342">
 
 The PBOC has already taken steps to stabilize the stock market decline. They have shown a willingness to ease policy to support their stock market (and their economy). The Chinese still have lots of room to stimulate through easier monetary policy, as opposed to many other Western countries that are zero bound. 
 
@@ -93,9 +89,8 @@ No wonder the Greeks are so hostile towards the Germans. Some of you might argue
 
 I saw an interesting statistic the other day about the extent of the economic contraction in Greece. The reporter said something to the effect that there has been much worse declines, and that the Greece situation was not that bad.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ContractionJul0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/ContractionJul0715.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ContractionJul0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ContractionJul0715.png" width="600" height="400">
 
 Have a good look at this chart. All the contractions that were worse than the recent Greek economic decline were either during war time or the result of the Great Depression. I don&#8217;t see how this is anything but a terrible humanitarian disaster. 
 
@@ -119,9 +114,8 @@ I do not see how a Grexit can be avoided. The Europeans and the ECB are turning 
 
 The market is still relatively calm, but I as one of my favourite twitter guys recently remarked:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/TwoandTwentyJul0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/TwoandTwentyJul0715.png" width="500" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/TwoandTwentyJul0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/TwoandTwentyJul0715.png" width="500" height="300">
 
 The shit has yet to hit the fan. Don&#8217;t assume that because the markets are not freaking out that everything will be fine. 
 
@@ -133,9 +127,8 @@ Bill Fleckenstein summed it up perfectly:
 
 It is quite fitting that outside the ECB they recently had to make repairs to the Euro statue:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Euromaintenance.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Euromaintenance.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Euromaintenance.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Euromaintenance.png" width="600" height="342">
 
 I suspect before this is all through, those repairmen will be needed for not only the Euro statue, but for the real Euro as well&#8230; Be careful out there&#8230;
 

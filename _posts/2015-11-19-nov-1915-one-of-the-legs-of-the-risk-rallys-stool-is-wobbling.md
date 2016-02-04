@@ -14,9 +14,8 @@ tags:
   - loans
   - stocks
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/DehydrateNov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/DehydrateNov1915.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/DehydrateNov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/DehydrateNov1915.png" width="600" height="342">
 
 Yellen and her colleagues at the Federal Reserve are desperately trying to wean the economy off their zero interest rate policy. Yet they are rightfully worried about the first interest rate rise causing market turmoil. So they have been slow to raise rates. Some would argue too slow. 
 
@@ -24,21 +23,18 @@ Although I have an opinion about the Federal Reserve&#8217;s policies, I try to 
 
 There can be no denying the Fed&#8217;s relatively hawkish stance (at least when compared to most other Central Banks) has tightened monetary conditions. The Federal Reserve&#8217;s balance sheet has been static since the end of QE3. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/FARBASTNov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/FARBASTNov1915.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/FARBASTNov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/FARBASTNov1915.png" width="600" height="342">
 
 And not only that, the Fed has been busy preparing the market for higher rates.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/US2Nov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/US2Nov1915.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/US2Nov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/US2Nov1915.png" width="600" height="342">
 
 Some might argue the Federal Reserve has not yet tightened. But don&#8217;t forget that a lot of monetary policy is a relative game. If the Federal Reserve has a static balance sheet while the ECB and BoJ are expanding like mad, then the US dollar will appreciate, which in turn will slow down the economy and tighten monetary conditions.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BUSDNov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/BUSDNov1915.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BUSDNov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BUSDNov1915.png" width="600" height="342">
 
 The big question is how long can this continue? 
 
@@ -62,17 +58,15 @@ This whole rally in risk assets has been fuelled by cheap money. Leveraged loans
 
 But what if the price of these loans was artificially juiced by QE? What if the recent decline is a return to pricing that more accurately reflects the real risks?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/LeveragedLoansNov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/LeveragedLoansNov1915.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/LeveragedLoansNov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/LeveragedLoansNov1915.png" width="600" height="342">
 
 If that is the case, what is the correct price for these loans? At the end of QE1 and QE2 when the price of financial assets stumbled, the Federal Reserve rushed back in with another QE program. This time there is no such backstop. In fact, the Federal Reserve seems intent on rushing a move off of zero for the Fed Funds rate. No wonder credit markets are struggling. 
 
 And let&#8217;s not forget that investors were pouring money into these sorts of fixed income asset classes as rates were compressed around zero.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/BKLNNov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/BKLNNov1915.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/BKLNNov1915.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/BKLNNov1915.png" width="600" height="342">
 
 I am not sure if there will be any stabilization until the actual hike (and even then I am not sure). I find it difficult to be bullish with the axe of the first rate hike in nine years dangling over the market&#8217;s neck. In the coming few weeks, we will get more and more bad news as loans and other fixed income assets continue to be under pressure.
 

@@ -19,9 +19,8 @@ tags:
   - Grantham
   - stocks
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GenerationXApr1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GenerationXApr1315.png" width="500" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GenerationXApr1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GenerationXApr1315.png" width="500" height="500">
 
 Although he didn&#8217;t coin the term Generation X, Douglas Coupland was the Canadian author that popularized its use for describing the group of people born between 1961 and 1981. **Generation X: Tales for an Accelerated Culture** was his debut novel that cemented the term into the English language, along with other popular slang like &#8220;McJob&#8221;, and earned Coupland a spot in the modern day history books. 
 
@@ -33,15 +32,13 @@ The other day during the March school break, my wife and I took our two younger 
 
 Coupland had many different interesting pieces on display, but my favourite by far was a wall full of tiles called &#8220;Slogans for the 21st century.&#8221;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SlogansApr1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SlogansApr1315.png" width="600" height="800" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SlogansApr1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SlogansApr1315.png" width="600" height="800">
 
 Even though there were a ton of different slogans that really made you think, there was a particular section of the wall that just made me laugh. Did you catch it? Over on the right side half way up?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BubblesApr1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BubblesApr1315.png" width="600" height="800" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BubblesApr1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BubblesApr1315.png" width="600" height="800">
 
 All I can say is; Mr. Coupland, I too am sick of bubbles&#8230;
 
@@ -55,9 +52,8 @@ If this rally was driven by a fundamental improvement in the economy, then I wou
 
 Still not convinced? Just look around at the bright people who are worried about the stock market&#8217;s prospects. Guys like GMO&#8217;s Jeremy Grantham who believe that Yellen has encouraged a &#8220;full fledged equity bubble.&#8221; Or BridgeWater&#8217;s Ray Dalio who recently said that:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DalioApr1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DalioApr1315.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DalioApr1315.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DalioApr1315.png" width="600" height="342">
 
 Or how about Stanley Druckenmiller&#8217;s recent comments:
 

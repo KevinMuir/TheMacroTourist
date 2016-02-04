@@ -14,9 +14,8 @@ tags:
   - Fed
   - liquidity
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/RelaxingPool.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/RelaxingPool.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/RelaxingPool.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RelaxingPool.png" width="600" height="342">
 
 Over the past few weeks there has been a tremendous amount of discussion in the media about the lack of liquidity in financial markets. Market pundits are tossing around a multitude of different theories for the reason of this collapse. Everything from the Volcker rule to HFT (high frequency trading) is being blamed. It seems like every big shot financial titan has felt the need to weigh in on this subject.
 
@@ -56,9 +55,8 @@ Orphanides believes the Fed is way behind the curve, and should immediately rais
   Orphanides: Let me mention why I am worried about the current cycle. Monetary policy operates with a substantial lag and it is very important to be preemptive in policy action. What this means is the Federal Reserve should try to steer policy towards what is normal, meaning not excessively accommodative and not excessively contractionary, before the economy actually reaches the state of full strength. In the current environment, since we are now a few years after the end of the recession, what this means is that policy should have started being normalized long before we reached the situation where the economy is almost at full strength. And this is what hasn’t happened this time. On this occasion what is the striking difference is that the Fed has not done anything to start the process of normalization yet, and, indeed, until last year it was injecting additional monetary policy accommodation in the economy and the economy has reached a situation where it is very close to its full strength.
 </p>
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MarketWatchJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MarketWatchJun1215.png" width="600" height="200" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MarketWatchJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MarketWatchJun1215.png" width="600" height="200">
 
 <p style="padding-left: 30px;">
   So we are in that sense behind the curve. Why do I stay that? In order to understand where we should be, we need to assess where we think a normal level of policy accommodation would be. In the current environment, if we take guidance from the FOMC’s own assessment, the FOMC is telling us they need to raise the federal funds rate by a few hundred basis points to reach what they consider to be an appropriate level for the long term. But what is missing from that is that, in addition to easing with interest rates in the current recessionary episode, the Fed has injected additional massive policy accommodation with quantitative easing. This will also have to be undone. And since the Fed has communicated that it does not intend to reduce the size of the balance sheet, interest rates will have to be raised even more than they would have to be raised in a normal recovery in order to normalize monetary policy. So the monetary policy tightening that needs to be engineered is quite substantial and this is why I believe they are already behind the curve.
@@ -66,15 +64,13 @@ Orphanides believes the Fed is way behind the curve, and should immediately rais
 
 I found this great chart from MacroBond that illustrates Orphanides point perfectly:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FedPolicyJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FedPolicyJun1215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FedPolicyJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FedPolicyJun1215.png" width="600" height="342">
 
 We all know how the Taylor Rule has been indicating the Fed should have raised rates ages ago:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TAYLORJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TAYLORJun1215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TAYLORJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TAYLORJun1215.png" width="600" height="342">
 
 According to this model, Fed funds should be north of 2%, not hovering at 0%. And this is Orphanides main point:
 
@@ -142,13 +138,11 @@ This interview is just jam packed with wise observations. I don&#8217;t have too
 
 My suspicion is the Fed is closer to raising rates than the market realizes. The always great [Martin Enlund](https://twitter.com/enlundm) posted a terrific chart that highlighted the market&#8217;s reluctance to price in Fed hikes:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MartinTweetJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MartinTweetJun1215.png" width="600" height="342" /></a>
-</div>
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FedFundsJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FedFundsJun1215.png" width="600" height="342" /></a>
-</div>
+  <img src="http://themacrotourist.com/pictures/Azure/MartinTweetJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MartinTweetJun1215.png" width="600" height="342">
+
+
+  <img src="http://themacrotourist.com/pictures/Azure/FedFundsJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FedFundsJun1215.png" width="600" height="342">
 
 There is an accident waiting to happen. The Fed has gone so long without raising rates, no one believes they will ever do it. Watch out for the reaction to be way larger than would have otherwise been the case.
 
@@ -158,9 +152,8 @@ There is an accident waiting to happen. The Fed has gone so long without raising
 
 I am going to channel my inner ZeroHedge&#8217;s Tyler Durden and rail against the system. This morning former IMF head Dominique Strauss-Kahn was acquitted in a French court because &#8220;he couldn&#8217;t have known the women in the orgies he participated in were prostitutes.&#8221; Yes, of course DSK. The beautiful half dozen twenty-something young women at your friend&#8217;s party all want to join your orgy because you are such a sexy 66 year stud muffin.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DSKJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DSKJun1215.png" width="300" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DSKJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DSKJun1215.png" width="300" height="300">
 
 I don&#8217;t care what people do in their private lives. I am not judging DSK (like he claimed in court) for his deviant sexual practices. He could have sex with a goat for all I care if the goat was into it. But let&#8217;s not forget why he was on trial in the first place. He &#8220;allegedly&#8221; raped a maid in an NYC hotel (which was never proven but was &#8220;settled out of court&#8221; for a huge sum of money). During his trial in France, a prostitute took the stand and told the story of pleading with him to not have to do the acts he requested. She recounted crying afterwards. What kind of sick f%# can make a hooker cry? These poor women have seen a lot. You need be a deranged sort of world class sadist to bring a prostitute to tears. 
 
@@ -170,9 +163,8 @@ Dominique Strauss-Kahn is a rich insider who &#8220;allegedly&#8221; abuses wome
 
 This is yet another example of how the system is abused by those in power. We are stepping closer and closer to the point where the masses rise up against this oppression. As DSK was leaving the courtroom with a big smile on his face, I am pretty sure I heard him say something about &#8220;cake.&#8221; 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/peopleJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/peopleJun1215.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/peopleJun1215.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/peopleJun1215.png" width="600" height="342">
 
 Thanks for reading,
   

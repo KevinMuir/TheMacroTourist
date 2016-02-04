@@ -21,17 +21,15 @@ tags:
 ---
 I know that too often I fight major trends. I get it that this is probably one of my failings as a trader. I should be much better at just climbing aboard the major moves and not worrying about all the things that could go wrong. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BearNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BearNov2614.png" width="450" height="552" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BearNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BearNov2614.png" width="450" height="552">
 
 To be fair, I understand full well the lunacy of the current environment. Although I think stocks could suffer a flash crash at any moment, I assign an equal chance of a no offering melt up. 
 
 Remember the October US bond market spike? 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BondsNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BondsNov2614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BondsNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BondsNov2614.png" width="600" height="342">
 
 It&#8217;s hard to really appreciate the stupidity of that move. The ultra long bond future went up 9 handles on nothing! The offerings disappeared and the shorts panicked. Next thing you know the market had risen by a mind boggling amount. This is supposedly the most liquid market in the world, and it basically went &#8220;no offer.&#8221;
 
@@ -43,15 +41,13 @@ This post is straying dangerously close to full blown rant, and that was not my 
 
 After that disclaimer, I present the following chart of the AUDJPY cross rate versus the S&P 500.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXAUDJPYNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXAUDJPYNov2614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXAUDJPYNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXAUDJPYNov2614.png" width="600" height="342">
 
 Over the past couple of days, the AUDJPY cross rate has been hammered. Yet the S&P 500 has so far hung in there. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXAUDNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXAUDNov2614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXAUDNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXAUDNov2614.png" width="600" height="342">
 
 Will the AUDJPY dip prove temporary? Will the AUD either rally, or the JPY decline resume shortly? Or does this foreshadow upcoming weakness in the US stock market? Or will this be yet another relationship that breaks down as the stock market continues its relentless ascent?
 
@@ -63,6 +59,5 @@ Be careful out there. There are not a lot bears left which will make any decline
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsNov2614.png" width="600" height="242" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsNov2614.png" width="600" height="242"></p>

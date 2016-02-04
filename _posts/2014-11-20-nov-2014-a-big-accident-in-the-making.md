@@ -18,9 +18,8 @@ tags:
   - Japan
   - stocks
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/spideywakeNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/spideywakeNov2014.png" width="500" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/spideywakeNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/spideywakeNov2014.png" width="500" height="342">
 
 My spidey senses are tingling again. I am the most nervous about the current market environment than I have been in a long time. 
 
@@ -28,17 +27,15 @@ I know the &#8220;secular bull&#8221; guys will tell you how the recent insane m
 
 I recently read some wise old market sage say how profits are the most mean reverting data series out there. Well, even if he is wrong (which I doubt he is), I just don&#8217;t see how profits are going to rise significantly.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CorporateNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CorporateNov2014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CorporateNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CorporateNov2014.png" width="600" height="342">
 
 This graph of corporate profits as a percent of GDP is hitting all times highs. Could we go higher? Sure, I guess anything is possible. Is this the right bet? Not on your life.
 
 But you might be saying to yourself, &#8220;that graph represents corporate profits as a percent of GDP. What if GDP rises?&#8221; I don&#8217;t doubt that the US economy is going to continue to grow, but I don&#8217;t know how they are going to get anywhere near the growth that the stock market expects.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDPNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GDPNov2014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDPNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDPNov2014.png" width="600" height="342">
 
 The world is quickly slipping into a deflationary funk. If the US stock market thinks that they are somehow immune, then it has a big surprise coming.
 
@@ -46,9 +43,8 @@ At this point you might argue, &#8220;corporate earnings and the growth rate is 
 
 You would be correct that the bond market has rallied recently, which has provided some support for stock valuations. But step back and look at the long term picture.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/US30YRNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/US30YRNov2014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/US30YRNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/US30YRNov2014.png" width="600" height="342">
 
 Do you think that betting on this trend continuing is a good risk reward? And if you do, then bonds are most likely going to rally even further because the economy has slipped into a deflationary downward spiral which is going to be terrible for stock earnings. 
 
@@ -62,29 +58,25 @@ You might acknowledge that my arguments make sense, but these points were just a
 
 I am not missing anything, I understand full well why the market is rising. The massive Japanese Yen carry trade and corresponding GPIF asset shift have set off a buying stampede the likes of which we have never seen. The bulls can go ahead and kid themselves that the fundamentals justify this rally, but I am calling bullshit. You don&#8217;t get month long moves of constant, relentless upticks because of a natural market environment. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXNov2014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXNov2014.png" width="600" height="342">
 
 There is absolutely nothing to justify this sort of rally. Earnings are not getting better. There hasn&#8217;t been a massive revaluation because of a lowering of the discount rate. The Fed has not changed from a tight policy to an easy one. This is nothing more than a piling into the one asset that has been rising. I have often talked about the rolling bubbles that we have experienced over the last few years. Due to the massive amounts of liquidity in the system, the theme of the day often creates these mini-bubbles. Today&#8217;s mini-bubble is the S&P 500. 
 
 But when is the fever going to burn out? I am not sure, but I am willing to take a shot on the dark side up here. Even the biggest bears are scared of the dark side.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/faithNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/faithNov2014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/faithNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/faithNov2014.png" width="600" height="342">
 
 The high yield market continues to trade like crap. Have a look at the BBB spread vs the S&P 500.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BBBvsSPXNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BBBvsSPXNov2014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BBBvsSPXNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BBBvsSPXNov2014.png" width="600" height="342">
 
 And although the big liquid S&P 500 is hitting new all time highs, the small cap stock market is nowhere near that lofty level. Yesterday it rolled over and hit a new two week low even though the S&P 500 was ticking at new highs.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/IWMNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/IWMNov2014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/IWMNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/IWMNov2014.png" width="600" height="342">
 
 So even though the fundamentals continue to weaken, and many other warning signs like small caps and corporate spreads are screaming caution, the bulls are rabid with excitement. They are quick to make fun of anyone who dares suggest that this isn&#8217;t the start of the most amazing bull move ever.
 
@@ -104,9 +96,8 @@ The Fed is not going to deviate from their path to normalize rates. They are alr
 
 For years, the Fed has been goosing the market with the expansion of their balance sheet.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXFEDNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXFEDNov2014.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXFEDNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXFEDNov2014.png" width="600" height="342">
 
 Their balance sheet is no longer expanding, and even though it is going to remain roughly the same size, make no mistake &#8211; they are withdrawing liquidity through their two new programs. 
 
@@ -120,6 +111,5 @@ Although I know that I might seem foolish beyond belief for stepping in front of
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsNov2014.png" width="600" height="342" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsNov2014.png" width="600" height="342"></p>

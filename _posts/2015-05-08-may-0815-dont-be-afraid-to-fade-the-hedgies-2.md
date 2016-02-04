@@ -12,9 +12,8 @@ tags:
   - AUD
   - Crispin Odey
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/OdeyAus.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/OdeyAus.png" alt="%cliboard" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/OdeyAus.png" alt="http://themacrotourist.com/pictures/Azure/OdeyAus.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 When I was growing up, my old man was the research director for an independent Canadian stock brokerage firm. Although he is now retired (and has toned down the zip in his portfolio), his &#8220;investing&#8221; in junior Canadian mining stocks could be much more aptly described as &#8220;pure unadulterated speculation.&#8221; Over the years, I witnessed some pretty big swings in his trading account (both ways I am afraid, although if you could stomach the volatility, his trades were often spectacular, but they were usually go ups or blowups). And naturally, he gravitated towards other like minded individuals, so over the years I have met my fair share of river boat gambler investment types.
 
@@ -36,15 +35,13 @@ Holy smokes! How do you lose 19.3% in a month? It&#8217;s one thing for some Van
 
 I had a look at the Australian dollar and it barely moved during that period.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AUDMay0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/AUDMay0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AUDMay0715.png" alt="http://themacrotourist.com/pictures/Azure/AUDMay0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 If a move from 0.75 to 0.80 is enough to cause Crispin to lose almost 20%, then the amount of leverage this guy must be using is bonkers. Granted if he was shorting Aussie, then he might also have been leaning on all the other deflation trades, but this sort of decline in his portfolio, from what is a pretty standard correction in the trend, puts Crispin in another league.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/Crispin20.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/Crispin20.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/Crispin20.png" alt="http://themacrotourist.com/pictures/Azure/Crispin20.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I actually kind of like the guy. It takes some real gumption to lose 20% in a month. Crispin is kicking it old school macro hedge fund style &#8211; like Soros and the boys used to do it. Nowadays most of these hedge funds are boring asset gatherers aiming to return 5% to 10% regardless of the market environment. But in the days of old, hedge funds used to try to shoot out the lights. They were often aiming for a 30% to 50%+ returns.
 

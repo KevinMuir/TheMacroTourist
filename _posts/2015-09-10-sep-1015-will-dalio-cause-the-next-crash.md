@@ -14,9 +14,8 @@ tags:
   - Ray Dalio
   - Risk Parity
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/RiskParitySep1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/RiskParitySep1015.png" alt="%cliboard" width="600" height="700" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/RiskParitySep1015.png" alt="http://themacrotourist.com/pictures/RiskParitySep1015.png" style="margin:30px auto;display:block;" width="600" height="700">
 
 Earlier this month, famed hedge fund guru Leon Cooperman made news when he blamed the summer’s market sell off on “risk parity” money managers. From the FT:
 
@@ -58,9 +57,8 @@ Herein lies my concern about the soundness of the “risk parity” strategy. Bo
 
 Over the last 35 years bond yields have been headed only one way &#8211; down.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/US10YRSep1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/US10YRSep1015.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/US10YRSep1015.png" alt="http://themacrotourist.com/pictures/US10YRSep1015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 This monster bull move in bonds has been a massive tailwind to investors. The incessant decline in the risk free rate has lifted all asset classes.
 
@@ -82,9 +80,8 @@ Although I am sure the “risk parity” investors were not wholly to blame for 
 
 In 1987 there was another strategy that was all the rage…
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/PrettySep1015.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/PrettySep1015.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/PrettySep1015.png" alt="http://themacrotourist.com/pictures/PrettySep1015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 During the mid 1980s, dynamic portfolio insurance gained so much popularity that when the market turned in October of 1987, there were so many investors that were forced to sell at the same time the market crashed.
 

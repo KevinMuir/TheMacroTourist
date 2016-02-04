@@ -21,21 +21,18 @@ tags:
 ---
 This week-end John Hughes&#8217; classic movie **The Breakfast Club** marked its 30 year anniversary. Although many great coming of age teenage movies have been made throughout the years, there is nothing that compares with The Breakfast Club. It probably doesn&#8217;t hurt that in February of 1985 when it hit the big screens, I was fourteen and a half years old and in the midst of my prime teen angst age. But even today when I watch Claire, Andrew, Brian, Allison and Bender spend the morning serving detention together in the Shermer High School library, I am struck by the brilliance of the movie.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/breakfastoneFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/breakfastoneFeb1815.png" width="400" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/breakfastoneFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/breakfastoneFeb1815.png" width="400" height="400">
 
 For those who haven&#8217;t seen the movie, it is all shot in one location; at a local high school where five students, all from different cliques, gather to spend the morning serving detention. The principal instructs them not to speak, and assigns them a 1,000 word essay in which they are to describe &#8220;who you think you are.&#8221; Of course he then leaves the students basically alone for the entire movie. During the next nine hours the kids spend the time talking, arguing, dancing, falling in love and getting high. Doing everything except writing their 1,000 word essay.
 
 At the end of the movie, as the kids head home after serving their detention, the Principal finds a single short essay left on one of the desks. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/breakfasttwoFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/breakfasttwoFeb1815.png" width="400" height="600" /></a>
-</div>
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/breakfastthreeFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/breakfastthreeFeb1815.png" width="600" height="300" /></a>
-</div>
+  <img src="http://themacrotourist.com/pictures/Azure/breakfasttwoFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/breakfasttwoFeb1815.png" width="400" height="600">
+
+
+  <img src="http://themacrotourist.com/pictures/Azure/breakfastthreeFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/breakfastthreeFeb1815.png" width="600" height="300">
 
 The movie is all about the kids realizing that their assumptions about themselves and each other were all wrong. Of course it is a little hokey that they can figure this out in the space of a day, but hey &#8211; after all, this a teenage coming of age movie &#8211; it&#8217;s supposed to be a little hokey. 
 
@@ -53,15 +50,13 @@ There is no better example than the Greek situation. The idea that the status qu
 
 The important part to realize is that the majority has finally come to the conclusion that they can actually stick it to the man. This is a huge deal. It represents a monumental change in attitude. The 0.01% have lost control in Greece, and this about to play out all across the world. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/powerFeb1815.png  "><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/powerFeb1815.png  " width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/powerFeb1815.png  "><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/powerFeb1815.png  " width="600" height="342">
 
 And it&#8217;s not just Europe. Have a look at the minimum wage changes for 2015 and beyond for the various US states:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MinFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MinFeb1815.png" width="800" height="800" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MinFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MinFeb1815.png" width="800" height="800">
 
 These are some big changes. This represents a massive shift away from the old attitude. 
 
@@ -85,17 +80,15 @@ Even in China, the people in power realize that they cannot continue to plunder 
 
 A reversal in this trend has been a long time in coming. Have a look at this chart of wages as a percentage of GDP in the US over the past half a dozen decades:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/wagesFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/wagesFeb1815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/wagesFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/wagesFeb1815.png" width="600" height="342">
 
 The average Joe has been earning a smaller and smaller share of the economy.
 
 Meanwhile, during this time, corporate profits as a percentage of GDP have been hitting new highs:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/profitsFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/profitsFeb1815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/profitsFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/profitsFeb1815.png" width="600" height="342">
 
 I believe that these two graphs cannot continue their current trend, and that the signs of a potential reversal are staring us in the face. Combined with the rock bottom interest rates that will eventually rise, I think there are some secular headwinds that will make stock gains difficult. 
 
@@ -103,18 +96,15 @@ But hey, so far I am completely wrong. The stock market does not agree with my a
 
 Maybe I am wrong. Maybe the 0.01% will find some way to continue to pull the wool over the rest of society&#8217;s eyes. Somehow the people in power have convinced the public that bailing out the banks of their reckless behaviour while continually cutting services to the public makes sense. Or that waging wars overseas is a better use of money than upgrading infrastructure or spending money on education. They cloak their selfish policies in guise of being true to capitalism.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/steinbeckDeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/steinbeckDeb1815.png" width="500" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/steinbeckDeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/steinbeckDeb1815.png" width="500" height="342">
 
 Yet their policies are anything but true to the values they espouse. But the public is waking up to this reality.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/brianFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/brianFeb1815.png" width="400" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/brianFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/brianFeb1815.png" width="400" height="400">
 
 Remember as traders, our job is to not worry about what should be done, but to focus on what is being done. The market is so far ignoring all the signs of the shifting balance of power, but don&#8217;t count on that lasting forever. Sometimes some of the greatest trades are staring right at you, as obvious as the nose on your face. I think this might be one of those times&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/noseFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/noseFeb1815.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/noseFeb1815.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/noseFeb1815.png" width="600" height="342">

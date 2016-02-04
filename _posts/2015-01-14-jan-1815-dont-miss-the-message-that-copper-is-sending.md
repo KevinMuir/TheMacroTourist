@@ -18,25 +18,22 @@ tags:
   - economy
   - Red Kite
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/nuggetJan1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/nuggetJan1415.png" width="580" height="472" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/nuggetJan1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/nuggetJan1415.png" width="580" height="472">
 
 The photo above was taken in 1903 at Chititu Creek, Alaska. What you are looking at is a 3 ton native copper nugget. It&#8217;s being a while since mining was as easy as scooping up monster nuggets sitting on the creek bed. Nowadays copper mining is a capital intensive affair that involves digging deep into the earth&#8217;s surface and processing tons of rock to yield the tiniest bit of copper. Yet during the commodity boom of the last decade, we still managed to find a way to create too much supply. The idea that China would buy all every last available pound of copper simply encouraged way too many mines to be brought on stream. And now today, not only is China failing to grow at the anticipated perpetual blistering pace that the China bulls were continually touting, but there appears to be some concerns about the possibility that China (and the rest of the global economy) has hit a growth air pocket. 
 
 This global slowdown hit the copper market hard last night. When China opened for trading, they absolutely destroyed copper &#8211; sending it down almost 7% almost instantly.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HGGIPJan1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/HGGIPJan1415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HGGIPJan1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HGGIPJan1415.png" width="600" height="342">
 
 Copper has often been called the metal with a PHD in economics due to the fact of its widespread application in many different sectors of the economy. When economic activity picks up, it often translates quickly into a higher copper price. 
 
 Obviously copper still has its own supply demand cycle and does not translate perfectly into a barometer for economic growth, but you would be foolish to not listen to the signals that it is telling you. And the message coming from copper is pretty clear.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HGJan1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/HGJan1415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HGJan1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HGJan1415.png" width="600" height="342">
 
 During 2014 copper valiantly tried to hold in at the long term support area of $3 per pound. Towards the end of last year, that support broke and it stabilized at around $2.80 per pound. But over the last week or so, it has been a one way train lower. If copper has a PHD in economics, then it doesn&#8217;t portend well for the global economy.
 
@@ -52,9 +49,8 @@ But copper is far from an isolated case. Demand seems to be falling everywhere. 
 
 And it is not only commodities that are screaming **Danger Will Robinson**, the world&#8217;s bond markets have been soaring during the past couple of quarters as well. I have created a simple average of the yield for Japan, US, German and UK&#8217;s 10 year bond.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/Big410Jan1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/Big410Jan1415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/Big410Jan1415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/Big410Jan1415.png" width="600" height="342">
 
 Over the past six months the average yield has been more than halved! The bond market, which is usually a better predictor of economic activity than the stock market, has been warning that something really bad is happening to the global economy.
 

@@ -19,33 +19,29 @@ Sorry for the late post, the stock market dip this morning delayed my writing. T
 
 Apart from the swoon in the equity markets, the next biggest story on everyone&#8217;s lips is the complete annihilation of crude oil prices. Since peaking at $105 this summer, the price of crude oil has plunged to just over $80. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CLX4Oct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CLX4Oct1514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CLX4Oct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CLX4Oct1514.png" width="600" height="342">
 
 There are lots of reasons for the drop in price, but there is one big one that most investors are missing. 
 
 First let&#8217;s review the obvious ones. Global growth has plunged. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDPOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GDPOct1514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDPOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GDPOct1514.png" width="600" height="342">
 
 It is tough for crude oil to rally when the world economy is coming to a grinding halt. 
 
 The US dollar has also experienced one of the biggest rallies in decades. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CLDXYOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CLDXYOct1514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CLDXYOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CLDXYOct1514.png" width="600" height="342">
 
 As the dollar has rallied, crude oil has declined in lock step. 
 
 Going into the summer, the large speculators (aka hedge funds) held record net long positions. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CLSPECOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CLSPECOct1514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CLSPECOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CLSPECOct1514.png" width="600" height="342">
 
 The amount of net long positions held by speculators was off the charts. It has since plummeted, but that most likely reflects the puking out of these positions during the last couple of months of declines.
 
@@ -55,9 +51,8 @@ But the real kicker that sent it over the price of oil careening over the edge w
 
 It has been a while since the markets have focused on the Ukraine Russia conflict. Although it might have disappeared off the front page of the Wall Street Journal, it has by no means gone away. The US administration has instead chosen to fight this war in the financial arena instead of on the battle field. Sanctions against Russia continue to be slowly tightened. Bit by bit, the US and its allies are tightening the noose around the Russian economy. You can see the effect with the dramatic fall in the value of the Russian Ruble over the past six months.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/RUBOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/RUBOct1514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/RUBOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/RUBOct1514.png" width="600" height="342">
 
 But the real coup de grace is the deal that the Americans reached with Saudi Arabia. I am sure that Obama convinced the Saudis to turn on the oil tap full blast and send the price lower. A lower oil price hurts Russia and has the added benefit of hurting some Middle Eastern countries that share no love for America or Saudi Arabia. It was the perfect weapon to unleash on the world.
 
@@ -73,9 +68,8 @@ Saudi Arabia is aggressively pushing prices lower. From the WSJ:
 
 The Saudi selling has created a crash in the price of crude oil. It is made worse by the fact that we have had all of this new shale US supply brought on line over the last decade. The cost of production for this new supply is now dangerously close to the current price. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/costOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/costOct1514.png" width="600" height="442" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/costOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/costOct1514.png" width="600" height="442">
 
 All these new &#8220;miracle&#8221; shale companies are suddenly faced with an oil price that is at their cost of production. And the really big problem is that these companies have taken on a staggering amount of debt. 
 

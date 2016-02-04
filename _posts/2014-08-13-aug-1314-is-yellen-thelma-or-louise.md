@@ -22,15 +22,13 @@ tags:
 ---
 Just when it looked like we might be rolling over, we awaken to another day of up 10 handles in the spoos.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/bearAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/bearAug1314.png" width="600" height="800" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/bearAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/bearAug1314.png" width="600" height="800">
 
 Yesterday had the feeling that the market might crack to the downside, but an afternoon rally into the close saved the day.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXGIPAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXGIPAug1314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXGIPAug1314.png" width="600" height="342">
 
 I still stick to my forecast that the next month of two is going to frustrate both the bulls and the bears. I don&#8217;t think you chase you rallies, nor do you try to pile on declines&#8230;
 
@@ -40,9 +38,8 @@ I still stick to my forecast that the next month of two is going to frustrate bo
 
 That benign forecast has one important caveat. The market is expecting Janet Yellen to ever so slowly raise rates. Remember, [the market is pricing in rate raises that are less than the Fed&#8217;s forward forecasted rates.](http://gfbblogs.azurewebsites.net/blog/2014/07/25/jul-2514-the-market-is-even-more-dovish-than-the-fed/) This means that the market does not believe the Fed will be as aggressive at hiking rates as they say they will be. Yellen&#8217;s reputation of a dove is superseding the Fed&#8217;s desire to guide rates higher.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EDZ6Aug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EDZ6Aug1314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EDZ6Aug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EDZ6Aug1314.png" width="600" height="342">
 
 It is astounding that short term interest rate futures continue to drift higher even as the good economic news piles up.
 
@@ -54,9 +51,8 @@ I am not nearly so sanguine about the possibility of the Fed becoming more aggre
 
 There is no doubt that Yellen herself has given few hints of wanting to guide the yield curve higher. The correct bet is for her to pull a &#8220;Thelma and Louise&#8221; and drive the economy right off the cliff into monetary madness.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ThelmaAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ThelmaAug1314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ThelmaAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ThelmaAug1314.png" width="600" height="342">
 
 Too often I have made the mistake of assuming that authorities will do the &#8220;right thing&#8221; and take the more prudent road. But this has more often than not cost me money.
 
@@ -72,23 +68,20 @@ The legendary trader Stanley Druckenmiller gave a recent speech where he argued 
 
 Yellen&#8217;s reluctance in raising rates is due to a poor employment picture. But we are seeing continuing claims hitting 10 year lows!
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ClaimsAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ClaimsAug1314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ClaimsAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ClaimsAug1314.png" width="600" height="342">
 
 I know that the employment picture is much more complicated than just claims, but yesterday&#8217;s JOLTS data also pointed to a much better labour market.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JOLTAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JOLTAug1314.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JOLTAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JOLTAug1314.png" width="600" height="342">
 
 Everything is heading the right way in terms of employment. Maybe leaving rates at emergency low levels of zero for an extra six months is not going to help the structural employment problems that Yellen is still focusing on.
 
 Which brings me to the rest of the Fed. Yellen is the Chairman, but there are still a group of other Fed Governors that are responsible for voting on monetary policy. When trying to gauge the total employment picture, many Fed governors use a wide array of different inputs. JOLTS data plays an important role. Have a look at this spider graph from the Atlanta Fed. The JOLTS data is three of the inputs.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AtlantaAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AtlantaAug1314.png" width="500" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AtlantaAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AtlantaAug1314.png" width="500" height="400">
 
 The data is piling up against leaving rates at zero, and if Yellen doesn&#8217;t take a step towards the hawks, then eventually there will be some serious conflict within the Fed.
 
@@ -102,6 +95,5 @@ However, you should be ready for that possibility. If not this summer, then when
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png" width="600" height="500" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png" width="600" height="500"></p>

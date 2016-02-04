@@ -19,28 +19,28 @@ tags:
 ---
 On Friday the US released their much anticipated unemployment figures. They were much better than expected with the Change in Non-farm Payrolls coming in at 288k versus a forecast 218k. The previous month was also revised to 203k from 192k. This is the third month in a row that payrolls met or exceeded expectations:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NFPMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/NFPMay0514.png" width="600" height="342" />US Non-Farm Payrolls versus expectations</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NFPMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NFPMay0514.png" width="600" height="342" />US Non-Farm Payrolls versus expectations</a>
 </div>
 
 Unfortunately the payroll gains did not translate into wage growth. The Average Hourly Earnings rose by only 1.9% versus an expected 2.1%. This miss was even worse given that the 2.1% was forecast with a much lower payroll figure. So far the improvements in the labour market are not translating into wage growth.
 
 It is a good thing that Yellen & Co. abandoned their 6.5% unemployment rate threshold for tightening. The unemployment rate for April came in at a blistering 6.3%. This was a huge improvement from last month&#8217;s 6.7%.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/UNEmploymentMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/UNEmploymentMay0514.png" width="600" height="342" />US Unemployment Rate</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/UNEmploymentMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/UNEmploymentMay0514.png" width="600" height="342" />US Unemployment Rate</a>
 </div>
 
 The ever prescient Kyle Bass from Hayman Capital Management has been forecasting that the expiration of the unemployment benefits and a continuing lowering of the Labour Force Participation rate, would push the unemployment rate below 6% by this summer. This trend seems to be playing out exactly as predicted with the Labour Force Participation rate falling to a cycle low of 62.8%.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/LabourMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/LabourMay0514.png" width="600" height="342" />US Labour Force Participation Rate</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/LabourMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/LabourMay0514.png" width="600" height="342" />US Labour Force Participation Rate</a>
 </div>
 
 The improving labour picture creates an interesting dilemma for the Federal Reserve. According to the Taylor Model, the Fed Funds Rate should be set to 1.5%.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TAYLORMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TAYLORMay0514.png" width="600" height="342" />Classic Taylor Rule &#8211; US economy</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TAYLORMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TAYLORMay0514.png" width="600" height="342" />Classic Taylor Rule &#8211; US economy</a>
 </div>
 
 There is some debate in the economist community about the various model inputs and constants, but even the adjusted Taylor models are all indicating that the Federal Reserve should be commencing the raising of the Fed Funds rate. 
@@ -61,8 +61,8 @@ It will be extremely interesting to see if the Federal Reserve can maintain the 
 
 The recent collapse of the spread between the US 5/30 Treasury yield is an indication that the market is not worried about the Fed losing control of the long end of the curve.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/US530May0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/US530May0514.png" width="600" height="342" />US 5/30 Year Treasury Spread</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/US530May0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/US530May0514.png" width="600" height="342" />US 5/30 Year Treasury Spread</a>
 </div>
 
 Investors are assuming that the Fed will raise rates sufficiently to keep inflation in check. In fact, their primary concern seems to be the Fed raising rates too quickly and snuffing out the economic recovery.
@@ -87,8 +87,8 @@ In this day and age of instant information, it is easy to get bombarded with a m
 
 Although I am often bearish, I would label myself more of a skeptic than a doomsdayer.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/nihilists.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/nihilists.png" width="600" height="342" />&#8220;No, Donny, these men are nihilists, there&#8217;s nothing to be afraid of.&#8221;</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/nihilists.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/nihilists.png" width="600" height="342" />&#8220;No, Donny, these men are nihilists, there&#8217;s nothing to be afraid of.&#8221;</a>
 </div></p> 
 
 Over the long run, I am quite bullish on the ability of humanity to progress &#8211; I just think that financial markets are often prone to overstating the rewards and the chances of success. I certainly would not put myself in the camp of the &#8220;guns and ammo&#8221; crowd that think the financial system is about to come to a crashing end. 
@@ -119,9 +119,8 @@ And it is not only MERS that is making headlines. Recently Ebola returned to the
 
 > Outbreak in Guinea and Liberia. There are at least 208 confirmed or suspected cases of EVD in Guinea, resulting in 136 deaths there, and in Liberia, there are 34 suspected or confirmed cases, resulting in six deaths.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EbolaMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EbolaMay0514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EbolaMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EbolaMay0514.png" width="600" height="342">
 
 I have no idea about the chances of either of these viruses springing out of control. 
 
@@ -131,6 +130,5 @@ However I do suspect that sometime in my lifetime there will be an epidemic that
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsMay0514.png" width="600" height="700" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay0514.png" width="600" height="700"></p>

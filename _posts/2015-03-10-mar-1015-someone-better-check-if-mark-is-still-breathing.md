@@ -25,15 +25,13 @@ The article titled [“Crude Awakening: Why next week could be carnage for Oil E
 
 Whenever I hear investors so certain that something _has got to_ happen, my skepticism alarm goes off. It reminds me of this call a few years ago from a really great NYMEX Crude Oil trader. Actually I am not giving him enough credit… It reminds me of this call from the **legendary** NYMEX Crude Oil trader Mark Fisher:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FisherMar0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/FisherMar0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FisherMar0715.png" alt="http://themacrotourist.com/pictures/Azure/FisherMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Proving that we all get it wrong (even the great ones), WTI is trading $30 below the level Mark claimed it “would never go below in his lifetime.”
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CLMar0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/CLMar0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CLMar0715.png" alt="http://themacrotourist.com/pictures/Azure/CLMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I don’t mean to pick on Mark &#8211; I have had more than enough terrible calls of my own. I just don’t go on National TV and make these sorts of aggressive claims. I almost feel like the whole Crude Oil collapse can be solely pinned on Mark. You just knew the Market Gods would never stand for this sort of arrogance.
 
@@ -45,21 +43,18 @@ The ZeroHedge article about the massive explosion in shares outstanding in the U
 
 So I set about verifying ZH’s charts. Here is the first one with the price of USO versus the shares outstanding:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USOvsSTMar0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/USOvsSTMar0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USOvsSTMar0715.png" alt="http://themacrotourist.com/pictures/Azure/USOvsSTMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Sure enough, the shares outstanding has gone parabolic while the price of the commodity has plunged. This sort of behaviour seems unprecedented. But is it? What happened in 2008 when we experienced the last great collapse in the price of oil?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USOvsMar0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/USOvsMar0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USOvsMar0715.png" alt="http://themacrotourist.com/pictures/Azure/USOvsMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Much to my surprise, during that collapse, the shares outstanding also exploded higher. In fact, they went even higher than the current expansion. And not only that, the price of USO was higher then, so on a dollar basis, the creation of new USO units was even larger. Here is a chart that measures the USO price versus the dollar value of the shares outstanding:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USO$vsMar0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/USO$vsMar0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USO$vsMar0715.png" alt="http://themacrotourist.com/pictures/Azure/USO$vsMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 During the last collapse, the dollar value of USO units outstanding was almost 60% higher than where it currently stands.
 
@@ -71,6 +66,5 @@ Kevin Muir
   
 the MacroTourist
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/MTWood" alt="%cliboard" width="600" height="100" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MTWood" alt="http://themacrotourist.com/pictures/Azure/MTWood" style="margin:30px auto;display:block;" width="600" height="100">

@@ -39,9 +39,8 @@ And guess who was one of the biggest buyers? Even though at 80 years old you wou
 
 The ironic thing is that Corzine&#8217;s analysis was spot on correct. There was no way that the Europeans were going to let their union fall apart. The ECB did indeed step in and eventually stabilized the situation, and the vicious circle of selling was halted. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ITSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ITSep0414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ITSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ITSep0414.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -53,23 +52,20 @@ Yet, what is that cagey old bugger George Soros doing? Yes, he is indeed long fi
 
 In his latest filing, George divulged that he has bought $2.2 billion dollars of US stock market puts.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SorosPutsSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SorosPutsSep0414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SorosPutsSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SorosPutsSep0414.png" width="600" height="342">
 
 This is the largest amount of puts that George has owned in recent memory. 
 
 Smart guys like Soros are quietly picking up hedges, but in the mean time, everybody else is getting more and more bullish.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SentSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SentSep0414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SentSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SentSep0414.png" width="600" height="342">
 
 The bulls are vastly outnumbering any bears. And there is more and more evidence that everyone is &#8220;all in&#8221;.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/Sent2Sep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/Sent2Sep0414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/Sent2Sep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/Sent2Sep0414.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -79,15 +75,13 @@ This morning we are getting another stock market gap up on the ECB news of the c
 
 Yesterday, for the first time in a long while, we got some selling in key stocks. Apple made a new high, and then quickly plunged over 3%.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AAPLSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AAPLSep0414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AAPLSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AAPLSep0414.png" width="600" height="342">
 
 Same deal with Tesla.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TSLASep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TSLASep0414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TSLASep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TSLASep0414.png" width="600" height="342">
 
 Yesterday we had a big gap up in the stock market on the _supposed_ cease fire news, but instead of building on those gains (like we have done for the past couple of months), the market sold off all day. **This was a dramatic change in character.** 
 
@@ -101,20 +95,17 @@ I have still not written up my long term bullish grain thesis, but it is probabl
 
 Right now I feel like I know even less about the grain market than this guy&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BushSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BushSep0414.png" width="300" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BushSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BushSep0414.png" width="300" height="500">
 
 I have been lucky enough to be long Input Capital, which has traded more like a stock than a grain play. In addition to puking out my grain positions (probably into the short term lows), I have sold some of my Input. This has been a stellar performer for me, but I am worried that the carnage in the grain markets is going to weigh on this stock in the next few months.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/INPSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/INPSep0414.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/INPSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/INPSep0414.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsSep0414.png" width="600" height="550" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep0414.png" width="600" height="550"></p>

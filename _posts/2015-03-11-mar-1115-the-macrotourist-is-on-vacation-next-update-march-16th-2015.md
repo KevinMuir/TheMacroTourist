@@ -21,9 +21,8 @@ Quick note: I have actually been on vacation since Monday. I pre-wrote a couple 
 
 2. Apple has jumped the shark. I will write this up next week, but think about how Steve Jobs made Apple the greatest company in the world. He made products that &#8220;just worked.&#8221; He didn&#8217;t make luxury products &#8211; he made technology products that saved people time. He refused to make a million different versions of his new products. He made one version &#8211; and it was the best. Contrast that to the new iWatch. There are dozens of different versions. The product has poor battery life and its main draw seems to be as a status symbol. Steve is probably rolling over in his grave. The addition of Apple to the Dow Jones Index is the final nail in the coffin. Avoid Apple. The stock is overhyped and destined to disappoint.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/Doyouevenmacro.png"><img class="alignnone wp-image-14271 size-full" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/Doyouevenmacro.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/Doyouevenmacro.png"><img class="alignnone wp-image-14271 size-full" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/Doyouevenmacro.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Thanks for reading,
   
@@ -31,6 +30,5 @@ Kevin Muir
   
 the MacroTourist
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/MTWood" alt="%cliboard" width="600" height="100" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MTWood" alt="http://themacrotourist.com/pictures/Azure/MTWood" style="margin:30px auto;display:block;" width="600" height="100">

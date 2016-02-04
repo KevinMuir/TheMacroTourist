@@ -11,9 +11,8 @@ categories:
 tags:
   - gold
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/StupidDec1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/StupidDec1615.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/StupidDec1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/StupidDec1615.png" width="600" height="400">
 
 I am not one of those dyed-in-the-wool you will pry my gold out of my dead cold hands gold bugs. If I believed the global financial system was balanced, and being prudently managed by the government officials in charge of setting monetary policy, then I would ditch my gold in a heartbeat. In an ideal world, Warren Buffett is correct when he says:
 
@@ -21,9 +20,8 @@ I am not one of those dyed-in-the-wool you will pry my gold out of my dead cold 
 
 Yet today&#8217;s financial system is far from ideal. We have spent the last six decades piling on more and more debt. This is an old chart, but not too many economists keep _total worldwide credit outstanding_ up to date:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/TotalCreditDec1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/TotalCreditDec1615.png" width="400" height="300" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/TotalCreditDec1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/TotalCreditDec1615.png" width="400" height="300">
 
 Every modern day economic slowdown has been met with ever increasingly easy Central Bankers who have encouraged more debt as an alternative to allowing the business cycle to take its natural course and balance the economy. The result is a horribly lopsided global financial system. 
 
@@ -33,9 +31,8 @@ So the question hangs out there &#8211; depression or inflation? Actually the ma
 
 Have a look at this great chart from McKinsey that shows the extent of credit creation since the 2008 crisis:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/McKinseyDec1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/McKinseyDec1615.png" width="600" height=600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/McKinseyDec1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/McKinseyDec1615.png" width="600" height=600">
 
 The sheer weight of the amount of debt outstanding has created an environment where absent aggressive monetary policy, credit destruction will be the natural state. Yet instead of allowing that credit destruction to occur, government officials have taken the baton from the private sector, and cranked it up a notch.
 
@@ -47,15 +44,13 @@ Now you might be saying to yourself, &#8220;great but so far that theory is dead
 
 But I would argue it is all a question of timing&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/TimingDec1615.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/TimingDec1615.jpg" width="300" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/TimingDec1615.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/TimingDec1615.jpg" width="300" height="400">
 
 If you step back and take a longer term view of gold, it isn&#8217;t that bad.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/GOLDSDec1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/GOLDSDec1615.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/GOLDSDec1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/GOLDSDec1615.png" width="600" height="400">
 
 The gold bulls have had a tough few years, but maybe this is just a correction in the big, big picture? 
 
@@ -65,9 +60,8 @@ During the past few years as the Federal Reserve has withdrawn their stimulus, r
 
 Here is a chart of the US 30 year real rate **inverted** versus gold:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/GOLDRRDec1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/GOLDRRDec1615.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/GOLDRRDec1615.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/GOLDRRDec1615.png" width="600" height="400">
 
 Gold peaked in 2011 when the US 30 year treasury was yielding 100 basis points below the rate of inflation. Since then, inflation has been declining, all the while rates have been creeping higher.
 

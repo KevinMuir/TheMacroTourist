@@ -22,8 +22,8 @@ In September of 1983 Stanislav Petrov went to work as the duty officer at the co
 
 So &#8220;Stan&#8221; made the brave and courageous decision _to not report the missile launch to his superiors._ In doing so, &#8220;Stan&#8221; took a giant risk that if he was wrong, he would be responsible for failing to inform his bosses about the start of World War 3. Of course we now know that the Americans did not launch 5 missiles and that the Soviet early warning system had indeed failed. But as &#8220;Stan&#8221; recounted years later, had one of his colleagues being at the helm that day, they would have surely immediately followed protocol and informed their superiors. The greatest hero of the cold war was Stanislav Petrov &#8211; even though most of the world has no idea how close we came to nuclear destruction and how much we owe to &#8220;Stan&#8217;s&#8221; bravery.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/StanJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/StanJul1814.png" width="600" height="342" />Stanislav Petrov &#8211; one of the cold war&#8217;s great heroes</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/StanJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/StanJul1814.png" width="600" height="342" />Stanislav Petrov &#8211; one of the cold war&#8217;s great heroes</a>
 </div>
 
 Why did I tell this story? We all know about the terrible tragedy of the Malaysian jet liner being shot down in Ukraine. There is not much that I can add to what is filling your media stream. 
@@ -32,8 +32,8 @@ But I want to remind you that when you have heightened geo-political tensions, i
 
 I am perplexed at how much the market is ignoring the geo-political conflicts that are happening throughout the world. I don&#8217;t expect the markets to come crashing down, but they seem strangely impervious to the continuing escalations. We did finally have a 1% down day yesterday, but think about what it took to achieve that. The shooting down a civilian jet liner and the start of a ground war in Gaza, yet all we could do was dip 30 handles in the S&P 500. Have a look at the daily chart. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXJul1814.png" width="600" height="342" />S&P 500 chart</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXJul1814.png" width="600" height="342" />S&P 500 chart</a>
 </div>
 
 All we did was give up the previous week&#8217;s gains. It barely looks like a dip!
@@ -46,8 +46,8 @@ From a geo-political point of view, the world has not been this unstable in many
 
 But the real point that scares me is that technology has changed the nature of geo-political conflicts. The shooting down of the Malaysian jetliner has caused me to do a little research into this Russian BUK missile system. This isn&#8217;t some huge command system that needs massive infrastructure. No, this is basically a tank with a missile on its back. Here is the alleged BUK vehicle in Ukraine:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BUKJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BUKJul1814.png" width="600" height="450" />BUK vehicle in Ukraine</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BUKJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BUKJul1814.png" width="600" height="450" />BUK vehicle in Ukraine</a>
 </div>
 
 Then as I continued digging, one of the ZeroHedge articles pointed me to the sales video for the Russian military catalogue. It was spooky, and a little scary, to watch the promotional material blowing planes out of the sky using a weapon you sling over your shoulder. 
@@ -66,20 +66,19 @@ After taking off the short bonds, I just let the portfolio cook. I am now good a
 
 I am tempted to cover some stock market short in case this proves to be just another chance to BTFD (for those not on trading desks, that is an acronym for Buy The F&#8217;ng Dip). But when I see how confident the bulls are, it leads me to stay the course. The boat is super crowded with over enthusiastic super bulls.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BoatJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BoatJul1814.png" width="600" height="342" />Stock market bulls</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BoatJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BoatJul1814.png" width="600" height="342" />Stock market bulls</a>
 </div>
 
 Although I would not add to my short into the dip, I did buy some VIX. I know that I have [said that buying stock market volatility is a mug&#8217;s game](http://gfbblogs.azurewebsites.net/blog/2014/01/30/thursday-january-30th-2014-investors-are-mistakenly-hedging-for-the-last-crisis/) and that you are better off being long bond vol. But given yesterday&#8217;s developments, I think the chances of something really bad happening are much higher than the market believes. If I am wrong, I lose 3 handles on the VIX. If I am right, I make 10 at least. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/VIXJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/VIXJul1814.png" width="600" height="342" />VIX Index</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/VIXJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/VIXJul1814.png" width="600" height="342" />VIX Index</a>
 </div>
 
 <hr size="3" width="85%" />
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJul1814.png" width="600" height="500" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJul1814.png" width="600" height="500"></p>

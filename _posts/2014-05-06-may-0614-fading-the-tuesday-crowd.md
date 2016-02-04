@@ -25,16 +25,15 @@ I am always willing to listen to other people&#8217;s opinions. Over the years I
 
 However when this guy sent me an email yesterday, I was a little worried.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ScubaMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ScubaMay0614.png" width="540" height="720" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ScubaMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ScubaMay0614.png" width="540" height="720">
 
 He was all excited because it was soon to be Tuesday. You see, he has come up with a &#8220;can&#8217;t lose strategy.&#8221; He was going to get aggressively long S&Ps because it was Tuesday. 
 
 He was quick to highlight that the last 7 Tuesdays have been up. In fact, since the start of 2014, Tuesdays have dramatically outperformed all the other days of the week.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DaysoftheweekMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DaysoftheweekMay0614.png" width="600" height="442" />SPY ETF Returns by day of the week in 2014</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DaysoftheweekMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DaysoftheweekMay0614.png" width="600" height="442" />SPY ETF Returns by day of the week in 2014</a>
 </div>
 
 There is no doubt that Tuesdays have been a terrific day to buy equities. But when my &#8220;scuba friend&#8221; is sending me notes about day of the week seasonality in the S&P 500, I know the end of this trend is near.
@@ -51,9 +50,8 @@ Although it is interesting, I would caution against blindly tagging along with t
 
 Zerohedge compiled a list of the returns from the last Ira Sohn conference:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/IraSohnMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/IraSohnMay0614.png" width="554" height="372" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/IraSohnMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/IraSohnMay0614.png" width="554" height="372">
 
 There were some really famous hedge fund managers who made some really terrible calls. Jim Chanos&#8217; short went 24% against him. Jeff Gundlach did even worse with his short as it rallied 38%. Kyle Bass&#8217; long went down 44%. David Einhorn and Bill Ackman&#8217;s longs rallied a little, but considering that these guys are supposed gurus, that performance is mediocre. 
 
@@ -73,23 +71,21 @@ I have been hesitant to climb aboard the short Canada bandwagon. It is not out o
 
 Although the spec short position is still large, since the beginning of the year, it has fallen from over 100k contracts to just over 60k:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CADShortsMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CADShortsMay0614.png" width="600" height="342" />CAD Spec Shorts CME</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CADShortsMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CADShortsMay0614.png" width="600" height="342" />CAD Spec Shorts CME</a>
 </div>
 
 Last year, CAD had been in a steady downtrend (up in terms of USDCAD), but it has gone sideways for the last few months:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CADMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CADMay0514.png" width="600" height="342" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/CADMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CADMay0514.png" width="600" height="342"></p> 
 
 This sideways action where we clean out some of the speculative shorts is the exact sort of consolidation that is required before we can head lower (higher USDCAD). 
 
 We are also entering into a period that has traditionally being weak for the Loonie. Have a look at this chart of the USDCAD rate over the last four years:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CADSeasonMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CADSeasonMay0514.png" width="600" height="342" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/CADSeasonMay0514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CADSeasonMay0514.png" width="600" height="342"></p> 
 
 Starting at the beginning of May and lasting until the middle of June, there has been CAD weakness in all the last four years. I don&#8217;t see any reason why this can&#8217;t also come to pass this year. 
 
@@ -109,8 +105,8 @@ As I listened to the story, I was sucked in.
 
 I am not going to bother going through the whole story. They are a high cost gold miner that is being run by a good operator. Sprott recently bought a slug at $0.26 (with warrants) through a private placement. Management has recently being on Bay street telling the story and the stock is behaving well. Here is the [presentation in case you are interested.](http://www.crocgold.com/investors/presentations/default.aspx)
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CRKMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CRKMay0614.png" width="600" height="342" />CRK CN Equity</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CRKMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRKMay0614.png" width="600" height="342" />CRK CN Equity</a>
 </div>
 
 I was looking for an extremely long term call option on the price of gold and CRK definitely fits the bill. 
@@ -123,14 +119,13 @@ I am buying a piece, with the idea that it is either going to zero or to the moo
 
 Today&#8217;s post is getting long, but I wanted to update one more position before I sign off. Yesterday I returned to my short Eurostoxx trade. I will write it up further tomorrow, but the main rationale for the trade is that the ECB will continue to be too tight.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SX5EMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SX5EMay0614.png" width="600" height="342" />Eurostoxx index</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SX5EMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SX5EMay0614.png" width="600" height="342" />Eurostoxx index</a>
 </div></p> 
 
 <hr size="3" width="85%" />
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsMay0614.png" width="600" height="780" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay0614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsMay0614.png" width="600" height="780"></p>

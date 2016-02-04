@@ -9,9 +9,8 @@ permalink: /blog/2015/08/03/the-macrotourist-is-on-vacation-for-august/
 categories:
   - macro
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Meditation.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Meditation.png" width="500" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Meditation.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Meditation.png" width="500" height="600">
 
 That&#8217;s it for the MacroTourist for the rest of the summer. I am off on vacation until Labour Day. 
 

@@ -36,8 +36,8 @@ I continue to use them as a contrary indicator. Even though their pedigrees are 
 
 Let&#8217;s have a look at the recent market moving David Tepper comments:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TepperJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TepperJun1614.png" width="600" height="342" />S&P 500 Index over the last month</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TepperJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TepperJun1614.png" width="600" height="342" />S&P 500 Index over the last month</a>
 </div></p> 
 
 I don&#8217;t mean to pick on Tepper &#8211; I actually really like the guy. And Tepper&#8217;s recent high profile divorce certainly can&#8217;t help by adding even more stress to the pile. (As an aside, I fully agree with the theory that you should avoid managers that are going through emotional personal problems. Whether it is a sick family member or an ugly divorce, trading is a game that requires an emotionally level head and personal stress is only going to make the trading game all the more difficult). 
@@ -46,23 +46,21 @@ It is therefore no surprise that Tepper&#8217;s public comments have so far only
 
 The hedge funds increased long positions are confirmed by the recent JPMorgan chart:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPMorganJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPMorganJun1614.png" width="600" height="442" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPMorganJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPMorganJun1614.png" width="600" height="442"></p> 
 
 Hedge funds are now longer than any point over the last 3 years. 
 
 There is no doubt that bull markets can last longer than anyone (most especially the bears) anticipate. However, do you think that it is a good idea to be following a group of managers who have all produced negative returns so far this year, and are now deciding to chase the stock market?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXJun1614.png" width="600" height="342" />S&P 500 over the past 5 years</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXJun1614.png" width="600" height="342" />S&P 500 over the past 5 years</a>
 </div>
 
 Climbing aboard the hedge fund consensus long equity trade makes about as much sense as climbing into the car with this guy.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GetincarJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GetincarJun1614.png" width="600" height="442" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GetincarJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GetincarJun1614.png" width="600" height="442">
 
 I will continue to fade CNBC Hedge Fund Guru headlines. I think they only cost you money, and in fact, represent the new &#8220;dumb money&#8221; consensus. Actually that&#8217;s probably a not a good way to put it. They are not dumb by any means. But maybe they are too smart for their own good&#8230; 
 
@@ -78,9 +76,8 @@ In case you missed it as you focused on the flurry of news about Iraq, the situa
 
 Don&#8217;t forget that this sort of missile lock is what made Cougar turn in his wings and let Maverick and Goose slide into the his spot at Miramar.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/StingerJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/StingerJun1614.png" width="600" height="442" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/StingerJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/StingerJun1614.png" width="600" height="442">
 
 I am not sure if there is a Japanese &#8220;Maverick&#8221; waiting to save the day. 
 
@@ -92,6 +89,5 @@ Between these three hot spots, the markets are increasingly blind to the increas
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJun1614.png" width="600" height="650" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJun1614.png" width="600" height="650"></p>

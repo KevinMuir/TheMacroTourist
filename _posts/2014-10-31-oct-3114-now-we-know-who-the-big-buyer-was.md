@@ -25,9 +25,8 @@ I also believe that the GPIF was confident to go ahead with their aggressive equ
 
 The market has always had some doubt about Prime Minister Abe&#8217;s commitment to his bold economic plan. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AbeOct3114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AbeOct3114.png" width="600" height="390" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AbeOct3114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AbeOct3114.png" width="600" height="390">
 
 There has been a nagging concern that the benefits from his reforms were not bearing enough fruit and that as his popularity waned, Abe would be forced to back off on his monetary expansion. 
 
@@ -37,9 +36,8 @@ As for the timing of his recent pushing down on the accelerator, I am kind of at
 
 It&#8217;s not like the Japanese economy was sinking into a morass. The economic numbers were actually coming in a little better than expected. Have a look at the Japanese economic surprise index which measures how much the economic releases are beating or disappointing versus expectations.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CESIJPYOct3114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CESIJPYOct3114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CESIJPYOct3114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CESIJPYOct3114.png" width="600" height="342">
 
 The last couple of months have seen this index steadily rising. 
 
@@ -49,9 +47,8 @@ Regardless of why it happened yesterday, our job is to react and adjust based on
 
 The USDJPY rate has gone completely ape-shit (a technical term) to the upside (yen weakness).
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPYOct3114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPYOct3114.png" width="600" height="342" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPYOct3114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYOct3114.png" width="600" height="342"></p> 
 
 This is going to be a huge win for the speculators as most everybody has been leaning short Yen. 
 
@@ -63,15 +60,13 @@ My trading has been really fluid lately as the volatility has been so large, wit
 
 But I wasn&#8217;t so lucky with my precious metals call. To say that it has been horrible is like saying the maiden voyage of the Titanic got off to a poor start. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TitanicOct3114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TitanicOct3114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TitanicOct3114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TitanicOct3114.png" width="600" height="342">
 
 Yesterday, the precious metals were beaten like a red headed step child and then the Dad woke up this morning and resumed the beating where he left off. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SILVOct3114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SILVOct3114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SILVOct3114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SILVOct3114.png" width="600" height="342">
 
 There seems to be no end in sight to the selling. It is a complete free fall. 
 

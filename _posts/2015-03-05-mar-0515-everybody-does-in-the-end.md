@@ -21,45 +21,39 @@ tags:
   - Japan
   - US dollar
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/bearMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/bearMar0515.png" width="500" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/bearMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/bearMar0515.png" width="500" height="600">
 
 Over the past half dozen years we have had various countries attempt to conduct prudent monetary policy in the midst of the quantitative easing avalanche that is engulfing the global financial system. Yet each time they have done so, they have found themselves bitten by a vicious downturn that eventually causes them to cry &#8220;Uncle.&#8221;
 
 First it was Japan. When the other major Central Banks engaged in balance sheet expansion to combat the 2007/8 credit crisis, the Bank of Japan at first held tough.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BOJMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BOJMar0515.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BOJMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BOJMar0515.png" width="600" height="342">
 
 As the Federal Reserve, the Bank of England and the ECB expanded their balance sheet aggressively in the 2008&#8211;2012 period, the Bank of Japan did not follow suit with the same sort of expansion. This caused Japan to have the tightest monetary policy on a relative basis. Even though Japan was suffering from the devastating effects of the tsunami disaster, the Yen rallied.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/JPYMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/JPYMar0515.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/JPYMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/JPYMar0515.png" width="600" height="342">
 
 Eventually the deflationary pressure proved too much for the Japanese people. They elected a new leader, Prime Minister Abe, whose main platform was to reverse the secular slide. Abeconomics was born. Since then the BoJ has gone from being one of the tightest Central Banks to one of the loosest. 
 
 The next country that tried to conduct conservative monetary policy in the midst of all this expansion was the ECB. The ECB expanded their balance sheet aggressively to combat the European credit crisis of 2011. As the panic subsided, the ECB let the expansion roll off and the balance sheet contracted quickly during 2012 and 2013.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ECBMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ECBMar0515.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ECBMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ECBMar0515.png" width="600" height="342">
 
 This balance sheet contraction by the ECB while the Fed was in the midst of its aggressive &#8220;QE infinity&#8221; and the BoJ was ramping up their expansion, made European monetary policy the tightest of the large economies. This caused the Euro to rally, especially compared to the Yen.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EURJPYMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EURJPYMar0515.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EURJPYMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EURJPYMar0515.png" width="600" height="342">
 
 Draghi finally hit his &#8220;puke point&#8221; when the BoJ instituted their second round of balance sheet expansion. The move to 150 in the EURJPY was too much for Europeans to bear. They were already importing all the world&#8217;s deflation, and not responding with their own QE, risked pushing European into a deflationary vicious spiral.
 
 And it&#8217;s not just the big major economies that have tried to conduct prudent monetary policy only to quickly have to reverse course. Have a look at his chart from BCA Research.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ToosoonMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ToosoonMar0515.png" width="300" height="900" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ToosoonMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ToosoonMar0515.png" width="300" height="900">
 
 Everywhere you look there are countries that have tried to combat the avalanche of easy money but eventually had to give in and print with the rest of them. No one has been able to withstand the pain. 
 
@@ -69,17 +63,15 @@ Given these policies, even in a robust global economic environment you would exp
 
 China has a soft peg against the US dollar. That has its positives and its negatives. When the Fed was aggressively expanding their balance sheet in the aftermath of the credit crisis, this meant that China was tied to a weak currency. Now that the Fed has stopped expanding its balance sheet, and is about to actually raise rates, China suddenly finds itself with one of the strongest currencies in the world.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CNYMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CNYMar0515.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CNYMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CNYMar0515.png" width="600" height="342">
 
 As you can see, CNY is basically flat lining against the US dollar, while all the rest of the world is depreciating. This is the same situation that Japan faced five years ago and that Europe struggled with last year. 
 
 We can&#8217;t track China&#8217;s balance sheet, but they report their foreign exchange reserves. The pace at which they been accumulating FX reserves has been slowing lately.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CHINAMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CHINAMar0515.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CHINAMar0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CHINAMar0515.png" width="600" height="342">
 
 Now some of you will no doubt be saying to yourself, &#8220;good for them &#8211; it is madness to follow all these other Central Banks down this path.&#8221; 
 
@@ -157,6 +149,5 @@ Kevin Muir
   
 the MacroTourist
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MTWood" width="600" height="100" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MTWood" width="600" height="100">

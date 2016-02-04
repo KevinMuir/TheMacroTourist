@@ -17,6 +17,5 @@ I am taking a late summer vacation. **Regular daily updates will resume Septembe
 
 In the mean time, don&#8217;t worry about financial assets. They are perched perfectly and there is no way that a slip would be catastrophic&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PerchedAug1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Monday, August 18, 14 at 7:29:41 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/PerchedAug1814.png" width="500" height="1042" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PerchedAug1814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Monday, August 18, 14 at 7:29:41 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/PerchedAug1814.png" width="500" height="1042">

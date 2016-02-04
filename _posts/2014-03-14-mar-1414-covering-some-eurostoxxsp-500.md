@@ -23,8 +23,8 @@ tags:
   
 Although over the last couple of weeks my Euro currency trading has been about as graceful as a George Bush press conference, the ECB&#8217;s continued tightness has worked wonders for my short Eurostoxx 50 / long S&P spread trade.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ESTXSPXMar1414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ESTXSPXMar1414.PNG" width="600" height="342" />EuroStoxx50 / S&P 500 ratio</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ESTXSPXMar1414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ESTXSPXMar1414.PNG" width="600" height="342" />EuroStoxx50 / S&P 500 ratio</a>
 </div>
 
 Granted, Putin&#8217;s invasion of Crimea hasn&#8217;t hurt either. 
@@ -63,9 +63,8 @@ Don&#8217;t get me wrong, I think China made monster mistakes with misallocation
 
 The tide has now completely flipped and whereas before everyone was a China optimist, they are all now pessimists. Just as the optimists were too bullish a few years ago, the pessimists are probably too bearish today&#8230; 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NoSense.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/NoSense.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NoSense.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NoSense.png" width="600" height="600">
 
 <hr size="2" width="85%" />
 
@@ -91,9 +90,8 @@ If anything I am now a little embarrassed for Obama that he did so little. Seems
 
 And by the way, for those who don&#8217;t think that markets anticipate and fully factor in news ahead of time, have a look at this chart of Crude Oil during the last week:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CLSPRMar1414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CLSPRMar1414.PNG" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CLSPRMar1414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CLSPRMar1414.PNG" width="600" height="342">
 
 By the time the news was announced, the insiders who &#8220;got the heads up&#8221; had already fully discounted the news. The price moved ahead of any official announcement. 
 

@@ -23,27 +23,23 @@ tags:
 ---
 Yesterday was one of the more interesting days in the stock market in quite some time. If you dialled the S&P 500 at the end of the day you would have assumed nothing happened. The SPX was down less than two points and the range on the day was rather muted. But behind that calm facade, some of the highest flying stocks were absolutely pulverized.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/pigeonSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/pigeonSep1614.png" width="400" height="542" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/pigeonSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/pigeonSep1614.png" width="400" height="542">
 
 Tesla, the seemingly gravity defying electric car maker experienced its biggest down day in months.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/TSLASep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/TSLASep1614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/TSLASep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TSLASep1614.png" width="600" height="342">
 
 Other market darlings like Facebook were also trounced.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FBSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FBSep1614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FBSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FBSep1614.png" width="600" height="342">
 
 The bigger the gain over the last few months, the more vulnerable the stock was yesterday. In contrast to the S&P 500 that basically closed unchanged, the Nasdaq 100 was down big time. In fact it closed at the weakest level in a month, breaking an important support level.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NDXSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/NDXSep1614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NDXSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NDXSep1614.png" width="600" height="342">
 
 What was the catalyst for this move? Market pundits will come up with a host of reasons, but the reality is that we were due. The market was getting heavy. The buyers were getting tired and had simply pushed stocks to unsustainable levels. 
 
@@ -67,21 +63,18 @@ I don&#8217;t usually talk about individual stocks, but I do want to highlight a
 
 Of course we all need a way to video tape a day in the life from the perspective of our dog.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/dogSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/dogSep1614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/dogSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/dogSep1614.png" width="600" height="342">
 
 Or when you are giving your new flying squirrel wingsuit a whirl, you want to make sure you record it.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/flyingsuitSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/flyingsuitSep1614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/flyingsuitSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/flyingsuitSep1614.png" width="600" height="342">
 
 And finally when you and your Russian buddy that you met in bus station while travelling through Asia decide to illegally climb the second highest tower in the world, you need to have your GoPro to film it.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/towerSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/towerSep1614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/towerSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/towerSep1614.png" width="600" height="342">
 
 http://www.youtube.com/watch?v=gLDYtH1RH-U
 
@@ -89,9 +82,8 @@ But I don&#8217;t know what is scarier, the heights that these kids climb to, or
 
 Since the company IPO&#8217;d at $24, the stock has been on tear. It has almost tripled to over $70 yesterday morning.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GPROSep1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GPROSep1514.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GPROSep1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GPROSep1514.png" width="600" height="342">
 
 This stock is the epitome of today&#8217;s frothy market. A sexy technology story whose small float can be jerked around by the big boys. GoPro was expensive at its IPO price, but at $70&#8217;sh, it has ventured into the absurd. Nothing like an $8.5 billion dollar market cap for a faddish camera company. 
 
@@ -101,9 +93,8 @@ We saw major problems with Twitter&#8217;s IPO lockup expiration due to the init
 
 In the mean time, given the yesterday&#8217;s terrible action in the high flyers, I have decided to prematurely short some GPRO. I was surprised that the stock was actually borrowable. Usually in these types of small float situations with a big lockup on the horizon the hedge funds hoover up all the borrow. Twitter was not borrowable until after the lockup. But in a testament to today&#8217;s bullish environment, there is plenty of GPRO available to short. After all who would be stupid enough to want to bet on stocks like GPRO going down? Well, although it is a little scary, I am going to step up to the plate. After all, it is a long way down if I am right&#8230;
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/goSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/goSep1614.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/goSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/goSep1614.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -117,6 +108,5 @@ My guess is that the Fed is loath to guide the market tighter. Given the recent 
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsSep1614.png" width="600" height="542" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep1614.png" width="600" height="542"></p>

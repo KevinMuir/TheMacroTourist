@@ -21,29 +21,25 @@ tags:
 ---
 The sleepy days of summer seem to finally be behind us. There is no shortage of markets making some really interesting moves. It is at time like this that you need extra vigilant against trading on emotion. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AlpacaSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AlpacaSep1114.png" width="600" height="800" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AlpacaSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AlpacaSep1114.png" width="600" height="800">
 
 Overnight Australia reported some surprisingly strong employment numbers which caused the Aussie dollar to rally strongly. The Australian economy added 121,000 jobs in August which was significantly higher than the expected 15,000 addition. This release was the most jobs added in a single month since the addition of 103,000 jobs in August of 1991. 
 
 But even with this barnburner of an employment report, the relentless US dollar bull market overwhelmed the Australian news. By the time European markets opened, the Aussie dollar had given up all of its gains. As we open in NY, it is actually down on the day.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AUDGIPSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AUDGIPSep1114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AUDGIPSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AUDGIPSep1114.png" width="600" height="342">
 
 The US dollar bull market continues to weigh heavily on commodities. Gold and silver are both testing big support levels this morning.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GOLDSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GOLDSep1114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDSep1114.png" width="600" height="342">
 
 Silver has broken $19 and is looking especially weak.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SILVSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SILVSep1114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SILVSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SILVSep1114.png" width="600" height="342">
 
 I am doing my best to sit on my hands when it comes to the precious metals. I have no dog in the race, but long term I am looking to accumulate a position at these lower levels. I would like to see some true capitulation on the part of the last remaining bulls. For now I am going to stick to my plan of letting silver first decisively break the big support level.
 
@@ -57,9 +53,8 @@ I get the sense that the US dollar bull move is getting a little too crowded. My
 
 I am by no means getting bearish on the US dollar, but I am heading to the sidelines for a little bit.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DXYSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DXYSep1114.png" width="600" height="342" /></a>
-</div></p> 
+
+  <img src="http://themacrotourist.com/pictures/Azure/DXYSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DXYSep1114.png" width="600" height="342"></p> 
 
 This is probably one of my biggest weaknesses when it comes to my trading. I can&#8217;t stand to be part of the herd and I all too often abandon positions just as they are starting to work. So you might want to take any change in my view with a big grain of salt. 
 
@@ -79,9 +74,8 @@ However, I would like to suggest that the economic lesson of &#8220;no free lunc
 
 Let me explain what I mean. But before I do, let me tell you about a movie that I saw a couple of days ago. Toronto is lucky enough to host one of the biggest movie festivals in the world. My wife has always been a fan of TIFF (Toronto International Film Festival). Before we had kids, my little sister and her managed to finagle tickets to the premiere of Seven Years in Tibet where they somehow ended up at the after party with Brad Pitt. My wife was bitten by the festival bug. Well, that was 15 years and three kids ago. In that time, we haven&#8217;t had a lot of time to get to TIFF. However now that the kids can somewhat care for themselves, she has decided it is time for us to get back out on the town. So she bought us a festival package. Although much to her chagrin she didn&#8217;t get the Channing Tatum movie, we did get tickets to a movie called &#8220;Good Kill.&#8221; The movie&#8217;s story centres around the difficulties faced by a US drone pilot. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GoodKill.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GoodKill.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GoodKill.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GoodKill.png" width="600" height="342">
 
 The movie was actually pretty boring &#8211; I guess it is tough to make playing a video game exciting. But it did do a good job at highlighting the real problems with this sort of warfare. 
 
@@ -89,9 +83,8 @@ Although there are no risks to the drone pilots who bomb targets 7,000 miles awa
 
 Due to the fact that President Obama has dramatically increased the use of drones as opposed to boots on the ground, the amount of civilians killed under his watch has dramatically escalated.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DroneSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DroneSep1114.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DroneSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DroneSep1114.png" width="600" height="342">
 
 I don&#8217;t want to judge this decision made by Obama. I suspect that you have your own opinion and that I am not going to change it anyway.
 
@@ -117,9 +110,8 @@ Barry Ritholz wrote about Morgan Stanley&#8217;s Adam Parker:
 
 And how about this picture from a CNBC vid?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/beargetbullishSep1114-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/beargetbullishSep1114-1.png" width="600" height="442" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/beargetbullishSep1114-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/beargetbullishSep1114-1.png" width="600" height="442">
 
 My personal favourite was not a bear throwing in a towel, but an article written by Bloomberg reported Cordell Eddings. The title of the article was [&#8220;You Missed $1 Trillion Return Agreeing With Fed Naysayers.&#8221;](http://www.bloomberg.com/news/2014-09-08/you-missed-1-trillion-return-agreeing-with-fed-naysayers.html#disqus_thread) The article basically rubs the bears&#8217; noses in the massive amounts of gains that they missed during the 5 year rally. Again, this is not the sort of article you see at bottoms&#8230; I am keeping this one filed away to review in a couple of years. I suspect it will be good for a hearty laugh.
 
@@ -127,6 +119,5 @@ My personal favourite was not a bear throwing in a towel, but an article written
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsSep1114.png" width="600" height="500" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep1114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsSep1114.png" width="600" height="500"></p>

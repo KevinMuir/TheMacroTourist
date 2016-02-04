@@ -26,31 +26,30 @@ Starting in March the froth came out of these stocks, and then with the FOMC mee
 
 Let’s go through some charts to see what I mean. Here is the poster child for this rally &#8211; Facebook:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/FBApr0314.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/FBApr0314.PNG" width="600" height="342" />Facebook Year to Date</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/FBApr0314.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/FBApr0314.PNG" width="600" height="342" />Facebook Year to Date</a>
 </div>
 
 Facebook went from $55 at the beginning of the year straight up to $72 by the end of February. Doesn’t sound like much except when you realize that this 31% move added $34 billion of market cap. However, the dip in mid March knocked off almost the entire two month gain in two weeks.
 
 Netflix was a very similar situation except that it basically did knock off the entire gain:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/NFLXApr0314.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/NFLXApr0314.PNG" width="600" height="342" />NFLX &#8211; YTD</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/NFLXApr0314.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/NFLXApr0314.PNG" width="600" height="342" />NFLX &#8211; YTD</a>
 </div>
 
 And lest you think it is only technology stocks, let’s look at the most hyped of the bunch &#8211; the Biotechs:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/XBIApr0314.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/XBIApr0314.PNG" width="600" height="342" />XBI &#8211; Biotech ETF &#8211; YTD</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/XBIApr0314.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/XBIApr0314.PNG" width="600" height="342" />XBI &#8211; Biotech ETF &#8211; YTD</a>
 </div>
 
 That move from $130 to $174 for an index is breathtaking and certainly harkens back to 1999.
 
 The damage to these high flying momentum stocks was huge. Many hedge funds were stuffed to the gills with these names (of course) and March ended up being an especially cruel month. According to Goldman, the week ending March 27th was the worst 5 day return of hedge fund returns versus the S&P 500 since 2001!
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HFGSApr0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/HFGSApr0314.png" width="600" height="444" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HFGSApr0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HFGSApr0314.png" width="600" height="444">
 
 This is yet another great example of why you don’t want to be in trades that are popular with hedge funds. When things turn they all have the same position on and there is _no one to sell it to._ Therefore the declines end up being way worse than they should be.
 
@@ -64,9 +63,8 @@ Think about it for a second. The S&P is hitting new highs this morning, yet FB i
 
 Have a look at the massive rotation that occurred in March. This is a great chart from Bespoke that outlines the moves within the groups:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BespokeApr0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BespokeApr0314.png" width="674" height="406" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BespokeApr0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BespokeApr0314.png" width="674" height="406">
 
 Which brings me to an actionable trade. I believe these former high flying stocks are going to struggle for some time to come. Therefore as they rally, I am going to sell naked calls in these names. I am going to pick away and be selective, but I think that these names are going to get quiet (which will send vol down) or they are going to continue their decent. Either way, the market is (as usual) too excited for the recent past to simply continue. It won’t. The damage was too great in these names. Trade accordingly.
 
@@ -84,9 +82,8 @@ When we did this study in late 2013, the total return was hitting new highs.
 
 And in keeping with the notion that the Market Gods always love to make you look like the biggest fool possible, at the very moment I wrote my blog piece about this strategy, it topped. I couldn’t have picked a worse time to highlight this strategy.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CurrencyWarsApr0214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Wednesday, April 2, 14 at 9:26:52 PM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/CurrencyWarsApr0214.png" width="600" height="408" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CurrencyWarsApr0214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Wednesday, April 2, 14 at 9:26:52 PM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/CurrencyWarsApr0214.png" width="600" height="408">
 
 Now although I did indeed start trading this strategy in December of 2013, I am embarrassed to admit, I gave up on the strategy relatively quickly. Call it boredom, attribute it to the fact that other trades interested me more, or simply call it lucky, but I fell down and stopped trading it after one month.
 
@@ -106,6 +103,5 @@ I will update the total return graph and the new countries at the start of the n
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsApr0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsApr0314.png" width="600" height="569" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0314.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsApr0314.png" width="600" height="569">

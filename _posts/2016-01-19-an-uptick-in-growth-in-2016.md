@@ -16,9 +16,8 @@ tags:
   - GDP
   - US
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/MadJan1916.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/MadJan1916.png" alt="%cliboard" width="500" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/MadJan1916.png" alt="http://themacrotourist.com/pictures/MadJan1916.png" style="margin:30px auto;display:block;" width="500" height="600">
 
 Right now it is popular to believe the global economy is about to come crashing to a standstill. Every time you turn around there is another article about how global trade has collapsed, or how commodities are headed to zero. The doomsday predictions about China and the rest of the emerging markets have hit epic proportions.
 
@@ -34,9 +33,8 @@ Investors mistakenly believe [Yellen is a dovish Federal Reserve Chairperson](ht
 
 Have a look at the Federal Reserve&#8217;s favourite market based inflation expectation indicator:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Fed5Jan1916.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Fed5Jan1916.png" alt="%cliboard" width="800" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Fed5Jan1916.png" alt="http://themacrotourist.com/pictures/Fed5Jan1916.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Inflation expectations have sunk to new lows under Yellen&#8217;s watch. And what is especially amazing is that even in the face of this obvious global economic slowdown, Yellen and her Federal Reserve committee members have kept their foot on the throat of economy. Apart from a slight wavering last fall, the FOMC has consistently stayed on message. They are attempting to normalize rates come hell or high water.
 
@@ -60,9 +58,8 @@ And this rolling over will be the start of the relative out performance of the r
 
 Have a look at this chart of the 18 month lagged G7 year over year growth versus the inverted 18 month inverted Brent crude oil price change:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/G7vsOilJan1816.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/G7vsOilJan1816.png" alt="%cliboard" width="800" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/G7vsOilJan1816.png" alt="http://themacrotourist.com/pictures/G7vsOilJan1816.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Over the past 25 years a big crude oil price decline has always been met with growth in the following quarters. I don&#8217;t expect this time to be any different.
 
@@ -76,9 +73,8 @@ I am buying US fixed income while selling European and Japanese bonds. The US bo
 
 And in the mean time, while everyone is busy driving crude oil prices to zero, I want to leave you with this chart:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ChinaImportJan1516.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/ChinaImportJan1516.png" alt="%cliboard" width="800" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ChinaImportJan1516.png" alt="http://themacrotourist.com/pictures/ChinaImportJan1516.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 From Reuters:
 

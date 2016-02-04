@@ -30,28 +30,28 @@ The investing community is convinced that the global economy is rolling over and
 
 Here is the chart of the US Two Year Treasury yield. The yield has been going straight down over the last couple of months.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/USGG2YRFeb2414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="USGG2YRFeb2414.PNG" src="http://themacrotourist.com/pictures/Azure/USGG2YRFeb2414.PNG" width="600" height="342" />US Two Year Treasury Yield</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/USGG2YRFeb2414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="USGG2YRFeb2414.PNG" src="http://themacrotourist.com/pictures/Azure/USGG2YRFeb2414.PNG" width="600" height="342" />US Two Year Treasury Yield</a>
 </div>
 
 And it is not just in the US, here is the German Two Year Yield &#8211; again with a move lower over the last couple of months.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GDBR2Feb2414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="GDBR2Feb2414.PNG" src="http://themacrotourist.com/pictures/Azure/GDBR2Feb2414.PNG" width="600" height="342" />German Two Year Yield</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GDBR2Feb2414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="GDBR2Feb2414.PNG" src="http://themacrotourist.com/pictures/Azure/GDBR2Feb2414.PNG" width="600" height="342" />German Two Year Yield</a>
 </div>
 
 The Yield Curve has flattened. Here is the 5/30 Year US Treasury Spread:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/US530Feb2514.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="US530Feb2514.PNG" src="http://themacrotourist.com/pictures/Azure/US530Feb2514.PNG" width="600" height="342" />US 5/30 Treasury Yield Curve Spread</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/US530Feb2514.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="US530Feb2514.PNG" src="http://themacrotourist.com/pictures/Azure/US530Feb2514.PNG" width="600" height="342" />US 5/30 Treasury Yield Curve Spread</a>
 </div>
 
 The curve widened quite aggressively last fall, but since then, it has flattened back to levels last seen in the midst of the summer budget crisis debacle.
 
 Yesterday I spoke about the recent move out of Emerging Markets into developed markets, but I didn’t talk about the damage being done to the commodity currencies. These currencies have been beaten up as world economic growth forecasts have been slashed. The best example is the Australian Dollar:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AUDFeb2514.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="AUDFeb2514.PNG" src="http://themacrotourist.com/pictures/Azure/AUDFeb2514.PNG" width="600" height="342" />Australian Dollar</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AUDFeb2514.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="AUDFeb2514.PNG" src="http://themacrotourist.com/pictures/Azure/AUDFeb2514.PNG" width="600" height="342" />Australian Dollar</a>
 </div>
 
 The markets have become convinced that economic growth is to be found nowhere on the horizon. When I read through my research feed, I am shocked at how few analysts think that there is a chance for outsized growth in the coming year or two.
@@ -60,8 +60,8 @@ I am not convinced that they are wrong, but I certainly assign a much higher pro
 
 There is no doubt that we have suffered through an economic hiccup of late. Have a look at the PMI index:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PMIFeb2514.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="PMIFeb2514.PNG" src="http://themacrotourist.com/pictures/Azure/PMIFeb2514.PNG" width="600" height="342" />PMI Index takes a dip</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PMIFeb2514.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="PMIFeb2514.PNG" src="http://themacrotourist.com/pictures/Azure/PMIFeb2514.PNG" width="600" height="342" />PMI Index takes a dip</a>
 </div>
 
 I know it is fashionable to make fun of the fact that many bullish analysts are blaming shortfalls on the weather. I saw one of the more popular pro-doom financial websites even went as far to claim that January was one of the warmest on record, so therefore all the excuses about weather were bullshit. This is disingenuous logic. The West Coast had one of the hottest January’s on record, so it made the country average much warmer than usual. But the fact that San Francisco was 80 degrees didn’t make up for the fact that Atlanta was below freezing and covered in a sheet of ice. The warmer weather didn’t add very much economic activity, but the colder weather sure did hamper it.
@@ -88,8 +88,8 @@ We have not had inflation because the private sector’s paying down of credit h
 
 For the first time in a long time, we actually had households taking out credit! I am not judging whether this is prudent or not &#8211; debating the wisdom of encouraging this behaviour is not going to help you trade. Rightly or wrongly, it is occurring and you need to position accordingly.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HouseholdCreditFeb2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="HouseholdCreditFeb2514.png" src="http://themacrotourist.com/pictures/Azure/HouseholdCreditFeb2514.png" width="600" height="342" />Household credit   &#8211; YoY change</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HouseholdCreditFeb2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="HouseholdCreditFeb2514.png" src="http://themacrotourist.com/pictures/Azure/HouseholdCreditFeb2514.png" width="600" height="342" />Household credit   &#8211; YoY change</a>
 </div>
 
 Ever since the 2008 credit crisis, households have been steadily paying down credit &#8211; resulting in the negative rate you see on this graph between 2008 and 2013.
@@ -98,14 +98,14 @@ However, it has now pushed higher and is finally positive. That means that money
 
 And let’s not forget how much the Fed has pushed onto the banks’ balance sheet over the last few years.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ExcessReservesFeb2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="ExcessReservesFeb2514.png" src="http://themacrotourist.com/pictures/Azure/ExcessReservesFeb2514.png" width="600" height="342" />Bank Excess Reserves</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ExcessReservesFeb2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="ExcessReservesFeb2514.png" src="http://themacrotourist.com/pictures/Azure/ExcessReservesFeb2514.png" width="600" height="342" />Bank Excess Reserves</a>
 </div>
 
 If the velocity of money finally stops going down, then the potential for an explosive move higher is frightening.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/M2VelocityFeb2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="M2VelocityFeb2514.png" src="http://themacrotourist.com/pictures/Azure/M2VelocityFeb2514.png" width="600" height="342" />M2 Velocity</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/M2VelocityFeb2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="M2VelocityFeb2514.png" src="http://themacrotourist.com/pictures/Azure/M2VelocityFeb2514.png" width="600" height="342" />M2 Velocity</a>
 </div>
 
 The Fed has stuffed money into the system for the last five years. It has not created inflation because credit was being destroyed in the private sector, which lowered the velocity of money and the Fed’s stimulus was merely parked into the banking system. But that might be changing.
@@ -124,8 +124,8 @@ The Chinese are allowing their currency to weaken again**
 
 Over the last coupe of weeks the Chinese have allowed their currency to weaken again.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CNYFeb2514.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="CNYFeb2514.PNG" src="http://themacrotourist.com/pictures/Azure/CNYFeb2514.PNG" width="600" height="342" />Chinese CNY &#8211; (higher means weaker Yuan)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CNYFeb2514.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="CNYFeb2514.PNG" src="http://themacrotourist.com/pictures/Azure/CNYFeb2514.PNG" width="600" height="342" />Chinese CNY &#8211; (higher means weaker Yuan)</a>
 </div>
 
 I am not yet sure what this means, but my first guess is that the Chinese authorities are not allowing the shadow banking system to contract and have instead decided to alleviate the recent crunch with a massive liquidity injection. This has caused the currency to fall. 

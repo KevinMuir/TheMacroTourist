@@ -14,23 +14,20 @@ tags:
   - oil
   - XLE
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/OilTradingNov0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/OilTradingNov0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/OilTradingNov0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/OilTradingNov0415.png" width="600" height="342">
 
 Yesterday oil stocks caught fire and closed at three month highs.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/XLENov0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/XLENov0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/XLENov0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/XLENov0415.png" width="600" height="342">
 
 Although I am a big oil bull, I am not sure chasing energy stocks is the best way to play it. To best understand why not, let&#8217;s go over the short side&#8217;s arguments about why energy stocks are a poor investment. And there is no better person to articulate this reasoning than famed short seller Jim Chanos. Although his timing is sometimes extremely long in duration, when Jim is on the other side of your trade, you want to think long and hard about your conviction. 
 
 This summer on the TV program Wall Street Week, Jim outlined the reasons why energy stocks were a poor investment. I have created a transcript of his comments:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/ChanosNov0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/ChanosNov0415.png" width="500" height="275" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/ChanosNov0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/ChanosNov0415.png" width="500" height="275">
 
 > Chanos: &#8230;.intergrated oil companies have one set of problems. And then the North American E&P, the so called frackers, have a completely different set of problems. But in the integrated space, the cost of replacing oil that these guys, like Chevron, Exxon, Royal Dutch Shell, is really simply that they are replacing $20 oil with $80 oil. And that&#8217;s the problem. And what were really high return on capital businesses are becoming more mundane return on capital businesses. And they are having to do things like drill in the Arctic, deal with Mr. Putin, construct these enormously expensive liquified natural gas projects. And increasingly add the risk to the portfolio, where it just used to be a much simpler drill somewhere and pull the oil out.
 > 
@@ -88,17 +85,15 @@ As the price of their equity rallies, oil companies will issue stock into the de
 
 Although the energy stocks are rallying, the price of this debt has fallen and doesn&#8217;t look like it can get up. Here is the chart of the iBoxx USD Liquid High Yield Oil & Gas Index:
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/iBoxNov0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/iBoxNov0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/iBoxNov0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/iBoxNov0415.png" width="600" height="342">
 
 This is complete carnage. Having a bond index fall 30% in a year is about as bad as it gets. These bond investors have been completely destroyed. 
 
 Yet over the past three years, an investor in the XLE index ETF has broken even, while a iBoxx investor finds himself underwater by 27%.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/XLEiBoxNov0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/XLEiBoxNov0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/XLEiBoxNov0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/XLEiBoxNov0415.png" width="600" height="342">
 
 Smart investors like Oaktree&#8217;s Howard Marks and Omega Advisor&#8217;s Leon Cooperman are buying oil & gas debt. From Fortune:
 

@@ -21,9 +21,8 @@ tags:
 ---
 I don&#8217;t want to get ahead of myself, but given this morning&#8217;s 19 S&P handle gap lower, it looks like the bear might have finally wandered into an area where he can&#8217;t be ignored.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BearHospital.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BearHospital.png" width="600" height="450" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BearHospital.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BearHospital.png" width="600" height="450">
 
 
 
@@ -39,16 +38,16 @@ The big news all centred around the release of the FOMC minutes. The initial mar
 
 This caused an initial sell &#8220;the end of QE&#8221; dip in the stock market. But as market participants digested the rest of the minutes, they quickly came to the conclusion that even though the Fed was ending QE, they were miles away from hiking rates. This caused a made scramble higher in various financial assets.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXGIPJul1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXGIPJul1014.png" width="600" height="342" />S&P Trading over the last three days</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPJul1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXGIPJul1014.png" width="600" height="342" />S&P Trading over the last three days</a>
 </div>
 
 
 
 The market&#8217;s interpretation of the Fed minutes is even more obvious when you have a look at the short end of the yield curve. Here is the chart of the Sep 2016 Eurodollar contract. 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EDU6Jul1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EDU6Jul1014.png" width="600" height="342" />Sep 2016 Eurodollar Contract (higher price means lower yield) over the last 3 days</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EDU6Jul1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EDU6Jul1014.png" width="600" height="342" />Sep 2016 Eurodollar Contract (higher price means lower yield) over the last 3 days</a>
 </div>
 
 
@@ -57,8 +56,8 @@ The release of the minutes is obvious to see. There was also a small move lower,
 
 And if you don&#8217;t believe that the market viewed the release of the Fed minutes as pushing rate hikes into the future, have a look at the chart of gold.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GOLDJul1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GOLDJul1014.png" width="600" height="342" />Gold trading over the last few days</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GOLDJul1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GOLDJul1014.png" width="600" height="342" />Gold trading over the last few days</a>
 </div>
 
 
@@ -69,8 +68,8 @@ There is even a chance that we have reached a point where the Fed&#8217;s cluele
 
 Lately I have been pounding the table on being long commodities and short financial assets. The market might be finally waking up to the fact that the Fed can print all the money they want, but it does not mean it will always go into the asset that the Fed wants.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CRBSPXJul1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CRBSPXJul1014.png" width="600" height="342" />S&P (yellow line), Fed Balance Sheet (green line) vs CRB (white line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CRBSPXJul1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CRBSPXJul1014.png" width="600" height="342" />S&P (yellow line), Fed Balance Sheet (green line) vs CRB (white line)</a>
 </div>
 
 
@@ -93,6 +92,5 @@ In the mean time, watch out for the shift in sentiment away from financial asset
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJul1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJul1014.png" width="600" height="700" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul1014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJul1014.png" width="600" height="700"></p>

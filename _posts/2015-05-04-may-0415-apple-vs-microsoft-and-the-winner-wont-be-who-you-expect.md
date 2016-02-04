@@ -17,9 +17,8 @@ tags:
   - MSFT
   - Steve Jobs
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/DogAppleWatch.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/DogAppleWatch.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/DogAppleWatch.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/DogAppleWatch.png" width="600" height="600">
 
 I don&#8217;t usually write much about individual stocks, but today I will make an exception. I am sure when you read my post, you will think that I am a clueless idiot. But I am going to put it out there nonetheless. 
 
@@ -29,9 +28,8 @@ Yet if there is one thing I have learned over the years it is the market always 
 
 Remember 1997 when the coolest thing out there was a DELL computer? 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AAPLDELLMay0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AAPLDELLMay0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AAPLDELLMay0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AAPLDELLMay0415.png" width="600" height="342">
 
 The stock market was so enamoured with &#8220;Dude you&#8217;re getting a DELL&#8221; that the CEO felt confident enough to opine that Apple should just &#8220;shut down and give the money back to the shareholders.&#8221; At that time if you would have suggested that Apple would become the world&#8217;s largest company and that DELL would struggle to survive in a commoditized shrinking PC market, you would have been told you were complete baffoon. 
 
@@ -41,9 +39,8 @@ When Steve Jobs passed away, the price of Apple stock dipped over concerns that 
 
 But do you know how long ago that was? I looked it up because I couldn&#8217;t remember. Steve Jobs passed away October 5th, 2011. On that day, Apple stock closed at $54.03.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/AAPLMay0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/AAPLMay0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/AAPLMay0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/AAPLMay0415.png" width="600" height="342">
 
 Last week it hit a new high of $127.88. Not a bad return for a company missing their instrumental founder. 
 
@@ -84,9 +81,8 @@ The design is also sorely lacking. In a blow that strikes Apple hard, it was rec
 
 I am a seller of the Apple Watch and think it is only a matter of time before it becomes as cool as &#8220;Google Glasses.&#8221; 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/GoogleGlass.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/GoogleGlass.png" width="600" height="400" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/GoogleGlass.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/GoogleGlass.png" width="600" height="400">
 
 Don&#8217;t forget how jazzed up everyone was about Google Glass when it was first launched. Now you are a pariah if you wear it in public. I don&#8217;t expect Apple Watch to bomb that badly, but the market will be disappointed with the adoption rate. 
 
@@ -160,9 +156,8 @@ I have learned that when &#8220;the kid&#8221; starts talking about technology, 
 
 Now you are probably rolling your eyes at that suggestion. Microsoft? Vista? Blue screens of death? Steve Ballmer?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/BallmerMay0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/BallmerMay0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/BallmerMay0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/BallmerMay0415.png" width="600" height="342">
 
 Whereas Steve Job&#8217;s passing was a true loss for the company, I don&#8217;t think you can say the same thing about Ballmer&#8217;s retirement. Microsoft has been wandering around aimlessly for the past decade, getting their lunch eaten by smart innovative companies like Google, Apple and Facebook. Ballmer&#8217;s mis-steps buying stupid companies at ridiculous valuations only to write the whole thing off years later are legendary. 
 
@@ -174,9 +169,8 @@ Every time you turn around, Microsoft is showing signs of innovating. No longer 
 
 I know it is gimicky, but their recent [How-Old.net](http://how-old.net/) web page is illustrative of how Microsoft is changing. This web service allows you to upload your photo and their software uses new algorithms to estimate your age. Give a whirl &#8211; it&#8217;s actually quite neat. I uploaded a photo of myself, and although it did guess my age to be a couple years older than my actual age, I attribute that to the stress of being short Apple in the face of the mad crowd of bulls. I decided to upload a photo of Yoda, and I was quite shocked that the software managed to guess his age bang on.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/HowOldisYoda.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/HowOldisYoda.png" width="600" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/HowOldisYoda.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/HowOldisYoda.png" width="600" height="600">
 
 There are a million other neat things that Microsoft is working on. I could list more, but there is no one &#8220;magic bullet.&#8221; **As &#8220;the kid&#8221; explained to me, Microsoft are simply doing all the right things they should have been doing ages ago.**
 
@@ -192,17 +186,15 @@ Yet Microsoft is showing signs of doing everything right, just as Apple is makin
 
 Here is a chart of the ratio of MSFT vs AAPL.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MSFTAAPLMay0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MSFTAAPLMay0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MSFTAAPLMay0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MSFTAAPLMay0415.png" width="600" height="342">
 
 Earlier this year, the ratio was bumping along the recent lows of 0.30. Although it has moved up, I think that it still has a ways to go. The first stop of 0.60 is as easy as a chip shot.
 
 The market has started to wake up to the change at Microsoft.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MSFTMay0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/MSFTMay0415.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MSFTMay0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/MSFTMay0415.png" width="600" height="342">
 
 I bet you are thinking I don&#8217;t know what I am talking about, and that Microsoft stinks, and will continue to stink. But that&#8217;s exactly why it might work&#8230;
 

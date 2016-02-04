@@ -21,15 +21,13 @@ tags:
 ---
 During most of November we had to listen to all the bulls tell us why [&#8220;this time is different&#8221;](http://themacrotourist.com/pictures/Azure/crashDec1114.png) and that the stock market rise was here to stay. I have to admit, it was pretty frustrating being a bear during the seemingly never ending bull move.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/bearDec1714-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/bearDec1714-1.png" width="500" height="500" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/bearDec1714-1.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/bearDec1714-1.png" width="500" height="500">
 
 The pundits were falling all over themselves claiming that the US market was the &#8220;cleanest shirt in the dirty laundry pile.&#8221; My twitter feed was filled with traders poking fun of anyone who didn&#8217;t &#8220;get it.&#8221; But I wonder if all those traders who &#8220;got it&#8221; are still hanging tough with their long positions? 
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SPXDec1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/SPXDec1714.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SPXDec1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SPXDec1714.png" width="600" height="342">
 
 I am not trying to rub salt in the wounds of the bulls by any means. I am just trying to remind you how pervasive the bull market infection was a couple of short weeks ago. And yet, now that we are 110 S&P 500 handles lower, suddenly the sentiment is quite negative. 
 
@@ -59,16 +57,14 @@ Although the US stock market has had a bad week, the emerging markets have strug
 
 Have a look at this chart of copper versus the EEM ETF.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EEMHGDec1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EEMHGDec1714.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EEMHGDec1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EEMHGDec1714.png" width="600" height="342">
 
 The price of copper is highly correlated to the price of the Emerging Markets ETF. Earlier this year EEM rallied, but copper did not confirm the move. With the recent drop in EEM, that discrepancy has been largely eliminated.
 
 EEM is also sensitive to the price of the US dollar. As the US dollar has rallied, this has weighed heavily on EEM.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/EEMDXYDec1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/EEMDXYDec1714.png" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/EEMDXYDec1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/EEMDXYDec1714.png" width="600" height="342">
 
 I am not sure if the selling in EEM is finished, but at least these charts are showing that we are getting closer to a potential bottom. Although the whole world is bullish on the US stock market, I would rather patiently wait for a chance to buy these sub-merging markets on the cheap.

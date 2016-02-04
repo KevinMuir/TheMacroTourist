@@ -14,9 +14,8 @@ tags:
   - Obama
   - Reagan
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/PhillippusOct0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/PhillippusOct0415.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/PhillippusOct0415.png" alt="http://themacrotourist.com/pictures/PhillippusOct0415.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I am not one of those guys who takes a chart from 1929 and sticks it over the current Dow Jones chart and proclaims the end of the world is nigh. I don’t buy for one second the idea any market _has to follow_ the same path as some previous trading pattern.
 
@@ -30,9 +29,8 @@ Recently I was thinking about Obama’s legacy. I was reflecting how he has expe
 
 The economy bottomed in March of 2009 three months after Obama was sworn in.  The newly elected President had to deal with three bad job reports until the direction reversed, and has only headed one way since.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/JoblessOct0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/JoblessOct0415.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/JoblessOct0415.png" alt="http://themacrotourist.com/pictures/JoblessOct0415.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Even the stock market, which was predicted to collapse due to the election of the left leaning Obama has been a one way ticket higher. Remember the right wing’s doomsday predictions after Obama trounced Romney? Here’s a Rush Limbaugh quote that reflected the mood at the time:
 
@@ -40,9 +38,8 @@ Even the stock market, which was predicted to collapse due to the election of th
 
 This quote is all the more funny in hindsight. Far from causing a market crash, Obama has presided over a 110% increase in the stock market during his two terms as President.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SPXOct0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SPXOct0415.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SPXOct0415.png" alt="http://themacrotourist.com/pictures/SPXOct0415.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I am by no means attributing the rising stock market on Obama’s policies. He had little to do with the monster rise.
 
@@ -56,9 +53,8 @@ The first was George W. Bush. Although Bush’s Presidency was filled with more 
 
 This calm proved illusory. In the fall of 2007, the markets made up for all the previous benign behaviour by starting a decline that would eventually trigger the greatest economic panic since 1929.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SPXBushOct0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SPXBushOct0415.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SPXBushOct0415.png" alt="http://themacrotourist.com/pictures/SPXBushOct0415.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Under the Bush Presidency, the market topped in the fall of 2007, which corresponds to approximately the current day in the Obama Presedential timeline.
 
@@ -66,15 +62,13 @@ You are probably saying to yourself, so what? That doesn’t mean anything. The 
 
 But what about Reagan? He was also a two term President whose final days looked like clear sailing. What happened during his final year?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/SPXROct0415.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/SPXROct0415.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/SPXROct0415.png" alt="http://themacrotourist.com/pictures/SPXROct0415.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Most economic forecasters were also predicting a calm final year for Reagan to coast into the end of his Presidency. Unfortunately we all know that was not to be.
 
 <div style="width: image width px; font-size: 80%; text-align: right;">
-  <a href="http://themacrotourist.com/pictures/ProphetOct0415.png"><img class=" wp-image-14271 alignright" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/ProphetOct0415.png" alt="%cliboard" width="208" height="191" /></a>
-</div>
+  <img src="http://themacrotourist.com/pictures/ProphetOct0415.png"><img class=" wp-image-14271 alignright" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/ProphetOct0415.png" style="margin:30px auto;display:block;" width="208" height="191">
 
 Just because the Autumn before the final year of their term ushered in market disasters for both Bush and Reagan does not _necessarily_ mean it will be the same for Obama. I don’t think anything is carved into stone. The analogy is interesting, but it is not some prophet proclaimed destiny.
 
@@ -102,9 +96,8 @@ As the Federal Reserve has finished expanding its balance sheet, and now started
 
 Reagan and Bush both thought their final days in office would be clear sailing on the economic front. But instead they were both tested with two of history’s biggest market crashes. Will it be the same for Obama? No one knows for sure, but the longer the Federal Reserve committee keeps their fingers in their ears shouting “LALALALA -CAN’T HEAR YOU” while real damage is being done to the economy, the greater the chance that Obama’s last year will look like Bush’s or Reagan’s…
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/GollumOct0515.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/GollumOct0515.png" alt="%cliboard" width="500" height="250" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/GollumOct0515.png" alt="http://themacrotourist.com/pictures/GollumOct0515.png" style="margin:30px auto;display:block;" width="500" height="250">
 
 Thanks for reading,
   

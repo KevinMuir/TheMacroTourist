@@ -18,25 +18,22 @@ tags:
   - stocks
   - unemployment
 ---
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/obiwanMar0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/obiwanMar0715.png" alt="%cliboard" width="500" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/obiwanMar0715.png" alt="http://themacrotourist.com/pictures/Azure/obiwanMar0715.png" style="margin:30px auto;display:block;" width="500" height="342">
 
 The trading after Friday’s unemployment number proved to be some of the most interesting market moves we have seen for some time. For the first time in a long while, _both stocks and bonds_ had large moves down together. Over the past couple of years, when we have had a big move lower in stocks, bonds have usually rallied. Or if stocks raced ahead, then bonds were generally a little weak. But what we witnessed on Friday, was something new.
 
 Have a look at a chart of both the S&P 500 future and the US long bond future during the past year and a bit.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ESUSMar0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/ESUSMar0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ESUSMar0715.png" alt="http://themacrotourist.com/pictures/Azure/ESUSMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Both stocks and bonds have been in a steady uptrend. If there was move lower in one of the asset classes, then the other often made up for it by rallying. They have both risen, but with a little negative correlation to make an investor that was long a mix of stocks and bonds, experience a nice smooth ride upwards.
 
 I have re-created a crude 60/40 stock bond portfolio using the SPY (S&P 500) ETF and TLT (US Long Bond) ETF. I indexed it to $100,000 at the lows of the 2008 credit crisis. I know that it isn’t perfect because I am not accounting for dividends and interest, but given the low rates, it does a pretty good job at tracking the returns of a typical classic simply diversified portfolio.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/SixtyMar0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/SixtyMar0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/SixtyMar0715.png" alt="http://themacrotourist.com/pictures/Azure/SixtyMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 In 2007, this portfolio got destroyed from a value of $170,000 down to $100,000 in the depths of the crisis. That was a drawdown of over 40% in the space of under twenty four months.
 
@@ -70,9 +67,8 @@ I know that it is early, and I know that I might look like an idiot for claiming
 
 This last push higher during the past few months was the last hurrah.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PopMar0715.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PopMar0715.png" alt="%cliboard" width="600" height="342" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PopMar0715.png" alt="http://themacrotourist.com/pictures/Azure/PopMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I have a good buddy that has a real job and doesn’t just stare at blinking numbers on the screen for a living. He sent me an email on Friday because he got a notice from Interactive Brokers that his account had fallen by over 1%. Now, he is a conservative guy with a nicely diversified portfolio. He sent the email with a little tongue and cheek remark about how he had forgotten that his account can actually go down. I realized that many people have forgotten that financial assets can go down. It has been six years of a perfect grind higher.
 
@@ -82,9 +78,8 @@ Almost no one thinks that **both stocks and bonds can go down _at the same time.
 
 Well, both stocks and bonds went up with the Fed at their back, why can’t they both go down with the Fed doing the opposite?
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CentralBankDisaster.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/CentralBankDisaster.png" alt="%cliboard" width="500" height="600" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CentralBankDisaster.png" alt="http://themacrotourist.com/pictures/Azure/CentralBankDisaster.png" style="margin:30px auto;display:block;" width="500" height="600">
 
 Thanks for reading,
   
@@ -92,6 +87,5 @@ Kevin Muir
   
 the MacroTourist
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-top: 1.0em; padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/MTWood" alt="%cliboard" width="600" height="100" /></a>
-</div>
+
+  <img src="http://themacrotourist.com/pictures/Azure/MTWood" alt="http://themacrotourist.com/pictures/Azure/MTWood" style="margin:30px auto;display:block;" width="600" height="100">

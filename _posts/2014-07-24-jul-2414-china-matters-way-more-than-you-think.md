@@ -22,16 +22,16 @@ Last year China recognized that their real estate market was rising too fast and
 
 They did this by allowing rates and their currency to rise.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CNYCBTJul2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CNYCBTJul2414.png" width="600" height="342" />Chinese CNY (in white) and Chinese 2 year yield (in yellow)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CNYCBTJul2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CNYCBTJul2414.png" width="600" height="342" />Chinese CNY (in white) and Chinese 2 year yield (in yellow)</a>
 </div>
 
 The Chinese currency is usually expressed as the reciprocal of what I charted, but I thought it was easier to see if I showed it so that a higher Chinese currency went higher instead of lower.
 
 The Chinese government allowed both their currency and their interest rates to rise for most of 2013. This had a dramatic effect on the Chinese economy. It did indeed slow down Chinese real estate speculation, but it also had negative effects on many other parts of the economy. The higher interest rates and more expensive currency caused many of the bad loans to become stressed. This translated into banking system worries. The spread between the risk free government rate and the banking system swap spread blew out to record highs.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ChinaSwapJul2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ChinaSwapJul2414.png" width="600" height="342" />Chinese 2 year swap spreads</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ChinaSwapJul2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ChinaSwapJul2414.png" width="600" height="342" />Chinese 2 year swap spreads</a>
 </div>
 
 Towards the end of the 2013 there were many reports worrying about the stability of the Chinese banking system. There was story after story about all the bad debts and how it was going to all come to crashing halt.
@@ -40,8 +40,8 @@ Realizing that they had probably squeezed hard enough, the Chinese government lo
 
 This has finally had the expected result in kickstarting the moribund Chinese economy. This morning the HSBC Chinese PMI was announced and for the first time in a year the survey has topped expectations.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/ChinaPMIJul2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/ChinaPMIJul2514.png" width="600" height="342" />Chinese PMI &#8211; exceeding expectations for the first time in a while</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/ChinaPMIJul2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ChinaPMIJul2514.png" width="600" height="342" />Chinese PMI &#8211; exceeding expectations for the first time in a while</a>
 </div>
 
 All good news, right? Not so fast&#8230;
@@ -54,8 +54,8 @@ And more importantly, they have gone back to creating even larger imbalances. Ma
 
 > The Chinese government has increased its buying of U.S. Treasurys this year at the fastest pace since records began more than three decades ago, data released Wednesday show. The world&#8217;s most-populous nation boosted its official holdings of Treasury debt maturing in more than a year by $107.21 billion in the first five months of 2014, according to the U.S. government data. The buying has been fuelled by China&#8217;s efforts to lift its export-driven economy by weakening its currency, the yuan, against the dollar, market analysts said, a strategy that encompasses hefty purchases of U.S. assets.
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/CNYUSGJul2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/CNYUSGJul2414.png" width="600" height="342" />US 10 Year Yield (white line) CNY (inverted yellow line)</a>
+
+  <img src="http://themacrotourist.com/pictures/Azure/CNYUSGJul2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/CNYUSGJul2414.png" width="600" height="342" />US 10 Year Yield (white line) CNY (inverted yellow line)</a>
 </div>
 
 There is obviously much more going on in the bond market than just the Chinese buying, but there is no doubt that their return has caused rates to decline.
@@ -74,6 +74,5 @@ If I had to bet, I would guess that the Chinese are committed to rebalancing the
 
 **Positions**
 
-<div style="width: image width px; font-size: 80%; text-align: center;">
-  <a href="http://themacrotourist.com/pictures/Azure/PositionsJul2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="%cliboard" src="http://themacrotourist.com/pictures/Azure/PositionsJul2414.png" width="600" height="400" /></a>
-</div></p>
+
+  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/PositionsJul2414.png" width="600" height="400"></p>
