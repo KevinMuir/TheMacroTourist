@@ -1,6 +1,6 @@
 ---
 id: 26006
-title: 'Jose is short JGBs Too?'
+title: 'Jose is short JGBs?'
 date: 2016-02-04T08:00:00+00:00
 author: kevin
 layout: post
