@@ -25,7 +25,7 @@ I have been lugging around a big short and I felt that maybe, just maybe, yester
 I felt a little like Bill Hillmann, the Chicago native who co-authored the book &#8220;Fiesta: How to Survive the Bulls of Pamplona.&#8221; Bill is a longtime participant of the nine-day Pamplona street party, but recently found that the 2014 running of the bulls to be even more dangerous than his home town of Chicago. Like the shorts in today&#8217;s market, the author was gored twice during this week&#8217;s bull run. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GoredJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GoredJul1114.png" width="550" height="342" />Bill Hillman gored twice by the bulls</a>
+  <img src="http://themacrotourist.com/images/Azure/GoredJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GoredJul1114.png" width="550" height="342" />Bill Hillman gored twice by the bulls</a>
 </div>
 
 
@@ -33,7 +33,7 @@ I felt a little like Bill Hillmann, the Chicago native who co-authored the book 
 Both Bill and I should have known that 2014 is proving an especially dangerous period for idiots like us that are willing to step in front of this pack of raging bulls.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESU4GIPJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESU4GIPJul1114.png" width="600" height="342" />S&P 500 trading last couple of days</a>
+  <img src="http://themacrotourist.com/images/Azure/ESU4GIPJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESU4GIPJul1114.png" width="600" height="342" />S&P 500 trading last couple of days</a>
 </div>
 
 
@@ -55,7 +55,7 @@ Gartman represents the consensus attitude of hedge funds. They might realize tha
 I know that bull markets love to climb a wall of worry. But it is one thing to climb a small local gym climbing wall. This market is more like climbing the world&#8217;s tallest outdoor climbing wall with no safety equipment.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/excaliburJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/excaliburJul1114.png" width="500" height="600" />Excalibur (world&#8217;s tallest climbing wall) aka 2014 bull market</a>
+  <img src="http://themacrotourist.com/images/Azure/excaliburJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/excaliburJul1114.png" width="500" height="600" />Excalibur (world&#8217;s tallest climbing wall) aka 2014 bull market</a>
 </div>
 
 
@@ -65,7 +65,7 @@ The bulls will give you all sorts of reasons why stocks are cheap and have to go
 Don&#8217;t forget that it was almost exactly 7 years ago today that Chuck Prince made his famous &#8220;you&#8217;ve got to dance&#8221; comment.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ChuckPrince.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ChuckPrince.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ChuckPrince.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ChuckPrince.png" width="600" height="342">
 
 Right now we have a corporate profits at all time highs in terms of percentage of GDP and interest rates glued to zero by a clueless Fed. We have a bull market that is 5 years old and up almost 300%. And yet this is the time to get into stocks? 
 
@@ -86,14 +86,14 @@ But I wanted to take a moment to highlight the fact that I am starting a long po
 From the National Post:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/LumberJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/LumberJul1114.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/LumberJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LumberJul1114.png" width="600" height="342">
 
 
 
 I am getting long and willing to risk all the way down to $300.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/LB1Jul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/LB1Jul1114.png" width="600" height="342" />Lumber Futures</a>
+  <img src="http://themacrotourist.com/images/Azure/LB1Jul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LB1Jul1114.png" width="600" height="342" />Lumber Futures</a>
 </div>
 
 
@@ -103,4 +103,4 @@ I am getting long and willing to risk all the way down to $300.
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJul1114.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJul1114.png" width="600" height="700"></p>

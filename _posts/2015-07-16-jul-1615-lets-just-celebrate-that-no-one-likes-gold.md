@@ -12,33 +12,33 @@ tags:
   - gold
 ---
 
-  <img src="http://themacrotourist.com/pictures/PaperJul1515.png" alt="http://themacrotourist.com/pictures/PaperJul1515.png" style="margin:30px auto;display:block;" width="600" height="600">
+  <img src="http://themacrotourist.com/images/PaperJul1515.png" alt="http://themacrotourist.com/images/PaperJul1515.png" style="margin:30px auto;display:block;" width="600" height="600">
 
 I am going to get in trouble with all the gold bugs for this post, but I don’t care.
 
 Before I do, let me declare the following; I actually love gold down here. I am long way too much, and I have the scars to prove it. I even think that you need to own physical gold as opposed to gold ETFs or futures. I agree with almost all of the gold bugs’ worries about the instability of the financial system. Heck, I am even sympathetic to the famous JP Morgan line about the shiny yella’ fella.
 
 
-  <img src="http://themacrotourist.com/pictures/MorganJul1515.png" alt="http://themacrotourist.com/pictures/MorganJul1515.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/MorganJul1515.png" alt="http://themacrotourist.com/images/MorganJul1515.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 But if there is one thing I cannot stand, it is this terrible narrative “paper gold” is declining in price, but “real gold” is maintaining its value. Let’s make one thing clear &#8211; for the time being, **they are one and the same.**
 
 Yesterday Zero Hedge wrote a post where he stated that “paper gold” was hitting new 5 year lows.
 
 
-  <img src="http://themacrotourist.com/pictures/PaperGoldJul1515.png" alt="http://themacrotourist.com/pictures/PaperGoldJul1515.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/PaperGoldJul1515.png" alt="http://themacrotourist.com/images/PaperGoldJul1515.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Really? “Paper gold” hitting five year lows? As opposed to “physical gold” that is rocketing higher? Last I checked, Sprott Money physical gold was moving lower in lock step with the “paper gold.”
 
 
-  <img src="http://themacrotourist.com/pictures/SprottJul1515.png" alt="http://themacrotourist.com/pictures/SprottJul1515.png" style="margin:30px auto;display:block;" width="600" height="500">
+  <img src="http://themacrotourist.com/images/SprottJul1515.png" alt="http://themacrotourist.com/images/SprottJul1515.png" style="margin:30px auto;display:block;" width="600" height="500">
 
 The higher price for physical delivery versus spot is the spread that Sprott Money earns, but make no mistake &#8211; the price for physical delivery is also hitting five year lows!
 
 I understand this might not always be the case.
 
 
-  <img src="http://themacrotourist.com/pictures/PenaltyJul1515.png" alt="http://themacrotourist.com/pictures/PenaltyJul1515.png" style="margin:30px auto;display:block;" width="600" height="650">
+  <img src="http://themacrotourist.com/images/PenaltyJul1515.png" alt="http://themacrotourist.com/images/PenaltyJul1515.png" style="margin:30px auto;display:block;" width="600" height="650">
 
 I own some physical gold as insurance against this possibility. I will not argue one for one moment gold derivatives are the same thing as real gold. Buying the GLD ETF or COMEX futures does not guarantee you will get your gold when you need it. At some point in the future, **I fully expect there to be a dislocation between physical gold and the derivatives.**
 
@@ -85,21 +85,21 @@ I will repeat it again just to be clear. At some point in the future, there will
 Central Bankers have been tossing around trillion dollar quantitative easing programs like Lindsay Lohan throws back Vodka Strawberry Lemonades. So far, gold has been impervious to this drunken behaviour, but this divergence cannot continue forever.
 
 
-  <img src="http://themacrotourist.com/pictures/BIG3GOLDJul1615.png" alt="http://themacrotourist.com/pictures/BIG3GOLDJul1615.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/BIG3GOLDJul1615.png" alt="http://themacrotourist.com/images/BIG3GOLDJul1615.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 When the squeeze happens, it will be epic and scary. Kyle is right that the time to take delivery is today because when you want it in the future, it won’t be available.
 
 But this crap that the ‘real gold’ market is healthy while the ‘paper market’ is being driven lower by evil manipulators is simply too much to take. Gold is for sale right now. Period. There is no difference between the two different markets. You can’t claim that somehow one market is healthy while the other market is going down as the result of manipulators. It makes as much sense as saying that the ‘paper market of the S&P 500 ETF’ is going down while the ‘real market’ for the actual stocks is healthy. The two are of course one and the same.
 
 
-  <img src="http://themacrotourist.com/pictures/GLDJul1615.png" alt="http://themacrotourist.com/pictures/GLDJul1615.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/GLDJul1615.png" alt="http://themacrotourist.com/images/GLDJul1615.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 As long as there is the ability to arbitrage between the two, they are the exact same. Right now, gold and its derivatives are interchangeable. There are absolutely no signs that there are any problems with delivery. You can forecast this won’t always be the case &#8211; I am completely fine with that. But you can’t claim there is any difference today.
 
 Confusing the issue with all this talk about ‘paper gold’ only makes us gold bulls look like nut jobs.
 
 
-  <img src="http://themacrotourist.com/pictures/TinfoilJul1615.png" alt="http://themacrotourist.com/pictures/TinfoilJul1615.png" style="margin:30px auto;display:block;" width="400" height="300">
+  <img src="http://themacrotourist.com/images/TinfoilJul1615.png" alt="http://themacrotourist.com/images/TinfoilJul1615.png" style="margin:30px auto;display:block;" width="400" height="300">
 
 Instead, let’s man up and admit we are wrong so far. I have accepted it. I am fine with the idea there are precious few that think gold is a good buy down here. Isn’t that the very definition of a good opportunity? If everyone thought gold was going up, then it wouldn’t be trading at this low price. So instead of making excuses, let’s just celebrate the fact that no one likes gold.
 

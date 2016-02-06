@@ -16,7 +16,7 @@ tags:
   - Saudi Arabia
 ---
 
-  <img src="http://themacrotourist.com/pictures/TalebNov1615.png" alt="http://themacrotourist.com/pictures/TalebNov1615.png" style="margin:30px auto;display:block;" width="600" height="600">
+  <img src="http://themacrotourist.com/images/TalebNov1615.png" alt="http://themacrotourist.com/images/TalebNov1615.png" style="margin:30px auto;display:block;" width="600" height="600">
 
 I am sure to make some Nassim Nicholas Taleb fans irate with this piece, but so be it. I can’t help myself. I know he has written some terrific books. There is no doubt he has done a lot to advance the idea financial asset returns are not distributed normally as too many models assume. But the amount the media fawns all over this guy, and the kooky stuff he says that they give him a free pass on, is maddening.
 
@@ -35,12 +35,12 @@ When a true market wizard like Stanley Druckenmiller speaks, he is filled with h
 This is completely opposite of Nassim Taleb’s pontifications. Suggesting that every single human being should have a trade on exudes maximum confidence. Geez, Nassim must have been pretty sure that this short Treasuries was a good trade. How did it turn out?
 
 
-  <img src="http://themacrotourist.com/pictures/USNov1615.png" alt="http://themacrotourist.com/pictures/USNov1615.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/USNov1615.png" alt="http://themacrotourist.com/images/USNov1615.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I don’t fault Taleb for a bad call. Lord knows I have my share of bad calls. Even Druck has bad calls. But neither of us belittle anyone who doesn’t agree with us and proclaim trades to be “no brainers.”
 
 
-  <img src="http://themacrotourist.com/pictures/NoBrainer.png" alt="http://themacrotourist.com/pictures/NoBrainer.png" style="margin:30px auto;display:block;" width="360" height="342">
+  <img src="http://themacrotourist.com/images/NoBrainer.png" alt="http://themacrotourist.com/images/NoBrainer.png" style="margin:30px auto;display:block;" width="360" height="342">
 
 And I don’t know how Taleb does it, but the media conveniently forgets about these transgressions. I guess if you say something with enough arrogance, no one will want to contradict you.
 
@@ -67,7 +67,7 @@ I was particularly interested when I stumbled upon a forecast Taleb made last we
 I can think of no better location than a cathedral for a speaker who thinks he is a god…
 
 
-  <img src="http://themacrotourist.com/pictures/CathedralNov1615.png" alt="http://themacrotourist.com/pictures/CathedralNov1615.png" style="margin:30px auto;display:block;" width="600" height="700">
+  <img src="http://themacrotourist.com/images/CathedralNov1615.png" alt="http://themacrotourist.com/images/CathedralNov1615.png" style="margin:30px auto;display:block;" width="600" height="700">
 
 And in case you think I am being a little harsh on our Black Swan friend, don’t forget that he is far from kind to other market pundits (from the conference presentation):
 

@@ -24,7 +24,7 @@ tags:
 Although over the last couple of weeks my Euro currency trading has been about as graceful as a George Bush press conference, the ECB&#8217;s continued tightness has worked wonders for my short Eurostoxx 50 / long S&P spread trade.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESTXSPXMar1414.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESTXSPXMar1414.PNG" width="600" height="342" />EuroStoxx50 / S&P 500 ratio</a>
+  <img src="http://themacrotourist.com/images/Azure/ESTXSPXMar1414.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESTXSPXMar1414.PNG" width="600" height="342" />EuroStoxx50 / S&P 500 ratio</a>
 </div>
 
 Granted, Putin&#8217;s invasion of Crimea hasn&#8217;t hurt either. 
@@ -64,7 +64,7 @@ Don&#8217;t get me wrong, I think China made monster mistakes with misallocation
 The tide has now completely flipped and whereas before everyone was a China optimist, they are all now pessimists. Just as the optimists were too bullish a few years ago, the pessimists are probably too bearish today&#8230; 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NoSense.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NoSense.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/NoSense.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/NoSense.png" width="600" height="600">
 
 <hr size="2" width="85%" />
 
@@ -91,7 +91,7 @@ If anything I am now a little embarrassed for Obama that he did so little. Seems
 And by the way, for those who don&#8217;t think that markets anticipate and fully factor in news ahead of time, have a look at this chart of Crude Oil during the last week:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CLSPRMar1414.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CLSPRMar1414.PNG" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CLSPRMar1414.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CLSPRMar1414.PNG" width="600" height="342">
 
 By the time the news was announced, the insiders who &#8220;got the heads up&#8221; had already fully discounted the news. The price moved ahead of any official announcement. 
 

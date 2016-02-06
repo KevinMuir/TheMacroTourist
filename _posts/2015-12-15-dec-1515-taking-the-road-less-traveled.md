@@ -13,14 +13,14 @@ tags:
   - high yield
 ---
 
-  <img src="http://themacrotourist.com/pictures/DogCatDec1515.png" alt="http://themacrotourist.com/pictures/DogCatDec1515.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/DogCatDec1515.png" alt="http://themacrotourist.com/images/DogCatDec1515.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Lately the financial press has been filled with stories about the terrible performance of high yield bonds. With worries about funds being gated and the continued terrible price action, the selling has only accelerated in the past couple of days.
 
 And although investors are pitching their high yield bond fund holdings at a fierce rate, they are not nearly as concerned about their equity positions. In fact, even as high yield credit blows out to new wide spread levels for this latest move, yesterday afternoon stocks put in a bottom, and are now rallying strongly.
 
 
-  <img src="http://themacrotourist.com/pictures/JNKSPYDec1515.png" alt="http://themacrotourist.com/pictures/JNKSPYDec1515.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/JNKSPYDec1515.png" alt="http://themacrotourist.com/images/JNKSPYDec1515.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 This morning the S&P 500 is opening up another 22 handles higher as the risk on rally accelerates. But I think investors are doing it wrong, and instead of chasing equities, they should be buying high yield.
 
@@ -41,17 +41,17 @@ This offers an opportunity for those willing to take the road less traveled. I a
 Not only do I want to buy high yield, but I want to buy all the broken sectors. I want to be pick up the bonds investors are pitching in embarrassment. Even though this again goes against popular sentiment, I think the market is unduly punishing the losers of 2015. Energy names are at the top of my list. This graphic in an Irish business paper sums up the lopsided negativity towards energy:
 
 
-  <img src="http://themacrotourist.com/pictures/BloodDec1515.jpg" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/BloodDec1515.jpg" width="600" height="400">
+  <img src="http://themacrotourist.com/images/BloodDec1515.jpg" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/BloodDec1515.jpg" width="600" height="400">
 
 Energy equities have been declining for quite some time. Take for example Chesapeake Energy:
 
 
-  <img src="http://themacrotourist.com/pictures/CHKDec1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CHKDec1515.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/CHKDec1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CHKDec1515.png" width="600" height="400">
 
 The past couple of years the stock has been offered. Yet for the longest time, this weakness wasn&#8217;t making its way through to the bonds in any significant way. But then we reached the tipping point, and the bonds immediately went no bid:
 
 
-  <img src="http://themacrotourist.com/pictures/CHKBondDec1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CHKBondDec1515.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/CHKBondDec1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CHKBondDec1515.png" width="600" height="400">
 
 This particular bond is trading with a yield to maturity of 60%! At these sorts of levels, suddenly bonds seem like a whole lot better way to speculate on the energy sector rebounding.
 

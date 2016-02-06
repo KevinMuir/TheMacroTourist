@@ -18,7 +18,7 @@ tags:
 Although I am sympathetic to the long run bull argument for gold, I am by no means a true &#8220;gold bug.&#8221; If you were to convince me that Western governments were going to stop leveraging up the financial system and instead focus on returning to sound monetary policy, then I would immediately sell all my gold. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IrakFerrariJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/IrakFerrariJul3014.png" width="400" height="500" />This gold bug has more money than brains&#8230;</a>
+  <img src="http://themacrotourist.com/images/Azure/IrakFerrariJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IrakFerrariJul3014.png" width="400" height="500" />This gold bug has more money than brains&#8230;</a>
 </div>
 
 Imagine if tomorrow the government altered the Fed&#8217;s mandate. What if the Fed was charged with following the Taylor rule systematically. The government has it in its power to alter the Fed&#8217;s mandate. There is nothing stopping them from tying monetary policy to some other anchor instead of their twin task of price stability and maximizing economic growth.
@@ -38,7 +38,7 @@ As a trader that long term view definitely taints my day to day trading. I find 
 Lately I find myself even more conflicted than usual towards the little yella&#8217; fella. From a seasonal point of view we are approaching the best time to own gold. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDSJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDSJul3014.png" width="600" height="342" />Monthly Returns of Gold</a>
+  <img src="http://themacrotourist.com/images/Azure/GOLDSJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GOLDSJul3014.png" width="600" height="342" />Monthly Returns of Gold</a>
 </div>
 
 In the chart above, the first row has the average monthly percentage return of gold over the last 10 years. July, August and September have consistently been great months to be long gold. October has been a push and November has actually been the best month. From a seasonal point of view, there is probably no better time to own it than the current period.
@@ -46,7 +46,7 @@ In the chart above, the first row has the average monthly percentage return of g
 The technical picture is also shaping up nicely. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDJul3014.png" width="600" height="342" />Gold chart</a>
+  <img src="http://themacrotourist.com/images/Azure/GOLDJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GOLDJul3014.png" width="600" height="342" />Gold chart</a>
 </div>
 
 We had a decent move off the May lows and ran all the way to $1350. Since then we have sagged a little, but have held at approximately $1300. To me it looks like the recent consolidation is just a pause before the May move upward resumes.
@@ -54,7 +54,7 @@ We had a decent move off the May lows and ran all the way to $1350. Since then w
 Gold seems to track the inverse of the long run real rate of interest. Given the US bond market&#8217;s recent rally, this has pushed real rates _lower_, implying a higher gold price.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDRRJJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDRRJJul3014.png" width="600" height="342" />Gold (yellow line) vs Inverse 30 Year Real Rate (white line)</a>
+  <img src="http://themacrotourist.com/images/Azure/GOLDRRJJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GOLDRRJJul3014.png" width="600" height="342" />Gold (yellow line) vs Inverse 30 Year Real Rate (white line)</a>
 </div>
 
 But herein lies my conflict. Although the long end of the bond market has been running like it stole something, the short end of the bond market has actually been doing _the complete opposite._ Short rates are rising &#8211; not falling.
@@ -62,13 +62,13 @@ But herein lies my conflict. Although the long end of the bond market has been r
 Here is the chart of the 2 year yields:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US2Jul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US2Jul3014.png" width="600" height="342" />US 2 Year Yields</a>
+  <img src="http://themacrotourist.com/images/Azure/US2Jul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/US2Jul3014.png" width="600" height="342" />US 2 Year Yields</a>
 </div>
 
 This backup of the short end has also caused the US dollar to be bid.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYJul3014.png" width="600" height="342" />US Dollar Index</a>
+  <img src="http://themacrotourist.com/images/Azure/DXYJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DXYJul3014.png" width="600" height="342" />US Dollar Index</a>
 </div>
 
 The trader in me is long US dollars and thinks that this bull move is just starting. That is why I am having trouble owning any gold for the short run. I want to find a reason to buy it, but I am worried that rates and the US dollar are going to make any upwards progress tough slugging.
@@ -80,4 +80,4 @@ For now I am going to sit on the sidelines, but I find myself nervous about not 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJul3014.png" width="600" height="450"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJul3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJul3014.png" width="600" height="450"></p>

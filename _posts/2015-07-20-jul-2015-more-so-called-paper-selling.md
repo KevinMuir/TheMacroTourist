@@ -14,7 +14,7 @@ tags:
   - Steve Cohen
 ---
 
-  <img src="http://themacrotourist.com/pictures/CohenJul2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CohenJul2015.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/CohenJul2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CohenJul2015.png" width="600" height="400">
 
 &#8220;Don&#8217;t use the West bathroom&#8221; the other clerk warned me with an sombreness that scared me.
 
@@ -39,7 +39,7 @@ Bad trading juju is not something you mess with. Either that, or you start a rum
 Last night the so called &#8216;paper selling&#8217; in the gold market hit new levels of absurdity. As soon as I heard about the near instantaneous $50 drop of the price of gold in the thin Sunday session, I shuddered to think about the gold bugs&#8217; wailing about the supposed dislocation between the &#8216;real gold&#8217; market and the &#8216;manipulated paper market.&#8217;
 
 
-  <img src="http://themacrotourist.com/pictures/GOLDJul2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/GOLDJul2015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/GOLDJul2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/GOLDJul2015.png" width="600" height="342">
 
 I have to admit, even I was taken aback by the out-of-the-blue nature of the selling. Gold opened down a dollar, drifted around aimlessly, and then WHAM! quicker than George Michael bolts from a police raid, gold is trading 50 handles lower. 
 

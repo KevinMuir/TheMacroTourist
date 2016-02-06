@@ -18,7 +18,7 @@ tags:
   - Ukraine
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/GrexitJul0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GrexitJul0515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GrexitJul0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GrexitJul0515.png" width="600" height="342">
 
 Over the week-end, the Greek people voted in favour of rejecting the Europeans&#8217; bailout offer. Although the Greek government was careful to stress the referendum was not a vote on staying or leaving the Euro, for the first time in these negotiations, I think the dynamic duo of Tsipras and Varoufakis have made a strategic blunder. They have overplayed their hand in terms of their confidence of renegotiating a new deal with the Europeans. Their whole selling point to the Greek people went something like this: once we called the referendum, the Europeans put forward an even better deal, therefore give us the &#8216;no&#8217; mandate, and we will get an even &#8216;better-er&#8217; deal. Although the Greek government are tough negotiators, I think they have finally over done it. For a nation on the brink of financial collapse, their arrogance is unrivalled:
 
@@ -35,7 +35,7 @@ They have convinced the Greek people that a better deal is coming. This will bit
 The Germans do not even have the authority to negotiate with the Greeks anymore as it expired with their final offer. For the Germans officials to even return to the negotiating table, they have to get approval from their elected government, which has already disassembled for the summer break. So when Varoufakis says he will have a deal in 24 hours, it is such a piece of bull shit, I don&#8217;t even know how to react. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BigPileJul0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BigPileJul0515.png" width="500" height="300">
+  <img src="http://themacrotourist.com/images/Azure/BigPileJul0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BigPileJul0515.png" width="500" height="300">
 
 I am disappointed in the Greek government. Although I think the Greek people should have voted &#8216;no&#8217;, it should have been represented honestly. Tsipras and Varoufakis tricked their countrymen into the &#8216;no&#8217; vote. Whether they will be able to deflect the blame to the Germans when the time comes for a Grexit is another matter, but there is no doubt in my mind they have purposefully misled their people. 
 
@@ -46,7 +46,7 @@ Germany will walk away and allow the Greeks to hang themselves. The Greek bankin
 Who knows if Mario has the chops to stand up to the Germans. He isn&#8217;t exactly the toughest of characters.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DraghiJul0515-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DraghiJul0515-1.png" width="400" height="500">
+  <img src="http://themacrotourist.com/images/Azure/DraghiJul0515-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DraghiJul0515-1.png" width="400" height="500">
 
 Over the short run, the ECB will be the only game in town for the Greeks. Whether they can cushion this fallout remains to be seen. So far the market has been remarkably nonchalant about the whole affair, and it up in the air whether this is because the contagion is ring fenced, or whether everyone still assumes there will be a last minute deal.
 
@@ -69,7 +69,7 @@ Although I don&#8217;t think there is some nefarious conspiracy to keep the pric
 In the case of last year&#8217;s move lower during the Ukraine conflict, it is now clear that the government of Ukraine was selling to raise cold hard cash ([ZeroHedge &#8211; Ukraine admits its gold is gone: "There is almost no gold left in the Central Bank vault](http://www.zerohedge.com/news/2014-11-18/ukraine-admits-its-gold-gone)).
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDJul0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDJul0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GOLDJul0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GOLDJul0615.png" width="600" height="342">
 
 Even though it made little sense, there was a valid reason for gold to decline in the midst of the geopolitical instability. And that reason _was not_ Central Bank suppression. 
 
@@ -78,17 +78,17 @@ Fast forward to today&#8217;s gold action. It is once again terrible. You would 
 The gold bugs are still railing about the gold suppression scheme, but ignore them. The more likely answer is right in front of us. Greece has a huge stock pile of gold.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GreeceGoldJul0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GreeceGoldJul0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GreeceGoldJul0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GreeceGoldJul0615.png" width="600" height="342">
 
 If your economy was collapsing in front of your eyes due to the lack of short term liquidity, what would you do? You would sell anything you could. And what is easy to sell in size? You got it &#8211; gold. 
 
 In another peculiar development, JP Morgan and Citigroup have recently announced a dramatic surge in over the counter precious metals derivative exposure:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPMJul0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPMJul0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/JPMJul0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JPMJul0615.png" width="600" height="342">
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CitiJul0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CitiJul0615.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CitiJul0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CitiJul0615.png" width="600" height="342">
 
 If I were to guess, this increased exposure is the result of a Greek synthetic sale of their gold. The Greeks need cash, so they entered into some large OTC derivative sales with JP Morgan and Citibank. To the gold bugs it looks like these large &#8220;bullion banks&#8221; are conspiring to keep prices down, but in reality, they are probably just hedging their large purchases from Greece.
 
@@ -101,7 +101,7 @@ I am not fussed by the recent gold weakness, I view the unexplained slump as mos
 In another sign of the messed up markets we are living with today, recently the price of Canadian propane joined the negative price club. Last week propane for delivery in Edmonton, Alberta (Canada&#8217;s energy province) was quoted at &#8211;3! 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PropaneJul0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PropaneJul0515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/PropaneJul0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PropaneJul0515.png" width="600" height="342">
 
 That means you need to pay someone to take the propane off your hands. Although I am sure this is a temporary phenomenon, it does not bode well for Canadian energy producers. Things were already bad enough without negative prices. It is tough to make money when the commodity you are selling has a negative sign in front of the price&#8230;
 

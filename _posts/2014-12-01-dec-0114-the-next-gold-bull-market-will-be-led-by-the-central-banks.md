@@ -25,7 +25,7 @@ Overnight there was a huge selloff that got downright ugly. Gold was down $30 an
 My twitter feed was filled with all sorts of cocky remarks from the **&#8220;commodities are a terrible investment &#8211; buy stocks&#8221;** crowd. The disgust for commodities, and the accompanying arrogance for equities, reached quite a fevered pitch last night. You would think that gold has no better use than toilet paper according to these investors.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/toiletpaperDec0114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/toiletpaperDec0114.png" width="500" height="342">
+  <img src="http://themacrotourist.com/images/Azure/toiletpaperDec0114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/toiletpaperDec0114.png" width="500" height="342">
 
 As I have stated many times in the past, I am no gold bug, but I refuse to believe that the world&#8217;s Central Banks can continually expand their balance sheets and have all that liquidity benignly levitate only financial assets. So far, I am not correct, and I will be the first one to admit that. Central Banks do indeed seem to be much more able to control which assets levitate more than I would have ever imagined. But the system is becoming more and more unstable. There is a storm brewing on the horizon.
 
@@ -48,4 +48,4 @@ All the hedge funds and other investors hate gold. So be it. Let them hate it. B
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsDec0114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsDec0114.png" width="600" height="242"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsDec0114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsDec0114.png" width="600" height="242"></p>

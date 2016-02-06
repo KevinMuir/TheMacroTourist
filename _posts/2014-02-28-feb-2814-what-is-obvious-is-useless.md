@@ -22,7 +22,7 @@ Many traders are often confused by the action in the markets. What they sometime
 I learned this lesson one day that is forever etched into my memory. Our desk was excited by the fact that a big new issue was coming to market. I can&#8217;t remember the specific stock, but I think it might have been Manitoba Telecom. It doesn&#8217;t really matter what the stock was &#8211; the important part to know is that we were anticipating doing a lot of trading in the name. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PoobahFeb2814.jpg" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PoobahFeb2814.jpg" width="296" height="367">
+  <img src="http://themacrotourist.com/images/Azure/PoobahFeb2814.jpg" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PoobahFeb2814.jpg" width="296" height="367">
 
 Our head trader was more like a Grand Poobah that oversaw the desk, but often disappeared for hours at a time for syndication or other high level meetings. We had another senior trader that ran the desk on a day to day basis and was in charge of trading the new issue. When the stock finally opened, it was super liquid and trading gobs. These were the days when stocks traded in eighths, and the quote on the board was something like 8 even bid for half a million, offered at an 1/8th with 1.2 million showing out loud. Our senior trader started hollering out that we would buy a million at 8.00 and sell 2 million at 8 1/8. Our traders who dealt with our institutional clients received a few trades for 100k or 200k, but we were frustrated that some big prints were going up at other firms without us participating. The senior trader kept following the quote, trying to make it bigger and attract an order. But for half an hour we had no luck harpooning the whale order that was trading at other shops.
 
@@ -63,7 +63,7 @@ The Chinese Yuan continues to plummet
 Overnight the Chinese Yuan selling hit a new level of desperation. The Yuan had the largest one day selloff in more than 6 years!
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CNYFeb2814.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CNYFeb2814.PNG" width="600" height="342" />CNY &#8211; biggest one day sell off since 2007!</a>
+  <img src="http://themacrotourist.com/images/Azure/CNYFeb2814.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CNYFeb2814.PNG" width="600" height="342" />CNY &#8211; biggest one day sell off since 2007!</a>
 </div>
 
 I don&#8217;t really have any insight into this move except to note that maybe their credit problems are bigger than anyone thinks. 

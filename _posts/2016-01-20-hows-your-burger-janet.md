@@ -16,22 +16,22 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/DumbJan2016.png" alt="http://themacrotourist.com/pictures/DumbJan2016.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/DumbJan2016.png" alt="http://themacrotourist.com/images/DumbJan2016.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Remember all the talk about how bullish the first hike of a tightening cycle was supposed to be? Really smart guys like Omega Advisors&#8217; Leon Cooperman trotted out all sorts of statistics about how the stock market typically rises something like 10% after the first rate hike.
 
 
-  <img src="http://themacrotourist.com/pictures/CoopermanJan2016.png" alt="http://themacrotourist.com/pictures/CoopermanJan2016.png" style="margin:30px auto;display:block;" width="500" height="400">
+  <img src="http://themacrotourist.com/images/CoopermanJan2016.png" alt="http://themacrotourist.com/images/CoopermanJan2016.png" style="margin:30px auto;display:block;" width="500" height="400">
 
 Much to many of these old timers surprise, the stock market failed to follow their playbook.
 
 
-  <img src="http://themacrotourist.com/pictures/SPXJan2016.png" alt="http://themacrotourist.com/pictures/SPXJan2016.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/SPXJan2016.png" alt="http://themacrotourist.com/images/SPXJan2016.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Instead of shrugging off the rate hike, the S&P 500 has plummeted by almost 8%. Small cap stocks have fared even worse.
 
 
-  <img src="http://themacrotourist.com/pictures/RTYJan20165.png" alt="http://themacrotourist.com/pictures/RTYJan20165.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/RTYJan20165.png" alt="http://themacrotourist.com/images/RTYJan20165.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 **What Cooperman and all the other economic optimists are missing is the fact we are in a balance sheet recession.** The natural state of the global economy is for credit to be paid back, not expanded. Absent aggressive monetary (or fiscal) policy measures, credit will be destroyed. When Bernanke&#8217;s Fed was engaged in all the various forms of Quantitative Easing, the natural credit contraction was offset enough to put off the deleveraging. But ever since Yellen has taken over as head of the Federal Reserve, she has ended all the QE programs and proceeded to raise rates. This has ushered in a massive contractionary credit destruction cycle. With the supply of US dollars shrinking the greenback has rallied. The declining liquidity has starved the global financial system of the much needed lubricant to keep the precariously balanced unprecedented debt burden from collapsing.
 
@@ -58,7 +58,7 @@ A couple of weeks ago I thought all we needed was the Fed to ease up on the hawk
 Yellen, Cooperman and all the other economic optimists are using an old playbook. They don&#8217;t realize the world&#8217;s massive indebtedness has changed the rules.
 
 
-  <img src="http://themacrotourist.com/pictures/ThreeJan2016.jpg" alt="http://themacrotourist.com/pictures/ThreeJan2016.jpg" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/ThreeJan2016.jpg" alt="http://themacrotourist.com/images/ThreeJan2016.jpg" style="margin:30px auto;display:block;" width="600" height="400">
 
 Yellen has indeed made a 1937 style mistake. The only question is how long before she figures it out? How&#8217;s your burger Janet?
 

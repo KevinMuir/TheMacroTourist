@@ -14,22 +14,22 @@ tags:
   - Yuan
 ---
 
-  <img src="http://themacrotourist.com/pictures/EmergingJan2116.png" alt="http://themacrotourist.com/pictures/EmergingJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/EmergingJan2116.png" alt="http://themacrotourist.com/images/EmergingJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Like a UFC fighter unmercifully pounding his barely conscious opponent, the US dollar rally against emerging market countries continues unabated.
 
 
-  <img src="http://themacrotourist.com/pictures/EMSJan2116.png" alt="http://themacrotourist.com/pictures/EMSJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/EMSJan2116.png" alt="http://themacrotourist.com/images/EMSJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 The Mexican Peso hit a new all time low against the US dollar:
 
 
-  <img src="http://themacrotourist.com/pictures/MXNJan2116.png" alt="http://themacrotourist.com/pictures/MXNJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/MXNJan2116.png" alt="http://themacrotourist.com/images/MXNJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 And the Russian Ruble has, for the lack of a better word, completely shit the bed.
 
 
-  <img src="http://themacrotourist.com/pictures/RUBJan2116.png" alt="http://themacrotourist.com/pictures/RUBJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/RUBJan2116.png" alt="http://themacrotourist.com/images/RUBJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 We are now well through the lows hit in the midst of the Ukraine conflict. Think about the plight of an ordinary Russian. At the start of 2014, the Ruble was trading for approximately 32 versus the US dollar. Since then it has dropped more than 60%. In the space of two years, **the average Russian has seen his real net worth more than cut in half.**
 
@@ -38,7 +38,7 @@ But at least these economies have free floating currencies that allow the exchan
 The real problem lies with countries whose currencies are pegged to the US dollar. When the US was busy flooding the world with liquidity _with QE1, QE2, Operation Twist and QE3,_ these countries were happy to bask in the good times of easy money. However those times have come to an end.
 
 
-  <img src="http://themacrotourist.com/pictures/BBDXYJan2116.png" alt="http://themacrotourist.com/pictures/BBDXYJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/BBDXYJan2116.png" alt="http://themacrotourist.com/images/BBDXYJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 And all that newly created debt overhangs these emerging market economies. Even worse, the debt was often denominated in US dollars. As these emerging market economies roll over, their currencies also decline, increasing the cost of the debt.
 
@@ -51,12 +51,12 @@ Over the past couple of weeks as the global economic rout has worsened, and the 
 The first to gain attention was the Chinese Yuan. Although the Chinese government had devalued by a small amount last summer, the Chinese currency was still massively overvalued versus the rest of the world. Don&#8217;t believe me? Well, have a look at the rate at which capital has skedaddled out of China.
 
 
-  <img src="http://themacrotourist.com/pictures/ChinaJan2116.png" alt="http://themacrotourist.com/pictures/ChinaJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/ChinaJan2116.png" alt="http://themacrotourist.com/images/ChinaJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Due to the fact that official capital flows are tightly regulated, most of this flight occurred in the offshore markets. This caused the rate between the onshore and offshore market to explode.
 
 
-  <img src="http://themacrotourist.com/pictures/CNYCNYJan2116.png" alt="http://themacrotourist.com/pictures/CNYCNYJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/CNYCNYJan2116.png" alt="http://themacrotourist.com/images/CNYCNYJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Although it must have taken a lot of ammo, the Chinese government was able to quell the speculation and regain control of their currency market.
 
@@ -67,7 +67,7 @@ I don&#8217;t expect the Chinese government to devalue in the midst of a crisis.
 Last week there was a famous hedge fund trader who gave an interview for RealVisionTV who forecasted a 50% devaluation. He argued if the Chinese don&#8217;t devalue enough, it will simply encourage more speculation. Although I agree with most of his analysis, I think 50% is a little much.
 
 
-  <img src="http://themacrotourist.com/pictures/CNYJan2116.png" alt="http://themacrotourist.com/pictures/CNYJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/CNYJan2116.png" alt="http://themacrotourist.com/images/CNYJan2116.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 His main argument is that the Chinese devalued by more than 50% in 1990, so why can&#8217;t they do it again? I think 1990 was a much different time for the Chinese economy. They are now such a bigger portion of the global economy, they cannot afford the political backlash to devalue by this much.
 

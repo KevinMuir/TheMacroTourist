@@ -42,13 +42,13 @@ Which brings me to today&#8217;s topic. A week ago I read this [great piece by B
 The Russian small cap ETF that Brett highlighted is definitely down a long way&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/RSXJMar1214.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/RSXJMar1214.PNG" width="600" height="342" />RSXJ Russian Small Cap ETF over the last year</a>
+  <img src="http://themacrotourist.com/images/Azure/RSXJMar1214.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/RSXJMar1214.PNG" width="600" height="342" />RSXJ Russian Small Cap ETF over the last year</a>
 </div>
 
 And when you back up even further in time, it gets even cheaper looking&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/RSXJ5YRMar1214.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/RSXJ5YRMar1214.PNG" width="600" height="342" />RSXJ over the last 5 years&#8230; down a long way</a>
+  <img src="http://themacrotourist.com/images/Azure/RSXJ5YRMar1214.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/RSXJ5YRMar1214.PNG" width="600" height="342" />RSXJ over the last 5 years&#8230; down a long way</a>
 </div>
 
 I was about to attempt my best Rothschild impersonation and buy at the sound of cannons, when I remembered the story about the Stelco restructuring. 
@@ -74,7 +74,7 @@ In trading &#8220;hoping&#8221; is a recipe for disaster. The famous commodity t
 Yesterday I covered half of my Euro short and I am going to bring in the rest of the position by the end of the week. I will be flat by the week-end. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURMar1314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURMar1314.PNG" width="600" height="342" />EUR chart&#8230; consistently strong as the ECB continues to be overly tight</a>
+  <img src="http://themacrotourist.com/images/Azure/EURMar1314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EURMar1314.PNG" width="600" height="342" />EUR chart&#8230; consistently strong as the ECB continues to be overly tight</a>
 </div>
 
 My trading in the Euro has been amateur hour&#8230; For those that might be bearish, my covering is probably the best thing you could ask for as I will very likely make the top when I buy it back&#8230;
@@ -82,7 +82,7 @@ My trading in the Euro has been amateur hour&#8230; For those that might be bear
 Here is a picture which best sums up my EUR trading&#8230; fail&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CameraWater.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CameraWater.png" width="450" height="616">
+  <img src="http://themacrotourist.com/images/Azure/CameraWater.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CameraWater.png" width="450" height="616">
 
 <hr size="2" width="85%" />
 

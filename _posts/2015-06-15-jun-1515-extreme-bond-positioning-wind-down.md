@@ -18,7 +18,7 @@ tags:
   - Niels Jensen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/BondBullsBeware.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BondBullsBeware.png" width="500" height="600">
+  <img src="http://themacrotourist.com/images/Azure/BondBullsBeware.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BondBullsBeware.png" width="500" height="600">
 
 One of my bigger failings as a trader is my tendency to be correct at turning points, but then giving up on the trade too early because it has moved &#8220;too far too fast.&#8221; I try to stick with it, but I find it difficult to be among the herd. As soon I notice too many people agreeing with me, I figure I must be wrong. This is obviously a dumb conclusion. During the meat of the move, the herd will be correct, and the proper time to be contrarian is only at extremes. 
 
@@ -29,12 +29,12 @@ Yet along the way, there will be lots of ups and downs for the bond market. For 
 Over the past couple of months, the bond market has been struggling. We have backed up 50 basis points in the US 10 year treasury yield.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USG10Jun1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USG10Jun1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/USG10Jun1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/USG10Jun1515.png" width="600" height="342">
 
 The decline in the German bond market has been even more pronounced. The yield on the 10 year German Bund has exploded higher.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Jun1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10Jun1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GDBR10Jun1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GDBR10Jun1515.png" width="600" height="342">
 
 It is tempting to attribute this large rise in global bond market yields to the start of a secular bear market. And although I am weary of trading against the current trend, lately I have been taking stabs on the long side of the bond market. Now you might chalk this up to yet another example of the MacroTourist fading for no other reason than to be on other side of the herd. But before you come to that conclusion, let&#8217;s go over a great piece by Credit Writedowns&#8217; Niels Jensen that makes a compelling case the bond market selloff is overdone.
 
@@ -49,7 +49,7 @@ In the post [&#8220;Are bond investors crying wolf?&#8221;](https://www.creditwr
 </p>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Chart1Jun1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Chart1Jun1515.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/Chart1Jun1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Chart1Jun1515.png" width="600" height="342">
 
 <p style="padding-left: 30px;">
   As pointed out by Barclays in a recent research report, had the sell-off been the result of QE doing its job, i.e. improving economic fundamentals, breakeven yields would have moved much more. Hence the sell-off was predominantly an unwind of term premia – not the result of enhanced economic expectations.

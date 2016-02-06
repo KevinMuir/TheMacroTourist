@@ -19,7 +19,7 @@ tags:
   - Ray Dalio
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/ChristineLagardeBOJ.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ChristineLagardeBOJ.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ChristineLagardeBOJ.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ChristineLagardeBOJ.png" width="600" height="342">
 
 Usually IMF Head Christine Lagarde is too busy hobnobbing with the financial elite to take time out to issue warnings about the financial markets, but yesterday she cautioned US rate increases could trigger instability in emerging markets:
 
@@ -45,7 +45,7 @@ Dalio is worried that the Fed might be about to make a 1937 style mistake in tig
   Clearly the Fed has created expectations that it will tighten in either June or September, and such expectations are difficult to deviate from. For those reasons, we expect a Fed tightening and are cautious about our exposures.
 </p>
 
-In his portfolio, Dalio is playing defence and encouraging the Fed to have their backup plan ready when the shit hits the fan. In the rest of the piece he takes you on a history lesson outlining the mistakes made during the 1937 period. &#8220;BridgeWater Daily Observations&#8221; are private letters for his staff and clients, but the FT posted a link to this piece. I took a copy, and given that FT was distributing the research, I figure it must be good for public consumption. [So here is a link to the BridgeWater piece](http://themacrotourist.com/pictures/Azure/BridgeWaterMar1715.pdf). It is well worth the read. 
+In his portfolio, Dalio is playing defence and encouraging the Fed to have their backup plan ready when the shit hits the fan. In the rest of the piece he takes you on a history lesson outlining the mistakes made during the 1937 period. &#8220;BridgeWater Daily Observations&#8221; are private letters for his staff and clients, but the FT posted a link to this piece. I took a copy, and given that FT was distributing the research, I figure it must be good for public consumption. [So here is a link to the BridgeWater piece](http://themacrotourist.com/images/Azure/BridgeWaterMar1715.pdf). It is well worth the read. 
 
 So we have lots of high profile figures giving public warnings about the dangers of tightening too quickly. Doesn&#8217;t it seem like a slam dunk that Yellen will err on the side of being overly accommodative for even longer?
 
@@ -84,7 +84,7 @@ I really enjoy Bob McTeer&#8217;s blog. Too many writers are busy writing in the
 They worry that the Federal Reserve has already left rates for too low for long. The Fed policy is already running more easy than most economic models would dictate.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TAYLORMar1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TAYLORMar1815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/TAYLORMar1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TAYLORMar1815.png" width="600" height="342">
 
 According to the classic Taylor model the Fed Funds should be 2.25%. Many economists are looking at these indicators and concluding we are making the same mistake that we vowed to never make again.
 
@@ -97,36 +97,36 @@ We have levered the system to the point where even the threat of raising sends r
 The markets remember the 2004 tightening cycle, and the removal of the word &#8220;patient&#8221; was the first step in a series of hikes that sent the Fed Funds from 1% to 5.25%.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/StrategasMar1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/StrategasMar1715.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/StrategasMar1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/StrategasMar1715.png" width="600" height="600">
 
 From that point on, the Federal Reserve raised rates by 0.25% at every meeting for the next two years.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FDTRMar1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FDTRMar1715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/FDTRMar1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FDTRMar1715.png" width="600" height="342">
 
 So when the markets see the Federal Reserve warming up to raising rates, all they can do is imagine the worst.
 
 Which is why the US dollar is going like this:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYMar1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYMar1715.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/images/Azure/DXYMar1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DXYMar1715.png" width="600" height="342"></p> 
 
 Which is causing commodities to do this:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CRYMar1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CRYMar1715.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/images/Azure/CRYMar1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CRYMar1715.png" width="600" height="342"></p> 
 
 Which means that inflation looks like this:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PCECoreMar1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PCECoreMar1715.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/images/Azure/PCECoreMar1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PCECoreMar1715.png" width="600" height="342"></p> 
 
 Even though the market is doing a huge amount of tightening for the Fed, will they go ahead and raise rates anyway? Or will the Federal Reserve listen to the warnings from the likes of Ray Dalio and Christine Lagarde? 
 
 This morning Bloomberg Briefs had a great chart highlighting economists predictions about the Federal Reserve&#8217;s direction:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BloombergMar1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BloombergMar1815.png" width="500" height="800">
+  <img src="http://themacrotourist.com/images/Azure/BloombergMar1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BloombergMar1815.png" width="500" height="800">
 
 90% of economists think they will drop the word patient and 92% think the Federal Reserve will hike by September. 
 

@@ -33,7 +33,7 @@ Ever since the Fed finally convinced the market that they were not going to tape
 Have a look at the speculative net position in the Eurodollar contract over the last few years:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDSpecsJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDSpecsJun0214.png" width="600" height="342" />Eurodollar Speculative Open Interest Net Position</a>
+  <img src="http://themacrotourist.com/images/Azure/EDSpecsJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EDSpecsJun0214.png" width="600" height="342" />Eurodollar Speculative Open Interest Net Position</a>
 </div></p> 
 
 The tweet from the trader about all the macro hedge fund managers being short Eurodollar contracts is well supported by this chart. The speculative open interest is massively skewed to the short side.
@@ -43,7 +43,7 @@ What is interesting is that there was also almost no short covering during this 
 The December 2016 Eurodollar contract has rallied 60 bps over the last month.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDZ6Jun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDZ6Jun0214.png" width="600" height="342" />ED Jun 2016 Contract</a>
+  <img src="http://themacrotourist.com/images/Azure/EDZ6Jun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EDZ6Jun0214.png" width="600" height="342" />ED Jun 2016 Contract</a>
 </div></p> 
 
 This has been a massive squeeze in the market&#8217;s expectations of short term interest rates, yet the speculative short position is still sitting at record highs.
@@ -57,7 +57,7 @@ To understand what I mean, let&#8217;s have a look at the net speculative positi
 First up, the Five Year:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FVSpecsJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FVSpecsJun0214.png" width="600" height="342" />US 5 Year Treasury Bond speculative position</a>
+  <img src="http://themacrotourist.com/images/Azure/FVSpecsJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FVSpecsJun0214.png" width="600" height="342" />US 5 Year Treasury Bond speculative position</a>
 </div>
 
 The hedge funds are net short five year contracts, but they did cover some during the last week. 
@@ -65,7 +65,7 @@ The hedge funds are net short five year contracts, but they did cover some durin
 As you go out the curve though, the speculative position gets more and more long. Here is the 10 year:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TYSpecJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TYSpecJun0214.png" width="600" height="342" />US 10 Year Treasury Bond speculative position</a>
+  <img src="http://themacrotourist.com/images/Azure/TYSpecJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TYSpecJun0214.png" width="600" height="342" />US 10 Year Treasury Bond speculative position</a>
 </div>
 
 The 10 year net speculative position is no where near its low. 
@@ -73,7 +73,7 @@ The 10 year net speculative position is no where near its low.
 The 30 year is in fact even net long:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USSpecsJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USSpecsJun0214.png" width="600" height="342" />US 30 Year Treasury Bond speculative position</a>
+  <img src="http://themacrotourist.com/images/Azure/USSpecsJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/USSpecsJun0214.png" width="600" height="342" />US 30 Year Treasury Bond speculative position</a>
 </div>
 
 Not only are the specs net long 30s, but the net position is sitting at its highest level in quite some time.
@@ -89,7 +89,7 @@ This last month&#8217;s bond market squeeze was not led by the short end of the 
 Have a look at the 2/10 year spread:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/210Jun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/210Jun0214.png" width="600" height="342" />US 2/10 Treasury Yield Spread</a>
+  <img src="http://themacrotourist.com/images/Azure/210Jun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/210Jun0214.png" width="600" height="342" />US 2/10 Treasury Yield Spread</a>
 </div>
 
 The 10 year bond rallied much more than the 2 year, pushing the curve to new flat levels for this move.
@@ -97,7 +97,7 @@ The 10 year bond rallied much more than the 2 year, pushing the curve to new fla
 Although the 5/30 did not move down to new lows, it has also been sagging over the past few months:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/530Jun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/530Jun0214.png" width="600" height="342" />US 5/30 Treasury Yield Spread</a>
+  <img src="http://themacrotourist.com/images/Azure/530Jun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/530Jun0214.png" width="600" height="342" />US 5/30 Treasury Yield Spread</a>
 </div>
 
 Neither of these moves are indicative of a market that believes the Fed&#8217;s policy error will be to leave rates too low for too long. 
@@ -113,7 +113,7 @@ I understand that there are some hawkish members of the Federal Reserve board th
 Although I fully accept that the Fed is going to taper and wind down the QE programs, I do not think that you can translate that into a relatively hawkish Fed. The reason they are winding down QE is because _it is not effective at accomplishing the Fed&#8217;s goals._ The Fed rightfully understands that QE is not trickling down into the real economy like they wish. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/trickleJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/trickleJun0214.png" width="500" height="400">
+  <img src="http://themacrotourist.com/images/Azure/trickleJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/trickleJun0214.png" width="500" height="400">
 
 It took a couple of decades, but I think the whole idea of trickle down economics has finally being discredited. 
 
@@ -144,7 +144,7 @@ I have been on the lookout for signs that the Chinese authorities have realized 
 One of the indicators that I follow is the spread between 2 year Chinese swaps and 2 year government bond rates. Now this is a fledging market, so I am not sure how much you can rely on this indicator as a true measure of credit risk, but I think it is still worth watching.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ChinaSwapJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ChinaSwapJun0214.png" width="600" height="342" />China 2 Year Swap / 2 year government bond spread</a>
+  <img src="http://themacrotourist.com/images/Azure/ChinaSwapJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ChinaSwapJun0214.png" width="600" height="342" />China 2 Year Swap / 2 year government bond spread</a>
 </div>
 
 At the beginning of the year, as the Chinese government was steadfast in trying to usher in a slow down of the speculative areas of their economy, this spread spiked to new highs. This was the result of the removal of liquidity and the worry about the credit worthiness of the financial system.
@@ -168,4 +168,4 @@ So, please apply the Friedland rule to any short China presentations&#8230;
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun0214.png" width="600" height="650"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJun0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJun0214.png" width="600" height="650"></p>

@@ -17,7 +17,7 @@ tags:
   - Steve Schwarzman
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/CrabClaws.png" alt="http://themacrotourist.com/pictures/Azure/CrabClaws.png" style="margin:30px auto;display:block;" width="400" height="500">
+  <img src="http://themacrotourist.com/images/Azure/CrabClaws.png" alt="http://themacrotourist.com/images/Azure/CrabClaws.png" style="margin:30px auto;display:block;" width="400" height="500">
 
 Recently BlackStone’s Steve Schwarzman gave $150 million to his alma mater, Yale University. Proving that billionaires are no less insecure than the rest of us, he took the opportunity to strike out against the university that rejected him a few decades back. Although it was hard to hear, during the interview with Bloomberg news, I could definitely make out some sniffles as Steve recounted the story about being turned down by Harvard Business school. As tears welled up, Schwarzman recounted how he even phoned the Dean from his high school pay phone, begging for him to change his mind. He said it was like phoning “God” (which Schwarzman said we now know is just silly, as God works at Goldman Sachs). At this stage in the interview, Steve needed to take a break. After pulling himself together, Steve told how he got the last laugh. The Dean of Harvard reached out to him last year to say, “Boy we sure got that one wrong.”
 
@@ -57,7 +57,7 @@ Schwarzman’s stupidity in telling everyone how much his lunch costs is why Dea
 But I shouldn’t pick only on Steve. The list of idiot billionaires is as long as the list of moronic Hollywood stars. How about Jeff Greene, the latest jackass billionaire who made a fortune betting against subprime loans?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GreeneMay2215.png" alt="http://themacrotourist.com/pictures/Azure/GreeneMay2215.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GreeneMay2215.png" alt="http://themacrotourist.com/images/Azure/GreeneMay2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Recently at Davos, he made the following humble suggestion:
 
@@ -68,7 +68,7 @@ Recently at Davos, he made the following humble suggestion:
 He made this comment after arriving in his private jet with his wife, kid and two nannies. Of course he needs two nannies. Who doesn’t have two nannies? He actually had to leave the other six full time house staff back in his Beverly Hills 53,000 square foot $195 million mansion. To be fair to Greene, the house doesn’t get much use as he spends most of his time on his yacht, the Summerwind, where he has hosted such notable philanthropists as Paris Hilton and Lindsay Lohan.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SummerwindMay2215.png" alt="http://themacrotourist.com/pictures/Azure/SummerwindMay2215.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SummerwindMay2215.png" alt="http://themacrotourist.com/images/Azure/SummerwindMay2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 According to a former crew member Sharyn Peach who wrote about her experiences in the Palm Beach New Times ([JEFF GREENE’S PARTY YACHT: THE INSIDER’S TALE FROM HIS FORMER STEWARDESS](http://www.browardpalmbeach.com/news/jeff-greenes-party-yacht-the-insiders-tale-from-his-former-stewardess-6462589)), Greene tours around, helping young women gain a foothold in life:
 
@@ -125,12 +125,12 @@ Oh please Mr. Greene, give us some more of your profound wisdom about how Americ
 To be fair to billionaires, they are not all idiots. Some of them realize the absurdity of the current situation. It is tough to argue with the facts. Recently the OECD published a report that highlighted the fact inequality is the highest in decades.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/inequalityMay2215.png" alt="http://themacrotourist.com/pictures/Azure/inequalityMay2215.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/inequalityMay2215.png" alt="http://themacrotourist.com/images/Azure/inequalityMay2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Recently hedge fund manager Paul Tudor Jones gave a speech about the obvious unfairness in the current environment:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/tudorMay2215.png" alt="http://themacrotourist.com/pictures/Azure/tudorMay2215.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/tudorMay2215.png" alt="http://themacrotourist.com/images/Azure/tudorMay2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 <p style="padding-left: 30px;">
   “This gap between the 1 percent and the rest of America, and between the US and the rest of the world, cannot and will not persist,” says the investor. “Historically, these kinds of gaps get closed in one of three ways: by revolution, higher taxes or wars. None are on my bucket list.”

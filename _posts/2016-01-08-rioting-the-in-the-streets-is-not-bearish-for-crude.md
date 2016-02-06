@@ -16,12 +16,12 @@ tags:
   - Sentiment Trader
 ---
 
-  <img src="http://themacrotourist.com/pictures/SaudiJan0816.png" alt="http://themacrotourist.com/pictures/SaudiJan0816.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/SaudiJan0816.png" alt="http://themacrotourist.com/images/SaudiJan0816.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 I understand why the increased tensions between Saudi Arabia and Iran could be interpreted bearishly for oil. There can be no doubt Saudi Arabia is using low oil prices to inflict damage on their neighbor across the gulf. Taking this logic further, as the relationship between the two countries breaks down, it only increases the possibility Saudi Arabia will pump even more oil in their financial war against Iran.
 
 
-  <img src="http://themacrotourist.com/pictures/CLJan0816.png" alt="http://themacrotourist.com/pictures/CLJan0816.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/CLJan0816.png" alt="http://themacrotourist.com/images/CLJan0816.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 So when Saudi&#8217;s recent execution of the a prominent Shiite cleric caused relations between the countries to take a dramatic step downward, the initial worries about crude oil supply disruption were quickly erased by traders who concluded the financial war being waged by Saudi Arabia would enter the next stage, sending prices even lower.
 
@@ -34,7 +34,7 @@ This conflict might be limited to a financial war with Saudi Arabia attempting t
 According to the Telegraph, most of Saudi Arabia&#8217;s 10.3 million barrels of day pass right through Shia heartland:
 
 
-  <img src="http://themacrotourist.com/pictures/TelegraphJan0816.png" alt="http://themacrotourist.com/pictures/TelegraphJan0816.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/TelegraphJan0816.png" alt="http://themacrotourist.com/images/TelegraphJan0816.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Given the fragile state of affairs in Saudi Arabia and the rest of the middle east, it doesn&#8217;t take much of an imagination to understand the chances of this conflict being restricted to a financial war of pumping more oil is quite low.
 
@@ -43,7 +43,7 @@ In fact, the more successful Saudi Arabia is with their financial war, the more 
 So while other traders watch the increasing tensions in the mid east while leaning on the crude oil sell button, I have to take the other side of their trade. I know this sounds stupid, but I actually believe rioting in the streets of the mid east is bullish for crude oil. Be careful with the idea that the Saudi Arabian strategy can be contained to the financial arena.
 
 
-  <img src="http://themacrotourist.com/pictures/LebowJan0816.png" alt="http://themacrotourist.com/pictures/LebowJan0816.png" style="margin:30px auto;display:block;" width="600" height="275">
+  <img src="http://themacrotourist.com/images/LebowJan0816.png" alt="http://themacrotourist.com/images/LebowJan0816.png" style="margin:30px auto;display:block;" width="600" height="275">
 
 * * *
 
@@ -54,7 +54,7 @@ Had to share this next tweet as it is just too good. I don&#8217;t watch CNBC, b
 Well, Jason Goepfert from Sentiment Trader sent out this chart that shows these traders are probably more right than they would have guessed:
 
 
-  <img src="http://themacrotourist.com/pictures/SentJan0816.png" alt="http://themacrotourist.com/pictures/SentJan0816.png" style="margin:30px auto;display:block;" width="600" height="600">
+  <img src="http://themacrotourist.com/images/SentJan0816.png" alt="http://themacrotourist.com/images/SentJan0816.png" style="margin:30px auto;display:block;" width="600" height="600">
 
 Thanks for reading and have a great week-end,
   

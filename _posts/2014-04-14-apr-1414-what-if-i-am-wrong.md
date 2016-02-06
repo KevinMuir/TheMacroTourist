@@ -24,12 +24,12 @@ My belief is that the mountains of stimulus have finally ignited and the problem
 According to the stats, the actual velocity of money has not yet stopped declining, but that doesn&#8217;t worry me as I believe it would first show up in the market before the chart actually reflects the increase:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VelocityApr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/VelocityApr1414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/VelocityApr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/VelocityApr1414.png" width="600" height="342">
 
 After all, the Fed&#8217;s three QE program have been collecting on banks&#8217; balance sheets as excess reserves and eventually have to be put out into the system as loans:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ExcessApr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ExcessApr1414.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/images/Azure/ExcessApr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ExcessApr1414.png" width="600" height="342"></p> 
 
 But what if I am wrong? What if the US economy is not capable of reaching escape velocity without _even more QE_?
 
@@ -42,7 +42,7 @@ There is a possibility that this time will be no different and that as the Fed s
 And if that does occur, then what are the consequences? Everyone mistakenly assumes that QE is positive for bonds, but the data does not support this belief. Have a look at the US 10 Year Yield with the QE programs highlighted:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/QEUS10Apr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/QEUS10Apr1414.png" width="600" height="342" />US 10 Year Treasury Yield</a>
+  <img src="http://themacrotourist.com/images/Azure/QEUS10Apr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/QEUS10Apr1414.png" width="600" height="342" />US 10 Year Treasury Yield</a>
 </div>
 
 During periods of QE yields actually **rose**. The biggest rallies in the bonds market (declines in yields) occurred as the QE programs drew to a close and the economy sagged. 
@@ -60,7 +60,7 @@ The real problem lies in the fact that as the Fed is required to balance this de
 Over the last 5 years as the economy has failed to produce the much worried about inflation from the unprecedented Quantitative Easing programs it has become quite fashionable to say that traditional monetary theory has been broken. The whole idea of MV=PQ has been largely thrown out the window.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FriedmanApr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FriedmanApr1414.png" width="748" height="554" />Milton Friedman&#8217;s Licence Plate</a>
+  <img src="http://themacrotourist.com/images/Azure/FriedmanApr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FriedmanApr1414.png" width="748" height="554" />Milton Friedman&#8217;s Licence Plate</a>
 </div>
 
 I don&#8217;t buy for one second that this theory should be abandoned. In fact, when something so obvious is refuted, you know that the ultimate policy mistake is only going to be all the worse.
@@ -88,7 +88,7 @@ I have written a little bit of the [speculation in Cannabis stocks,](http://gfbb
 Well, this past month the high has worn off and investors have been left with nothing more than bloodshot eyes and empty potato chip wrappers everywhere.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CANNApr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CANNApr1414.png" width="600" height="342" />CANN &#8211; Advanced Cannabis Solutions</a>
+  <img src="http://themacrotourist.com/images/Azure/CANNApr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CANNApr1414.png" width="600" height="342" />CANN &#8211; Advanced Cannabis Solutions</a>
 </div>
 
 It seemed like such a well thought out idea, I am really shocked that it didn&#8217;t work out. 
@@ -98,4 +98,4 @@ It seemed like such a well thought out idea, I am really shocked that it didn&#8
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr1414.png" width="618" height="557">
+  <img src="http://themacrotourist.com/images/Azure/PositionsApr1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsApr1414.png" width="618" height="557">

@@ -56,7 +56,7 @@ The markets understood this (at least in the morning they did) and stocks and go
 Recently I seem to be trading with about as much intelligence as these two characters:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/workersJul1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/workersJul1614.png" style="margin:30px auto;display:block;" width="600" height="460">
+  <img src="http://themacrotourist.com/images/Azure/workersJul1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/workersJul1614.png" style="margin:30px auto;display:block;" width="600" height="460">
 
 I have been doing stupid things like trying to fight the orgiastic rise in the stock market. And although for a brief period last week it looked like I might be right, we have subsequently exploded higher. Not only have we rocketed straight up, but the other positions that were previously saving me (GDX, gold, oil, etc…) started to work against me. My favourite trade of short financial assets while being long hard assets started hurting on both sides. During this last week, I definitely lost my mojo.
 
@@ -75,7 +75,7 @@ But there is no doubt that it is time for me to focus on reducing risk and focus
 I believe that the market has completely baked in Yellen’s insane dovishness. Any surprise will be her willingness to actually raise rates. Let’s not forget that by any traditional measure the Fed is already way behind the curve. Have a a look at the Taylor model forecast for proper Fed policy:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TAYLORJul1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/TAYLORJul1614.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/TAYLORJul1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/TAYLORJul1614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The model is indicating that the Fed Funds rate should be 3.63%! Even if you argue that this model is outdated, most other models are also showing that the Fed is _extremely easy._ Don’t forget that the Fed is a committee and that they are slow to make decisions. But at the end of the day, they actually follow these broad macro rules fairly closely. Yes, the Federal Reserve is set up to create a situation prone to easier monetary policy, but the Fed doesn’t **simply ignore rate rise signals.**
 
@@ -102,13 +102,13 @@ If I am correct about higher rates in the US I expect that gold will be under pr
 I have sold all of my gold as the chart does not look constructive by any means:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/GOLDJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />Gold</a>
+  <img src="http://themacrotourist.com/images/Azure/GOLDJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/GOLDJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />Gold</a>
 </div>
 
 And although it has been good to me, I have also parted ways with GDX. I had sold some a couple of days ago and I wish I had been smart enough to sell it all. But it is now completely off the sheets.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDXJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/GDXJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />GDX &#8211; Gold Stock Miner ETF</a>
+  <img src="http://themacrotourist.com/images/Azure/GDXJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/GDXJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />GDX &#8211; Gold Stock Miner ETF</a>
 </div>
 
 It is with a little bit of a heavy heart that I part ways with GDX as cranking up that position last month was definitely one of my better trades this year. But I get the sense that the hedge funds are long these gold miner names and you know how much I like being in the same trade with them…
@@ -126,19 +126,19 @@ If this happens, the US dollar is going to go bid.
 This post is getting long so I am going to wait for another day to elaborate on my choices on currencies, but for now I will say that I have chosen the Canadian dollar as my biggest position:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/CADJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />USDCAD rate (higher rate means CAD weakness)</a>
+  <img src="http://themacrotourist.com/images/Azure/CADJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/CADJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />USDCAD rate (higher rate means CAD weakness)</a>
 </div>
 
 But for good measure I have added a little sprinkling of short AUD:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AUDJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/AUDJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />Australian Dollar</a>
+  <img src="http://themacrotourist.com/images/Azure/AUDJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/AUDJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />Australian Dollar</a>
 </div>
 
 And finally, to spice things up, I have also shorted New Zealand:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NZDJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/NZDJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />NZD</a>
+  <img src="http://themacrotourist.com/images/Azure/NZDJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/NZDJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />NZD</a>
 </div>
 
 Take all of this with a big grain of salt as this week has definitely not been my week. It seems like I might have taken some extra stupid pills this week. I seem to be zigging when I should be zagging, but hopefully these changes will get me back on track.
@@ -146,11 +146,11 @@ Take all of this with a big grain of salt as this week has definitely not been m
 Meanwhile, I am heading back to the swimming pool for a beer…
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/stupidJul1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/stupidJul1614.png" style="margin:30px auto;display:block;" width="600" height="450">
+  <img src="http://themacrotourist.com/images/Azure/stupidJul1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/stupidJul1614.png" style="margin:30px auto;display:block;" width="600" height="450">
 
 <hr size="3" width="85%" />
 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Positions2Jul1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/Positions2Jul1614.png" style="margin:30px auto;display:block;" width="600" height="500">
+  <img src="http://themacrotourist.com/images/Azure/Positions2Jul1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/Positions2Jul1614.png" style="margin:30px auto;display:block;" width="600" height="500">

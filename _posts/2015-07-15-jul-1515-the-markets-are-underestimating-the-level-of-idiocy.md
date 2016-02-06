@@ -17,14 +17,14 @@ tags:
   - Tsipras
 ---
 
-  <img src="http://themacrotourist.com/pictures/MerkelJul1515.png" alt="http://themacrotourist.com/pictures/MerkelJul1515.png" style="margin:30px auto;display:block;" width="600" height="800">
+  <img src="http://themacrotourist.com/images/MerkelJul1515.png" alt="http://themacrotourist.com/images/MerkelJul1515.png" style="margin:30px auto;display:block;" width="600" height="800">
 
 The European gong show continues today with the Greek government trying to pass the needed legislation to secure the latest round of funding from the Europeans. In typical fashion, after grovelling at Merkel’s feet Sunday night for scraps to make it through the week, Tsipras then went in front of the Greek cameras and told the media he only agreed with a “knife at my neck.”
 
 Although the Germans are encumbering the Greeks with a deal that has no hope of working and merely delays the inevitable default, I blame the Greek government for not having an alternative plan. Ultimately the Greeks need to take responsibility for themselves. They bitterly complain about the lack of respect, and the fact they are regulated to being second class European citizens.
 
 
-  <img src="http://themacrotourist.com/pictures/SchauebleJul1515.png" alt="http://themacrotourist.com/pictures/SchauebleJul1515.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/SchauebleJul1515.png" alt="http://themacrotourist.com/images/SchauebleJul1515.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 But at the end of the day, they need to stop begging for handouts, and instead stand up and take control of their own destiny. I am not suggesting they adhere to the German demands for austerity, that makes as much sense as rescuing Tom Cruise’s wife from the clutches of Scientology only to send her to a David Koresh inspired support group.
 

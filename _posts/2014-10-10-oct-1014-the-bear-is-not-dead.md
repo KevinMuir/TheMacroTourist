@@ -21,12 +21,12 @@ tags:
 Two days ago the S&P had the biggest up day of the whole year on news that the Federal Reserve was worried about the strength of the US dollar and the global economic slowdown. We rocketed up 45 S&P 500 handles and closed at the highs of the day. The bulls were confident that the selling was over, and the bear was dead.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/bearOct1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/bearOct1014.png" width="500" height="400">
+  <img src="http://themacrotourist.com/images/Azure/bearOct1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/bearOct1014.png" width="500" height="400">
 
 But yesterday, a mere 24 hours since investors were chasing stocks higher with wild abandon, the stock market experience its biggest down day of the year as various Fed officials threw cold water on the idea that they were going to panic.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESZ4GIPOct1010.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESZ4GIPOct1010.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ESZ4GIPOct1010.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESZ4GIPOct1010.png" width="600" height="342">
 
 Yesterday Fed Vice Chairman Stanley Fischer said that &#8220;considerable time&#8221; could mean anything from two months to one year &#8211; not the reassuring sweet nothings the market was hoping for. Then St. Louis Fed President James Bullard spelled it out in black and white for the market:
 
@@ -43,7 +43,7 @@ Don&#8217;t be a hero and try to call the bottom. We very well might bounce from
 But the other side of the coin is quite scary. Although you will hear all sorts of Larry Kudlow arguments that you should buy stocks because the P/E ratio is quite reasonable at 16 times forward earnings (or whatever level he dreams up because forward earnings are a moving target), don&#8217;t forget this chart:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/profitsOct1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/profitsOct1014.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/profitsOct1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/profitsOct1014.png" width="600" height="342">
 
 Corporate profits as a percentage of GDP are at all time highs. Many of the bulls will tell you why this is trend is sustainable, but I am not convinced of their arguments. This rally has been driven by corporate buy backs financed through an increasingly leveraged corporate balance sheet. 
 
@@ -60,7 +60,7 @@ Given the stupid pricing of all financial assets, I am not even sure there is an
 I came across this great chart that outlined the drawdowns of a portfolio composed of 50% stocks and 50% bonds for both the US and the UK.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/drawdownOct1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/drawdownOct1014.png" width="500" height="480">
+  <img src="http://themacrotourist.com/images/Azure/drawdownOct1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/drawdownOct1014.png" width="500" height="480">
 
 It has been a while since we have had a big drawdown in a balance portfolio as the secular bond bull market of the last 33 years has provided a cushion for all financial assets. And although I know we are in the midst of a deflationary mini-scare that will likely make bonds rise, I think that in the long run we have sowed the seeds for a 35%&#8211;45% type correction in a balanced portfolio. 
 
@@ -73,4 +73,4 @@ My main message is not to be a hero and to be _extremely careful in here._ The m
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct1014.png" width="600" height="242"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsOct1014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsOct1014.png" width="600" height="242"></p>

@@ -22,7 +22,7 @@ tags:
 Last night as I was scrolling through my old research articles, I came across this great picture from the BehaviorGap.com website. I think I clipped it in 2010 from Ritholz&#8217;s Big Picture blog. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/greedSep1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/greedSep1814.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/greedSep1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/greedSep1814.png" width="600" height="342">
 
 At that time the S&P 500 was around 1,050 and no one wanted to own stocks. 
 
@@ -41,24 +41,24 @@ We know it will go well because Cramer tells us so:
 And the fact that the internet is plagued with info graphics like this should be no cause for concern:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/babaInfoSep1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/babaInfoSep1814.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/babaInfoSep1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/babaInfoSep1814.png" width="600" height="600">
 
 I didn&#8217;t have room to list the 10 reasons on this post, but rest assured, they were good ones.
 
 And please don&#8217;t pay any heed to analysis such as this:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/largestIPOSep1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/largestIPOSep1814.png" width="600" height="442"></p> 
+  <img src="http://themacrotourist.com/images/Azure/largestIPOSep1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/largestIPOSep1814.png" width="600" height="442"></p> 
 
 I am sure that Alibaba will be different &#8211; Cramer says so and he doesn&#8217;t usually get the big things wrong.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Cramer.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Cramer.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/Cramer.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Cramer.png" width="600" height="400">
 
 IPO&#8217;s are surefire ways to make money. In fact, the bigger the better!
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/bigIPOSep1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/bigIPOSep1814.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/bigIPOSep1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/bigIPOSep1814.png" width="600" height="342">
 
 And these old fuddy duddies that are worried about the Alibaba share structure are nuts! When has a Chinese company ever reneged on a deal and ripped off US investors?
 
@@ -89,14 +89,14 @@ I really hope that the Scots voted to remain part of the UK for the right reason
 But we all know that it really probably had something to do with this:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/scottishSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/scottishSep1914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/scottishSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/scottishSep1914.png" width="600" height="342">
 
 This is of course the Scottish Commonwealth athletic uniform. If I was forced to wear that uniform, I too might be ready to declare independence.
 
 And now that the nasty business of the referendum is behind them, the Scots can go back to the hard hitting stories that they are accustomed to&#8230; Like this one.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/shatSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/shatSep1914.png" width="600" height="642">
+  <img src="http://themacrotourist.com/images/Azure/shatSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/shatSep1914.png" width="600" height="642">
 
 I know I shouldn&#8217;t, but the 15 year old boy in me just finds this funny. You have to love Scotland. 
 
@@ -111,7 +111,7 @@ The trouble is that when you put those sorts of conditions on it, there is way l
 I kept a tweet from after the announcement that summed up the situation perfectly:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/usefulSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/usefulSep1914.png" width="600" height="125"></p> 
+  <img src="http://themacrotourist.com/images/Azure/usefulSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/usefulSep1914.png" width="600" height="125"></p> 
 
 The ECB is learning the hard way that during a balance sheet recession, there is very little demand for new credit. The money needs to be force fed into the system. 
 
@@ -120,7 +120,7 @@ And herein lies the problem. The Germans don&#8217;t want the expansion of the E
 He has pledged to expand the balance sheet to the levels from the summer of 2012.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ECBTotalSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECBTotalSep1914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ECBTotalSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ECBTotalSep1914.png" width="600" height="342">
 
 But if his LTRO programs are going to be so poorly received, he is going to have to figure out alternative ways to push credit into the system. 
 
@@ -139,4 +139,4 @@ For now I am going to take Draghi at his word when he pledged to expand the ECB&
 As I planned a couple of days ago, now that the Scottish referendum is behind us, I am going to pick up some Talisman Energy and Ithaca.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep1914.png" width="600" height="542">
+  <img src="http://themacrotourist.com/images/Azure/PositionsSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsSep1914.png" width="600" height="542">

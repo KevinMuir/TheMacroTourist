@@ -10,7 +10,7 @@ categories:
   - macro
 ---
 
-  <img src="http://themacrotourist.com/pictures/ClicheOct2015.png" alt="http://themacrotourist.com/pictures/ClicheOct2015.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/ClicheOct2015.png" alt="http://themacrotourist.com/images/ClicheOct2015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Nothing bores me more than cliche trader advice. You know the classics &#8211; don’t catch a falling knife but buy when there is blood in the streets. Don’t fade a trend but make sure you don’t chase. Bulls and bears make money, pigs get slaughtered, yet make sure you let your profits run. I mean, really? Trading is so nuanced that it is difficult to articulate any rules that work consistently. The reality is the game is constantly changing and the only surety is what worked yesterday won’t work tomorrow (ok, maybe what worked yesterday will work tomorrow, but you get the idea).
 

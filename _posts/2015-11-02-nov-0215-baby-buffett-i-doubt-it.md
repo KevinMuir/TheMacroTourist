@@ -16,7 +16,7 @@ tags:
   - VRX
 ---
 
-  <img src="http://themacrotourist.com/pictures/BathroomNov0215.png" alt="http://themacrotourist.com/pictures/BathroomNov0215.png" style="margin:30px auto;display:block;" width="500" height="600">
+  <img src="http://themacrotourist.com/images/BathroomNov0215.png" alt="http://themacrotourist.com/images/BathroomNov0215.png" style="margin:30px auto;display:block;" width="500" height="600">
 
 “What the hell are you doing?” my boss asked me. “Yesterday you lost fifty, and now today almost a hundred… What’s going on?”
 
@@ -77,7 +77,7 @@ I couldn’t agree more.
 CNBC’s high school girl infatuation with these hedge fund managers only costs you money. Don’t forget that during the last cycle, there were plenty of blowhards the media also fawned all over. Where are they now?
 
 
-  <img src="http://themacrotourist.com/pictures/EddieNov0215.png" alt="http://themacrotourist.com/pictures/EddieNov0215.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/EddieNov0215.png" alt="http://themacrotourist.com/images/EddieNov0215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Thanks for reading,
   

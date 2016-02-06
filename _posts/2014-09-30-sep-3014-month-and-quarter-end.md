@@ -23,7 +23,7 @@ tags:
 It is month and quarter end today, so be careful as there are bound to be plenty of shenanigans. I am not sure if yesterday&#8217;s big rally off the opening gap down was purely quarter end putting money to work or not, but the continuing rally this morning definitely seems to have changed the tone of the past week.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESZ4GIPSep3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESZ4GIPSep3014.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ESZ4GIPSep3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESZ4GIPSep3014.png" width="600" height="342">
 
 The reason for the continuing strength this morning is the release of the European CPI figures. Inflation continues to run even lower than the subdued economic estimates. Although the CPI figure came in at the expect 0.3% increase, the core disappointed with an abysmal 0.7% increase versus the expected 0.9%. Disinflation is alive and well in Europe. 
 
@@ -34,7 +34,7 @@ When I saw the news this morning, I immediately covered all my equity shorts. I 
 I will also ring the register on my HYG and JNK puts. In an environment where I seem to have gotten very little right, I am happy for this win but I feel the time to exit the position is upon us.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HYGSep3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/HYGSep3014.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/HYGSep3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HYGSep3014.png" width="600" height="342">
 
 I am by no means bullish on risk assets. I still think that there is a disaster looming in the future. But for a little bit, I would like to watch from the sidelines. High yield and junk bonds have really gotten hammered during the past couple of weeks. It wouldn&#8217;t surprise me at all if these levels hold and we grind higher for a bit.
 
@@ -45,17 +45,17 @@ I am by no means bullish on risk assets. I still think that there is a disaster 
 Yesterday the emerging markets were pounded especially hard. With bad news out of Brazil and Hong Kong, the EEM gapped down below its 200 day moving average.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EEMSep2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EEMSep2914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/EEMSep2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EEMSep2914.png" width="600" height="342">
 
 Contrast that to the S&P 500 which is no where its 200 day moving average.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPYSep2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPYSep2914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SPYSep2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPYSep2914.png" width="600" height="342">
 
 In the past I have highlighted the divergence between EEM and copper. This latest swoon in the EEM has done a lot to correct that imbalance.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EEMHGSep3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EEMHGSep3014.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/EEMHGSep3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EEMHGSep3014.png" width="600" height="342">
 
 I am running late this morning, so I am going to sign off early. 
 
@@ -64,4 +64,4 @@ I am running late this morning, so I am going to sign off early.
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep3014.png" width="600" height="542"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsSep3014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsSep3014.png" width="600" height="542"></p>

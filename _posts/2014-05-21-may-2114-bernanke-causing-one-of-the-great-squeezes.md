@@ -27,7 +27,7 @@ The September 18th, 2013 Federal Reserve meeting shocked market participants wit
 Here is the chart of the September 2016 Eurodollar contract. I have chosen this contract because it seems to be the battle ground for the beginning of any real moves higher in the short term interest rates:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDU6May2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6May2114.png" width="600" height="342" />Sep 2016 ED Contract (higher is lower rate)</a>
+  <img src="http://themacrotourist.com/images/Azure/EDU6May2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EDU6May2114.png" width="600" height="342" />Sep 2016 ED Contract (higher is lower rate)</a>
 </div>
 
 After their initial taper debacle the Fed was more careful. As the Fed approached the next attempt to taper, they were careful to emphasize that &#8220;tapering is not tightening.&#8221; That message was continually driven home in speech after speech by the Federal Reserve Chairman.
@@ -35,7 +35,7 @@ After their initial taper debacle the Fed was more careful. As the Fed approache
 Therefore as the taper was instituted, the bond market priced in a tightening at the end of the tapering, but the damage was quite limited.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDU6bMay2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6bMay2114.png" width="600" height="342" />Sep 2016 ED Contract</a>
+  <img src="http://themacrotourist.com/images/Azure/EDU6bMay2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EDU6bMay2114.png" width="600" height="342" />Sep 2016 ED Contract</a>
 </div>
 
 The Fed managed to start the taper without the bond market revolting. 
@@ -45,7 +45,7 @@ The message that just because the Federal Reserve was tapering did not mean that
 The best way to illustrate this is to have a look at the Fed Funds projected rate as implied by the futures contracts:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FFAMay2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FFAMay2114.png" width="600" height="342" />Fed Funds contract curve</a>
+  <img src="http://themacrotourist.com/images/Azure/FFAMay2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FFAMay2114.png" width="600" height="342" />Fed Funds contract curve</a>
 </div>
 
 This curve shows the implied future Fed Funds rate at various points in the past. The red curve is the implied Fed Funds curve the day before the surprise no taper announcement (September 17th, 2013). The blue curve is a month ago, the green curve a week ago and the orange curve is yesterday.
@@ -57,13 +57,13 @@ Which brings us to the interesting part of this discussion. Why the shift in att
 You can&#8217;t really make the argument that the economic data has gotten significantly weaker. In fact, if anything it is firming up. Inflation is running hotter than forecast and the employment figures were quite strong. The economic surprise index which measures how much the economic releases are outperforming or under performing expectations has in fact being steadily climbing higher over the last couple of months:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ECOSMay2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECOSMay2114.png" width="600" height="342" />Economic Surprise Index</a>
+  <img src="http://themacrotourist.com/images/Azure/ECOSMay2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ECOSMay2114.png" width="600" height="342" />Economic Surprise Index</a>
 </div></p> 
 
 I believe that the answer as to why the bond market has rallied so hard all comes down to the work of retired Fed Chairman Ben Bernanke. 
 
 <div style="width: image width px; font-size: 80%; text-align: right;">
-  <img src="http://themacrotourist.com/pictures/Azure/ChairmanMay2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" align="right"; style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/ChairmanMay2114.png" width="245" height="276">
+  <img src="http://themacrotourist.com/images/Azure/ChairmanMay2114.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" align="right"; style="margin:30px auto;display:block;" src="http://themacrotourist.com/images/Azure/ChairmanMay2114.png" width="245" height="276">
 
 Since stepping down as the head of the Federal Reserve, Ben Bernanke has been travelling around the globe, giving a series of speeches and special one on one meetings at $250k a pop. Although his message does not seem to be that different from the position he took as the Federal Reserve Chairman, his frankness in describing the amount of accommodative easing that will be required in the future has caused a sudden realization amongst the big connected players that &#8220;tapering is **truly not** tightening.&#8221; 
 
@@ -92,4 +92,4 @@ However I believe that traders that are buying the long end of the curve because
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay2114.png" width="600" height="650"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsMay2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsMay2114.png" width="600" height="650"></p>

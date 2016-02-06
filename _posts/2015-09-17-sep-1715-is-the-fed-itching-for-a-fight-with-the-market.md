@@ -14,7 +14,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/FedItchingSep1715.png" alt="http://themacrotourist.com/pictures/FedItchingSep1715.png" style="margin:30px auto;display:block;" width="400" height="600">
+  <img src="http://themacrotourist.com/images/FedItchingSep1715.png" alt="http://themacrotourist.com/images/FedItchingSep1715.png" style="margin:30px auto;display:block;" width="400" height="600">
 
 Well today is the day. After what seems like months talking about whether the Federal Reserve will abandon their zero rate policy, the FOMC committee will finally lift the veil later this afternoon.
 
@@ -53,12 +53,12 @@ As the Fed’s tightening rhetoric has increased, there has been a growing choru
 Even not so smart guys like Larry Summers have taken to petitioning the Fed to take their time with rate hikes.
 
 
-  <img src="http://themacrotourist.com/pictures/LarrySep1715.png" alt="http://themacrotourist.com/pictures/LarrySep1715.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/LarrySep1715.png" alt="http://themacrotourist.com/images/LarrySep1715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Recently Larry took time out from his naps, to write a couple of blog pieces about why the mistake will be to hike too early. From Larry’s blog
 
 
-  <img src="http://themacrotourist.com/pictures/FedMistakeSep1715.png" alt="http://themacrotourist.com/pictures/FedMistakeSep1715.png" style="margin:30px auto;display:block;" width="600" height="600">
+  <img src="http://themacrotourist.com/images/FedMistakeSep1715.png" alt="http://themacrotourist.com/images/FedMistakeSep1715.png" style="margin:30px auto;display:block;" width="600" height="600">
 
 Not content to simply publish one dissenting blog post, last week Summers wrote another piece titled [Why the Fed must stand still on rates](http://larrysummers.com/2015/09/09/why-the-fed-must-stand-still-on-rates/). His conclusion is unambiguous:
 
@@ -77,7 +77,7 @@ Yet here is a thought. What if the market is never going to let them tighten? Wh
 Although I think the most likely outcome is for the Fed to pass at this meeting, I think there is a small chance the Fed finds a way to hike in a smaller amount than 25 basis points. Back in March, I wrote a piece about the possibility of the Fed hiking by only 10 basis points: [Mar 23/15 &#8211; The next Fed move is going to be only 10 basis points](http://themacrotourist.com/blog/2015/03/23/mar-2315-the-next-fed-move-is-going-to-be-only-10-basis-points/).
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Pulp25bps.png " alt="http://themacrotourist.com/pictures/Azure/Pulp25bps.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/Pulp25bps.png " alt="http://themacrotourist.com/images/Azure/Pulp25bps.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I still think this is a definite possibility. Right now the Fed funds target is between 0% and 0.25%. In daily trading, it averages somewhere around 12 or 13 basis points usually. So if they moved the rate up to a range of 0.25% to 0.50%, it would average around 0.375%. But right now the October 2015 Fed Funds future is trading 99.80. The market is pricing in a risk adjusted 20 basis point average Fed Funds for October. **Why not increase the Fed Funds target to 0.15% to 0.25%?** The Fed hawks would get the increase done with, but the doves would be able to say they did not hike more than markets were expecting. They would also be able to reinforce their commitment to any hikes being gradual.  Again, I don’t think they are going to do this, but if there is a hike, it will **not be a full hike**, but instead some sort of way to hike to an effective rate that is not a full 25 basis raise.
 

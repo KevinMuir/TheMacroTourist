@@ -20,14 +20,14 @@ tags:
   - Yardeni
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/TintinCrewSep2414.png"><img class="size-full wp-image-14271" style="float:right; padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/TintinCrewSep2414.png" width="220" height="150">
+  <img src="http://themacrotourist.com/images/Azure/TintinCrewSep2414.png"><img class="size-full wp-image-14271" style="float:right; padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/images/Azure/TintinCrewSep2414.png" width="220" height="150">
 
 When I was growing up, I loved the Adventures of Tintin books. I had all the books, and as I read them with my son today, I find that I still remember all the words. For those who are not familiar with the series, it is cartoon book about a strangely young looking reporter who, accompanied by his faithful dog Snowy and his assortment of eclectic friends, travel the world solving mysteries and participating in fantastic adventures. 
 
 There are a couple things you could usually count on. Tintin&#8217;s friend Captain Hadock would consume copious amounts of Loch Lomond scotch whiskey and that Snowy&#8217;s tail would get hurt in some way. You would think that Snowy would learn, but he never does. Time after time, he either gets it caught in an elevator door on the rocket ship destined for the moon, or burns it escaping from a plane crash in the Sahara desert. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SnowyTailSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SnowyTailSep2414.png" width="550" height="400">
+  <img src="http://themacrotourist.com/images/Azure/SnowyTailSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SnowyTailSep2414.png" width="550" height="400">
 
 In fact it happens so often that the [Tintin Wiki has a whole page](http://tintin.wikia.com/wiki/List_of_trauma_events_to_Snowy's_tail) devoted to Snowy&#8217;s tail traumas. 
 
@@ -60,12 +60,12 @@ But this feedback loop will eventually collapse on itself. The larger the rise, 
 The equity index option market has figured this out. The SKEW index, which measures the difference between implied volatilities of at-the-money and out-of-the money puts is pushing up against all time highs! **That means investors are paying more to hedge the possibility of a large downward move versus the cost of volatility around current prices than any other time.**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SKEWaSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SKEWaSep2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SKEWaSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SKEWaSep2414.png" width="600" height="342">
 
 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SKEWbSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SKEWbSep2414.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/images/Azure/SKEWbSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SKEWbSep2414.png" width="600" height="342"></p> 
 
 The option market knows that it is only a matter of time until Snowy&#8217;s tail experiences another trauma and the stock market encounters a serious reversal of fortunes.
 
@@ -80,14 +80,14 @@ I am a big fan of Ed Yardeni&#8217;s work. [I follow one of his indicators that 
 Since the credit crisis, the indicator has done a decent job of modelling the equity market.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YardLTSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/YardLTSep2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/YardLTSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/YardLTSep2414.png" width="600" height="342">
 
 After the crash there was a general hesitation to plough back into equities and that caused the Yardeni indicator to run ahead of the stock market. But eventually Bernanke & Co. coaxed investors back into equities. During the past couple of years the stock market has actually been running ahead of the Yardeni &#8220;fundamental indicator.&#8221; 
 
 For the past couple of months the Yardeni indicator has been slipping, but the stock market seemed impervious.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YardSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/YardSep2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/YardSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/YardSep2414.png" width="600" height="342">
 
 The selling in the stock market during the past week seems to be correcting that divergence, but there is room for stocks to fall further. 
 
@@ -96,7 +96,7 @@ Most importantly, we have to remember what drives this indicator so we can under
 The indicator is created through a mix of the ABC weekly Consumer Confidence number, the weekly initial jobless claims and industrial commodity prices. Both the Consumer Confidence and the initial jobless claims are performing well, so the recent decline in the indicator can almost be solely attributed to the decline in industrial commodities. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CRBRINDSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CRBRINDSep2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CRBRINDSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CRBRINDSep2414.png" width="600" height="342">
 
 Industrial commodities are going down due to a mix of a global economic slowdown and the US dollar strength. Whether this continues I am not sure. 
 
@@ -111,12 +111,12 @@ CEF is one of the oldest closed end funds that specializes in holding precious m
 In the past week the discount to NAV has once again widened, hitting 9% a couple of days ago.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CEFSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CEFSep2414.png" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/images/Azure/CEFSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CEFSep2414.png" width="600" height="342"></p> 
 
 This was a new low for the past decade and it has brought out a lot of bottom pickers. Although I love CEF as a great way to gain exposure to gold and silver at a discount, be careful if you think that this spread _has to narrow._ This was indeed a new low for this decade, but in the 1990s when gold was something only your grandfather owned, CEF&#8217;s discount to NAV went to almost 20%.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CEFLTSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CEFLTSep2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CEFLTSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CEFLTSep2414.png" width="600" height="342">
 
 Don&#8217;t misunderstand me &#8211; I love CEF. Just be aware that as hated as gold is today, it can always get more hated&#8230;
 
@@ -125,4 +125,4 @@ Don&#8217;t misunderstand me &#8211; I love CEF. Just be aware that as hated as 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep2414.png" width="600" height="542"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsSep2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsSep2414.png" width="600" height="542"></p>

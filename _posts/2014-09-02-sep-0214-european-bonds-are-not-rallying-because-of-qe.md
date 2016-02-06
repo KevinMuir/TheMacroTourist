@@ -20,7 +20,7 @@ tags:
 Trading is a tough game. Even when your analysis is correct, the Market Gods find ways to take your hard earned money. I have been banging the drum on the fact that the ECB has been too tight for quite some time. I have correctly forecasted that the European economy was going to under perform. The ECB&#8217;s balance sheet has continued to shrink at a time when both the US and Japan are expanding. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ECBBSSep0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECBBSSep0214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ECBBSSep0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ECBBSSep0214.png" width="600" height="342">
 
 This has resulted in a European economy that has been mired in a deflationary spiral downward. By not keeping up with the other Central Bank easing programs, the ECB is importing all the world&#8217;s deflation. This has had an excruciating effect on the European economies. They are already suffering from way too much debt, and deflation only makes the real cost of this debt all the larger. It also makes it practically impossible for the European economy to grow out of their problem. 
 
@@ -29,19 +29,19 @@ Europe is caught in a massive balance sheet recession. And just like Japan did i
 This policy decision has some interesting effects on financial asset prices. Let&#8217;s start with the easiest and most obvious one. If the economy is stuck in a deflationary spiral and the Central Bank is pushing short term rates to negative levels, bonds are the biggest beneficiaries of this policy. Although there is some credit risk in European sovereign bonds, for the most part the bond prices are made up of inflation expectations and the expected level of future interest rates. A deflationary spiral with a Central Bank that is focused on trying to fix the problem by lowering the _price of credit_ (even going to negative levels) is bond nirvana. And that is why the European bond markets have experienced one of the greatest rallies of all time. The ECB is making a huge policy error and bonds have correctly sniffed out that this is not going to help.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDBR10Sep0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDBR10Sep0214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GDBR10Sep0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GDBR10Sep0214.png" width="600" height="342">
 
 Some analysts will claim that European bonds are rallying so hard because they are anticipating a large QE program. I couldn&#8217;t disagree more. The European bond market has been rallying like a banshee for six months. QE programs are inflationary, the exact opposite of the condition that bonds thrive in. In fact, I think that if Draghi actually goes through with a large scale QE program, that will be the signal to sell bunds short. In the mean time, don&#8217;t be like Bart.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BundsSep0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BundsSep0214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/BundsSep0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BundsSep0214.png" width="600" height="342">
 
 Remember that absence a massive expansion of the ECB&#8217;s balance sheet, they will be trapped in a balance sheet recession. Their economy will suffer a similar fate to the Japanese lost decade of the 2000s. Bond yields will stay low and equities will under perform other more expansionary countries.
 
 Which brings me to my trading. I had correctly forecasted that the European economy would be stuck in a funk, and I chose to short sell European stocks to express that view. Although they are indeed under performing, they have by no means sold off hard.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SX5ESep0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SX5ESep0214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SX5ESep0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SX5ESep0214.png" width="600" height="342">
 
 The massive lowering of long term interest rates have kept European stocks better bid than they deserve. 
 
@@ -74,4 +74,4 @@ Don&#8217;t get sucked into the trade of buying US bonds and shorting German yie
 I did make some small changes to my portfolio in the couple of weeks I didn&#8217;t update this journal. Although I would love to say that I covered all my bad trades at the perfect time, that seems to be something only traders active on twitter are able to do. I did cover my gold and other precious metals early on my break, but otherwise I mistakenly hung tough with way too many of my losing trades.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep0214.png" width="600" height="500">
+  <img src="http://themacrotourist.com/images/Azure/PositionsSep0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsSep0214.png" width="600" height="500">

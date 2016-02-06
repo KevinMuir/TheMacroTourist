@@ -32,7 +32,7 @@ In a return to its roots, [Yellen&#8217;s Fed has rescinded the invitation to Wa
 It is not like Wall Street is Yellen&#8217;s favourite place anyway. She is rightfully disappointed with the resumption of financial asset bubbles, all the while wage gains by average workers are basically non-existent.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/greedAug1414.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Thursday, August 14, 14 at 7:33:42 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/greedAug1414.jpg" width="500" height="400">
+  <img src="http://themacrotourist.com/images/Azure/greedAug1414.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Thursday, August 14, 14 at 7:33:42 AM America/Torontoliboard" src="http://themacrotourist.com/images/Azure/greedAug1414.jpg" width="500" height="400">
 
 We all know that inequality is rising. Financial assets keep rising, yet labour&#8217;s share of the pie keeps falling. Yellen has repeatedly stressed the lack of wage gains as a serious problem. But what is she going to do about it?
 
@@ -51,4 +51,4 @@ There are precious little signals to indicate that Yellen will use the Jackson H
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsAug1314.png" width="600" height="500"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsAug1314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsAug1314.png" width="600" height="500"></p>

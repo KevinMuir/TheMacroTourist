@@ -26,7 +26,7 @@ Last night as I was waiting for the GLOBEX futures session to start, I was struc
 When the market opened less negative than some might have feared, this attitude shone through with sarcastic tweets such as this one from Business Insider reporter Joseph Weisenthal:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/StalwartMar0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/StalwartMar0314.png" width="355" height="88">
+  <img src="http://themacrotourist.com/images/Azure/StalwartMar0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/StalwartMar0314.png" width="355" height="88">
 
 As I was instant messaging my business partner, I noted that markets do not bottom with this sort of complacent attitude. Markets bottoms on rampant fear. 
 
@@ -35,7 +35,7 @@ The prevailing attitude seems to be one of such extreme cockiness, that many mar
 Have a look at this tweet from a fairly well known financial blogger / newsletter writer:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MN1Mar0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MN1Mar0314.png" width="343" height="123">
+  <img src="http://themacrotourist.com/images/Azure/MN1Mar0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MN1Mar0314.png" width="343" height="123">
 
 I am glad that he has a sense of humour about this fairly serious geopolitical event. I am actually short and well on side this morning, but even though my P&L is solidly in the green, I am still nervous.
 
@@ -48,18 +48,18 @@ And then when you combine the fact that this morning the S&P&#8217;s are down on
 But not our trusted blogger. For him, this is an easy call:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MN2Mar0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MN2Mar0314.png" width="580" height="168">
+  <img src="http://themacrotourist.com/images/Azure/MN2Mar0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MN2Mar0314.png" width="580" height="168">
 
 I think he might go hungry this morning as I see very few panic sellers. Yes, we are down 20 handles, but don&#8217;t forget that Friday afternoon they ramped up the market into the month end close:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESH4Mar0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESH4Mar0314.PNG" width="600" height="342" />E-Mini futures trading for Friday and this morning</a>
+  <img src="http://themacrotourist.com/images/Azure/ESH4Mar0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESH4Mar0314.PNG" width="600" height="342" />E-Mini futures trading for Friday and this morning</a>
 </div>
 
 This is actually quite a tame sell off considering that Red Dawn is playing out in Ukraine and that Patrick Swayze is no longer with us and Charlie Sheen is too coked up to save them (although I think the woman from Dirty Dancing is looking for work and might be available):
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ReddawnMar0314.jpg" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ReddawnMar0314.jpg" width="478" height="239" />The cast from the &#8220;celebrated&#8221; 1984 movie &#8211; Red Dawn</a>
+  <img src="http://themacrotourist.com/images/Azure/ReddawnMar0314.jpg" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ReddawnMar0314.jpg" width="478" height="239" />The cast from the &#8220;celebrated&#8221; 1984 movie &#8211; Red Dawn</a>
 </div>
 
 So when our blogger friend compares this morning to the &#8220;panicking&#8221; of the 1987 crash, 9/11 and the Lehman crisis, I think he is being quite naive. Those were _eventually_ great buying opportunities. But do you think those opportunities were only 1.8% off the all time highs? Not on your life! Comparing this tiny sell off to those events only demonstrates the arrogance of the bulls.
@@ -67,22 +67,22 @@ So when our blogger friend compares this morning to the &#8220;panicking&#8221; 
 Let&#8217;s have a look at the charts of those three events. First up, let&#8217;s look at the 1987 crash:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/1987Mar0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/1987Mar0314.PNG" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/1987Mar0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/1987Mar0314.PNG" width="600" height="342">
 
 Then let&#8217;s examine the market action surrounding the 9/11 tragedy:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/911Mar0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/911Mar0314.PNG" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/911Mar0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/911Mar0314.PNG" width="600" height="342">
 
 And what about the Lehman crisis? What did that chart look like?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/LehmanMar0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/LehmanMar0314.PNG" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/LehmanMar0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LehmanMar0314.PNG" width="600" height="342">
 
 Finally, let&#8217;s compare today&#8217;s trading to these three events:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPMar0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPMar0314.PNG" width="600" height="342"></p> 
+  <img src="http://themacrotourist.com/images/Azure/SPMar0314.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPMar0314.PNG" width="600" height="342"></p> 
 
 It sure looks to me like today&#8217;s environment is nothing like those other times.
 

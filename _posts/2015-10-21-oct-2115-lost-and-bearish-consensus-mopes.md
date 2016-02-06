@@ -15,7 +15,7 @@ tags:
   - world growth
 ---
 
-  <img src="http://themacrotourist.com/pictures/BearishOct2115.png" alt="http://themacrotourist.com/pictures/BearishOct2115.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/BearishOct2115.png" alt="http://themacrotourist.com/images/BearishOct2115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Last week Credit Suisse released a report titled [“Client perspectives: lost and bearish”](http://www.zerohedge.com/news/2015-10-16/traders-completely-lost-here-are-consensus-and-contrarian-trades). I love reports like this that reveal the worries of institutional clients. By the time the main consensus concerns are hitting reports, the chances of the top ones being the actual next market surprise are virtually nil. In fact, I would suggest with enough patience, the main worries often offer investing opportunities.
 
@@ -30,7 +30,7 @@ Let’s have a look at the what they all agree is the next big problem lurking o
 Their number one concern is a slowdown on global growth. Not only that, the clients were about as negative on global growth as any other time since Credit Suisse has been conducting this survey. I am assuming they have been doing this at least since 2008, so global institutional investors now believe the prospect for world growth is about as bad as during the previous financial meltdown. Think about that for one second. This is an extremely pessimistic attitude.
 
 
-  <img src="http://themacrotourist.com/pictures/MeetingOct2115.png" alt="http://themacrotourist.com/pictures/MeetingOct2115.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/MeetingOct2115.png" alt="http://themacrotourist.com/images/MeetingOct2115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I don’t know much, but I know enough that when the crowd is leaning so hard one way, the correct bet is to take the other side. I firmly believe that somehow, some way, global growth will outperform these low expectations.
 
@@ -49,7 +49,7 @@ Client Suisse’s report’s next worry is one I share. I don’t know if this a
 > The worries here are that 1) The notion that US households are still overleveraged; 2) GEM private debt being high; 3) High yield credit spreads widening;
 
 
-  <img src="http://themacrotourist.com/pictures/BBBOct2115.png" alt="http://themacrotourist.com/pictures/BBBOct2115.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/BBBOct2115.png" alt="http://themacrotourist.com/images/BBBOct2115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 On an absolute basis, spreads are not that wide, but the direction is troubling. I would like to see this trend at least stabilize. I guess I am a consensus mope for worrying about this…
 

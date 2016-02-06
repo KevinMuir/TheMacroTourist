@@ -28,7 +28,7 @@ Friday&#8217;s news that Amazon had applied to the FAA for permission to test th
 As for my positions, at this point there can be no denying that my call for a correction is looking increasingly wrong. Like the American student that recently mistakenly wedged himself into a giant stone vagina statue in Germany, I am finding myself stuck with a pretty horrid call.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/stuckJul1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/stuckJul1414.png" width="600" height="700" />The MacroTourist&#8217;s portfolio stuck inside a giant stone vagina</a>
+  <img src="http://themacrotourist.com/images/Azure/stuckJul1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/stuckJul1414.png" width="600" height="700" />The MacroTourist&#8217;s portfolio stuck inside a giant stone vagina</a>
 </div>
 
 At a certain point this American student realized his great idea to get a picture of himself within the giant vagina had gone horribly wrong. No amount of wriggling was going to save him. All he could was admit defeat and wait for the 22 German firefighters that it took to free him.
@@ -44,7 +44,7 @@ I have been long the ags, and although I have not yet written about it very much
 Unfortunately, as usual the strength attracted the attention of the dreaded hedge funds. They quickly piled into the long side in a big way.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CCFFTCCJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CCFFTCJul1114.png" width="600" height="342" />Corn long spec positioning</a>
+  <img src="http://themacrotourist.com/images/Azure/CCFFTCCJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CCFFTCJul1114.png" width="600" height="342" />Corn long spec positioning</a>
 </div>
 
 This created another &#8220;mini-bubble&#8221; where the price action attracted more buying, making the price action all the more positive, which resulted in more buying, etc&#8230; Pretty soon the ags were filled with over levered hedge funds. 
@@ -58,7 +58,7 @@ The high beef and pork prices have caused a lot of animals to be culled resultin
 All these factors has resulted in a vicious sell off that has caused American agriculture products to become the cheapest in the world. Here is the price of Corn in the US versus China:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CornChinaUSJul1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CornChinaUSJul1414.png" width="600" height="342" />US Corn vs Chinese Corn</a>
+  <img src="http://themacrotourist.com/images/Azure/CornChinaUSJul1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CornChinaUSJul1414.png" width="600" height="342" />US Corn vs Chinese Corn</a>
 </div>
 
 
@@ -66,7 +66,7 @@ All these factors has resulted in a vicious sell off that has caused American ag
 And the price of US soybeans is also hitting relative new lows:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/WorldSoybeanJul1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/WorldSoybeanJul1414.png" width="600" height="342" />World Soybean prices</a>
+  <img src="http://themacrotourist.com/images/Azure/WorldSoybeanJul1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/WorldSoybeanJul1414.png" width="600" height="342" />World Soybean prices</a>
 </div>
 
 
@@ -76,15 +76,15 @@ This has turned what was a great trade of the first quarter into another terribl
 Recently the market had been awaiting for the latest crop condition report, which on Friday caused another push to new lows.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CZJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CZJul1114.png" width="600" height="342" />Corn prices plunge to new lows</a>
+  <img src="http://themacrotourist.com/images/Azure/CZJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CZJul1114.png" width="600" height="342" />Corn prices plunge to new lows</a>
 </div>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SX4Jul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SX4Jul1114.png" width="600" height="342" />Soybean prices also hitting new lows</a>
+  <img src="http://themacrotourist.com/images/Azure/SX4Jul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SX4Jul1114.png" width="600" height="342" />Soybean prices also hitting new lows</a>
 </div>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/WU4Jul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/WU4Jul1114.png" width="600" height="342" />Wheat is no stranger to new lows either</a>
+  <img src="http://themacrotourist.com/images/Azure/WU4Jul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/WU4Jul1114.png" width="600" height="342" />Wheat is no stranger to new lows either</a>
 </div>
 
 I am of the opinion that the carnage in the ags over the last couple of months has shaken out the momentum chasing hedge funds. There is no way that they are going to sit through this kind of pain, and if I had to guess, given the severity of the decline they are probably erring on the short side now.
@@ -106,13 +106,13 @@ A month or so ago, I was fortunate enough to have ramped up my position in the G
 At the risk of reducing the position that is working best for me, I halved my GDX and gold position so that I could buy ags.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDXJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXJul1114.png" width="600" height="342" />GDX &#8211; selling into the strength</a>
+  <img src="http://themacrotourist.com/images/Azure/GDXJul1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GDXJul1114.png" width="600" height="342" />GDX &#8211; selling into the strength</a>
 </div>
 
 I am nervous that the recent weakness in the CRB Index is harbinger of bad things to come in the gold market. Have a look at this chart of CRB vs gold:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CRYGOLDJul1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CRYGOLDJul1414.png" width="600" height="342" />CRB (white line) vs Gold (yellow line)</a>
+  <img src="http://themacrotourist.com/images/Azure/CRYGOLDJul1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CRYGOLDJul1414.png" width="600" height="342" />CRB (white line) vs Gold (yellow line)</a>
 </div>
 
 Given the ferocious bid in financial assets, and the corresponding dump in commodities, I am worried that gold is vulnerable. I am even more concerned that the hedge funds have piled into the gold mining stocks trade, and you know how much I hate being long the same stuff as them.
@@ -126,4 +126,4 @@ This morning financial assets are spiking higher, commodities are still sagging 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJul1414.png" width="600" height="750"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJul1414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJul1414.png" width="600" height="750"></p>

@@ -10,15 +10,15 @@ tags:
   - gold
   
 ---
-<img src="http://themacrotourist.com/pictures/DontWorryFeb0516.png" alt="http://themacrotourist.com/pictures/DontWorryFeb0516.png" width="600" height="800" style="margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/DontWorryFeb0516.png" alt="http://themacrotourist.com/images/DontWorryFeb0516.png" width="600" height="800" style="margin:30px auto;display:block;">
 
 This morning the Gold Miners ETF (GDX) gapped lower.  It wasn't that surprising since it is up more than 30% over the past two weeks.  Some back and filling seemed inevitable.
 
-<img src="http://themacrotourist.com/pictures/GDXGPOFeb0516.png" alt="http://themacrotourist.com/pictures/GDXGPOFeb0516.png" width="700" height="450" style="margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/GDXGPOFeb0516.png" alt="http://themacrotourist.com/images/GDXGPOFeb0516.png" width="700" height="450" style="margin:30px auto;display:block;">
 
 Yet instead of continuing to sell off with the rest of the stock market, the gold miners were quickly aggressively bid.  As I write this they are actually pushing to new highs for the move.
 
-<img src="http://themacrotourist.com/pictures/GDXGIPFeb0516.png" alt="http://themacrotourist.com/pictures/GDXGIPFeb0516.png" width="700" height="450" style="margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/GDXGIPFeb0516.png" alt="http://themacrotourist.com/images/GDXGIPFeb0516.png" width="700" height="450" style="margin:30px auto;display:block;">
 
 Even though the gold miners are ripping higher, there is precious little chatter about it.  There are no traders celebrating big wins on my twitter feed.  It's almost as if gold doesn't exist.
 
@@ -28,7 +28,7 @@ I am a huge gold bull down here, but even I didn't expect the violence of this m
 
 Even though gold has had a big run higher, in the grand scheme of things, it is a tiny blip.  Have a look at a chart of the gold / S&P 500 ratio.
 
-<img src="http://themacrotourist.com/pictures/GOLDSPXFeb0516.png" alt="http://themacrotourist.com/pictures/GOLDSPXFeb0516.png" width="700" height="450" style="margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/GOLDSPXFeb0516.png" alt="http://themacrotourist.com/images/GOLDSPXFeb0516.png" width="700" height="450" style="margin:30px auto;display:block;">
 
 Stocks have been increasing incessantly at the expense of gold for the past four years.  I believe Central Bank monetization of their balance sheets with equities and other risk assets is one of the main reasons for this outperformance.  
 

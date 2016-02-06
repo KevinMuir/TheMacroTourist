@@ -22,7 +22,7 @@ tags:
   - Wells Capital
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/BearJan1215-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BearJan1215-1.png" width="600" height="450">
+  <img src="http://themacrotourist.com/images/Azure/BearJan1215-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BearJan1215-1.png" width="600" height="450">
 
 It&#8217;s being a tough slug for the equity bears over the past couple of years. The last few months have been especially confusing as US stocks have been impervious to the quickly decaying global economic fundamentals. I know that there are many different inputs that determine equity prices, but this last move higher has been remarkably divorced of any traditional relationship to the fundamentals.
 
@@ -35,14 +35,14 @@ Although many ZeroHedge types are quick to point to the Fed jawboning as the sou
 Have a look at the trading of the USDJPY rate versus the S&P 500 future:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXJPYJan1215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXJPYJan1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SPXJPYJan1215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPXJPYJan1215.png" width="600" height="342">
 
 The US equity market trades almost tick for tick with the Japanese Yen. This relationship is no coincidence. The Bank of Japan&#8217;s balance sheet expansion is getting directly ploughed into US stocks via the asset shift at the world&#8217;s largest pension plan.
 
 The BoJ&#8217;s balance sheet expansion is truly mind blowingly large. It easy to get numb to the big numbers that these Central Banks throw around, but have a look at this chart o the major Central Bank&#8217;s total assets in relation to their country&#8217;s GDP.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CBJan1215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CBJan1215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CBJan1215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CBJan1215.png" width="600" height="342">
 
 The Bank of Japan is monetizing their debt at a level that is not really appreciated by most investors. Even less understood is how this newly created money is pushing up US equities. 
 
@@ -63,4 +63,4 @@ As for timing, Friday&#8217;s action in the stock market was extremely poor. We 
 I don&#8217;t buy the argument that stocks are the only game in town and you need to be long. I think that everyone is already long, buoyed by the GIPF buying of the last few months and as that buying slows, the market could experience its Wile E. Coyote moment.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CoyoteJan1215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CoyoteJan1215.png" width="400" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CoyoteJan1215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CoyoteJan1215.png" width="400" height="342">

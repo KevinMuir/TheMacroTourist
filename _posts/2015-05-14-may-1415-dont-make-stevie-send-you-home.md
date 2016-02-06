@@ -13,12 +13,12 @@ tags:
   - Steve Cohen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/EvilBear.png" alt="http://themacrotourist.com/pictures/Azure/EvilBear.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/EvilBear.png" alt="http://themacrotourist.com/images/Azure/EvilBear.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Can you remember back to the last financial crisis? As the 2007/8 credit swoon dragged on, do you recall how many traders tried to catch what they felt was an oversold stock market? It was after all, down a long way.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXMay1315.png" alt="http://themacrotourist.com/pictures/Azure/SPXMay1315.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SPXMay1315.png" alt="http://themacrotourist.com/images/Azure/SPXMay1315.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The S&P 500 hit 1,600 in the summer of 2007, and by the end of that year had given up 300 points. After a brief rally in the spring of 2008, the stock market once again started sinking. By summertime it was hitting new lows. Once autumn arrived, the selling really picked up. The S&P 500 began falling 50 points a week. Finally, 17 months after first rolling over, the selling climaxed with the 666 devil’s tick in the S&P 500.
 
@@ -31,7 +31,7 @@ All of a sudden, my great trade had turned into a loser. The decline caught me t
 There is one story from this period I will never forget. Into this cascading free fall, when everyone was trying to pick a bottom, the controversial hedge fund manager Steve Cohen told all of his traders to go home and not come back until the crisis was over. I can’t find the article, but I think he screamed at them something about being a bunch of idiots for trying to catch the bottom tick. Cohen is reported to be a prickly boss at the best of times, so I assume his tirade was a dialogue Scorsese would have liked to steal for his Wolf of Wall Street movie. Stevie and his trusted couple of lieutenants took over all trading. He understood the dynamics of a liquidation better than his younger traders, and he wasn’t going to let them screw it up.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CohenMay1415.png" alt="http://themacrotourist.com/pictures/Azure/CohenMay1415.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/CohenMay1415.png" alt="http://themacrotourist.com/images/Azure/CohenMay1415.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 I am well aware of Cohen’s reputation. My buddies have to cover his account so I know first hand about all the “allegedly” dubious trades. You need not tell me how close he plays <del>over</del> to the line. But at the same time, at least he never goes on CNBC and spews his bullshit on us. He never speaks out of both sides of his mouth, or gets into screaming matches with other hedge fund managers on national TV. Cohen is an old school tough guy, settle it after school in the field, hedge fund manager. For that, hats off to him.
 
@@ -46,7 +46,7 @@ I believe the 0.05% tick in the German bund was the top tick in the global bond 
 Remember this Bloomberg article from earlier in the year?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NoFoolsMay1415.png" alt="http://themacrotourist.com/pictures/Azure/NoFoolsMay1415.png" style="margin:30px auto;display:block;" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/NoFoolsMay1415.png" alt="http://themacrotourist.com/images/Azure/NoFoolsMay1415.png" style="margin:30px auto;display:block;" width="600" height="600">
 
 This sort of ponzi rationale is symptomatic of a long term top. This was the [Jim Cramer “winners of the new world” 2000 speech at the top of the DotCom bubble moment.](http://gfbblogs.azurewebsites.net/blog/2013/10/03/the-winners-of-the-new-world-2013-edition/)
 
@@ -63,7 +63,7 @@ I contend we have entered into what will be an equally damaging bear market in b
 Don’t forget that since the start of the 2007/8 credit crisis, Central Bankers have been expanding their balance sheets at an unprecedented rate.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Big3May1415.png" alt="http://themacrotourist.com/pictures/Azure/Big3May1415.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/Big3May1415.png" alt="http://themacrotourist.com/images/Azure/Big3May1415.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The common narrative is Central Bankers are pushing liquidity into the system, but there is no demand for credit, so the liquidity simply drives down risk free rate. That might have been correct for the past year or two, but the bond market is now telling you something different.
 

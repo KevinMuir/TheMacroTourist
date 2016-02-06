@@ -53,14 +53,14 @@ The next thing I did was phone up my buddy from the other shop overhead and aske
 I have been meaning to write this piece for quite some time now, but then Thomas Piketty wrote this entire book on the subject of inequality and my droning on about it seemed a little too much like I was chasing the headline of the day.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Worker3Jun2614.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/Worker3Jun2614.jpg" alt="Friday, June 27, 14 at 10:39:52 AM America/Torontoliboard" width="500" height="800">
+  <img src="http://themacrotourist.com/images/Azure/Worker3Jun2614.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/Worker3Jun2614.jpg" alt="Friday, June 27, 14 at 10:39:52 AM America/Torontoliboard" width="500" height="800">
 
 But now that the Pikettymania has subsided, I want to take a moment to talk about inequality. I am not going to bother talking about _what should be_, I will leave that for the slick French economists. It’s not like I don’t have opinions about the right direction for our society and the economy, but really &#8211; who cares? My opinion is not going to change _what is_ &#8211; which as a trader is all that you should really concern yourself with.
 
 There can be no denying of the trend of a steadily decreasing share of the wealth for the average American. Have a look at this chart which measures labour’s share over the last few decades.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/LabourJun2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/LabourJun2614.png" style="margin:30px auto;display:block;" width="600" height="342" />Labour Share</a>
+  <img src="http://themacrotourist.com/images/Azure/LabourJun2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/LabourJun2614.png" style="margin:30px auto;display:block;" width="600" height="342" />Labour Share</a>
 </div>
 
 During the period between 1950 and 2000, there was a steady decrease, with a slight uptick going into the end of the decade. But the pace was quite gradual.
@@ -70,7 +70,7 @@ Ever since the dot com crash, that pace of decline has accelerated, with even th
 All the while, the trend has been for the CEOs at the top to take more and more. Have a look at this table which shows the various CEO to average worker pay ratios throughout the world:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Worker1Jun2614.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/Worker1Jun2614.jpg" alt="Friday, June 27, 14 at 10:49:04 AM America/Torontoliboard" width="300" height="342">
+  <img src="http://themacrotourist.com/images/Azure/Worker1Jun2614.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/Worker1Jun2614.jpg" alt="Friday, June 27, 14 at 10:49:04 AM America/Torontoliboard" width="300" height="342">
 
 This ratio is symptomatic of the increasing inequality in America.
 
@@ -137,14 +137,14 @@ I know it is very unconventional analysis, but that only make me all the more co
 As for market implications… Have a look at this chart which shows the market capitalization of equities versus the GDP:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BuffettJun2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/BuffettJun2614.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/BuffettJun2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/BuffettJun2614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Then, ask yourself why the valuations are so high.
 
 Could it be partly because corporate profits as a percent of GDP are also so high?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CorporateProfitsJun2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/CorporateProfitsJun2614.png" style="margin:30px auto;display:block;" width="600" height="342" />Corporate Profits as a percent of GDP</a>
+  <img src="http://themacrotourist.com/images/Azure/CorporateProfitsJun2614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/CorporateProfitsJun2614.png" style="margin:30px auto;display:block;" width="600" height="342" />Corporate Profits as a percent of GDP</a>
 </div>
 
 And if I am correct about labour gaining traction in the coming years, ask yourself how corporate profits as a percent of GDP is going to stay up here.
@@ -158,4 +158,4 @@ My money is on this trend reversing. But just remember, the end of peak inequali
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsJun2514.png" alt="Friday, June 27, 14 at 11:16:50 AM America/Torontoliboard" width="600" height="700">
+  <img src="http://themacrotourist.com/images/Azure/PositionsJun2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/PositionsJun2514.png" alt="Friday, June 27, 14 at 11:16:50 AM America/Torontoliboard" width="600" height="700">

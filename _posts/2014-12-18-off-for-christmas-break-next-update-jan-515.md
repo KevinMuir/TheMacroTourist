@@ -16,11 +16,11 @@ categories:
 Well, that&#8217;s it for me this year. I am already on vacation for Christmas break, and won&#8217;t be writing again until the new year. Next update **January 5th, 2015.**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/snowDec1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/snowDec1714.png" width="300" height="450">
+  <img src="http://themacrotourist.com/images/Azure/snowDec1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/snowDec1714.png" width="300" height="450">
 
 Thanks for reading. Remember that the market squiggles are all irrelevant compared to the really important things in life. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/seriouslyDec1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/seriouslyDec1714.png" width="500" height="500">
+  <img src="http://themacrotourist.com/images/Azure/seriouslyDec1714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/seriouslyDec1714.png" width="500" height="500">
 
 Have a great holidays and Happy New Year!

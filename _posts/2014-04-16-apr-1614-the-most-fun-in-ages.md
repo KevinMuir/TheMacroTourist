@@ -28,7 +28,7 @@ However that market is behind us (thank goodness) and traders like myself can pl
 Have a look at yesterday&#8217;s action:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM4GIPApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Tuesday, April 15, 14 at 7:33:30 PM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/ESM4GIPApr1514.png" width="600" height="342" />S&P 500 trading April 15, 2014</a>
+  <img src="http://themacrotourist.com/images/Azure/ESM4GIPApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Tuesday, April 15, 14 at 7:33:30 PM America/Torontoliboard" src="http://themacrotourist.com/images/Azure/ESM4GIPApr1514.png" width="600" height="342" />S&P 500 trading April 15, 2014</a>
 </div>
 
 That&#8217;s a round trip of 70 S&P handles! The trading is all over the map! 
@@ -36,7 +36,7 @@ That&#8217;s a round trip of 70 S&P handles! The trading is all over the map!
 And it&#8217;s not just yesterday, let&#8217;s look at the day before yesterday:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM4YesGIPApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Tuesday, April 15, 14 at 7:35:17 PM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/ESM4YesGIPApr1514.png" width="600" height="342" />S&P 500 trading April 14, 2014</a>
+  <img src="http://themacrotourist.com/images/Azure/ESM4YesGIPApr1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Tuesday, April 15, 14 at 7:35:17 PM America/Torontoliboard" src="http://themacrotourist.com/images/Azure/ESM4YesGIPApr1514.png" width="600" height="342" />S&P 500 trading April 14, 2014</a>
 </div>
 
 That was even more up and down, but it again travelled 60 handles! Awesome!
@@ -44,7 +44,7 @@ That was even more up and down, but it again travelled 60 handles! Awesome!
 To contrast this, I randomly chose a big up day from last month &#8211; March 4th:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM40304Apr1614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM40304Apr1614.png" width="600" height="342" />S&P 500 trading March 4th, 2014 &#8211; BORING!</a>
+  <img src="http://themacrotourist.com/images/Azure/ESM40304Apr1614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESM40304Apr1614.png" width="600" height="342" />S&P 500 trading March 4th, 2014 &#8211; BORING!</a>
 </div></p> 
 
 It was a strong positive day and we finished 25 handles higher, but it was just chug, chug, chug higher. The dips were tiny and boring. 
@@ -68,7 +68,7 @@ ZeroHedge had the best reporting about this development:
 Therefore this downgrade of the Japanese economic assessment was taken favourably by the markets as it increased the likelihood of further Japanese monetary stimulus. Have a look at this great chart, again by ZH:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JapanDowngradeApr1614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JapanDowngradeApr1614.png" width="600" height="342" />Intraday Trading with Japanese Downgrade</a>
+  <img src="http://themacrotourist.com/images/Azure/JapanDowngradeApr1614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JapanDowngradeApr1614.png" width="600" height="342" />Intraday Trading with Japanese Downgrade</a>
 </div>
 
 I think that the near term direction of the market is going to hinge a lot more on these three other countries than it does on the Fed. Watch for shifts from these other banks and don&#8217;t worry about the Fed.
@@ -82,7 +82,7 @@ Yesterday was not kind to my precious metals position. And given the pain that I
 How bad was it?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDApr1614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDApr1614.png" width="600" height="342" />Gold trading over the past 3 days</a>
+  <img src="http://themacrotourist.com/images/Azure/GOLDApr1614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GOLDApr1614.png" width="600" height="342" />Gold trading over the past 3 days</a>
 </div>
 
 It was U.G.L.Y. In the space of a few hours, gold got drilled for $50 and silver was even worse.
@@ -90,7 +90,7 @@ It was U.G.L.Y. In the space of a few hours, gold got drilled for $50 and silver
 What triggered it?
 
 <div style="float:right; width: image width px; font-size: 80%; text-align: center;">
-  <img src="http://themacrotourist.com/pictures/Azure/SELLGOLDApr1614.png"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em; padding-left: 1 em" style="margin:30px auto;display:block;" src="http://themacrotourist.com/pictures/Azure/SELLGOLDApr1614.png" width="250" height="311">
+  <img src="http://themacrotourist.com/images/Azure/SELLGOLDApr1614.png"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em; padding-left: 1 em" style="margin:30px auto;display:block;" src="http://themacrotourist.com/images/Azure/SELLGOLDApr1614.png" width="250" height="311">
 
 There was very little consensus as for the reason for the big decline. I am pretty sure it wasn&#8217;t &#8220;The most interesting man in the world&#8221; on the right, but you never know, he seems to be everywhere on the internet and 3 million ounces is a lot of selling. Some market analysts pointed to Goldman and Morgan Stanley&#8217;s reiteration of their $1,050 price target. Others pointed to the an article in the [India Times that highlighted the potential of large Chinese gold financing problems.](http://economictimes.indiatimes.com/news/international/business/china-may-have-1000-tonnes-of-gold-tied-in-financing-wgc/articleshow/33766159.cms)
 
@@ -127,7 +127,7 @@ Of course during this time, the media&#8217;s infatuation with Uncle Carl was he
 Let&#8217;s have a look at the chart of the trading in the stock:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IEPApr1614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/IEPApr1614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/IEPApr1614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IEPApr1614.png" width="600" height="342">
 
 At the height of the frenzy Carl issued $270 million of stock at $135 per share. Well, that secondary held issue price for a whopping one day. 
 
@@ -140,4 +140,4 @@ Since then, it has been a steady drip lower and anyone who bought Carl stock any
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr1614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr1614.png" width="600" height="521">
+  <img src="http://themacrotourist.com/images/Azure/PositionsApr1614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsApr1614.png" width="600" height="521">

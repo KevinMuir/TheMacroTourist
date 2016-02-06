@@ -30,14 +30,14 @@ It is all the more precarious because of preponderance of hedge funds. More and 
 One of these days we are going to get a reason to sell. At that time these hedge funds that are all counting on liquidity are going to be shocked at the lack of bids.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GandalfJul2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GandalfJul2914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GandalfJul2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GandalfJul2914.png" width="600" height="342">
 
 The hedge funds move together like a herd, so if Stanley started selling, it wouldn&#8217;t take long before they would all be selling. Most of them manage more money that Stan because he is semi-retired and only oversees his personal money. Imagine what an ugly month that will be if they were all hitting bids.
 
 Today the buying feels relentless and unstoppable. But I worry that it wouldn&#8217;t take much to shift that same feeling to the sell side. _And fear is always stronger than greed._
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Gandalf2Jul2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Gandalf2Jul2914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/Gandalf2Jul2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Gandalf2Jul2914.png" width="600" height="342">
 
 I don&#8217;t know what is going to trigger the turn. And we know that trying to time the turn is even more difficult than predicting the cause. 
 
@@ -48,11 +48,11 @@ I started trading in the early 1990s and at that time memories of the 1987 crash
 Although today&#8217;s traders are most likely well aware of individual stock price limits, it has been so long since the general market has experienced this sort of volatility that many are probably unaware that there are also stock index limits. I worry that we will be all too soon reacquainted with these [limits](http://www.cmegroup.com/trading/equity-index/price-limit-guide.html).
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/LimitsJul2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/LimitsJul2914.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/LimitsJul2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LimitsJul2914.png" width="600" height="600">
 
 <hr size="3" width="85%" />
 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJul2914.png" width="600" height="450"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJul2914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJul2914.png" width="600" height="450"></p>

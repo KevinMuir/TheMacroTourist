@@ -16,21 +16,21 @@ tags:
   - Marc Faber
 ---
 
-  <img src="http://themacrotourist.com/pictures/LastJan0716.png" alt="http://themacrotourist.com/pictures/LastJan0716.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/LastJan0716.png" alt="http://themacrotourist.com/images/LastJan0716.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Most people don&#8217;t realize it, but these three dudes (a younger bearded Eric Sprott beside a distracted Marc Faber with an unusually rare photo of a non-mullet sporting James Rickards) are the last three remaining gold bulls out there. And as you can see, they have all been gold bulls for a long, long time, so they almost shouldn&#8217;t even count.
 
 And it really should be no surprise. The damage done to the gold market has been brutal. We all know it is bad, but have a look at this great tweet by Charlie Biello about the latest yearly percentage returns for the GDX gold miner index ETF:
 
 
-  <img src="http://themacrotourist.com/pictures/CharlieJan0716.png" alt="http://themacrotourist.com/pictures/CharlieJan0716.png" style="margin:30px auto;display:block;" width="400" height="500">
+  <img src="http://themacrotourist.com/images/CharlieJan0716.png" alt="http://themacrotourist.com/images/CharlieJan0716.png" style="margin:30px auto;display:block;" width="400" height="500">
 
 That really sums it up, doesn&#8217;t it? Think about surviving five down years in a row. Tough to keep up the optimism in the face of that sort of draw down.
 
 When the New Year rolled over, my inbox was filled with tons of trading recommendations trying to catch the oil bottom. <img src="http://wallstreetweek.com/watch/?video=bass-on-energy-clips-episode-35" target="_blank">Kyle Bass&#8217;s Wall Street Week appearance </a>where he advocated pulling out the blue tickets for almost everything in the energy square was typical of the smart money knife catching. But I did not receive a single **&#8220;you gotta buy gold&#8221;** call. The idea of investing in gold is about as cool as this guy:
 
 
-  <img src="http://themacrotourist.com/pictures/GoldInvestorJan0716.png" alt="http://themacrotourist.com/pictures/GoldInvestorJan0716.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/GoldInvestorJan0716.png" alt="http://themacrotourist.com/images/GoldInvestorJan0716.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Don&#8217;t get me wrong &#8211; I also like energy, but my point is that absolutely no one was trying to catch the bottom in gold. No one believes in the precious little yella&#8217; fella anymore._ **Sentiment is about as bad as it can get.**_
 
@@ -43,7 +43,7 @@ So far the market&#8217;s faith in the world&#8217;s Central Banks is steady, bu
 At this point you are probably dismissing me as yet another delusional gold bug. I get it. All of these points could have been made last year and yet gold still shit the bed. But think about the recent trading action. One after another markets are rolling over. First it was commodities, then emerging markets, right behind was junk and high yield bonds. Every time you turn around another asset class is hitting fresh lows. The only man left standing is US equities.
 
 
-  <img src="http://themacrotourist.com/pictures/SPXJan0716.png" alt="http://themacrotourist.com/pictures/SPXJan0716.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/SPXJan0716.png" alt="http://themacrotourist.com/images/SPXJan0716.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 Over the past few years nothing else but the rising US dollar and US financial assets has mattered to investors. Why bother with anything else when the world&#8217;s largest investing asset class was the also the top performing?
 

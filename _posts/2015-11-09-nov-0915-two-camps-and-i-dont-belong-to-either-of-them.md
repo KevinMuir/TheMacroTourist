@@ -16,7 +16,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/GoodNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/GoodNov0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/GoodNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/GoodNov0815.png" width="600" height="342">
 
 It&#8217;s tough to argue Friday&#8217;s employment number was anything less than stellar. Change in private sector payrolls was 271k versus 185k expected. The unemployment rate stuck at 5.0%. But most importantly, average earnings rose to 2.5% versus a forecasted 2.3%. 
 
@@ -27,24 +27,24 @@ Some might disagree with that prediction. Many market pundits believe the Federa
 Have a look at this chart of various CPI inflation gauges ex-energy:
 
 
-  <img src="http://themacrotourist.com/pictures/CPIexEnNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/CPIexEnNov0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/CPIexEnNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CPIexEnNov0815.png" width="600" height="342">
 
 There can be no denying that ex-energy, inflation is ticking up.
 
 And now with Friday&#8217;s recent barn burner average hourly increase, workers finally seem to be reaping some of the benefits of the sixth year of economic expansion.
 
 
-  <img src="http://themacrotourist.com/pictures/HourlyNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/HourlyNov0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/HourlyNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/HourlyNov0815.png" width="600" height="342">
 
 It is ironic that just as many economic pundits were predicting the death of the Phillip&#8217;s Curve, we get the much hoped for rise. The following typical chart, which argued the stubbornly low employment to population ratio made the Phillip&#8217;s Curve irrelevant, was all too common in analysts&#8217; outbox over the past year.
 
 
-  <img src="http://themacrotourist.com/pictures/Phillips1Nov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Phillips1Nov0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Phillips1Nov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Phillips1Nov0815.png" width="600" height="342">
 
 But in reality, we should have been listening to Nordea&#8217;s Martin Enlund (a great economist/strategist who should be on everyone&#8217;s must follow list &#8211; @enlundm), who last month was urging patience before throwing out the Phillip&#8217;s Curve.
 
 
-  <img src="http://themacrotourist.com/pictures/Phillips2Nov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Phillips2Nov0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Phillips2Nov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Phillips2Nov0815.png" width="600" height="342">
 
 If you look closely at Martin&#8217;s chart you will notice he has lagged the wage increase by four quarters. By doing so, the current Phillip&#8217;s Curve is not broken, but simply takes a year before labour tightening shows up in wage increases. I believe the highlighted point is last month&#8217;s reading, but the recent hot wage inflation number was forecasted perfectly by Martin&#8217;s model.
 
@@ -59,12 +59,12 @@ Instead of telling you what I think will happen, I am going to instead outline t
 Let&#8217;s start with the doomsdayers first. 
 
 
-  <img src="http://themacrotourist.com/pictures/GolfCourseNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/GolfCourseNov0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/GolfCourseNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/GolfCourseNov0815.png" width="600" height="342">
 
 This crowd thinks a Fed tightening into the global economic slowdown will push the world economy off a 2008 style deflationary cliff. Higher US rates are causing global financial liquidity to contract, resulting in a higher US dollar as worldwide debt gets destroyed. 
 
 
-  <img src="http://themacrotourist.com/pictures/DXYNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/DXYNov0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/DXYNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/DXYNov0815.png" width="600" height="342">
 
 These pessimists (and I cannot deny leaning towards this persuasion) believe the US economy cannot handle higher rates and a higher US dollar. The staggering about of debt makes the absence of stimulus already a dangerous proposition. But then when you combine the over 200% rally in the US stock market with a Federal Reserve that is trying to raise rates while the rest of the world is sinking into a deflationary funk, you have the recipe for disaster.
 
@@ -75,7 +75,7 @@ I am not sure about this recommendation. Corporate credit spreads seem to offer 
 But what about the other camp? 
 
 
-  <img src="http://themacrotourist.com/pictures/ThankYouNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/ThankYouNov0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/ThankYouNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/ThankYouNov0815.png" width="600" height="342">
 
 Why are they convinced the Federal Reserve&#8217;s hiking of rates will not derail this market rally nor crush the economy? For this group, the zero interest rate policy has been more hindrance than help. They argue the zero rates are penalizing savers, distorting capital allocation, and creating more uncertainty that only causes real investment to be delayed. These optimists also believe the start of previous rate rising cycles have not been the death knell for other bull markets, so why should this time be different? They welcome the rise in rates as they believe the economy will be able to once again grow without the perversion of a zero interest rate.
 
@@ -96,7 +96,7 @@ Last week I saw a good friend who manages a lot of equity money. He had recently
 And what really worries me is my bearishness is by no means an outlier opinion. Most hedge fund guys are leaning to the short side. Have a look at the speculative positioning in the S&P 500 futures contract:
 
 
-  <img src="http://themacrotourist.com/pictures/ESNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/ESNov0815.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/ESNov0815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/ESNov0815.png" width="600" height="342">
 
 The specs have been getting short for the past six months, and don&#8217;t seem at all phazed by the recent rally.
 

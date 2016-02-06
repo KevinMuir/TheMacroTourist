@@ -30,7 +30,7 @@ We are currently experiencing one of those “extreme” events where according 
 During the last year, US small cap equities have exploded higher as investors have flooded into the US market. At the same time, the mini-crises that we have experienced in various Emerging Markets has caused a flight out of that asset class.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IWMEEMFeb2414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="IWMEEMFeb2414.PNG" src="http://themacrotourist.com/pictures/Azure/IWMEEMFeb2414.PNG" width="600" height="342" />IWM Small Cap ETF vs EEM Emerging Markets ETF</a>
+  <img src="http://themacrotourist.com/images/Azure/IWMEEMFeb2414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="IWMEEMFeb2414.PNG" src="http://themacrotourist.com/images/Azure/IWMEEMFeb2414.PNG" width="600" height="342" />IWM Small Cap ETF vs EEM Emerging Markets ETF</a>
 </div>
 
 &nbsp;
@@ -38,7 +38,7 @@ During the last year, US small cap equities have exploded higher as investors ha
 This has created a situation where GMO’s models are forecasting significant negative real returns for US small caps and just the opposite for Emerging Markets.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GMO7YearFeb2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="GMO7YearFeb2414.png" src="http://themacrotourist.com/pictures/Azure/GMO7YearFeb2414.png" width="600" height="342" />GMO 7 Year Real Return Forecast</a>
+  <img src="http://themacrotourist.com/images/Azure/GMO7YearFeb2414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="GMO7YearFeb2414.png" src="http://themacrotourist.com/images/Azure/GMO7YearFeb2414.png" width="600" height="342" />GMO 7 Year Real Return Forecast</a>
 </div>
 
 I am not pulling the trigger on this trade by any means. Right now we are in the midst of the self reinforcing feedback loop, and as a trader, all there is to be done is to acknowledge this reality. But I am going to be watching these two assets closely. I have no doubt that GMO is going to be correct in that over the next 7 years &#8211; the real return of the Emerging Markets is going to outperform the US small caps. The EEM is priced for continued disaster and the IWM is priced for continued perfection. The markets will eventually revert to a more normalized pricing. 
@@ -56,13 +56,13 @@ Japanese Yen vs. equities
 Over the last couple of years, the Japanese Yen&#8217;s weakness has been tracking (or leading) the movement in the US and Japanese equities. However, recently the US equity market has diverged from the Yen:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXJPYFeb2414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="SPXJPYFeb2414.PNG" src="http://themacrotourist.com/pictures/Azure/SPXJPYFeb2414.PNG" width="600" height="342" />US Equities (white line) vs Japanese Yen (yellow line)</a>
+  <img src="http://themacrotourist.com/images/Azure/SPXJPYFeb2414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="SPXJPYFeb2414.PNG" src="http://themacrotourist.com/images/Azure/SPXJPYFeb2414.PNG" width="600" height="342" />US Equities (white line) vs Japanese Yen (yellow line)</a>
 </div>
 
 The Nikkei has not diverged as much:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NKYJPYFeb2414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="NKYJPYFeb2414.PNG" src="http://themacrotourist.com/pictures/Azure/NKYJPYFeb2414.PNG" width="600" height="342" />Nikkei (white line) vs Japanese Yen (yellow line)</a>
+  <img src="http://themacrotourist.com/images/Azure/NKYJPYFeb2414.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="NKYJPYFeb2414.PNG" src="http://themacrotourist.com/images/Azure/NKYJPYFeb2414.PNG" width="600" height="342" />Nikkei (white line) vs Japanese Yen (yellow line)</a>
 </div>
 
 Has the US equity market finally broken free of the blind tick for tick tracking of the Yen? Or is this an opportunity to short US equities and short Yen (buy USDJPY)? I am not sure, but it is an interesting development that bears close watching.

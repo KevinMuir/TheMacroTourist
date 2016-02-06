@@ -11,20 +11,20 @@ tags:
  
 ---
 
-<img src="http://themacrotourist.com/pictures/EyesUpJan2716.png" alt="http://themacrotourist.com/pictures/EyesUpJan2716.png" style="width:600px;height:400px;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/EyesUpJan2716.png" alt="http://themacrotourist.com/images/EyesUpJan2716.png" style="width:600px;height:400px;margin:30px auto;display:block;">
 I know it seems like the S&P 500 is down a long way, and it *is tempting* to try to catch the falling knife, but I urge you to step back and have a look at the big picture.  Since the bottom in March of 2009, the S&P 500 has rallied more than 200%.  
 
 In terms of percentage appreciation, this move is the 4th largest S&P 500 rally in history:  
 
-<img src="http://themacrotourist.com/pictures/DaysJan2716.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/DaysJan2716.png" width="700" height="450" >
+<img src="http://themacrotourist.com/images/DaysJan2716.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/DaysJan2716.png" width="700" height="450" >
   
 And in terms of the length of time, this bull move is now the 3rd longest rally ever.  
 
-<img src="http://themacrotourist.com/pictures/Days2Jan2716.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Days2Jan2716.png" width="700" height="450" >
+<img src="http://themacrotourist.com/images/Days2Jan2716.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Days2Jan2716.png" width="700" height="450" >
   
 This bull market has gone a long, long way, and lasted even longer.
 
-<img src="http://themacrotourist.com/pictures/SPYJan2716.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/SPYJan2716.png" width="700" height="450" >
+<img src="http://themacrotourist.com/images/SPYJan2716.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/SPYJan2716.png" width="700" height="450" >
   
 With the recent rout, in the coming days, there will be all sorts of analysis about how this market is cheap.  However most of that analysis will be based on relative valuations versus the recent past.
 
@@ -34,7 +34,7 @@ The level at which fundamental "real" investors return to the market to buy stoc
 
 GMO, my favourite value shop, publishes their 7 year forecast every quarter.  In all my years watching this report, I cannot ever recall such uniformity of expected future returns.
 
-<img src="http://themacrotourist.com/pictures/GMOJan2716.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/GMOJan2716.png" width="600" height="400" >
+<img src="http://themacrotourist.com/images/GMOJan2716.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/GMOJan2716.png" width="600" height="400" >
   
 Usually there are one or two asset classes that are overpriced, but this time there is practically no asset class that is priced to deliver decent future returns.  Serious fundamental investors see no real bargains anywhere.
 

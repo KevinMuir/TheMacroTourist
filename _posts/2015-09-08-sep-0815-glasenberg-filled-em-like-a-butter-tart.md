@@ -15,7 +15,7 @@ tags:
   - gold
 ---
 
-  <img src="http://themacrotourist.com/pictures/HanSoloSep0815.png" alt="http://themacrotourist.com/pictures/HanSoloSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/HanSoloSep0815.png" alt="http://themacrotourist.com/images/HanSoloSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Think back to four years ago. In April of 2011 gold was crossing $1,600 an ounce, on its way to $1900. Copper had just traded over $4.50 per pound. The CRB US Spot Raw Industrials Index had just ticked at 640. Investors were convinced China would grow at 10% forever. Their optimism on China was only eclipsed by their pessimism regarding Bernanke’s repeated quantitative easing programs. In this environment, there was only one thing to do &#8211; buy commodities with wild abandon! It was a sure fire win. Between the never ending demand from China and the inevitable inflation from Bernanke’s overly aggressive programs, commodities were destined to continue their rise into the stratosphere.
 
@@ -28,12 +28,12 @@ Don’t forget that one of the biggest IPOs of 2011 was none other than commodit
 In what will surely go down as one of the greatest timed trades in the history of finance, Glencore Chief Executive Ivan Glasenberg floated his company within one day of the all time high in the CRB US Spot Raw Industrials Index.
 
 
-  <img src="http://themacrotourist.com/pictures/CRBRawSep0815.png" alt="http://themacrotourist.com/pictures/CRBRawSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/CRBRawSep0815.png" alt="http://themacrotourist.com/images/CRBRawSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 As my old boss loved to say, “he stuffed ’em like a butter tart.” Glencore was floated at 530 pence, and immediately traded down. It is only obvious now in hindsight, but Glencore’s IPO marked the top of the commodity cycle.
 
 
-  <img src="http://themacrotourist.com/pictures/GLENSep0815.png" alt="http://themacrotourist.com/pictures/GLENSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/GLENSep0815.png" alt="http://themacrotourist.com/images/GLENSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 But the point that I want to stress is at the time &#8211; there were _precious few who were preaching caution._ In fact, it was just the opposite. Bears were routinely vilified.
 

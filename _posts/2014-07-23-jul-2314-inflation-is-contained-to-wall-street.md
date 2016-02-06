@@ -23,12 +23,12 @@ There is no doubt in my mind that today&#8217;s financial markets are priced at 
 The bulls will tell you that corporate profit growth is sustainable &#8211; I am not so confident.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CorporateProfitsJul2314-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CorporateProfitsJul2314-1.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CorporateProfitsJul2314-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CorporateProfitsJul2314-1.png" width="600" height="342">
 
 To me, it seems like a bad bet to count on this trend expanding. Especially when you examine corporate profits as a percentage of GDP:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CPGDPJul2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CPGDPJul2314.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CPGDPJul2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CPGDPJul2314.png" width="600" height="342">
 
 Corporate profits as a percentage of GDP have never been higher. To bet on this expanding even further seems foolish.
 
@@ -37,13 +37,13 @@ But what about GDP growth? Maybe we are set to explode higher and corporate prof
 Let&#8217;s have a look at US GDP estimates for 2014:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USECO14Jul2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USECO14Jul2214.png" width="600" height="342" />US GDP Estimate for 2014</a>
+  <img src="http://themacrotourist.com/images/Azure/USECO14Jul2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/USECO14Jul2214.png" width="600" height="342" />US GDP Estimate for 2014</a>
 </div>
 
 The world GDP estimate for 2014 is an even uglier looking chart:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/WORLDGDP14Jul2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/WORLDGDP14Jul2214.png" width="600" height="342" />World GDP Estimate for 2014</a>
+  <img src="http://themacrotourist.com/images/Azure/WORLDGDP14Jul2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/WORLDGDP14Jul2214.png" width="600" height="342" />World GDP Estimate for 2014</a>
 </div>
 
 GDP is consistently and continually disappointing. The stock market better not be counting on a robust world economy to create economic growth.
@@ -51,7 +51,7 @@ GDP is consistently and continually disappointing. The stock market better not b
 But yet stocks just keep chugging higher. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXJul2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXJul2314.png" width="600" height="342" />S&P 500 chart</a>
+  <img src="http://themacrotourist.com/images/Azure/SPXJul2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPXJul2314.png" width="600" height="342" />S&P 500 chart</a>
 </div>
 
 What the heck is going on? I have thought long and hard about this.
@@ -93,4 +93,4 @@ Therefore although I am covering my equity shorts, I am going to buy some VIX. I
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJul2314.png" width="600" height="500"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJul2314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJul2314.png" width="600" height="500"></p>

@@ -30,7 +30,7 @@ But although I am bullish on the economy, I am by no means bullish on the equity
 Maybe the market is starting to agree with me on this point. On Friday stocks gapped up into new all time highs, but were quickly sold.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESGIPMar1014.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESGIPMar1014.PNG" width="600" height="342" />S&P 500 future trading on Friday</a>
+  <img src="http://themacrotourist.com/images/Azure/ESGIPMar1014.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESGIPMar1014.PNG" width="600" height="342" />S&P 500 future trading on Friday</a>
 </div></p> 
 
 Although I am bearish on equities because I believe that growth and interest rates are not going to be behave as well as the bulls hope, I still continue to believe that the real accident waiting to happen is in the fixed income market. 
@@ -38,7 +38,7 @@ Although I am bearish on equities because I believe that growth and interest rat
 Over the last few months we have had a combination of factors that have caused the bond market to rally. Between the brutal North American winter and the slow down in emerging markets, there has been a definite pause in the global economy. At the turn of the year the US 10 year Treasury was yielding over 3%, but with these developments it has sagged to under 2.6%. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USGG10YRMar1014.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG10YRMar1014.PNG" width="600" height="342" />US 10 Year Treasury Yield</a>
+  <img src="http://themacrotourist.com/images/Azure/USGG10YRMar1014.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/USGG10YRMar1014.PNG" width="600" height="342" />US 10 Year Treasury Yield</a>
 </div>
 
 During the past 5 years since the 2008/9 credit crisis, there has been a couple of times that the economic recovery has seemed to be on the verge of becoming self reinforcing. Each time the Fed stopped their QE program and the economy rolled back downward. This time the Fed is trying to wean the economy off QE in a more gradual manner. However, markets have a terrible tendency of repeatedly extrapolating recent past history into the future. 
@@ -74,7 +74,7 @@ My suspicion is that as the American economy improves, Canada&#8217;s is going t
 During the last 5 years Canada&#8217;s short term money market rate has been above the American equivalent:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/LIBORCDORMar0714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/LIBORCDORMar0714.PNG" width="600" height="342" />US Dolllar LIBOR (white line) vs CAD CDOR (yellow line)</a>
+  <img src="http://themacrotourist.com/images/Azure/LIBORCDORMar0714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LIBORCDORMar0714.PNG" width="600" height="342" />US Dolllar LIBOR (white line) vs CAD CDOR (yellow line)</a>
 </div>
 
 During the mid 2000s boom in the US, the LIBOR led the CDOR rate higher. However after the 2008 credit crash, US short term rates have been firmly stuck below Canada&#8217;s.
@@ -84,7 +84,7 @@ As the American economy improves and Canada&#8217;s languishes, this situation i
 Here is the Canadian June 2016 BAX future versus the US June 2016 Eurodollar future:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDM6BAXM6Mar0714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDM6BAXM6Mar0714.PNG" width="600" height="342" /></a>3 month Eurodollar Futures June 2016 (white line) vs BAX June 2016 (yellow line)
+  <img src="http://themacrotourist.com/images/Azure/EDM6BAXM6Mar0714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EDM6BAXM6Mar0714.PNG" width="600" height="342" /></a>3 month Eurodollar Futures June 2016 (white line) vs BAX June 2016 (yellow line)
 </div></p> 
 
 The bottom panel has the spread between the two contracts. A year ago the Canadian BAX future was pricing almost 90 basis points higher. However since then this spread has narrowed down to only 33 basis points. 
@@ -92,7 +92,7 @@ The bottom panel has the spread between the two contracts. A year ago the Canadi
 And for the September 2016 contracts, the spread is almost even:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EDU6BAXU6Mar0714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EDU6BAXU6Mar0714.PNG" width="600" height="342" />3 month Eurodollar Futures Sep 2016 (white line) vs BAX Sep 2016 (yellow line)</a>
+  <img src="http://themacrotourist.com/images/Azure/EDU6BAXU6Mar0714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EDU6BAXU6Mar0714.PNG" width="600" height="342" />3 month Eurodollar Futures Sep 2016 (white line) vs BAX Sep 2016 (yellow line)</a>
 </div>
 
 These two contracts are only trading with a 6 basis point difference.

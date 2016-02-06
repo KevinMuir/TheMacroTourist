@@ -27,7 +27,7 @@ tags:
   - US
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/duckFeb1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/duckFeb1115.png" width="600" height="900">
+  <img src="http://themacrotourist.com/images/Azure/duckFeb1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/duckFeb1115.png" width="600" height="900">
 
 Ever since the first QE program finished, there has been hope that the US economy could fly on its own without need for help from the Fed. The first withdrawal from QE caused the economy to sag and quickly brought about QE 2. The second withdrawal attempt was not quite as dramatic, but still forced the Federal Reserve to institute &#8220;Operation Twist&#8221; which was another easing program albeit in a slightly different form. When this program proved ineffective at helping the economy reach a self sustaining speed, the Federal Reserve went &#8220;all in&#8221; with QE 3. This Quantitative Easing program differed from the others in that it had no end date. The Fed committed to continually expand their balance sheet until they met their economic objectives. This &#8220;QE infinity&#8221; seemed to do the trick, and helped the American economy out of its funk. 
 
@@ -44,7 +44,7 @@ And to be fair, at the margin the US economy has suffered from all these headwin
 I have argued that I think the global economy is on the verge of bottoming, but so far my prediction has been laughably bad. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GlobalGDPFeb1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GlobalGDPFeb1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GlobalGDPFeb1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GlobalGDPFeb1115.png" width="600" height="342">
 
 I guess it has stopped getting worse, but global GDP seems to be stuck in the mud. 
 
@@ -57,7 +57,7 @@ What if I am wrong? What if the US can scrape by with all these negatives, and t
 I created this interesting chart of the Bloomberg ECO Surprise Index. This index measures the &#8220;degree to which economic analysts under or over estimate the trends in the business cycle.&#8221; It measures the difference in the actual economy versus consensus. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ECOFeb1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ECOFeb1115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ECOFeb1115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ECOFeb1115.png" width="600" height="342">
 
 In the chart, I have highlighted every March 1st with a vertical line. What is interesting is that this date often proves to be an **inflection point for a change in the perception about the economy.**
 

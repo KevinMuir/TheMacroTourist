@@ -20,12 +20,12 @@ tags:
   - Yen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/LittleEngineNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/LittleEngineNov0614.png" width="500" height="460">
+  <img src="http://themacrotourist.com/images/Azure/LittleEngineNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LittleEngineNov0614.png" width="500" height="460">
 
 The global economy is slipping. There can be no denying that fact. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/WGDPNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/WGDPNov0614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/WGDPNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/WGDPNov0614.png" width="600" height="342">
 
 There is less and less growth. Deflation is becoming an increasing threat. Indebtedness continues to rise.
 
@@ -56,14 +56,14 @@ Now don&#8217;t get me wrong &#8211; I think the Japanese QE policy is a bold ga
 But the Japanese move has tightened the pressure on other Central Banks. **Last night the South Korean Vice Finance Minster said that his government will manage the won to make it move in line with the weakening Japanese Yen.** The Koreans have had a look at Japan&#8217;s attempt to pick up share and said &#8220;wait a minute &#8211; not so fast&#8230; We&#8217;re in too.&#8221;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYKRWNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYKRWNov0614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/JPYKRWNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JPYKRWNov0614.png" width="600" height="342">
 
 The Koreans are going to have to print furiously to keep their currency in line with the Japanese Yen&#8217;s weakness. 
 
 And how long will China be able to sit idly by as their competitive advantage is whittled away? The Yen is also down a long way against the Chinese Renminbi.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYCNYNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYCNYNov0614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/JPYCNYNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JPYCNYNov0614.png" width="600" height="342">
 
 The Chinese are trying to restructure their economy, but they too need growth. They might be able to withstand a year or two of subdued growth, but eventually they are going to have to turn on the monetary taps as well. 
 
@@ -74,7 +74,7 @@ The only question is the speed at which all the other countries react. Last nigh
 Although investors are all giddy with excitement about the rising stock market, the macro risks are increasing exponentially. The Japanese are applying tremendous pressure on the rest of the world. One of my twitter guys summed it up best by paraphrasing Mark Zuckerberg:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BOJNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BOJNov0614.png" width="600" height="142">
+  <img src="http://themacrotourist.com/images/Azure/BOJNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BOJNov0614.png" width="600" height="142">
 
 He&#8217;s right. Something is going to break.
 
@@ -83,4 +83,4 @@ He&#8217;s right. Something is going to break.
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsNov0614.png" width="600" height="300"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsNov0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsNov0614.png" width="600" height="300"></p>

@@ -19,12 +19,12 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/HedgeOct0215.png" alt="http://themacrotourist.com/pictures/HedgeOct0215.png" style="margin:30px auto;display:block;" width="500" height="350">
+  <img src="http://themacrotourist.com/images/HedgeOct0215.png" alt="http://themacrotourist.com/images/HedgeOct0215.png" style="margin:30px auto;display:block;" width="500" height="350">
 
 August was bad, and it doesn’t look like September was any better. Hedge funds continued to get hammered, with renowned managers like Daniel Loeb from Third Point and Barry Rosenstein from Jana Partners, having another down month. Both funds have now slipped into the red for the year. Loeb’s Third Point is down 3.7% year to date, while Rosenstein’s Jana Partners is down 6.6%. And they are by no means alone.
 
 
-  <img src="http://themacrotourist.com/pictures/HFOct0215.png" alt="http://themacrotourist.com/pictures/HFOct0215.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/HFOct0215.png" alt="http://themacrotourist.com/images/HFOct0215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The HFR Global Hedge Fund index is also down for the year with the index slipping below unchanged during August, and hitting new lows into the end of the quarter.
 
@@ -35,7 +35,7 @@ Some of the biggest supposed “superstar” hedge fund managers are having trou
 > Ackman may have hoped the pain would end in August when the fund lost nearly $2 billion in AUM, sliding 9.2% net, but September was a total bloodbath, and saw Pershing Square report one of its worst quarters in history outside of the financial crisis, tumbling by 12.5%, bringing the total loss over the past two months to a whopping -22%, the YTD drop to -12.6%, and the firm&#8217;s AUM to $16.5 billion, a loss of nearly $4 billion in just the past two months, and the lowest it has been since early 2014.
 
 
-  <img src="http://themacrotourist.com/pictures/AckOct0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/AckOct0215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/AckOct0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/AckOct0215.png" width="600" height="342">
 
 I have long held the view too many hedge funds are simply beta masquerading as alpha. It is no surprise the recent risk off environment has shown most of these hedge funds have not engaged in that much “hedging.”
 
@@ -46,7 +46,7 @@ Another one of my favourite hedge fund managers also had a terrible 3rd quarter.
 Einhhorn has all the wrong positions. He owns too much gold. His number one holding is Apple. And one of his biggest bets has been beaten like a red headed step child.
 
 
-  <img src="http://themacrotourist.com/pictures/SUNEOct0215.png" alt="http://themacrotourist.com/pictures/SUNEOct0215.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/SUNEOct0215.png" alt="http://themacrotourist.com/images/SUNEOct0215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Greenlight Capital is the largest holder of solar company SunEdison. I won’t bother going through the merits of the investment, but needless to say, the market’s confidence in the company’s business model has collapsed over the past quarter.
 
@@ -71,7 +71,7 @@ A lot of these hedge fund managers own insurance companies. They like to emulate
 The company therefore has two main inputs into its performance. The first is the performance of the insurance operation, while the second is the return from the investments in Greenlight’s hedge fund. My understanding is the insurance part of the operation is relatively stable. You could therefore argue GLRE trades as tracking tool for Greenlight’s hedge fund. But depending on the market’s attitude towards Einhorn’s performance, GLRE trades at a premium or discount to book value.
 
 
-  <img src="http://themacrotourist.com/pictures/GLREPBOct0215.png" alt="http://themacrotourist.com/pictures/GLREPBOct0215.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/GLREPBOct0215.png" alt="http://themacrotourist.com/images/GLREPBOct0215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 It is obviously not this easy, but this chart of Price to Book Value gives a big picture view of the market’s expectation of Einhorn’s future performance.
 
@@ -82,7 +82,7 @@ I, for one, am confident David Einhorn will bounce. His recent slump is somethin
 The mere normalization of the price to book value would cause a $5 gain in GLRE.
 
 
-  <img src="http://themacrotourist.com/pictures/GLREOct0215.png" alt="http://themacrotourist.com/pictures/GLREOct0215.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/GLREOct0215.png" alt="http://themacrotourist.com/images/GLREOct0215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I am buying GLRE with the idea Einhorn’s hedge fund portfolio returns will stabilize and head higher, and at the same time the price to book of his insurance company will return to a more normal level of 1 times book value. The market has left Einhorn for dead, but I think they are selling the wrong guy short.
 

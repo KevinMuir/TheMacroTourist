@@ -56,12 +56,12 @@ Poloz _wants a lower CAD._ He has basically told you so. When a Central Banker s
 Yesterday the CAD had a big down day. I suspect that Poloz is quite pleased with this outcome. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADNov0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADNov0414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CADNov0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CADNov0414.png" width="600" height="342">
 
 Don&#8217;t forget that although Canadian overnight rates are low, we actually **raised them** as the panic from the credit crisis waned.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADONNov0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CADONNov0414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CADONNov0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CADONNov0414.png" width="600" height="342">
 
 It would not be out of the realm of possibility that **Poloz&#8217;s next move would be to lower rates.** The world is struggling for growth, with more and more countries desperately trying to capture the few scraps of remaining economic strength through stealth devaluations. To suppose that Canada will be any different would be naive. Especially when you consider that our economy is most exposed to the parts of the global economy that are doing the worst. The recent downturn in commodities, and especially this latest big swoon in the price of oil, is going to weigh heavily. I suspect that Canada is about to experience a big economic downturn that will justify Poloz&#8217;s dovish speech.
 
@@ -72,4 +72,4 @@ Although I realize I am late to this trade, I think the CAD could fall a long wa
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsNov0414.png" width="600" height="242"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsNov0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsNov0414.png" width="600" height="242"></p>

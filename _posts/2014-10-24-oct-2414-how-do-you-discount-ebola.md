@@ -22,7 +22,7 @@ tags:
 This morning everyone is focusing on the recent diagnosis of a NYC doctor with Ebola. We first heard word about the possibility of an Ebola case in America&#8217;s biggest city late yesterday afternoon. On the news, they immediately clocked the S&P 500 for 12 handles. I saw many dire predictions about the possibility of a 30 to 50 handle drop if the patient was confirmed to be carrying the deadly virus. But last night when the Ebola diagnosis was made official, the S&P 500 dropped only another 13 points. The initial reaction proved to be the low.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESGIPOct2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESGIPOct2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ESGIPOct2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESGIPOct2414.png" width="600" height="342">
 
 I am not sure how to discount the Ebola worries. On the one hand, I understand that the chances of it spreading in a modern Western society like it does in Africa are extremely low. I get it that the odds of it breaking out throughout our cities is a poor bet. In the days to come, the chances are that we will have various scares as poor fellows like this NYC doctor are diagnosed, but that they will be contained. But what if they aren&#8217;t? The economic consequences of an ebola outbreak are simply astronomical. The last big economic slowdown, the 2008 crisis, was completely self induced. The only reason we had a slowdown was because we lacked confidence. There were no physical reasons for the economy to slump. If we were to get an Ebola outbreak, it would result in an **actual physical loss of economic output.** Stores would be closed, businesses would shut down, school classes would be cancelled. The economy would grind to a halt. And simply trying to shore up confidence in the financial system would not help. An ebola outbreak would not merely be a financial crisis where wealth was redistributed between debtors and creditors, but an actual massive loss of wealth for our economy.
 
@@ -35,7 +35,7 @@ If I had to guess, I would say that the headlines are going to get worse before 
 I am especially worried because I haven&#8217;t seen Dustin Hoffman in a long time, and I am not sure who else is going to be able to catch the monkey to make the vaccine. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/dustinhoffmanOct2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/dustinhoffmanOct2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/dustinhoffmanOct2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/dustinhoffmanOct2414.png" width="600" height="342">
 
 <hr size="3" width="85%" />
 
@@ -44,7 +44,7 @@ I am especially worried because I haven&#8217;t seen Dustin Hoffman in a long ti
 A couple of days ago, I sold short the big up day that finished at the highs. The next day the market sold off and it looked like I might actually know something. But then the Market Gods made sure to remind me of how tough this game actually is. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESZ4Oct2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESZ4Oct2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ESZ4Oct2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESZ4Oct2414.png" width="600" height="342">
 
 I was a little bit taken aback by the strength of yesterday&#8217;s rise. I did not expect the market to push up to that level so quickly. 
 
@@ -61,7 +61,7 @@ I am going to make sure that I trade with a position size that enables me to sit
 Part of the reason we are rallying so hard is because of continued massive program buying. Last week I expressed relief that the days of the continual grind higher were over, but it looks like I spoke too soon. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/kotterOct2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/kotterOct2414.png" width="400" height="342">
+  <img src="http://themacrotourist.com/images/Azure/kotterOct2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/kotterOct2414.png" width="400" height="342">
 
 The stupid relentless buying is back. I sure hope it goes away because it takes all the fun out of the game (and I am too much of a chicken to ride along with that sort of buying.)
 
@@ -80,4 +80,4 @@ Finally I covered my short US two year position.
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct2414.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsOct2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsOct2414.png" width="600" height="342"></p>

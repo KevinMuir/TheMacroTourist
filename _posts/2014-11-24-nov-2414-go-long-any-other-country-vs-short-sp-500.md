@@ -23,12 +23,12 @@ tags:
   - US
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/atomicNov2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/atomicNov2414.png" width="600" height="550">
+  <img src="http://themacrotourist.com/images/Azure/atomicNov2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/atomicNov2414.png" width="600" height="550">
 
 For the past couple of years we have seen two stock markets dramatically outperform the rest of the world. It is no coincidence that these two countries&#8217; balance sheets have also exploded upwards like an atomic explosion. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CBNov2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CBNov2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CBNov2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CBNov2414.png" width="600" height="342">
 
 Both the Federal Reserve and the Bank of Japan have expanded their balance sheet like drunken sailors over the past half dozen years. The other two big Central Banks, the PBOC (People&#8217;s Bank of China) and the ECB, have been much more reserved in their expansion. 
 
@@ -37,7 +37,7 @@ Regardless of what you think is the correct policy, there can be no denying that
 The S&P 500 has been one of the best performing stock indexes over the last half dozen years. And recently with the aggressive Bank of Japan monetary expansion, the Nikkei has caught up with the crazy move to the upside.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/StocksNov2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/StocksNov2414.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/StocksNov2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/StocksNov2414.png" width="600" height="342">
 
 Meanwhile emerging markets are basically unchanged over the last five years, and the Eurostoxx is up just over 10%.
 
@@ -46,7 +46,7 @@ The US stock market bulls will tell you why the &#8220;US is the cleanest shirt 
 Maybe they are correct. Maybe the US is really that much better than the rest of the world and deserves the massive inflows they are receiving.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ForeignNov1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ForeignNov1814.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ForeignNov1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ForeignNov1814.png" width="600" height="342">
 
 But how do they explain Japan? Is that too &#8220;the cleanest shirt in a dirty pile?&#8221; Do the fundamentals also justify the 85% increase in the Nikkei over the past two years? 
 
@@ -75,4 +75,4 @@ Meanwhile, the US is becoming progressively more tight, while the rest of the wo
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsNov2414.png" width="600" height="242"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsNov2414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsNov2414.png" width="600" height="242"></p>

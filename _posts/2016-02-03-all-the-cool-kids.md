@@ -11,11 +11,11 @@ tags:
   
 ---
 
-<img src="http://themacrotourist.com/pictures/MayfairFeb0316.png" alt="http://themacrotourist.com/pictures/MayfairFeb0316.png" style="width:600px;height:auto;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/MayfairFeb0316.png" alt="http://themacrotourist.com/images/MayfairFeb0316.png" style="width:600px;height:auto;margin:30px auto;display:block;">
 
 Gold has been in a bear market for the past three years.  During this period, it has spent the vast majority of its time firmly stuck below the 200 day moving average.
 
-<img src="http://themacrotourist.com/pictures/GoldFeb0316.png" alt="http://themacrotourist.com/pictures/GoldFeb0316.png" style="width:700px;height:auto;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/GoldFeb0316.png" alt="http://themacrotourist.com/images/GoldFeb0316.png" style="width:700px;height:auto;margin:30px auto;display:block;">
 
 There have been a few valiant attempts to poke its head above this level, but every time the rally was quickly snuffed.  
 

@@ -23,7 +23,7 @@ tags:
 Although there is no dearth of exciting things happening throughout the world, yesterday the business news all centred around the **Delivering Alpha Conference** _(presented by CNBC and Institutional Investor.)_ The conference did indeed attract quite an impressive list of top hedge fund managers. There was a little bit of a snafu with parking, but once that was cleared up, the conference ran smoothly.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/parkingJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/parkingJul1714.png" style="margin:30px auto;display:block;" width="600" height="342" />Parking problems outside the &#8220;Delivering Alpha&#8221; Conference</a>
+  <img src="http://themacrotourist.com/images/Azure/parkingJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/parkingJul1714.png" style="margin:30px auto;display:block;" width="600" height="342" />Parking problems outside the &#8220;Delivering Alpha&#8221; Conference</a>
 </div>
 
 I know that it is tempting to tag along with these _brilliant_ hedge fund managers that are filling the incessant CNBC coverage of the conference. They sure all sound so smart, and by golly &#8211; they are presenting at **Delivering Alpha** &#8211; if there ever was a way to add alpha, it has to be found here at this conference.
@@ -45,7 +45,7 @@ These hedge funds need to be in the market. They cannot afford for the market to
 Have a look at this great chart from BofA:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/risingbetaJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/risingbetaJul1714.png" style="margin:30px auto;display:block;" width="500" height="500">
+  <img src="http://themacrotourist.com/images/Azure/risingbetaJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/risingbetaJul1714.png" style="margin:30px auto;display:block;" width="500" height="500">
 
 For all their talk about “delivering alpha,” they are adding a lot of beta.
 
@@ -58,7 +58,7 @@ Rising markets attract hedge funds which causes them to rise further. At the top
 And in case you don’t think that this whole _Delivering Alpha_ is anything more than orchestrated theatre, it was all put to rest when the previously feuding, two biggest jackass hedge fund managers “bro-hugged” on stage.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/brohugJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/brohugJul1714.png" style="margin:30px auto;display:block;" width="600" height="342" />Jackass #1 hugs Jackass #2</a>
+  <img src="http://themacrotourist.com/images/Azure/brohugJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/brohugJul1714.png" style="margin:30px auto;display:block;" width="600" height="342" />Jackass #1 hugs Jackass #2</a>
 </div>
 
 I threw up a little in my mouth when I saw this.
@@ -102,12 +102,12 @@ This is probably a good thing as the Canadian does appear to be stalling. We hav
 Over the last few days, traders have been busy passing around this great chart created by BofA for hours worked versus GDP:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/hoursJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/hoursJul1714.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/hoursJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/hoursJul1714.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The recent sharp drop in hours worked in Canada does indeed seem to portend an ominous warning about the Canadian economy. Whenever I get one of these doomsday charts, I always like to pull a Reagan &#8211; trust but verify. Here are the two series in graph form.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CadHoursJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/CadHoursJul1714.png" style="margin:30px auto;display:block;" width="600" height="342" />CAD GDP (yellow line) vs Hours Worked (white line)</a>
+  <img src="http://themacrotourist.com/images/Azure/CadHoursJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/CadHoursJul1714.png" style="margin:30px auto;display:block;" width="600" height="342" />CAD GDP (yellow line) vs Hours Worked (white line)</a>
 </div>
 
 The hours worked has indeed dipped, and this obviously does not bode well for Canadian GDP. The real question is whether this dip will prove to be a 2002/3 type zig zag move before resolving higher, or whether it is more serious like 2008.
@@ -119,7 +119,7 @@ I think that CAD is a great short in here. We have everything lining up for _hig
 Not only that, but the CAD has recently being strong, so we are getting an opportunity to short at a level that is considerably better than the beginning of the year.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CADJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/CADJul1714.png" style="margin:30px auto;display:block;" width="600" height="342" />USDCAD (higher rate means CAD weakness)</a>
+  <img src="http://themacrotourist.com/images/Azure/CADJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/CADJul1714.png" style="margin:30px auto;display:block;" width="600" height="342" />USDCAD (higher rate means CAD weakness)</a>
 </div>
 
 We have the fundamentals lining up with a great spot to get involved from a technical perspective. I doubled the position yesterday.
@@ -129,7 +129,7 @@ We have the fundamentals lining up with a great spot to get involved from a tech
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsJul1714.png" style="margin:30px auto;display:block;" width="600" height="500">
+  <img src="http://themacrotourist.com/images/Azure/PositionsJul1714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/PositionsJul1714.png" style="margin:30px auto;display:block;" width="600" height="500">
 
 <hr size="3" width="85%" />
 

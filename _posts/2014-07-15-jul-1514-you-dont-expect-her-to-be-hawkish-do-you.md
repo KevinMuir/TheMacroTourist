@@ -33,7 +33,7 @@ Watching the shouting match reaffirmed my desire to never tune into CNBC again, 
 I think this exchange can best be summed up by Tsachy Mishal’s terrific tweet:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Bear2Jul1514.png"><img class="size-full wp-image-14271" style="padding-bottom: 0.1em;" src="http://themacrotourist.com/pictures/Azure/Bear2Jul1514.png" style="margin:30px auto;display:block;" width="600" height="750">
+  <img src="http://themacrotourist.com/images/Azure/Bear2Jul1514.png"><img class="size-full wp-image-14271" style="padding-bottom: 0.1em;" src="http://themacrotourist.com/images/Azure/Bear2Jul1514.png" style="margin:30px auto;display:block;" width="600" height="750">
 
 I find most of them on CNBC annoying, and probably nobody more so than Rick Santelli. But I think that Tsachy’s observation that this sort of bear bashing does not happen at the beginning of bull markets is the important lesson.
 
@@ -62,7 +62,7 @@ I might not agree with the US market’s resilience, but there is no reason argu
 The US stock market refuses to show any signs of weakness, but across the Atlantic stocks are definitely weighing heavily.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXSX5EJul1514.png"><img class="size-full wp-image-14271" style="padding-bottom: 0.1em;" src="http://themacrotourist.com/pictures/Azure/SPXSX5EJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />S&P 500 (white line) vs EuroStoxx (yellow line)</a>
+  <img src="http://themacrotourist.com/images/Azure/SPXSX5EJul1514.png"><img class="size-full wp-image-14271" style="padding-bottom: 0.1em;" src="http://themacrotourist.com/images/Azure/SPXSX5EJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />S&P 500 (white line) vs EuroStoxx (yellow line)</a>
 </div>
 
 I have long been a European stock market bear, and in fact I am already short. Why fight the constant rise in the S&P 500 when the European stocks are already showing that they want to go down?
@@ -82,7 +82,7 @@ Although many market pundits are bullish on Europe, I think that the ECB is way 
 And in case you don’t think that Europe is experiencing a balance sheet recession, have a look at the chart of the bonds for the Banco Espirito Santo:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BESJul1514.png"><img class="size-full wp-image-14271" style="padding-bottom: 0.1em;" src="http://themacrotourist.com/pictures/Azure/BESJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />BES Bonds due 2023 in free fall</a>
+  <img src="http://themacrotourist.com/images/Azure/BESJul1514.png"><img class="size-full wp-image-14271" style="padding-bottom: 0.1em;" src="http://themacrotourist.com/images/Azure/BESJul1514.png" style="margin:30px auto;display:block;" width="600" height="342" />BES Bonds due 2023 in free fall</a>
 </div>
 
 The problems in the Portuguese banking system are symptomatic of Europe’s long term challenges. If BES is having trouble funding themselves in this environment, I hate to see what is going to happen when liquidity once again gets distributed by adults instead of drunk Central Bankers.
@@ -96,7 +96,7 @@ During the last couple of months, the market has been erring on the side of expe
 After being burned by her reluctance to even acknowledge the risks from her easy policies, the real question is how much the market has now discounted in terms of her testimony. I don’t think anyone is assuming that she will err on using this opportunity to set the table for higher rates.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YellenJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/YellenJul1514.png" style="margin:30px auto;display:block;" width="500" height="342">
+  <img src="http://themacrotourist.com/images/Azure/YellenJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/YellenJul1514.png" style="margin:30px auto;display:block;" width="500" height="342">
 
 At this point, I think the markets’ are fully aware of the full extent of Yellen irresponsible dovishness. In the recent New Yorker profile the money quote from Yellen was;
 
@@ -115,4 +115,4 @@ I think we are hitting a point where the market might realize the true cluelessn
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsJul1514.png" style="margin:30px auto;display:block;" width="600" height="750">
+  <img src="http://themacrotourist.com/images/Azure/PositionsJul1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/PositionsJul1514.png" style="margin:30px auto;display:block;" width="600" height="750">

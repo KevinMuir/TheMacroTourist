@@ -32,7 +32,7 @@ I met my wife in university, so I never had a big dating stage. Not only that, I
 &#8220;Oh, that&#8217;s crappy,&#8221; I responded. After all, what do you say to a guy who has just ruined your teenage dream about the coolest place in the whole world? But I couldn&#8217;t help thinking; what else did he expect from Ari?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PivenFeb2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PivenFeb2015.png" width="500" height="342">
+  <img src="http://themacrotourist.com/images/Azure/PivenFeb2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PivenFeb2015.png" width="500" height="342">
 
 So I never regret not dating models because I have learned; they never live up to the image we have in our mind. 
 
@@ -41,7 +41,7 @@ And interestingly enough, many economic models are just as prone to not living u
 I have written about this too much, but the absurdity of entire yield curves shifting below zero, or Central Banks monetizing through S&P 500 futures is just asinine. The whole monetary system has crossed the streams.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ghostFeb2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ghostFeb2015.png" width="350" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ghostFeb2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ghostFeb2015.png" width="350" height="342">
 
 How can you price any risk asset when the risk free rate is zero, or even lower? Let&#8217;s take the so called &#8220;Fed Model&#8221; for forecasting equity prices. Here is a brief history of this model from Investopedia:
 
@@ -96,7 +96,7 @@ However, I am not going to do anything except watch from the sidelines and wait 
 In the mean time, get ready for some action of biblical proportions&#8230; Yes, dogs and cats living together type of action.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BillFeb2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BillFeb2015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/BillFeb2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BillFeb2015.png" width="600" height="342">
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/quoteFeb2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/quoteFeb2015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/quoteFeb2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/quoteFeb2015.png" width="600" height="342">

@@ -24,12 +24,12 @@ For those not sitting on North American trading desks, you probably missed yeste
 Yesterday in Arizona, some animals were brought to an assisted living facility to visit an ex-llama rancher as a form of therapy. Two of the llamas escaped and spent more than an hour evading capture as they galloped through town, followed by an ABC helicopter that live broadcast the whole affair.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/twollamasFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/twollamasFeb2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/twollamasFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/twollamasFeb2715.png" width="600" height="342">
 
 I was rooting for the two escapees. The white guy was especially shrewd and a little part of me was disappointed when they finally lassoed him.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/lassoFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/lassoFeb2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/lassoFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/lassoFeb2715.png" width="600" height="342">
 
 I am not sure where the cowboy riding in the back of a pickup truck came from. Does every town in Arizona have one of these guys on standby? And what do they pay him for that service?
 
@@ -40,7 +40,7 @@ But it isn&#8217;t just llama cowboy rates that are increasing lately. Although 
 We are all aware of the much publicized Walmart employee pay raise. Walmart recently said they would increase worker pay by more than $1 billion dollars this year. This is a big deal. I know that many commentators are quick to dismiss it, but they are missing the big picture. Walmart is the biggest private sector employer in the United States:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/employerFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/employerFeb2715.png" width="500" height="342">
+  <img src="http://themacrotourist.com/images/Azure/employerFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/employerFeb2715.png" width="500" height="342">
 
 The increase is putting pressure on other companies to follow suit. From Yahoo! Finance:
 
@@ -67,17 +67,17 @@ Yet it should be no surprise we are finally getting increases in wages. There ha
 The Job Openings have hit a new high, eclipsing the previous high from the 2007 cycle.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JoltFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JoltFeb2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/JoltFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JoltFeb2715.png" width="600" height="342">
 
 After spiking to scary levels during the 2007/8 credit crisis, initial claims have retreated down to previous lows.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ClaimsFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ClaimsFeb2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ClaimsFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ClaimsFeb2715.png" width="600" height="342">
 
 And the forward looking indicators, such as the NFIB survey about companies plans to raise wages are reflecting this tightness:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NFIBFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NFIBFeb2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/NFIBFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/NFIBFeb2715.png" width="600" height="342">
 
 Even with all this evidence, when I broach the subject of rising inflation spearheaded by employee cost push inflation, I am continually (and uniformly) met with push back. 
 
@@ -104,7 +104,7 @@ Yet I can&#8217;t help but think about Bob Farrell&#8217;s famous rule:
 Have a look at the histogram of forecasted CPI for 2015 from the leading economists:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CPIFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CPIFeb2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CPIFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CPIFeb2715.png" width="600" height="342">
 
 Out of the 76 economists tracked by Bloomberg, the median forecast for 2015 CPI is 0.45%. In a truly stunning testimony to the pessimism that is baked into this market, 13 of these economists think that we will actually have deflation this year! Only 2 of the economists think that the Fed will be able to reach their 2% target.
 
@@ -115,7 +115,7 @@ However, if I am right, then there is going to be some massive re-pricings. The 
 Wage inflation would be as surprising to the markets as if the llamas had hailed a taxi and escaped by car&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/taxiFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/taxiFeb2715.png" width="400" height="600">
+  <img src="http://themacrotourist.com/images/Azure/taxiFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/taxiFeb2715.png" width="400" height="600">
 
 <hr size="3" width="85%" />
 
@@ -124,7 +124,7 @@ Wage inflation would be as surprising to the markets as if the llamas had hailed
 As February winds down, I just want to remind you of my [theory that March often marks the turning point in macro economic data.](http://gfbblogs.azurewebsites.net/blog/2015/02/11/feb-1115-march-often-marks-the-inflection-point/)
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MarchTurnFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MarchTurnFeb2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/MarchTurnFeb2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MarchTurnFeb2715.png" width="600" height="342">
 
 Since my last post, the economic data has continued to come in lower than expected. However, I think that we are about to make a turn. 
 
@@ -133,4 +133,4 @@ I don&#8217;t know if the start of the ECB QE program next month will be the cat
 But either way, I am looking for the economy to perform above expectations in the coming months. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MTBoat.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MTBoat.png" width="700" height="200">
+  <img src="http://themacrotourist.com/images/Azure/MTBoat.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MTBoat.png" width="700" height="200">

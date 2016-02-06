@@ -22,7 +22,7 @@ Yesterday we saw a return of the big program buying in the stock market.
 There was no real reason for the grinding higher action we saw throughout the day &#8211; most of yesterday&#8217;s news was actually pretty poor. The previous night and earlier in the morning, the S&P 500 stock futures had actually drifted lower.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESM4Jun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESM4Jun0414.png" width="600" height="342" />S&P 500 futures Tuesday night and Wednesday</a>
+  <img src="http://themacrotourist.com/images/Azure/ESM4Jun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESM4Jun0414.png" width="600" height="342" />S&P 500 futures Tuesday night and Wednesday</a>
 </div>
 
 But then the market opened&#8230; 
@@ -30,7 +30,7 @@ But then the market opened&#8230;
 And the buy order went to work. Why do I feel so confident that there was a big program buy order? Because I used to execute these orders. The action was entirely consistent with this type of program buy. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXJun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXJun0414.png" width="600" height="342" />S&P 500 Index over the last couple of days</a>
+  <img src="http://themacrotourist.com/images/Azure/SPXJun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPXJun0414.png" width="600" height="342" />S&P 500 Index over the last couple of days</a>
 </div>
 
 Once the market opened, the trader got to work getting some stock in at lower levels. As he moved it up, he met some selling, so he eased up, but kept a decent bid to the market as he needed to get in a fair amount of stock throughout the day. But he timed it so he could save enough ammo to close the thing at the highs. 
@@ -48,13 +48,13 @@ We are headed into two very important releases &#8211; the ECB meeting and the U
 The S&P 500 has been basically on a tear straight up since the middle of May:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPJun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXGIPJun0414.png" width="600" height="342" />S&P 500 Index trading over the last month</a>
+  <img src="http://themacrotourist.com/images/Azure/SPXGIPJun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPXGIPJun0414.png" width="600" height="342" />S&P 500 Index trading over the last month</a>
 </div>
 
 The European stocks have not been rallying as hard, but given that they are in the process of pushing their interest rate down into negative levels because of the threat of deflation, their stock market is amazingly resilient:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SX5EGIPJun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SX5EGIPJun0414.png" width="600" height="342" />EuroStoxx 50 Index over the last month</a>
+  <img src="http://themacrotourist.com/images/Azure/SX5EGIPJun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SX5EGIPJun0414.png" width="600" height="342" />EuroStoxx 50 Index over the last month</a>
 </div>
 
 I sure hope for the market&#8217;s sake that Draghi doesn&#8217;t disappoint. 
@@ -88,4 +88,4 @@ Both the gold and the high yield debt headlines affirm to me that you need to be
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun0514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun0514.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJun0514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJun0514.png" width="600" height="700"></p>

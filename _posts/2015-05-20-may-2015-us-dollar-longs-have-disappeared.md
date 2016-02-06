@@ -15,17 +15,17 @@ tags:
   - Yen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/StillLongUSD.png" alt="http://themacrotourist.com/pictures/Azure/StillLongUSD.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/StillLongUSD.png" alt="http://themacrotourist.com/images/Azure/StillLongUSD.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 During the first quarter of this year, it seemed like all everyone could talk about was the long US dollar trade. The hedgies had all ridden the trade to great profits and, as usual, all they could do was extrapolate that trend continuing forever. I believed the sentiment was so one sided it made more sense to trade the US dollar from the short side ([Apr 06/15 &#8211; The coming US Dollar unwind](http://gfbblogs.azurewebsites.net/blog/2015/04/06/apr-0615-the-coming-us-dollar-unwind/)). Proving that even stopped clocks are right twice a day, I managed to get that call correct. The US dollar index corrected from a high of just over 100 to a low of 93 earlier this week.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYMay2015.png" alt="http://themacrotourist.com/pictures/Azure/DXYMay2015.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/DXYMay2015.png" alt="http://themacrotourist.com/images/Azure/DXYMay2015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Most importantly, the speculators have dramatically reduced their long US dollar positions. My home grown indicator of the sum of spec positions in CME currency futures has fallen from a high of almost $50 billion notional to $29 billion.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FOREXSPXMay2015.png" alt="http://themacrotourist.com/pictures/Azure/FOREXSPXMay2015.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/FOREXSPXMay2015.png" alt="http://themacrotourist.com/images/Azure/FOREXSPXMay2015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 It’s funny that chatter about the long US dollar trade has disappeared. Nothing has really changed in the fundamental story. The American economy is still nudging towards entering a monetary tightening cycle, while the rest of the world is solidly stuck in easing mode. It just goes to show how prices make the headlines and not the other way round.
 
@@ -34,14 +34,14 @@ This correction in the US dollar bull run might be the pause that refreshes. We 
 I am starting to establish some US dollar long positions into this dip. I especially like the Japanese Yen short. During this whole US dollar correction, the Yen could barely rally. The Bank of Japan is still the most aggressive Central Bank out there, and there is a real chance the Yen decline eventually spirals out of control.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YenBOJMay2015.png" alt="http://themacrotourist.com/pictures/Azure/YenBOJMay2015.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/YenBOJMay2015.png" alt="http://themacrotourist.com/images/Azure/YenBOJMay2015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 As a percentage of their economy the Bank of Japan balance sheet expansion is mind boggling large. And the most important aspect of their monetary expansion is the government’s determination to achieve their economic goals. The Japanese are not plagued with a slew of a different governments with varying opinions about proper monetary policy like the Europeans. No, the Japanese are united behind their leader and committed to breaking the back of the deflationary morass their country has been mired in during the past couple of decades. They are going down the road of “balance sheet expansion until inflation or bust” whole heartedly.
 
 They might well get both, inflation and bust, at the same time, but of all the countries, I have the most confidence in the Japanese sticking to the plan. And it seems like the market is confirming that thesis.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYMay2015.png" alt="http://themacrotourist.com/pictures/Azure/JPYMay2015.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/JPYMay2015.png" alt="http://themacrotourist.com/images/Azure/JPYMay2015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The Yen refuses to go up. The best it seems to do is go sideways.
 

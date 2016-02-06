@@ -28,22 +28,22 @@ The Fed has presented the recent collapse in oil prices as an unambiguously posi
 Although I understand their arguments, I think their heads are underwater.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/underwaterDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/underwaterDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/underwaterDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/underwaterDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The Fed is missing the massive role that US shale energy development has played in the recent US economic out performance versus the rest of the world. Since the recession trough, over 93% of the 10 million jobs created have been energy related. Have a look at this great chart from ZeroHedge:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/energyjobsDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/energyjobsDec0414.png" style="margin:30px auto;display:block;" width="600" height="550">
+  <img src="http://themacrotourist.com/images/Azure/energyjobsDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/energyjobsDec0414.png" style="margin:30px auto;display:block;" width="600" height="550">
 
 The US economy has vastly outperformed most of the rest of the Western economies due to the unbelievable growth of shale energy.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USoilsupplyDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/USoilsupplyDec0414.png" style="margin:30px auto;display:block;" width="600" height="300">
+  <img src="http://themacrotourist.com/images/Azure/USoilsupplyDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/USoilsupplyDec0414.png" style="margin:30px auto;display:block;" width="600" height="300">
 
 US oil output has almost doubled in the space of less than half a dozen years. This growth is unbelievable. Have a look at this night time satellite shot of the Bakken shale area to get a sense of the scope of the development.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/bakkenDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/bakkenDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/bakkenDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/bakkenDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 There is a belief that the US economy is outperforming the rest of the world because it is the “cleanest shirt in the dirty pile of laundry.” Well, the reality is that the shale energy boom is **the driving factor** in the US economic outperformance. Yes, Silicon Valley is booming, and there is no doubt that certain sectors that cater to the 0.01% are growing due to the absurd Federal Reserve balance sheet expansion, but these do not have the same sort of large economic impact as the shale energy boom.
 
@@ -56,7 +56,7 @@ My best guess is that we are going to experience years of US shale energy compan
 Have a look at the US Energy High Yield Option Adjusted Spread (OAS) versus the entire high yield market.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EnergyOASDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/EnergyOASDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/EnergyOASDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/EnergyOASDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The vast majority of the recent widening of credit spreads has been the result of the blowing out of energy credit. The bond market, which is always one step ahead of the equity market and even more ahead of Fed officials, has sniffed out the problems already.
 
@@ -75,4 +75,4 @@ So even though the Fed officials are putting a positive spin on the low oil pric
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsDec0414.png" style="margin:30px auto;display:block;" width="600" height="242">
+  <img src="http://themacrotourist.com/images/Azure/PositionsDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/PositionsDec0414.png" style="margin:30px auto;display:block;" width="600" height="242">

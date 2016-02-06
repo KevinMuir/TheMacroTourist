@@ -29,7 +29,7 @@ We are getting more jobs, but this is not yet resulting in any sort of wage grow
 It is increasingly easier and easier to find a job in America &#8211; although some workers&#8217; skills are a little out of date and in need of some upgrading.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JediOct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JediOct0614.png" width="500" height="342">
+  <img src="http://themacrotourist.com/images/Azure/JediOct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JediOct0614.png" width="500" height="342">
 
 This report will make it increasingly difficult for the Federal Reserve doves to continue justifying their extremely easy monetary policy. It pretty well assures that the **&#8220;considerable time&#8221;** language will be removed from the Fed&#8217;s communique at the next meeting. 
 
@@ -42,7 +42,7 @@ However that doesn&#8217;t mean the market is not going to drag rates higher on 
 According to many models, the Fed is already significantly behind the curve. Have a look at the traditional Taylor model.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TAYLOROct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TAYLOROct0614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/TAYLOROct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TAYLOROct0614.png" width="600" height="342">
 
 I understand that many economists argue that the traditional Taylor model is not the appropriate yardstick to set interest rates. Many have made adjustments to the model to fine tune it. But only the Evans rule still has optimum Fed Fund rates at negative levels.
 
@@ -135,7 +135,7 @@ As the labour market tightens up, this only pushes the various models&#8217; Fed
 The market has already priced in a lot of this move. The short end of the yield curve has been steadily marching higher over the last two months. The US dollar has also been on a tear as higher rates and a better economy are discounted. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US2YRDXYOct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US2YRDXYOct0614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/US2YRDXYOct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/US2YRDXYOct0614.png" width="600" height="342">
 
 I am nervous about the crowded nature of the speculative short positions in the front end of the yield curve, but given the recent employment report, I am reluctant to continue betting on the Fed continuing to dragging their heels. I sold my EDU15 position on Friday&#8217;s employment release. 
 
@@ -152,12 +152,12 @@ I am not going to bother giving you fundamental reasons for either a slowdown or
 However, I will note one thing. When these trends start, they usually go on for longer than almost anyone expects. It feels like the US Dollar has rallied a lot over the past couple of months, but if you step back and look at the longer term picture, this move is just a tiny blip.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYLTOct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYLTOct0614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/DXYLTOct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DXYLTOct0614.png" width="600" height="342">
 
 And how about short term rates? It feels like they have been zero forever. How realistic is it that this continues for another 5 years?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FDTROct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FDTROct0614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/FDTROct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FDTROct0614.png" width="600" height="342">
 
 Maybe the reason there are so many shorts with positions at the front end of the yield curve is that the risk reward is so heavily skewed towards higher rates due to the Fed&#8217;s super easy policy up to this point.
 
@@ -178,7 +178,7 @@ I puked out a lot of my long commodity trades as they have been getting destroye
 There is joke on trading desks that there is no such thing as a triple bottom as when a security tests support for the third time, it usually doesn&#8217;t hold.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDOct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDOct0614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GOLDOct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GOLDOct0614.png" width="600" height="342">
 
 This morning we are bouncing hard as the US dollar is selling off after Friday&#8217;s big rally. There is a chance that my capitulation on these trades is going to mark the bottom. It would be just like the Market Gods to put in the turn only when everything becomes completely obvious even to mopes like me.
 
@@ -195,4 +195,4 @@ For those that have been trying to top tick the US dollar rally, my recent moves
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct0614.png" width="600" height="542"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsOct0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsOct0614.png" width="600" height="542"></p>

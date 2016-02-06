@@ -22,7 +22,7 @@ Mark Twain once wrote, “October. This is one of the peculiarly dangerous month
 Today is quadruple witching expiry, and although trading is never easy, over the years I have found today is often a good day to do some writing or research, rather than to try to trade (or even interpret) the market action.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Witches.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Witches.png" width="550" height="400">
+  <img src="http://themacrotourist.com/images/Azure/Witches.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Witches.png" width="550" height="400">
 
 However, there are some studies that show that when the equity market is at highs going into option expiration, this usually leads to a few days of weakness in the post expiry trading. I would be weary of trying any longs up here, and would err on the side of writing pink tickets.
 
@@ -33,7 +33,7 @@ However, there are some studies that show that when the equity market is at high
 The big news yesterday was obviously the monster squeeze in the precious metals square. I was lucky enough to have cranked up my position the previous day in the aftermath of Yellen&#8217;s Q&A. This proved fortuitous as my positions exploded higher.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDXJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXJun2014.png" width="600" height="342" />GDX &#8211; Gold miner ETF</a>
+  <img src="http://themacrotourist.com/images/Azure/GDXJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GDXJun2014.png" width="600" height="342" />GDX &#8211; Gold miner ETF</a>
 </div>
 
 I am not good at sitting tight when positions move my way as I tend to overthink everything. Yesterday I purposely forced myself to stop watching the position, and even today, the temptation to ring the register on a piece is filling my brain like the voices inside the head of the Silence of the Lambs&#8217; psychopath. 
@@ -41,7 +41,7 @@ I am not good at sitting tight when positions move my way as I tend to overthink
 But when I step back and try to remain analytical, I continually come to the same conclusion. Although the move off the $22 low in GDX is quite dramatic, when you examine a longer term chart, this move is just a drop in the bucket.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDXLTJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXLTJun2014.png" width="600" height="342" />GDX &#8211; longer term chart</a>
+  <img src="http://themacrotourist.com/images/Azure/GDXLTJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GDXLTJun2014.png" width="600" height="342" />GDX &#8211; longer term chart</a>
 </div>
 
 I am not going to bother going through all the fundamental reasons that I love the precious metals (if you are interested [read this](http://gfbblogs.azurewebsites.net/blog/2014/05/30/may-3014-you-need-to-own-some-gold-in-here/)), but I do want to focus on the fact that there is _precious little hedge fund involvement on the long side of this trade_. In fact, I was hearing rumours of one hedge fund being carried out yesterday due to a big short position. 
@@ -49,7 +49,7 @@ I am not going to bother going through all the fundamental reasons that I love t
 Fred Hickey, who writes the famous High Tech Strategist newsletter, also highlighted the fact that he believes there is a large speculative short position in silver that will need to be bought back. I had a look at the CFTC data, and although the net position does not seem to indicate that speculators are massively offside, there has been an increase in both speculative longs and shorts over the last few months. The total short open interest amongst speculators is indeed hitting a very high level:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SILVERShortsJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SILVERShortsJun2014.png" width="600" height="342" />Silver Speculative Short positions</a>
+  <img src="http://themacrotourist.com/images/Azure/SILVERShortsJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SILVERShortsJun2014.png" width="600" height="342" />Silver Speculative Short positions</a>
 </div>
 
 I am not sure about much, but I do know that the whole &#8220;long precious metals is a losing trade&#8221; narrative has been embraced by many over the past couple of years. Articles like Barry Ritholz&#8217;s [&#8220;Does it pay to Hold Gold&#8221;](http://www.bloombergview.com/articles/2014-05-19/does-it-pay-to-hold-gold-ritholtz-chart) have drilled into investors&#8217; heads the lack of any fundamental earnings potential from precious metals. Investors have swallowed the story hook, line and sinker. They have abandoned precious metals &#8211; favouring to speculate on social media stocks or bitcoin. 
@@ -67,13 +67,13 @@ In this environment, precious metals are not a speculative punt, but instead a m
 I have to admit to being a little surprised at the extent of the precious metal weakness over the last couple of years. Coming out of the 2008 credit crisis, gold mirrored the expansion of the Fed&#8217;s balance sheet pretty closely. But then with QE3, it went in the complete opposite direction.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FARBASTJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FARBASTJun2014.png" width="600" height="342" />Gold (yellow line) vs Fed Balance Sheet (white line)</a>
+  <img src="http://themacrotourist.com/images/Azure/FARBASTJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FARBASTJun2014.png" width="600" height="342" />Gold (yellow line) vs Fed Balance Sheet (white line)</a>
 </div>
 
 I don&#8217;t have any good reason to explain the extent of this weakness apart from the fact that even though the Fed was expanding their balance sheet, the long end of the yield curve was actually backing up all the while inflation was declining, resulting in a higher real rate. The price of gold is very sensitive to real rates and this rise was enough to send gold lower.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDRRJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDRRJun2014.png" width="600" height="342" />Gold (yellow line) vs US 30 Real Rate Inverted (white line)</a>
+  <img src="http://themacrotourist.com/images/Azure/GOLDRRJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GOLDRRJun2014.png" width="600" height="342" />Gold (yellow line) vs US 30 Real Rate Inverted (white line)</a>
 </div>
 
 But if I am right about inflation picking up, then this drag will very soon turn into a source of buoyancy. And given Yellen&#8217;s willingness to tolerate higher inflation in an attempt to return employment to normal recovery levels, market participants have all of a sudden woken up to precious metals&#8217; attractiveness.
@@ -93,4 +93,4 @@ I think that yesterday was the first day of a much longer term move. I am going 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun2014.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJun2014.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJun2014.png" width="600" height="700"></p>

@@ -15,7 +15,7 @@ tags:
   - oil
 ---
 
-  <img src="http://themacrotourist.com/pictures/GutsiestJan1516.png" alt="http://themacrotourist.com/pictures/GutsiestJan1516.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/GutsiestJan1516.png" alt="http://themacrotourist.com/images/GutsiestJan1516.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 The other day after writing a piece about how I was standing in there buying crude oil, one of my good buddies who used to be my arch rival at another dealer sent me an email with only two lines:
 
@@ -28,12 +28,12 @@ The other day after writing a piece about how I was standing in there buying cru
 I have to admit, it made me laugh. A lot&#8230; And just like Maverick, my cockiness did not catch up with me right away. For a couple of days it looked like I might have actually caught the bottom. But the market gods never let you off that easily, and this morning I awoke to crude oil gapping down to a new low.
 
 
-  <img src="http://themacrotourist.com/pictures/CLGIPJan1516.png" alt="http://themacrotourist.com/pictures/CLGIPJan1516.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/CLGIPJan1516.png" alt="http://themacrotourist.com/images/CLGIPJan1516.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 I should have remembered that Maverick&#8217;s aggressiveness eventually killed Goose&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/GooseJan1516.png" alt="http://themacrotourist.com/pictures/GooseJan1516.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/GooseJan1516.png" alt="http://themacrotourist.com/images/GooseJan1516.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 * * *
 
@@ -44,7 +44,7 @@ I am going to make today&#8217;s post quick. The market is hitting the point whe
 Yet I want to leave you with a chart that I recreated from the always great [Martin Enlund](https://twitter.com/enlundm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). It is a chart of the Euro versus the spread between the US and German 10 year yield:
 
 
-  <img src="http://themacrotourist.com/pictures/GERUSJan1516.png" alt="http://themacrotourist.com/pictures/GERUSJan1516.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/GERUSJan1516.png" alt="http://themacrotourist.com/images/GERUSJan1516.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 I was already looking for ways to get short the US dollar, and this has encouraged me to dip my toe in the water on the long side of the Euro.
 
@@ -75,7 +75,7 @@ Finally, it&#8217;s Friday and I am going to finish with a joke.
 The Canadian dollar is in free fall. It seems like it is going down 1% every day.
 
 
-  <img src="http://themacrotourist.com/pictures/CADJan1516.png" alt="http://themacrotourist.com/pictures/CADJan1516.png" style="margin:30px auto;display:block;" width="800" height="450">
+  <img src="http://themacrotourist.com/images/CADJan1516.png" alt="http://themacrotourist.com/images/CADJan1516.png" style="margin:30px auto;display:block;" width="800" height="450">
 
 I don&#8217;t know where the bottom is, but when jokes like this one start circulating, it makes sense to think about watching for a change in trend.
 

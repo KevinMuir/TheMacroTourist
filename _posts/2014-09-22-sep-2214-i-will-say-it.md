@@ -41,7 +41,7 @@ The party like atmosphere with Friday&#8217;s floating of the world&#8217;s larg
 Of course it is different. It always is&#8230; This time there are also Chinese tech zillionaires being created. In a sign of how things have changed, I came across this amusing article about monks blessing Porsches in China.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PorscheSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PorscheSep1914.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/PorscheSep1914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PorscheSep1914.png" width="600" height="342">
 
 > A monk sparked an online backlash when he blessed a new Porsche in a temple located at Xiaogan City, Hubei, allegedly endowing the owner with safety and luck, according to Tencent News. 
 
@@ -62,7 +62,7 @@ I haven&#8217;t provided a lot of fundamental reasons why stocks are going to go
 On Friday, as investors fell all over themselves like giddy 13 year old girls at a One Direction concert to buy shares in Alibaba, silver was taken out to the woodshed.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SILVGIPSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SILVGIPSep2214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SILVGIPSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SILVGIPSep2214.png" width="600" height="342">
 
 I had been patient, planning on waiting for silver to decisively break $19 before getting long. Unfortunately I succumbed to temptation and bought a little last week before the big break.
 
@@ -71,7 +71,7 @@ I am not going to buy more yet, but I am hopeful that we are in the midst of the
 This is completely understandable given their unrelenting three year bear market.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SILVSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SILVSep2214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SILVSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SILVSep2214.png" width="600" height="342">
 
 The technicians will tell you that silver looks terrible and that it is headed lower because it broke all sorts of support. Maybe they are right, but I think that is a little backward looking. I am more hopeful that we are close to the bottom but I am watching for signs of stabilization before really loading up the boat.
 
@@ -86,12 +86,12 @@ Don&#8217;t get me wrong, I understand why investors are shooting the precious m
 The US dollar is going straight up:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DXYSep2214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/DXYSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DXYSep2214.png" width="600" height="342">
 
 The strength of the US Dollar is weighing heavily on gold. It is tough for gold to rally in an environment of a strengthening US dollar and also rising short term rates:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USTwoSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USTwoSep2214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/USTwoSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/USTwoSep2214.png" width="600" height="342">
 
 However I believe that the precious metals are influenced by more than just the US dollar direction and short term rates. Over time, _I believe that gold is highly correlated to the long term real rate of interest._ Gold does best when the opportunity cost of holding it are low. The real rate of interest (nominal interest rate minus rate of inflation) is the best way of measuring this cost. 
 
@@ -102,7 +102,7 @@ If inflation is running 10% and interest rates are at 7%, then gold is a great i
 After the credit crisis of 2008/9 real rates went deeply negative. This encouraged investors to buy gold.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GOLDSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GOLDSep2214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GOLDSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GOLDSep2214.png" width="600" height="342">
 
 Gold topped at the very moment real rates bottomed. As real rates have drifted higher, gold has been under continual pressure. 
 
@@ -117,7 +117,7 @@ Therefore I think you want to be accumulating gold and silver into weakness.
 It&#8217;s hard to believe but it was only three years ago that gold was worth 1.75 times the level of the S&P 500. Since then the gold mania has waned and shifted into stocks. The ratio has collapsed to 0.60!
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GLDSPXSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSPXSep2214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GLDSPXSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GLDSPXSep2214.png" width="600" height="342">
 
 I have prematurely been calling for the bottoming of this ratio, but this time I really think it will work! (which is what every degenerate gambler/trader says) I don&#8217;t have many fingers left from trying to catch this knife, so I am hopeful that this is finally the time&#8230;
 
@@ -126,11 +126,11 @@ There is so much frothy cockiness in the stock market and so much depressed desp
 I will leave you with a reminder that everyone knows but few follow &#8211; be fearful when others are greedy and greedy when others are fearful. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SILVSPXSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SILVSPXSep2214.png" width="800" height="300">
+  <img src="http://themacrotourist.com/images/Azure/SILVSPXSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SILVSPXSep2214.png" width="800" height="300">
 
 <hr size="3" width="85%" />
 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsSep2214.png" width="600" height="542"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsSep2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsSep2214.png" width="600" height="542"></p>

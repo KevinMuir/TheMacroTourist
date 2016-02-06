@@ -14,13 +14,13 @@ categories:
   - macro
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/selfieFeb1315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/selfieFeb1315.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/selfieFeb1315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/selfieFeb1315.png" width="600" height="600">
 
 Today is President&#8217;s Day in the United States, and Family Day in Canada. As you will notice from the above instagram photo, the two most powerful leaders in America are already well into the sauce, and have descended into the &#8220;taking selfies in the back of the limo&#8221; stage. 
 
 To celebrate Family Day, I am going to leave you with this picture of the MacroTourist with the family&#8230; I wonder if I should have moved a little before the picture was taken&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AnimalFeb1315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/AnimalFeb1315.png" width="500" height="342">
+  <img src="http://themacrotourist.com/images/Azure/AnimalFeb1315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/AnimalFeb1315.png" width="500" height="342">
 
 The MacroTourist regular posting will resume tomorrow.

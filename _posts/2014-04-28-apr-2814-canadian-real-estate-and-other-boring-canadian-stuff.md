@@ -28,14 +28,14 @@ During the mid 2000s, when China was snapping up every commodity under the sun, 
 Have a look at his chart of the Muskoka Average Sale Price from the Royal LePage AbenTeam blog. For those who don&#8217;t know &#8211; Muskoka is like the Hamptons of Toronto. Charting the price of high end cottages is the perfect indicator for what is going on with real estate for the Canadian 1%.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MuskokaChartApr2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MuskokaChartApr2814.png" width="700" height="525">
+  <img src="http://themacrotourist.com/images/Azure/MuskokaChartApr2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MuskokaChartApr2814.png" width="700" height="525">
 
 You will notice that the three high end lakes (Joe, Muskoka and Rossea) have all failed to surpass their 2007 highs.
 
 Contrast that to the average house selling price across Canada:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CanadaHousingApr2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CanadaHousingApr2814.png" width="600" height="342" />Teranet National Bank Canada wide real estate index</a>
+  <img src="http://themacrotourist.com/images/Azure/CanadaHousingApr2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CanadaHousingApr2814.png" width="600" height="342" />Teranet National Bank Canada wide real estate index</a>
 </div></p> 
 
 The 2008 decline was quickly met with a renewed bounce. Within a year the national house price had pushed _to new highs._
@@ -95,7 +95,7 @@ However, I want to point out one aspect of this economic race that puts Canada a
 Have a look at this chart of where the American tax dollars go:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IncomeTaxApr2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/IncomeTaxApr2814.png" width="870" height="560">
+  <img src="http://themacrotourist.com/images/Azure/IncomeTaxApr2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IncomeTaxApr2814.png" width="870" height="560">
 
 More than a quarter goes to the military! I am not going to get into a political discussion of whether this is good or bad, but I merely want to note that the Canadian economy does not have this economic drag. Given this massive unproductive spending that weighs down the US economy, it is actually quite pathetic that the Canadian economy is not wealthier than the American one. It is a testament to the strength of the American economy that they can spend this sort of money on the military and still have the world&#8217;s largest economy. 
 
@@ -104,4 +104,4 @@ More than a quarter goes to the military! I am not going to get into a political
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr2814.png" width="600" height="725"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsApr2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsApr2814.png" width="600" height="725"></p>

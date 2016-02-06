@@ -25,7 +25,7 @@ tags:
 The &#8220;little&#8221; correction that the bulls welcomed a week ago as a much needed break has finally got some teeth. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BearbiteAug0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BearbiteAug0614.png" width="500" height="600">
+  <img src="http://themacrotourist.com/images/Azure/BearbiteAug0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BearbiteAug0614.png" width="500" height="600">
 
 For the first time in quite a while, there is some definite fear out there. Dips are no longer buying opportunities, but instead the start of small waves of selling. The rallies that do occur are met with heavy over head resistance. 
 
@@ -38,7 +38,7 @@ I stick by my theory that we are not going to see a return to the highs anytime 
 Lately there has been increased chatter about the small cap sell off. For the past month small caps have been trading &#8220;heavy.&#8221; They peaked at the end of June and have been sliding to new lows every week since then.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IWMSPYAug0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/IWMSPYAug0614.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/IWMSPYAug0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IWMSPYAug0614.png" width="600" height="342">
 
 Some analysts such as the Bank Credit Analyst (BCA) have speculated that the reason for this sell off is rising wage pressure. 
 
@@ -47,7 +47,7 @@ Some analysts such as the Bank Credit Analyst (BCA) have speculated that the rea
 Although I respect BCA, I am going to have to differ. I don&#8217;t doubt there might be a part of their theory that is correct, but BCA goes on to highlight that this small cap underperformance is a global phenomenon.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BCAsmallAug0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BCAsmallAug0614.png" width="360" height="800"></p> 
+  <img src="http://themacrotourist.com/images/Azure/BCAsmallAug0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BCAsmallAug0614.png" width="360" height="800"></p> 
 
 There is no way that the Euro area is experiencing wage pressure inflation. Their economy is in the toilet and unemployment is stubbornly high. Even the emerging market economies are far from the sort of overheating growth that would result in wage pressures causing small caps to under perform.
 
@@ -72,7 +72,7 @@ If the Hong Kong Central Bank is forced to sell Hong Kong Dollars to maintain th
 Expanding the monetary base is like engaging in QE in terms of its effect on risk assets. Have a look at this chart of the Hong Kong Dollar, the monetary base and the Hong Kong stock ETF.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EWHMBAug0514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EWHMBAug0514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/EWHMBAug0514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EWHMBAug0514.png" width="600" height="342">
 
 When the base expands, one of the direct beneficiaries is the Hong Kong stock market. If you believe that capital will continue to flow into Hong Kong as the result of the sanctions against Russia, then the Hong Kong stock market should be a big winner. 
 
@@ -87,12 +87,12 @@ Like a mope I have been riding the massive downdraft in the grains. It is a long
 So far this call looks like it just might work. The price action in wheat has been especially encouraging.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/WU4Aug0514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/WU4Aug0514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/WU4Aug0514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/WU4Aug0514.png" width="600" height="342">
 
 And what I like best is the fact the hedge fund speculative positions have increased their short bets to record levels!
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/WSpecsAug0514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/WSpecsAug0514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/WSpecsAug0514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/WSpecsAug0514.png" width="600" height="342">
 
 I hate being on the same side of trades as the hedge funds, so the fact that they are shorting wheat down here as it bases tempts me to buy even more!
 
@@ -101,4 +101,4 @@ I hate being on the same side of trades as the hedge funds, so the fact that the
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsAug0614.png" width="600" height="450"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsAug0614.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsAug0614.png" width="600" height="450"></p>

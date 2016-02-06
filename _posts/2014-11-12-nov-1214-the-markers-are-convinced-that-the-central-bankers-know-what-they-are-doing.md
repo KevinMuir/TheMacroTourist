@@ -20,12 +20,12 @@ tags:
   - Greenspan
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/DogBubbleNov1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/DogBubbleNov1214.png" style="margin:30px auto;display:block;" width="500" height="400">
+  <img src="http://themacrotourist.com/images/Azure/DogBubbleNov1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/DogBubbleNov1214.png" style="margin:30px auto;display:block;" width="500" height="400">
 
 It all started with Alan Greenspan. Before Greenspan, Central Bankers were at best boring stuffy old men, and at worst, job destroying kill joys that worried too much about inflation and all the other things that might go wrong if they allowed monetary policy to run too loose. But Alan changed all that. During Greenspan’s tenure, the world experienced a unique set of twin disinflationary forces. The fall of the Berlin Wall combined with the rise of the Chinese manufacturing powerhouse, ushered in a new era where inflation was sent cowering into a corner. As these disinflationary forces were unleashed on America, Greenspan was faced with a choice. He could conduct monetary policy using the traditional guidelines. Or he could experiment with allowing monetary policy to run looser than normal due to the large global disinflationary forces that were holding down inflation. Of course Greenspan chose the latter, and in the process, made himself a hero, but also more ominously set off a series of bubbles followed by busts, followed by even larger bubbles, followed be even greater busts. But in the late 1990s most pundits didn’t realize this. To them Greenspan was one of the main architects of the new found American prosperity.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GreenspanNov1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/GreenspanNov1214.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/GreenspanNov1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/GreenspanNov1214.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 As our society has become more dependant on these financial asset bubbles, the mystique of Central Bankers has only increased. I doubt if 50 years ago most Americans would even recognize the name of the Central Bank chairman. Today the Chairman is giving 60 minutes’ interviews, or his (or her) face is being plastered on the cover of the mainstream news magazines. It has been made even worse by the fact that the partisan bickering within the Federal government has handcuffed any fiscal response. Central Banks have become the only game in town.
 
@@ -88,4 +88,4 @@ When we look back at this point in history, I think we will be amazed at how muc
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PositionsNov1214.png" style="margin:30px auto;display:block;" width="600" height="300">
+  <img src="http://themacrotourist.com/images/Azure/PositionsNov1214.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/PositionsNov1214.png" style="margin:30px auto;display:block;" width="600" height="300">

@@ -22,7 +22,7 @@ tags:
 I am still trying to piece together my estimate of the current sentiment in the bond market. There is no doubt that earlier in the year the consensus was quite bearish. And although there has been some movement during the latest squeeze higher, a lot of traders still seem squarely stuck in the bear camp. One example is the JP Morgan Treasury client survey. This survey measures client&#8217;s positioning against their respective benchmark.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPSurveyJun0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPSurveyJun0314.png" width="600" height="342" />JP Morgan Survey Net position (bottom histogram) vs US 10 Year Yield</a>
+  <img src="http://themacrotourist.com/images/Azure/JPSurveyJun0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JPSurveyJun0314.png" width="600" height="342" />JP Morgan Survey Net position (bottom histogram) vs US 10 Year Yield</a>
 </div>
 
 The number of surveyed JP Morgan clients showing underweight still greatly outnumbers those overweight. 
@@ -56,14 +56,14 @@ I have so far refrained on commenting about tomorrow&#8217;s ECB meeting. I can&
 > First rule of Euro trading; don&#8217;t trade the Euro. Second rule of Euro trading; don&#8217;t trade the Euro.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FightClubJun0414-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FightClubJun0414-1.png" width="400" height="300">
+  <img src="http://themacrotourist.com/images/Azure/FightClubJun0414-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FightClubJun0414-1.png" width="400" height="300">
 
 The Euro currency seems to follow no rhyme or reason. If it always did what you didn&#8217;t expect, then that would be fine. But it has an element of randomness that I (and obviously others) find baffling. 
 
 I don&#8217;t have a strong opinion about tomorrow&#8217;s meeting. The ECB is obviously going to cut rates, but how much is already built in is the real question.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/EURJun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/EURJun0414.png" width="600" height="342" />EUR trading over the past six months</a>
+  <img src="http://themacrotourist.com/images/Azure/EURJun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EURJun0414.png" width="600" height="342" />EUR trading over the past six months</a>
 </div>
 
 I worry that this analysis is too easy, but I think that the ECB is going to once again disappoint by not doing enough. 
@@ -83,4 +83,4 @@ I am not taking any new positions, but I think tomorrow&#8217;s ECB decision dis
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun0414.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJun0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJun0414.png" width="600" height="700"></p>

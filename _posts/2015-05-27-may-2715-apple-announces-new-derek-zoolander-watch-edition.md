@@ -14,7 +14,7 @@ tags:
   - Carl Icahn
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/BlueSteelWatch.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BlueSteelWatch.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/BlueSteelWatch.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BlueSteelWatch.png" width="600" height="342">
 
 Lately I have been worried Apple jumped the shark with the launch of the much anticipated Apple Watch. I firmly believe Steve Jobs would have never allowed such a half finished product out the door. And most importantly, he would have never in a million years coached Apple store staff to give f#%ng fashion advice to sell the product. From Fortune:
 
@@ -31,7 +31,7 @@ This fashion advice strategy hasn&#8217;t been working that well, so yesterday A
 Some market pundits are bemoaning Apple&#8217;s Zoolander tie up as they claim the watch is gaining all sorts of traction in the social media community. They argue it is getting a lot of &#8220;buzz&#8221; and doesn&#8217;t need the endorsement from a big star like Derek Zoolander. They cite the recent example of China&#8217;s richest man&#8217;s son&#8217;s dog who posted a picture to his 16,000 followers of the coolest new trend in the billionaire dog community:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DogwatchMay2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DogwatchMay2715.png" width="600" height="500">
+  <img src="http://themacrotourist.com/images/Azure/DogwatchMay2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DogwatchMay2715.png" width="600" height="500">
 
 These analysts claim Apple need not panic with a celebrity endorsement. They argue the fashion advice from Apple store employees is gaining a lot of positive feedback from appreciative patrons. In fact, these same analysts are suggesting Apple should leverage their &#8220;cool&#8221; factor and start selling jeans, t-shirts and crop tops. They claim the public would really &#8220;eat it up.&#8221; 
 
@@ -60,12 +60,12 @@ I don&#8217;t begrudge Apple taking advantage of rock bottom interest rates. I t
 Have a look at this list of top hedge fund holdings:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FactsetMay2715-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FactsetMay2715-1.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/FactsetMay2715-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FactsetMay2715-1.png" width="600" height="400">
 
 Apple is a top holding from all of our fast money friends. And it&#8217;s not just the hedge fund mopes who are falling all over themselves with Apple infatuation. Look at this screen shot from a recent CNBC piece:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AppleGenerationsMay2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/AppleGenerationsMay2715.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/AppleGenerationsMay2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/AppleGenerationsMay2715.png" width="600" height="342">
 
 What do you think about the chances Apple will be a top performer when _everyone_ is already long? 
 
@@ -76,7 +76,7 @@ What do you think about the chances Apple will be a top performer when _everyone
 Last week my favourite jackassactivist™ investor Carl Icahn got on CNBC to tout his $240 Apple price target and to bully Tim Cook into buying more stock back.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IcahnPleeb.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/IcahnPleeb.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/IcahnPleeb.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IcahnPleeb.png" width="600" height="342">
 
 Do you think Steve Jobs would have put up with this crap from Icahn? He would have told him to go pound sand. He would have never let himself be bullied into floating tons of debt to buy back stock. 
 

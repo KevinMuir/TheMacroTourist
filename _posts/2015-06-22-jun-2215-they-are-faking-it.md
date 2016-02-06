@@ -14,7 +14,7 @@ tags:
   - Fed
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/Fedunclog.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Fedunclog.png" width="500" height="400">
+  <img src="http://themacrotourist.com/images/Azure/Fedunclog.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Fedunclog.png" width="500" height="400">
 
 Last week, the Telegraph published an unusual article whose interviewee advocated the following:
 
@@ -25,14 +25,14 @@ Last week, the Telegraph published an unusual article whose interviewee advocate
 Who was this shaman inciting this sort of fear mongering? Was it _&#8220;banned from CNBC&#8221;_ Peter Schiff? Or crazy old Jim _&#8220;buy commodities&#8221;_ Rogers? Maybe the other Jim? Could it be _&#8220;currency wars&#8221;_ Rickards?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/LunaticsJun2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/LunaticsJun2215.png" width="600" height="275">
+  <img src="http://themacrotourist.com/images/Azure/LunaticsJun2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LunaticsJun2215.png" width="600" height="275">
 
 Surely this ominous warning must have come from one of these fringe financial lunatics. Holding physical cash? What charlatan suggests such a thing? Gold and silver? Doesn&#8217;t this guy know precious metals are headed to zero? What sort of rag has the Telegraph become? These ZeroHedge types never used to get published in real newspapers.
 
 But here&#8217;s the rub. This interview wasn&#8217;t with some financial doomsdayer. The quote was from Fidelity&#8217;s Ian Spreadbury. Ian is the one of Britain&#8217;s leading bond fund managers and is responsible for more than £4bn of investors&#8217; money. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IanJun2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/IanJun2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/IanJun2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IanJun2215.png" width="600" height="342">
 
 This is a serious fellow who is not prone to exaggerated predictions of disaster. In fact, he is going against his own and his employer&#8217;s interest by suggesting investors hold more cash and precious metals. There is no short term personal gain for him to warn about the financial system&#8217;s instability. 
 
@@ -51,12 +51,12 @@ It could unravel at any moment. And more importantly, it most likely will not un
 Don&#8217;t forget what the Fed has done to its balance sheet over the last half dozen years:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FARBASTJun2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FARBASTJun2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/FARBASTJun2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FARBASTJun2215.png" width="600" height="342">
 
 And it&#8217;s not like the Fed is alone. Have a look at the chart for the Big 3 Central Banks&#8217; balance sheets:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BIG3Jun2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BIG3Jun2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/BIG3Jun2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BIG3Jun2215.png" width="600" height="342">
 
 Central Bankers are throwing more and more money at the problem, yet the global economy just keeps slipping. The economic fire refuses to light even with the huge stacks of wood the Central Banks have heaped on. 
 
@@ -71,7 +71,7 @@ Over the week-end I listened to an interview on King World News (I can&#8217;t b
 I love that line. They are _faking it._ I couldn&#8217;t agree more. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FedOfficialsFaking.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FedOfficialsFaking.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/FedOfficialsFaking.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FedOfficialsFaking.png" width="600" height="400">
 
 These Central Bankers are completely and utterly lost. They have theories, but they are simply applying duct tape on the most recent point of failure. Not only that, they are slowly coming to terms with the realization about the monster Frankenstein disaster they have created. As Nomi said:
 

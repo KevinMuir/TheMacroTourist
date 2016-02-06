@@ -15,7 +15,7 @@ tags:
   - swap
 ---
 
-  <img src="http://themacrotourist.com/pictures/SwapNov1015.png" alt="http://themacrotourist.com/pictures/SwapNov1015.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/SwapNov1015.png" alt="http://themacrotourist.com/images/SwapNov1015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 One of my buddies tells me whenever I write about some esoteric fixed income indicator, he looks at the picture and then hits delete. I like to joke that I am the Playboy of market newsletters &#8211; everyone claims they read the articles, but we all know the only reason we open the magazine is for the pictures.
 
@@ -36,7 +36,7 @@ A swap involves credit risk, so it was generally believed that swap spreads woul
 As I was researching this piece, I was at first confused about why swap spreads were going _down_ during the latest credit crisis. Wasn’t a big short US swap spread one of the positions that sank Long Term Credit Management during the 1999 crisis?
 
 
-  <img src="http://themacrotourist.com/pictures/US30SPNov1015.png" alt="http://themacrotourist.com/pictures/US30SPNov1015.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/US30SPNov1015.png" alt="http://themacrotourist.com/images/US30SPNov1015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The move in 1999 made sense. The desire to own risk free treasuries overwhelmed all other instruments. Therefore the fact swap spreads that blew out was expected.
 
@@ -47,7 +47,7 @@ Some pundits claim the negative 30 year swap spread was the market’s verdict o
 But the problem is this peculiar pricing is no longer confined to the long end of the swap market. Although the 10 year swap went briefly negative in 2010, it quickly rebounded and has trended firmly above 0.00% for the past few years. Until now…
 
 
-  <img src="http://themacrotourist.com/pictures/US10SPNov1015.png" alt="http://themacrotourist.com/pictures/US10SPNov1015.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/US10SPNov1015.png" alt="http://themacrotourist.com/images/US10SPNov1015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Over the past month the US 10 year swap spread has plunged to new lows, eclipsing the negative rates during the 2009/10 period.
 
@@ -70,7 +70,7 @@ The banks’ balance sheets have been distorted so much through regulation that 
 Here is a chart of the one month LIBOR rate minus the one month general collateral rate:
 
 
-  <img src="http://themacrotourist.com/pictures/LGCNov1015.png" alt="http://themacrotourist.com/pictures/LGCNov1015.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/LGCNov1015.png" alt="http://themacrotourist.com/images/LGCNov1015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 It is obvious something is wrong here.
 

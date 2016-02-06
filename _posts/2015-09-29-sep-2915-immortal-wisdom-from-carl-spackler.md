@@ -17,7 +17,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/PlayingSep2915.png" alt="http://themacrotourist.com/pictures/PlayingSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/PlayingSep2915.png" alt="http://themacrotourist.com/images/PlayingSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Way back when in a former life, I was the trader in charge of the equity index derivative book for a big Canadian bank. I was young, probably too young, but computers were playing an increasingly large role in trading and the grizzled old veterans were still trying to figure out how to enter trades through a keyboard instead of phoning them down to the exchange. So there I was, twenty eight years old, running my array of SUN boxes, sending waves of program trades, trying to balance our positions in the myriad of new products that were hitting the markets. Then the Long Term Capital Management LTCM crisis hit. Until that point, I had read about crashes, but never experienced one (I was seventeen years old in 1987 and more interested in the latest New Order album than markets). The LTCM crisis took well over a month to play out, but I will never forget the worse day. Markets were melting and stocks had literally gone no bid. Trying to sell a few baskets would send the market crashing another 50 basis points. We were short a ton of gamma (we had sold volatility, along with LTCM and every other dealer under the sun) and were trying to hedge our delta on the way down, but it was moving down faster than we could sell it. Eventually we stopped selling, and tried to ride out the illiquid swoosh lower. At the absolute worse point, when I felt like I wanted to puke, my former boss (and good friend) from the traditional equity desk came over, slapped me on the back, and in his best Carl Spackler voice from Caddyshack said:
 
@@ -26,24 +26,24 @@ Way back when in a former life, I was the trader in charge of the equity index d
 I broke out in laughter. It was the perfect line considering the shelling we were taking, and I prayed our position would end better than the Bishop’s “best” golf game of his life.
 
 
-  <img src="http://themacrotourist.com/pictures/LightningSep2915.png" alt="http://themacrotourist.com/pictures/LightningSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/LightningSep2915.png" alt="http://themacrotourist.com/images/LightningSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 I sure hope that Glencore’s CEO Ivan Glasenberg had someone like my buddy from the traditional equity desk at his side yesterday to stay light hearted. Markets can be so stupid over the short run. When you are in the midst of irrational selling, there is nothing to do but sit back and laugh.
 
 Glencore had already declined from 300 pence in early May down to 125 pence last week when they issued $2.5 billion in stock via a rights offering to shore up the balance sheet. For a brief moment it looked like that might be the bottom, but the recent hawkish Fed talk has re-accelerated the selling.
 
 
-  <img src="http://themacrotourist.com/pictures/GLENSep2915.png" alt="http://themacrotourist.com/pictures/GLENSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/GLENSep2915.png" alt="http://themacrotourist.com/images/GLENSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 As the commodity rout has intensified, Glencore’s CDS has exploded higher.
 
 
-  <img src="http://themacrotourist.com/pictures/GLENCDSSep2915.png" alt="http://themacrotourist.com/pictures/GLENCDSSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/GLENCDSSep2915.png" alt="http://themacrotourist.com/images/GLENCDSSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Markets are busy pricing in the absolute worst for commodities. Yesterday Glasenberg lost half a billion dollars in net worth, but he was far from alone. The carnage in the commodity sector was epic. For example, Icahn’s most recent addition Freeport-McMoran has now given up all the crazy uncle Carl rally and is now pushing back to the lows:
 
 
-  <img src="http://themacrotourist.com/pictures/FCXSep2915.png" alt="http://themacrotourist.com/pictures/FCXSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/FCXSep2915.png" alt="http://themacrotourist.com/images/FCXSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 There can be no denying that commodity stocks are in the midst of a liquidation bordering on a crash. Yesterday’s action was ugly and had an overtone of panic to it.
 

@@ -14,7 +14,7 @@ Today is Canadian Thanksgiving, and there will be no MacroTourist post. I am tak
 I leave you with the immortal words of the great philosopher Ferris Bueller:
 
 
-  <img src="http://themacrotourist.com/pictures/FerrisOct0915.png" alt="http://themacrotourist.com/pictures/FerrisOct0915.png" style="margin:30px auto;display:block;" width="600" height="300">
+  <img src="http://themacrotourist.com/images/FerrisOct0915.png" alt="http://themacrotourist.com/images/FerrisOct0915.png" style="margin:30px auto;display:block;" width="600" height="300">
 
 Happy Thanksgiving!
   

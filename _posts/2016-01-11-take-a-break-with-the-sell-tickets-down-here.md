@@ -10,29 +10,29 @@ categories:
   - macro
 ---
 
-  <img src="http://themacrotourist.com/pictures/HelpJan1116.png" alt="http://themacrotourist.com/pictures/HelpJan1116.png" style="margin:30px auto;display:block;" width="500" height="600">
+  <img src="http://themacrotourist.com/images/HelpJan1116.png" alt="http://themacrotourist.com/images/HelpJan1116.png" style="margin:30px auto;display:block;" width="500" height="600">
 
 For the past month, financial markets have been acting increasingly squirrelly. Equity markets have experienced the worst start to a new year ever (from ZeroHedge):
 
 
-  <img src="http://themacrotourist.com/pictures/WorstJan1116.png" alt="http://themacrotourist.com/pictures/WorstJan1116.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/WorstJan1116.png" alt="http://themacrotourist.com/images/WorstJan1116.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Commodities like crude oil, are flirting with new lows or other ones like copper, have broken through to the downside. Signs of financial stress are everywhere. Indicators like the TED spread (Treasuries versus Eurodollars spread &#8211; essentially a measure of the difference of funding in the banking system versus risk free Treasuries) have almost doubled in the last couple of weeks:
 
 
-  <img src="http://themacrotourist.com/pictures/TEDJan1116.png" alt="http://themacrotourist.com/pictures/TEDJan1116.png" style="margin:30px auto;display:block;" width="800" height="500">
+  <img src="http://themacrotourist.com/images/TEDJan1116.png" alt="http://themacrotourist.com/images/TEDJan1116.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 Overseas things are even worse. The HIBOR overnight rate (the rate at which banks in Hong Kong lend to one another) spiked to 13.396% last night:
 
 
-  <img src="http://themacrotourist.com/pictures/HIBORJan1116.png" alt="http://themacrotourist.com/pictures/HIBORJan1116.png" style="margin:30px auto;display:block;" width="800" height="500">
+  <img src="http://themacrotourist.com/images/HIBORJan1116.png" alt="http://themacrotourist.com/images/HIBORJan1116.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 In the space of a few short weeks, we have gone from the bulls incessantly reassuring us how everything would be fine to a delude of negativity about how the world is about to end.
 
 This headline from Bloomberg is typical of the worry cascading through the market:
 
 
-  <img src="http://themacrotourist.com/pictures/NegJan1116.png" alt="http://themacrotourist.com/pictures/NegJan1116.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/NegJan1116.png" alt="http://themacrotourist.com/images/NegJan1116.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Why the sudden the flip in markets? Although all the former bulls are blaming China, they are missing the mark. Chinese market stress is merely a symptom of the real underlying cause.
 
@@ -49,29 +49,29 @@ These market moves are now on the verge of threatening the entire financial syst
 We are now dangerously close to this occurring. As I write this crude oil is down 6.7% and the S&P 500 has given up all its morning gains as stocks track oil lower. The deflationary pressures are intensifying at a fierce rate.
 
 The Fed claims they tune monetary policy solely for the US economy, but that&#8217;s just not true. One of my buddies [
-  <img src="http://themacrotourist.com/pictures/HelpJan1116.png" alt="http://themacrotourist.com/pictures/HelpJan1116.png" style="margin:30px auto;display:block;" width="500" height="600">
+  <img src="http://themacrotourist.com/images/HelpJan1116.png" alt="http://themacrotourist.com/images/HelpJan1116.png" style="margin:30px auto;display:block;" width="500" height="600">
 
 For the past month, financial markets have been acting increasingly squirrelly. Equity markets have experienced the worst start to a new year ever (from ZeroHedge):
 
 
-  <img src="http://themacrotourist.com/pictures/WorstJan1116.png" alt="http://themacrotourist.com/pictures/WorstJan1116.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/WorstJan1116.png" alt="http://themacrotourist.com/images/WorstJan1116.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Commodities like crude oil, are flirting with new lows or other ones like copper, have broken through to the downside. Signs of financial stress are everywhere. Indicators like the TED spread (Treasuries versus Eurodollars spread &#8211; essentially a measure of the difference of funding in the banking system versus risk free Treasuries) have almost doubled in the last couple of weeks:
 
 
-  <img src="http://themacrotourist.com/pictures/TEDJan1116.png" alt="http://themacrotourist.com/pictures/TEDJan1116.png" style="margin:30px auto;display:block;" width="800" height="500">
+  <img src="http://themacrotourist.com/images/TEDJan1116.png" alt="http://themacrotourist.com/images/TEDJan1116.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 Overseas things are even worse. The HIBOR overnight rate (the rate at which banks in Hong Kong lend to one another) spiked to 13.396% last night:
 
 
-  <img src="http://themacrotourist.com/pictures/HIBORJan1116.png" alt="http://themacrotourist.com/pictures/HIBORJan1116.png" style="margin:30px auto;display:block;" width="800" height="500">
+  <img src="http://themacrotourist.com/images/HIBORJan1116.png" alt="http://themacrotourist.com/images/HIBORJan1116.png" style="margin:30px auto;display:block;" width="800" height="500">
 
 In the space of a few short weeks, we have gone from the bulls incessantly reassuring us how everything would be fine to a delude of negativity about how the world is about to end.
 
 This headline from Bloomberg is typical of the worry cascading through the market:
 
 
-  <img src="http://themacrotourist.com/pictures/NegJan1116.png" alt="http://themacrotourist.com/pictures/NegJan1116.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/NegJan1116.png" alt="http://themacrotourist.com/images/NegJan1116.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Why the sudden the flip in markets? Although all the former bulls are blaming China, they are missing the mark. Chinese market stress is merely a symptom of the real underlying cause.
 

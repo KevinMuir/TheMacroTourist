@@ -21,7 +21,7 @@ tags:
 Oliver Stone&#8217;s movie Wall Street was released when I was seventeen years old. To say I liked it a little is akin to saying that Mayor Ford only has a small drinking problem. I loved it. I think I can still recite every line in the whole movie.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MartinSheenMay0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MartinSheenMay0814.png" width="400" height="250"></p> 
+  <img src="http://themacrotourist.com/images/Azure/MartinSheenMay0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MartinSheenMay0814.png" width="400" height="250"></p> 
 
 Over the years, my affection for the movie has changed. As I have grown older, I find myself more enamoured with Martin Sheen&#8217;s character. In an unusually terrific casting choice, Martin Sheen played the role of dad to his real life son Charlie&#8217;s character. Bud Fox&#8217;s dad did not have a big part, but there is one scene at the end of the movie that brings Oliver Stone&#8217;s whole message together. 
 
@@ -143,4 +143,4 @@ Also, while I am at it, I am going to clean up any calls that have not expired o
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsMay0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsMay0814.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsMay0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsMay0814.png" width="600" height="700"></p>

@@ -21,7 +21,7 @@ tags:
 Friday’s terrific US employment report sure has brought out the victory laps by all the neo-classical economists who have for the past half dozen years steadfastly stood by Bernanke & Co.’s policies. Their jubilant attitude can best be summed up by Matt Busigin’s terrific piece titled [“Only Bernanke knew Oil is not inflation”](http://www.macrofugue.com/only-bernanke-knew-oil-is-not-inflation/). It is actually a good article, and even if you are the ZeroHedge “I only want to hear bad news” type, you should do yourself a favour and read it.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BernankeDec0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/BernankeDec0814.png" style="margin:30px auto;display:block;" width="500" height="400">
+  <img src="http://themacrotourist.com/images/Azure/BernankeDec0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/BernankeDec0814.png" style="margin:30px auto;display:block;" width="500" height="400">
 
 The crux of the article is that Bernanke was justified to not worry about aggressively expanding the balance sheet during the past few years.
 
@@ -94,7 +94,7 @@ Lately I have been worried that the global slowdown would spill over into the US
 It is no wonder that US short term yields are breaking out to new highs.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US2Dec0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/US2Dec0814.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/US2Dec0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/US2Dec0814.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The US economy appears immune to the rest of the global slowdown. The fact that the US dollar exploded to the upside on Friday should surprise no one.
 
@@ -103,14 +103,14 @@ Yet, as I sat there watching the sharp move higher, it reminded me of a previous
 Here was the action in the US dollar index on that day.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYOct0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/DXYOct0714.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/DXYOct0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/DXYOct0714.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 It ended up being an “all baked in” situation, and [I learned the hard way about covering on a Friday afternoon.](http://gfbblogs.azurewebsites.net/blog/2014/10/07/oct-0714-the-mopes-chased-the-us-dollar-higher-on-friday-me-included/)
 
 This got me thinking &#8211; maybe this pattern is more common than most realize. So I made up a chart of the US dollar index and included the employment reports.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYDec0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/DXYDec0814.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/DXYDec0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/DXYDec0814.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 What I noticed was that although the US dollar did not always sell off after the report, it very rarely took off in the day following the employment report. Often the best you get is a week of sideways action, with the occasional more serious pause.
 

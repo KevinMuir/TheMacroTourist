@@ -19,14 +19,14 @@ tags:
   - yield curve
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/Dontpushluck.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Dontpushluck.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/Dontpushluck.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Dontpushluck.png" width="600" height="400">
 
 I am a little bit of a fence sitter when it comes to technical analysis. Although I acknowledge there are aspects of technical analysis that work, my main complaint is that technical analysts try to explain every squiggle when more often than not, it is completely random. In my previous life as an index trader we used to get big orders that pushed around the entire stock market. Sometimes as we moved up or down the market, we would reach a point where another big client would fill our order. All of a sudden, the market might go from being better bid to offered, as our new seller would continue leaning on it. Later that evening when I would go home and turn on the business news, I would sometimes see a technical analyst talking about how the market reached an important Fibonacci level and couldn&#8217;t break through resistance. Well, I was part of the discussion persuading the seller to plug our buyer, and I knew full well that Fibonacci levels and every other technical indicator under the sun has absolutely zero influence. I don&#8217;t think technical analysis never works, I just don&#8217;t think it can be used to explain all the random price movements.
 
 Yet sometimes you see a pattern that happens so often, it is difficult to believe it is random. For example, take the recent 100 day moving average of the US stock market.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXJun3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SPXJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPXJun3015.png" width="600" height="342">
 
 The ovals represent all the times the S&P 500 dipped below the 100 day moving average. Of course that could be a random pattern, but it also could represent a level where a big buyer (or multiple buyers) has decided to put money to work.
 
@@ -67,7 +67,7 @@ Whatever the rule, I am convinced the Central Banks have one. And this 100 day m
 Another reason to be careful on the short side of the equity market is that the VXV/VIX ratio has entered a region where stocks often bounce.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VXVVIXJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/VXVVIXJun3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/VXVVIXJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/VXVVIXJun3015.png" width="600" height="342">
 
 The VXV is the 3 month VIX, and when the ratio declines, it signifies that traders are paying up for near term protection. This can often mark the bottom in the stock market decline.
 
@@ -78,14 +78,14 @@ The VXV is the 3 month VIX, and when the ratio declines, it signifies that trade
 Yesterday&#8217;s big move down in the S&P 500 prompted me to dust off my Gold/S&P 500 ratio chart:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GLDSPXJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSPXJun3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GLDSPXJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GLDSPXJun3015.png" width="600" height="342">
 
 So far the range of the past few months is still holding. Although I might be advocating being careful on stock market shorts over the next few days, longer term, I think this ratio is a screaming buy.
 
 I know it is trendy in the financial twitter community to shit all over the gold bulls, but this trend is getting long in the tooth.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GLDSPXLTJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GLDSPXLTJun3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/GLDSPXLTJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GLDSPXLTJun3015.png" width="600" height="342">
 
 Do you really want to be betting on this trend continuing? Maybe you do. Maybe you think this fad of Central Banks buying equities and corporations issuing tons of debt to lever up the balance sheet with equity buybacks can continue forever. Maybe you think this will all end well. Maybe you are a believer Central Banks know what they are doing. Then by all means, keep shorting gold and buying equities. It is lonely, but I will be there to show you a bid&#8230;
 
@@ -98,19 +98,19 @@ Before the days of ZIRP (zero interest rate policy) and QE (quantitative easing)
 Although Chinese debt markets are young and not fully developed, we can still monitor their yield curve movements. Recently there is a lot of concern about the slowing Chinese economy. More than one person emailed yesterday to suggest last week&#8217;s Chinese stock market decline was more important than Greece. I too share in this concern. There doesn&#8217;t seem to be any signs that their economy is bottoming. Have a look at the latest &#8220;Chinese worry of the day.&#8221; 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ChinaRebarJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ChinaRebarJun3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ChinaRebarJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ChinaRebarJun3015.png" width="600" height="342">
 
 But if there is something to be hopeful about, it is the recent movement of the Chinese yield curve.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/China110Jun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/China110Jun3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/China110Jun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/China110Jun3015.png" width="600" height="342">
 
 The curve is steepening. That is a good sign.
 
 We are now almost as steep as right after the 2008 credit crisis.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/China110LTJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/China110LTJun3015.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/China110LTJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/China110LTJun3015.png" width="600" height="342">
 
 I am still worried about China, don&#8217;t get me wrong. But maybe the curve is telling us the PBOC is on top of it&#8230;
 

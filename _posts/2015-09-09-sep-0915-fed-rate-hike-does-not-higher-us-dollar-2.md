@@ -15,7 +15,7 @@ tags:
   - US dollar
 ---
 
-  <img src="http://themacrotourist.com/pictures/SnapBackSep0815.png" alt="http://themacrotourist.com/pictures/SnapBackSep0815.png" style="margin:30px auto;display:block;" width="400" height="600">
+  <img src="http://themacrotourist.com/images/SnapBackSep0815.png" alt="http://themacrotourist.com/images/SnapBackSep0815.png" style="margin:30px auto;display:block;" width="400" height="600">
 
 During August, the MacroTourist purposely tried to stay away from the screens. Over the years I have found that if I work during my vacation, I trade like crap, and in the meantime, ruin my time off. But this summer, even though I kept my positions to a minimum, I still found some time to read a little research and market blogs.
 
@@ -28,7 +28,7 @@ Especially when what everyone is afraid of does not even mesh with past experien
 Have a look at this great chart from JP Morgan’s David Kelly:
 
 
-  <img src="http://themacrotourist.com/pictures/USDSep0815.png" alt="http://themacrotourist.com/pictures/USDSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/USDSep0815.png" alt="http://themacrotourist.com/images/USDSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Although the 1998 tightening cycle did eventually result in a sustained US dollar bull move (but only after a small sell off), the other two cycles were the start of bear moves. **A Fed that is raising rates is by no means a guarantee of a strong US dollar.**
 
@@ -47,14 +47,14 @@ Currently the market is convinced that higher US rates equals higher US dollar. 
 Following the 2008 credit crisis, copper and emerging markets equities seemed to be joined at the hip. From 2009 to 2013 they traded tick for tick. Then in 2014 copper started sinking. At the same time, the financial markets’ bid leaked into emerging markets equities and caused an “unsupported by the fundamentals” rally. This divergence lasted for all of 2014, and before this summer, was still fairly wide.
 
 
-  <img src="http://themacrotourist.com/pictures/EEMSep0815.png" alt="http://themacrotourist.com/pictures/EEMSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/EEMSep0815.png" alt="http://themacrotourist.com/images/EEMSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 However this summer the financial markets’ bid finally filled in. Emerging markets equities were hit especially hard, and the EEM ETF lost more than 30%. The combination of global equity markets sinking combined with the atrocious performance of emerging markets’ currencies caused some real carnage. In doing so, the divergence between EEM and copper completely closed.
 
 For the first time in a couple of years, you can buy emerging markets equities with little ‘good news’ priced in. I know everyone hates emerging markets and that China will implode to zero, but ask yourself what Baron Rothschild would be doing…
 
 
-  <img src="http://themacrotourist.com/pictures/BaronSep0915.png" alt="http://themacrotourist.com/pictures/BaronSep0915.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/BaronSep0915.png" alt="http://themacrotourist.com/images/BaronSep0915.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Thanks for reading,
   

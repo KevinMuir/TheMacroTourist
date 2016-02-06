@@ -23,17 +23,17 @@ I am writing this before the release of the big unemployment report this morning
 Yesterday the US dollar pushed to new highs after breaking out cleanly to the upside the previous day. But yesterday’s move higher was rejected, and we ended up sliding back down to the breakout level. I think this has the possibility of being a classic “pop and drop.” This pattern is comprised of a pop higher that lacks follow through, and it quickly drops back into the range. The move into new highs ends up not being nearly as stable as the bulls anticipated, and the foundation crumbles underneath them.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/unstableDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/unstableDec0414.png" style="margin:30px auto;display:block;" width="600" height="442">
+  <img src="http://themacrotourist.com/images/Azure/unstableDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/unstableDec0414.png" style="margin:30px auto;display:block;" width="600" height="442">
 
 But let’s not kid ourselves. From a purely technical perspective, I am reaching. Although yesterday wasn’t the cleanest action out there, the trend is clearly higher.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DXYDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/DXYDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/DXYDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/DXYDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 But then again, at this point the US dollar bull trend is so well established, we have to ask ourselves; who isn’t long US dollars? Who is left to buy? Have a look at the total speculative positioning of the notional value of the sum of the various CME currency contracts versus the US dollar.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USDSpecsDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/USDSpecsDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/USDSpecsDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/USDSpecsDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 This trade is one of the most crowded trades out there. Now that doesn’t mean it has to end. In fact, during the really big moves, the specs often get positioned right and hang on for a long time. There is a chance that this is one of those cases where over thinking is only going to cause a world of hurt.
 
@@ -42,7 +42,7 @@ Yet if you are going to be trading the US dollar from the long side, make sure w
 The US dollar bulls are assuming that the Fed’s recent withdrawal of liquidity and the backing up of US short rates, while the rest of the world collapses in a deflationary slump, will continue. They are assuming that US economy will prove immune to this recent economic cold that the rest of the world seems to have caught.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USPMIDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/USPMIDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/USPMIDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/USPMIDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 The US economy does indeed seem to have decoupled from the world economy. But how realistic is for this trend to continue?
 
@@ -59,10 +59,10 @@ At this point we finally ticked at the 120 USDJPY big figure. I don’t believe 
 When the Abe embarked on his expansionary mad science experiment, the Yen was uniformly acknowledged to be overvalued. Today the Yen is more than 50% cheaper than from the start of Abecnomics, and is actually undervalued on a purchasing power parity basis.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PPPDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/PPPDec0414.png" style="margin:30px auto;display:block;" width="600" height="450">
+  <img src="http://themacrotourist.com/images/Azure/PPPDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/PPPDec0414.png" style="margin:30px auto;display:block;" width="600" height="450">
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/YenDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/pictures/Azure/YenDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/YenDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/YenDec0414.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 At this point, further weakness has the potential of spinning out of control and doing more harm than good. I think the Japanese are going to want to get a hold of this decline and pause it.
 

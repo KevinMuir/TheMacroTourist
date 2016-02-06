@@ -16,7 +16,7 @@ tags:
   - Tsipras
 ---
 
-  <img src="http://themacrotourist.com/pictures/TsiprasJul1315.png" alt="http://themacrotourist.com/pictures/TsiprasJul1315.png" style="margin:30px auto;display:block;" width="600" height="550">
+  <img src="http://themacrotourist.com/images/TsiprasJul1315.png" alt="http://themacrotourist.com/images/TsiprasJul1315.png" style="margin:30px auto;display:block;" width="600" height="550">
 
 Late last night when I was driving home from the cottage, I was listening to the Asian edition of Bloomberg TV on the satellite radio. It was past 11pm Eastern time, but I was amazed that Merkel, Hollande and Tsipras were still having meetings. It was four in the morning in Europe, yet these three were still talking. At that point a ‘Grexit’ was looking like the most likely outcome, and I assumed they were simply discussing ways to minimize the damage.
 
@@ -31,7 +31,7 @@ But Tsirpras’ next move was the truly shocking development. I assumed that sin
 We now know that the Greek government officials are not some master game theory tacticians, but instead the biggest bunch of riverboat gamblers since Austin Powers hit the blackjack tables.
 
 
-  <img src="http://themacrotourist.com/pictures/Ialsoliketo.png" alt="http://themacrotourist.com/pictures/Ialsoliketo.png" style="margin:30px auto;display:block;" width="600" height="375">
+  <img src="http://themacrotourist.com/images/Ialsoliketo.png" alt="http://themacrotourist.com/images/Ialsoliketo.png" style="margin:30px auto;display:block;" width="600" height="375">
 
 The arrogance of these jokers is unbelievable. It is one thing to drive a hard bargain because you are prepared to accept the consequences of a ‘no deal’ conclusion, but it is entirely another thing to just assume the other side will eventually fold because you think they ‘need a deal more than you.’
 
@@ -72,7 +72,7 @@ I don’t think you want to buy the rally on the hope Greece is solved. The mark
 I don’t know how to handicap Tsipras’ marital status either, but you have to assume that given his complete capitulation to Merkel, Tsipras is going to spend some time on the couch.
 
 
-  <img src="http://themacrotourist.com/pictures/TsiprasWifeJul1315.png" alt="http://themacrotourist.com/pictures/TsiprasWifeJul1315.png" style="margin:30px auto;display:block;" width="600" height="600">
+  <img src="http://themacrotourist.com/images/TsiprasWifeJul1315.png" alt="http://themacrotourist.com/images/TsiprasWifeJul1315.png" style="margin:30px auto;display:block;" width="600" height="600">
 
 Even if Tsipras manages to stay in his family home, and somehow gets the deal through the Greek parliament, then Greece is going to suffer from a depression that will ultimately have them begging for even more money. This deal is **not a solution** and therefore you shouldn’t be buying European risk assets on the hopes the ‘Grexit’ worries are behind us.
 

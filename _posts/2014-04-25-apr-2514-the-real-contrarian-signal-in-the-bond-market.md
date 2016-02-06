@@ -44,7 +44,7 @@ Therefore I read the following piece from the very thoughtful Jim Bianco with so
 This unanimous agreement that interest rates are headed higher is concerning. Economists&#8217; ability to correctly forecast the economy has about the same success rate as Lindsay Lohan&#8217;s rehab attempts.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/LindsayLohanMugShots.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/LindsayLohanMugShots.png" width="600" height="200" />Lindsay&#8217;s mug shots over the years</a>
+  <img src="http://themacrotourist.com/images/Azure/LindsayLohanMugShots.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LindsayLohanMugShots.png" width="600" height="200" />Lindsay&#8217;s mug shots over the years</a>
 </div>
 
 I agree with Jim that when the economists all agree, the chances of them being right is very low. 
@@ -54,7 +54,7 @@ The contrarian in me is attracted to the idea that maybe Treasuries are about to
 In fact, even if the 10 year rate merely follows the implied forward rate, the economists are going to be spectacularly wrong. Have a look at the economists forecasts versus the implied forward yield:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ForecastImplied10Apr2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ForecastImplied10Apr2514.png" width="600" height="342" />Implied Forward Yield (yellow line) vs forecasts</a>
+  <img src="http://themacrotourist.com/images/Azure/ForecastImplied10Apr2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ForecastImplied10Apr2514.png" width="600" height="342" />Implied Forward Yield (yellow line) vs forecasts</a>
 </div></p> 
 
 There is a large amount of bearishness built into the economists&#8217; forecasts. But what about actual positioning amongst market participants? Is this pessimism translating into short positions in the bond market?
@@ -62,7 +62,7 @@ There is a large amount of bearishness built into the economists&#8217; forecast
 Here is the CBOT 10 Year bond future net speculator positioning:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TYNetApr2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TYNetApr2514.png" width="600" height="342" />CBOT 10 Year net speculator positioning</a>
+  <img src="http://themacrotourist.com/images/Azure/TYNetApr2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TYNetApr2514.png" width="600" height="342" />CBOT 10 Year net speculator positioning</a>
 </div></p> 
 
 Although they are leaning short, the overwhelming negativity towards the Treasury market is not translating into all time net short positions amongst the speculators. Speculators were more short in March of 2012 and also in April of 2010. 
@@ -84,7 +84,7 @@ And he wasn&#8217;t alone. Famed asshat Nassim Taleb said the following:
 The date for that trade that &#8220;every human being&#8221; should have on? February 4th, 2010. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US10YRApr2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US10YRApr2514.png" width="600" height="342" />US 10 Year Yield</a>
+  <img src="http://themacrotourist.com/images/Azure/US10YRApr2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/US10YRApr2514.png" width="600" height="342" />US 10 Year Yield</a>
 </div>
 
 It wasn&#8217;t only these two hedge fund managers that were bearish &#8211; it was a very popular trade. And I don&#8217;t mean to imply that I didn&#8217;t fall for the same &#8220;QE is inflationary&#8221; worry. I too was bearish on Treasuries at this point (although I would have never recommended that every human being should have the trade on&#8230; then again, I am not as smart as Nassim so I can&#8217;t make those sorts of recommendations.)
@@ -102,7 +102,7 @@ I am not sure if I am talking my book, but I am inclined to dismiss Jim Bianco&#
 Maybe I am getting too cute, and maybe the Market Gods will punish me for even thinking this thought, but I do agree with Jim Bianco that since all the economists think one thing &#8211; something else is going to happen. What about the potential that they are all not nearly bearish enough? After all, when you step back and think about their 3.72% forecast for the end of 2015, and then compare it to the long term chart of 10 year rates&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US10YRLTApr2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US10YRLTApr2514.png" width="600" height="342" />US 10 Year Yield long term chart</a>
+  <img src="http://themacrotourist.com/images/Azure/US10YRLTApr2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/US10YRLTApr2514.png" width="600" height="342" />US 10 Year Yield long term chart</a>
 </div>
 
 Maybe the fact that we haven&#8217;t heard from our favourite asshat recommending the trade that &#8220;every human being should have on&#8221; anymore is the real contrarian signal.
@@ -112,4 +112,4 @@ Maybe the fact that we haven&#8217;t heard from our favourite asshat recommendin
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr2514.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsApr2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsApr2514.png" width="600" height="700"></p>

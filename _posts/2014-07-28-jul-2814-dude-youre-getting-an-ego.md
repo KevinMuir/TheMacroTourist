@@ -24,7 +24,7 @@ tags:
 Although it seems hard to imagine, there was a time when Dell was a cool company. Actually it wasn&#8217;t just a cool company &#8211; it was _the cool company._ Everyone wanted a DELL personal computer. They had a great marketing campaign with a hip young kid proclaiming &#8211; &#8220;Dude you&#8217;re getting a DELL!&#8221;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DellJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DellJul2814.png" width="400" height="342"></p> 
+  <img src="http://themacrotourist.com/images/Azure/DellJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DellJul2814.png" width="400" height="342"></p> 
 
 In a testament to how long it has been, the character of slacker Steve was played by Ben Curtis who gained notoriety when he was busted on the Lower East side trying to buy some weed. Today buying some weed is barely headline news for anyone but the Pope or the President. But this was during the early 2000s, and at that time, Dell computers were still really cool and most of American drug policies were still strangely Nancy Raegan-esque. 
 
@@ -41,7 +41,7 @@ Today Dell is a nondescript computer box maker that has struggled to remain rele
 Although after Michael Dell&#8217;s comments Apple did struggle to retool itself and the Dell stock price continued to move higher, eventually the lack of hubris from Dell was recognized by the stock market.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AAPLDELLJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/AAPLDELLJul2814.png" width="600" height="342" />Apple mkt cap (white line) vs DELL market cap (yellow line)</a>
+  <img src="http://themacrotourist.com/images/Azure/AAPLDELLJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/AAPLDELLJul2814.png" width="600" height="342" />Apple mkt cap (white line) vs DELL market cap (yellow line)</a>
 </div>
 
 I don&#8217;t mean to pick on Michael Dell, but this weekend my best old friend was in town and we were chatting about different things. One of our discussions resolved around how it is important to remain humble. So many mistakes in life are made by those that think they know better. Just when you think you know something, life gives you a kick to remind you that you are all too human. It doesn&#8217;t matter if you are a multi-billionaire computer CEO or some hack macro trader like me, the moment you think you know something is the moment you are going to fail.
@@ -63,11 +63,11 @@ After taking off the position and clearing my head of these insidious thoughts, 
 On Friday, for the first time in a while, I got the sense that the market was getting tired. We had some bad earnings results from Visa and Amazon that _actually resulted in the stocks going down_. Previously even bad results were met with muted selling, but these two big companies were sold hard.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/VJul2814.png" width="600" height="342" />V 2 day chart</a>
+  <img src="http://themacrotourist.com/images/Azure/VJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/VJul2814.png" width="600" height="342" />V 2 day chart</a>
 </div>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AMZNJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/AMZNJul2814.png" width="600" height="342" />AMZN 2 day chart</a>
+  <img src="http://themacrotourist.com/images/Azure/AMZNJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/AMZNJul2814.png" width="600" height="342" />AMZN 2 day chart</a>
 </div>
 
 There are a ton of worrisome indicators, but I don&#8217;t want to bother with those as a lot of them have been flashing red for the past few weeks. 
@@ -75,7 +75,7 @@ There are a ton of worrisome indicators, but I don&#8217;t want to bother with t
 What I would like to focus on is the fact that the market is acting heavy, and the trading has set up one of my favourite patterns. I like to call this pattern the &#8220;Pop and Drop&#8221;:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXJul2814.png" width="600" height="342" />S&P 500 chart</a>
+  <img src="http://themacrotourist.com/images/Azure/SPXJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPXJul2814.png" width="600" height="342" />S&P 500 chart</a>
 </div>
 
 In this pattern we get a move to new highs that quickly rolls over and heads back into the range. It &#8220;pops&#8221; to new highs, and then &#8220;drops&#8221; back into the range.
@@ -107,19 +107,19 @@ This week-end&#8217;s CFTC reporting has confirmed my theory that the hedge fund
 Let&#8217;s start with the bad news. The speculative position in Corn is still net long, but at least it is declining:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CORNJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CORNJul2814.png" width="600" height="342" />CORN spec position</a>
+  <img src="http://themacrotourist.com/images/Azure/CORNJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CORNJul2814.png" width="600" height="342" />CORN spec position</a>
 </div></p> 
 
 The better news is that Soybeans have flipped over to a net speculative short position for the first time since 2012.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BEANSJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BEANSJul2814.png" width="600" height="342" />SOYBEANS spec position</a>
+  <img src="http://themacrotourist.com/images/Azure/BEANSJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BEANSJul2814.png" width="600" height="342" />SOYBEANS spec position</a>
 </div></p> 
 
 And the best news is that specs are now solidly short wheat.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/WHEATJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/WHEATJul2814.png" width="600" height="342" />WHEAT spec position</a>
+  <img src="http://themacrotourist.com/images/Azure/WHEATJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/WHEATJul2814.png" width="600" height="342" />WHEAT spec position</a>
 </div>
 
 The hedge funds are now hopefully gone and the time to pick up some cheap grains is shining bright.
@@ -129,4 +129,4 @@ The hedge funds are now hopefully gone and the time to pick up some cheap grains
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJul2814.png" width="600" height="450"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJul2814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJul2814.png" width="600" height="450"></p>

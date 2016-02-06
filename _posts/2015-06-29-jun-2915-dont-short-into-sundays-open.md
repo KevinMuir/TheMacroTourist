@@ -15,7 +15,7 @@ tags:
   - Greece
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/LennonSundayOpen.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/LennonSundayOpen.png" width="600" height="700">
+  <img src="http://themacrotourist.com/images/Azure/LennonSundayOpen.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LennonSundayOpen.png" width="600" height="700">
 
 Friday night&#8217;s surprise from Greek Prime Minister&#8217;s Tsipras certainly threw the markets for a loop. After what seemed like an endless series of deadline extensions, the Europeans finally told the Greeks to shit or get off the pot. In what had surely been the plan all along, the Greek government quickly called a referendum to let the Greek people decide if they should accept the proposed deal. This was a brilliant strategic move by the Greek government. There was little chance the Europeans would acquiesce to all the Greek&#8217;s demands, so at a certain point, an imperfect deal would have to either be accepted or declined. Either way, the Greek government would be blamed. It was a no-win situation for them. So instead of displeasing everyone, they threw the decision back to the Greek people. They in essence said &#8220;we have negotiated the best deal we can for you, now you decide if you want it or not.&#8221; Shrewd. 
 
@@ -24,14 +24,14 @@ The Europeans were once again caught completely flat footed. And here in lies th
 With all this uncertainty, the Greeks were forced to announce their banks would not be opening Monday morning. The markets did not take this well.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ESGIPJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ESGIPJun2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ESGIPJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ESGIPJun2915.png" width="600" height="342">
 
 Sunday night&#8217;s open was 40 handles lower on the S&P 500. 
 
 And a flight to quality gapped the US Treasury market higher.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TYAGIPJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TYAGIPJun2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/TYAGIPJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TYAGIPJun2915.png" width="600" height="342">
 
 Although stocks are still lower and bonds higher from Friday&#8217;s close, the worse levels were seen right near the open on Sunday night. 
 
@@ -88,7 +88,7 @@ Everyone is focused on the Greek news, but over the week-end there was also some
 Many financial pundits are claiming the cut was in response to the recent drubbing in the Chinese stock market.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SHCOMPJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SHCOMPJun2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SHCOMPJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SHCOMPJun2915.png" width="600" height="342">
 
 Over the past two weeks Chinese stocks are down 25%! That is ugly. No couching that in a positive light. 
 
@@ -109,7 +109,7 @@ I don&#8217;t know if a collapsing stock market was the _reason_ for the cut, or
 There had been some hope that China was about to experience an economic uptick. Remember the Druckenmiller argument the stock market rise signalled a coming economic boom? ([April 27/15 &#8211; Druckenmiller says &#8220;Don&#8217;t Fade the Banana Stand Guy&#8221;](http://themacrotourist.com/blog/2015/04/27/apr-2715-druckenmiller-says-dont-fade-the-banana-stand-guy/)) There were definitely some hopeful signs. Industrial metals, which had been going down for years (and in the past have mirrored Chinese growth), appeared to bottom.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IndustrialJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/IndustrialJun2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/IndustrialJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IndustrialJun2915.png" width="600" height="342">
 
 We had a month of a solid rise, but over the past few weeks, it has slumped back to the lows. I know the Chinese economy is in the process of transforming from an export and infrastructure based economy, and this transformation will make their growth less correlated to industrial metals, but I don&#8217;t think the Chinese economy will bottom with this indicator hitting new lows. 
 
@@ -118,12 +118,12 @@ So what is going on? Why can&#8217;t China get off the mat? I think the answer i
 China has a soft peg to the US dollar. As the US dollar has rallied over the past year, the Chinese Yuan has come along for the ride. Have a look at this trade weighted index of the Yuan:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TradeYUANJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TradeYUANJun2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/TradeYUANJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TradeYUANJun2915.png" width="600" height="342">
 
 The Chinese currency is relentlessly being driven higher. This is weighing heavily on their economy. We have now hit a point where the Yuan is so expensive that instead of China accumulating foreign exchange reserves, they are _flowing out._
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/ChinaReservesJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/ChinaReservesJun2915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ChinaReservesJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ChinaReservesJun2915.png" width="600" height="342">
 
 Why is China allowing this to happen? The Chinese government is attempting to rebalance their economy. They want to become less dependant on exports. A stronger Yuan is one way to achieve this. 
 

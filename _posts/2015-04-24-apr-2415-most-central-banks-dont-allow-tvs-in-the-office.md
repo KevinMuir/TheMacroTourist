@@ -18,7 +18,7 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/AudiApr2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/AudiApr2415.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/AudiApr2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/AudiApr2415.png" width="600" height="400">
 
 This morning the EU finance ministers met in Latvia for another of their ongoing talks about the Greek financial crisis. In a somewhat childish display, the frustration of the European leaders clearly shone through with the leaked reports about the meeting.
 
@@ -51,7 +51,7 @@ We are in a monster game of chicken. The Greeks have repeatedly told the EU that
 Yesterday the Nasdaq closed at an all time high. You would think that this would be reason for excitement. Yet the feeling in the market is somewhat muted. There is no frothy exuberance. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NDXApr2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NDXApr2415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/NDXApr2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/NDXApr2415.png" width="600" height="342">
 
 There seem to be precious few celebrating the move to new highs. 
 
@@ -60,14 +60,14 @@ And why is this? Why aren&#8217;t we experiencing the same euphoria as during th
 The answer came be summed up by the next few charts. Have a look at the equity flows over the past few years. Pay special attention to 2014 and 2015. Apart from one month, they have all been outflows. And not only are they outflows, but they have been big ones.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DomesticApr2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DomesticApr2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/DomesticApr2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DomesticApr2215.png" width="600" height="342">
 
 The public has been selling this rally, not buying it. They have been taking chips off the table, not adding to it.
 
 But then, who is buying? That answer can be found in the next chart. This graph measures the equity flows of buybacks in the S&P 500 versus investor flows.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/buybacksApr2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/buybacksApr2215.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/buybacksApr2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/buybacksApr2215.png" width="600" height="342">
 
 Notice how during the DotCom bubble in the late 1990s the buybacks were actually _smaller_ than the domestic equity flows by investors? Then contrast that to the experience of the last decade where the buybacks _dwarf_ the investor flows.
 
@@ -118,7 +118,7 @@ It is not like the Swiss National Bank is alone in their equity purchases. There
 All of this explains why we have so little excitement as the Nasdaq hits new all time highs. The biggest buyers are companies re-levering their balance sheets and Central Banks. No wonder CNBC&#8217;s viewership is suffering so badly, most Central Banks don&#8217;t allow TVs in the office&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CNBCApr2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CNBCApr2415.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CNBCApr2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CNBCApr2415.png" width="600" height="342">
 
 Thanks for reading and have a great wk-end,
   

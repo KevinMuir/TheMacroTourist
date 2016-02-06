@@ -24,7 +24,7 @@ Over the past few years, there has been a high correlation between the US 10 yea
 Here is the chart of the USDJPY versus the US 10 Year Treasury bond yield over the past few months.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPY10YRJun0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPY10YRJun0314.png" width="600" height="342" />US 10 Yr Yield (yellow line) vs USDJPY (white bar)</a>
+  <img src="http://themacrotourist.com/images/Azure/JPY10YRJun0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JPY10YRJun0314.png" width="600" height="342" />US 10 Yr Yield (yellow line) vs USDJPY (white bar)</a>
 </div>
 
 I am not sure which asset is leading and which is following, but the US 10 year yields and USDJPY rate have basically traded on top of one another during this period.
@@ -32,7 +32,7 @@ I am not sure which asset is leading and which is following, but the US 10 year 
 When you step back a little further, you will notice that this relationship goes through periods where the two assets separate for a time, but that they have so far eventually reverted back.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPY10YRLTJun0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPY10YRLTJun0314.png" width="600" height="342" />US 10 Year Yield (yellow line) vs USDJPY (white bar)</a>
+  <img src="http://themacrotourist.com/images/Azure/JPY10YRLTJun0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JPY10YRLTJun0314.png" width="600" height="342" />US 10 Year Yield (yellow line) vs USDJPY (white bar)</a>
 </div>
 
 Like many other correlations, this relationship has slightly broken down over the last month. Bonds have rallied sending yields lower, but the Yen has so far refused to rise (lower USDJPY rate). 
@@ -52,7 +52,7 @@ However the best trades are often taking the other side of the &#8220;in your fa
 Last week we had a big push that drove US 10 year yields down to 2.40%. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US10YRJun0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US10YRJun0314.png" width="600" height="342" />US 10 Year Treasury Yields</a>
+  <img src="http://themacrotourist.com/images/Azure/US10YRJun0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/US10YRJun0314.png" width="600" height="342" />US 10 Year Treasury Yields</a>
 </div>
 
 Since then the bond market has sold off rather aggressively. Could that rally have been the final push on this short covering move?
@@ -78,4 +78,4 @@ Right now the market is ignoring the fighting, but given the escalation, I wonde
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun0314.png" width="600" height="725"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJun0314.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJun0314.png" width="600" height="725"></p>

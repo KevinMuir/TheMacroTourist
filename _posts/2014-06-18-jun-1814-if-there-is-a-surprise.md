@@ -35,7 +35,7 @@ It is easy to dismiss this development as a response unique to the UK. There is 
 But at the same time, there is _way too much_ pessimism regarding the US&#8217; economic outlook and _way too much_ optimism in regard to inflation staying subdued. The Taylor rule model, which quantifies an appropriate Fed Funds rate given these inputs, removes the emotion and boils down appropriate policy to a cold hard number.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TAYLORJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TAYLORJun1814.png" width="600" height="342" />Taylor Rule Formula for the US</a>
+  <img src="http://themacrotourist.com/images/Azure/TAYLORJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TAYLORJun1814.png" width="600" height="342" />Taylor Rule Formula for the US</a>
 </div>
 
 The rule is currently suggesting a Fed Funds rate that is almost 2%. Given that the Fed Funds are stuck at zero and the Fed is _still engaging in quantitative easing_ which implies an effective Fed Funds rate that is actually negative, the level of accommodation is at least 200 basis points.
@@ -47,7 +47,7 @@ Lots of people enjoy assigning all sorts of malicious or conspiratorial motives 
 For a long time the rules (like the Taylor model) were indicating that Fed policy should be at or below 0%. This made programs like Quantitative Easing easy to justify. But as these rules start to dictate that policy should be returned to normal above 0% levels, it is going to exert increasing pressure on the committee to normalize policy. Don&#8217;t get me wrong &#8211; they will be slow to raise rates. But if you doubt that Fed policy follows the Taylor rule, have a look at the model versus actual policy over the last 30 years.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TAYLOR30Jun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TAYLOR30Jun1814.png" width="600" height="342" />Taylor Rule versus actual Fed Funds &#8211; 30 year chart</a>
+  <img src="http://themacrotourist.com/images/Azure/TAYLOR30Jun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TAYLOR30Jun1814.png" width="600" height="342" />Taylor Rule versus actual Fed Funds &#8211; 30 year chart</a>
 </div>
 
 The model and the rate have diverged for periods, but over the long run, they have always come back into line.
@@ -71,7 +71,7 @@ I think the odds still favour the Fed maintaining the present course with some s
 Back in April [I suggested that solar stocks might be the next candidate for what I describe as a series of rolling bubbles.](http://gfbblogs.azurewebsites.net/blog/2014/04/23/apr-2314-a-series-of-rolling-bubbles/) I tagged along with one of the smartest hedge fund managers out there with a small purchase of SUNE.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SUNEJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SUNEJun1814.png" width="600" height="342" />SUNE chart</a>
+  <img src="http://themacrotourist.com/images/Azure/SUNEJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SUNEJun1814.png" width="600" height="342" />SUNE chart</a>
 </div>
 
 David Einhorn obviously understands the fundamental story way better than me, and I am not too proud to simply slip on board and take advantage of his hard work. 
@@ -79,7 +79,7 @@ David Einhorn obviously understands the fundamental story way better than me, an
 And just in case David gets this one wrong, I also joined another really smart guy, Elon Musk, with the purchase of Solar City.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SCTYJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SCTYJun1814.png" width="600" height="342" />SCTY Chart</a>
+  <img src="http://themacrotourist.com/images/Azure/SCTYJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SCTYJun1814.png" width="600" height="342" />SCTY Chart</a>
 </div>
 
 Well, as usual my timing left a lot to be desired, but my thesis seems to finally be playing out. 
@@ -95,19 +95,19 @@ Therefore, I am going to increase my bets.
 The first thing I am going to do is add a little TAN &#8211; which is the solar stock ETF.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TANJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TANJun1814.png" width="600" height="342" />TAN chart</a>
+  <img src="http://themacrotourist.com/images/Azure/TANJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TANJun1814.png" width="600" height="342" />TAN chart</a>
 </div>
 
 The next thing I am going to do is buy a little CSIQ &#8211; Canadian Solar.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CSIQJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CSIQJun1814.png" width="600" height="342" />CSIQ Chart</a>
+  <img src="http://themacrotourist.com/images/Azure/CSIQJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CSIQJun1814.png" width="600" height="342" />CSIQ Chart</a>
 </div>
 
 And finally one of my buddies who I respect suggested I have a look at this small cap that sells materials to CSIQ. It is by no means a pure play solar stock, but it might be the kind of small cap wonder that does even better in a mini solar stock bubble.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VNPJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/VNPJun1814.png" width="600" height="342" />VNP CN Equity &#8211; 5N Plus chart</a>
+  <img src="http://themacrotourist.com/images/Azure/VNPJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/VNPJun1814.png" width="600" height="342" />VNP CN Equity &#8211; 5N Plus chart</a>
 </div>
 
 The symbol is VNP CN Equity and I am buying less of this name as its small cap nature makes this more risky.
@@ -119,4 +119,4 @@ I have been waiting for the solar stock bubble to start. I think that yesterday 
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun1814.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJun1814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJun1814.png" width="600" height="700"></p>

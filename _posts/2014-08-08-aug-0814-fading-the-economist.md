@@ -23,7 +23,7 @@ Given that everyone is focused on the increasing geo-political tensions, I want 
 The Economist magazine recently ran a cover story about the mysteriously under performing US economy.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/AmericaAug0814.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 8, 14 at 6:12:02 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/AmericaAug0814.jpg" width="400" height="500">
+  <img src="http://themacrotourist.com/images/Azure/AmericaAug0814.jpg"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 8, 14 at 6:12:02 AM America/Torontoliboard" src="http://themacrotourist.com/images/Azure/AmericaAug0814.jpg" width="400" height="500">
 
 They outlined the usual host of reasons why growth has been so anemic this recovery. I am not going to bother going through them &#8211; you have already heard them all.
 
@@ -48,7 +48,7 @@ But in terms of the actual economy &#8211; everyone (including the Economist) is
 The stampede out of high yield seems to be accelerating. We have spoken about the crazily stupid tight spread levels in the past, but it seems to be that investors are finally getting the message. The selling this week has picked up to a pace last seen during the &#8220;taper tantrum.&#8221;
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/HYAug0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 8, 14 at 6:09:55 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/HYAug0814.png" width="500" height="400">
+  <img src="http://themacrotourist.com/images/Azure/HYAug0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 8, 14 at 6:09:55 AM America/Torontoliboard" src="http://themacrotourist.com/images/Azure/HYAug0814.png" width="500" height="400">
 
 I am not sure how long this selling will continue, but don&#8217;t be a hero and try to buy the dip. Even with the backup in spreads, high yield debt is still priced at absurdly low yield levels. 
 
@@ -61,4 +61,4 @@ The prospects for high yield debt are not appealing. Although I am bearish on eq
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsAug0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 8, 14 at 6:46:08 AM America/Torontoliboard" src="http://themacrotourist.com/pictures/Azure/PositionsAug0714.png" width="600" height="450"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsAug0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="Friday, August 8, 14 at 6:46:08 AM America/Torontoliboard" src="http://themacrotourist.com/images/Azure/PositionsAug0714.png" width="600" height="450"></p>

@@ -19,11 +19,11 @@ tags:
 In April of last year, PIMCO’s Bill Gross, the world’s largest bond fund manager, penned an article called [“A Man in the Mirror”.](http://www.pimco.com/EN/Insights/Pages/A-Man-In-The-Mirror.aspx) Apart from the terrible quote from the “how soon we forget what a freak he was and forgive his very questionable transgressions with children” Michael Jackson, it was a great article.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/MJChild.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/MJChild.png" width="400" height="400" />Michael Jackson dangling his baby out a hotel window</a>
+  <img src="http://themacrotourist.com/images/Azure/MJChild.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MJChild.png" width="400" height="400" />Michael Jackson dangling his baby out a hotel window</a>
 </div>
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BillGrossMJ.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BillGrossMJ.png" width="600" height="373" />Bill Gross and his terrible choice of rock star role model</a>
+  <img src="http://themacrotourist.com/images/Azure/BillGrossMJ.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BillGrossMJ.png" width="600" height="373" />Bill Gross and his terrible choice of rock star role model</a>
 </div>
 
 Who knows if Bill was trying to be “hip” and relate to the “younger generation” but modelling your article after Michael Jackson shows a disturbing lack of taste (and or judgment).
@@ -41,7 +41,7 @@ I am very sympathetic to Bill’s worry that we have had a perfect environment f
 Since we hit the highs in interest rates in the early 1980s, it has basically being a one way ride straight down. Have a look at this extremely long term chart of 10 year US Treasury Yields:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TenYearLT.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TenYearLT.png" width="600" height="371">
+  <img src="http://themacrotourist.com/images/Azure/TenYearLT.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TenYearLT.png" width="600" height="371">
 
 The slope downward since 1982 is breathtakingly steep. This risk free rate is the rate upon which all other assets are discounted. Given that it has only being going down, it is no wonder that all other asset prices have been going straight up.
 
@@ -64,7 +64,7 @@ The fact that it is nearly unanimous that inflation is _not a problem_ should gi
 When did you last see the supposed market “pros” correctly set up for a crisis? Whether it was Long Term Capital, or the Dot Com bubble, or the real estate bust, the “pros” always convince themselves that the danger is smaller than the doomsdayers proclaim. The “pros” will never be set up to deal with the surprise. If they were, it wouldn’t be a surprise.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SurpriseApr0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SurpriseApr0214.png" width="600" height="375" />Surprise!</a>
+  <img src="http://themacrotourist.com/images/Azure/SurpriseApr0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SurpriseApr0214.png" width="600" height="375" />Surprise!</a>
 </div>
 
 Therefore the fact that inflation is judged to be such a non-worry should be the greatest investment signal you could ask for.
@@ -74,7 +74,7 @@ But there are a couple of other great anecdotal signals that bring us back to Bi
 A couple of years ago, in the midst of the optimism for all things fixed income, PIMCO went ahead and decided to build a brand new gleaming office building in their hometown of Newport Beach California.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PIMCOBuilding.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PIMCOBuilding.png" width="600" height="800" />PIMCO&#8217;s new building</a>
+  <img src="http://themacrotourist.com/images/Azure/PIMCOBuilding.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PIMCOBuilding.png" width="600" height="800" />PIMCO&#8217;s new building</a>
 </div>
 
 There is a long history of companies building shining monuments to their over optimism right near the top. Bear Stearns, Myspace, TimeWarner, etc… the list is long. PIMCO’s new building is not a good omen by any means.
@@ -90,7 +90,7 @@ I know this is all anecdotal, but I view PIMCO as the poster child for the bond 
 Instead of El-Erian quitting, Gross who is the older man, should have taken his article to heart and hung up his skates at the top of his game in April 2013.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USGG10YRApr0214.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG10YRApr0214.PNG" width="600" height="342" />US 10 Year Yields</a>
+  <img src="http://themacrotourist.com/images/Azure/USGG10YRApr0214.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/USGG10YRApr0214.PNG" width="600" height="342" />US 10 Year Yields</a>
 </div>
 
 Instead, even though he warned of the dangers, Gross was over confident:
@@ -104,4 +104,4 @@ Remember the “pros” never see it coming… (and old guys like Gross have ter
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsApr0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsApr0214.png" width="600" height="481">
+  <img src="http://themacrotourist.com/images/Azure/PositionsApr0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsApr0214.png" width="600" height="481">

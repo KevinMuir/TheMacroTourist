@@ -26,7 +26,7 @@ At 4am on February 15th, 1996, after sitting alone in a room writing out lyrics 
 Dylan was in Nashville, having left New York the previous year. He had been frustrated with the slow progress recording his next record. So at the suggestion of his producer, he took guitarist (and fellow Canadian) Robbie Robertson and keyboardist Al Kooper down to Nashville, and along with a host of session players, set about recording Blonde on Blonde.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/dylanFeb2315-2.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/dylanFeb2315-2.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/dylanFeb2315-2.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/dylanFeb2315-2.png" width="600" height="600">
 
 For the non-Dylan fans, most of you will be familiar with first track of this album. Rainy Day Women #12 & 35, or as you might know it &#8220;Everyone must be get stoned&#8221;, is an iconic overplayed Dylan tune. Yet the rest of the album is pure genius, with track after track of classic Dylan at his best. 
 
@@ -47,7 +47,7 @@ I can think about no better analogy for the markets than this great Dylan tune. 
 There are lots of smug bulls suffering from a severe case of overconfidence due to the relentless rise of the past seven years. These bulls are quick to point out that there is no alternative to stocks, and that you are foolish to even think about not being long. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXFeb2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXFeb2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SPXFeb2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPXFeb2315.png" width="600" height="342">
 
 Yet I think we have hit the point in psychology where markets are immune to fundamentals. They rise because they are rising. I know that sounds stupid, but I am a big believer in Soros&#8217; theory of reflexivity. As an asset rises in price, instead of demand decreasing as would be expected, more investors become confident in its investment merits. Therefore instead of demand being a downward sloping curve, it can actually be upward sloping. It is possible to get _more demand as prices increase._ 
 
@@ -58,17 +58,17 @@ However, eventually Soros&#8217; reflexivity bubbles collapse in on themselves. 
 Have a look at this great chart from Doug Short that illustrates the adjusted P/E against the last 10 years of earnings:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PE10Feb2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PE10Feb2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/PE10Feb2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PE10Feb2315.png" width="600" height="342">
 
 Or this even better chart that shows the median price/earnings multiple for US stocks over the past 60 years:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/medianFeb2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/medianFeb2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/medianFeb2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/medianFeb2315.png" width="600" height="342">
 
 Here is a similar series that shows median stock cash flow multiple:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/cashflowFeb2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/cashflowFeb2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/cashflowFeb2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/cashflowFeb2315.png" width="600" height="342">
 
 I know that we could pick some different graphs that show on a relative basis, the stock market is still cheap when compared to the alternatives. Many of the bulls are hanging their hats on these sorts of metrics.
 

@@ -26,13 +26,13 @@ It was no surprise that the macro traders were focused on Japan &#8211; the elec
 However since this dramatic Yen weakening, the action in Japanese assets has become strangely quiet. The imminent collapse of the Yen and the often predicted hyper inflationary spiral have failed to even peak out from under the covers.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JPYJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JPYJun2514.png" width="600" height="342" />USDJPY Rate (higher means weaker Yen)</a>
+  <img src="http://themacrotourist.com/images/Azure/JPYJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JPYJun2514.png" width="600" height="342" />USDJPY Rate (higher means weaker Yen)</a>
 </div>
 
 The Yen has basically gone sideways for the last year and a half. As for the other half of the often predicted Japanese macro theme &#8211; rising rates due to runaway inflation, the trading in the JGB market has also gone quieter than a funeral.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JB1Jun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JB1Jun2514.png" width="600" height="342" />JGB Futures trading</a>
+  <img src="http://themacrotourist.com/images/Azure/JB1Jun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JB1Jun2514.png" width="600" height="342" />JGB Futures trading</a>
 </div>
 
 Trading has become so slow that on days where the Bank of Japan is not engage in any Quantitative Easing, there has not been a single trade in the JGB cash 10 year market. 
@@ -42,19 +42,19 @@ There has been lots of reasons to explain this contraction in volume and volatil
 Although I have long argued that QE programs are inflationary and ultimately cause bonds to fall in value, so far the Japanese bond market has defied this theory. There was indeed a little &#8220;inflation&#8221; scare when Abeconomics was announced that caused the JGB market to hiccup a little, but since then yields have steadily chugged lower.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Japan10Jun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Japan10Jun2514.png" width="600" height="342" />Japanese 10 Year Yield</a>
+  <img src="http://themacrotourist.com/images/Azure/Japan10Jun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Japan10Jun2514.png" width="600" height="342" />Japanese 10 Year Yield</a>
 </div>
 
 It is all the more strange as Abeconomics has actually been quite successful in producing inflation. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Japan10vsCPIJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Japan10vsCPIJun2514.png" width="600" height="342" />Japanese CPI YoY (yellow line) vs JGB 10 Year Yield (white line)</a>
+  <img src="http://themacrotourist.com/images/Azure/Japan10vsCPIJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Japan10vsCPIJun2514.png" width="600" height="342" />Japanese CPI YoY (yellow line) vs JGB 10 Year Yield (white line)</a>
 </div>
 
 This has created a situation where real 10 year rates have gone massively negative.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/Japan10RRJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/Japan10RRJun2514.png" width="600" height="342" />Japanese 10 Year Real Rate</a>
+  <img src="http://themacrotourist.com/images/Azure/Japan10RRJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Japan10RRJun2514.png" width="600" height="342" />Japanese 10 Year Real Rate</a>
 </div>
 
 This means that holders of 10 year Japanese bonds are now receiving an interest rate that is almost 300 basis points less than inflation! I understand that Japanese inflation has spiked due to an increase in the sales tax that pushed a lot of consumption forward, but with 10 year yields offering a measly 60 basis points, there is not a lot of cushion in terms of real yield if there is any sort of inflation.
@@ -62,7 +62,7 @@ This means that holders of 10 year Japanese bonds are now receiving an interest 
 Even in the darkest days following the 2008 credit crash, the US 10 year real yield never got below negative 200 basis points.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US10YRRRJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US10YRRRJun2514.png" width="600" height="342" />US 10 Year Real Yield</a>
+  <img src="http://themacrotourist.com/images/Azure/US10YRRRJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/US10YRRRJun2514.png" width="600" height="342" />US 10 Year Real Yield</a>
 </div>
 
 Think back to point when the US 10 year was yielding 200 basis points less than inflation. At that time everyone, and I mean everyone, was moaning about how rates would never ever rise again. If you even suggested that bonds could go down instead of up you were labelled a heretic that just didn&#8217;t understand the new financial order.
@@ -90,12 +90,12 @@ I love putting trades on when no one is interested. Shorting JGBs has become mor
 Don&#8217;t forget that it wasn&#8217;t too long ago that the Japanese government was worried enough about selling JGBs that they created a whole campaign about how women love men who own JGBs.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JGBAdJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JGBAdJun2514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/JGBAdJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JGBAdJun2514.png" width="600" height="342">
 
 At which point guys started spoofing the ads coming up with stuff like this:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JGBSpoofJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JGBSpoofJun2514.png" width="300" height="342">
+  <img src="http://themacrotourist.com/images/Azure/JGBSpoofJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JGBSpoofJun2514.png" width="300" height="342">
 
 At least I hope that is a spoof and not a real ad from the Japanese government. Little did I know that the best way to convincing a couple of women for a threesome was to take out a big long JGB position in physical form and cover my bed with the certificates. Somehow I don&#8217;t think that showing off my large JGB short futures position is going to have the same effect&#8230;
 
@@ -108,13 +108,13 @@ Oh well&#8230; I am going to worry more about finding lonely great risk reward t
 Yesterday we got a little bit of a reprise in the gold square. I took the opportunity to add to my GDXJ position. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GDXJJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GDXJJun2514.png" width="600" height="342" />GDXJ &#8211; Junior Gold Miners ETF</a>
+  <img src="http://themacrotourist.com/images/Azure/GDXJJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GDXJJun2514.png" width="600" height="342" />GDXJ &#8211; Junior Gold Miners ETF</a>
 </div>
 
 I have also been steadily adding to my CRK position.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CRKJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CRKJun2514.png" width="600" height="342" />CRK &#8211; Crocodile Gold</a>
+  <img src="http://themacrotourist.com/images/Azure/CRKJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CRKJun2514.png" width="600" height="342" />CRK &#8211; Crocodile Gold</a>
 </div>
 
 <hr size="3" width="85%" />
@@ -122,4 +122,4 @@ I have also been steadily adding to my CRK position.
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJun2514.png" width="600" height="700"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJun2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJun2514.png" width="600" height="700"></p>

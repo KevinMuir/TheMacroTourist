@@ -29,7 +29,7 @@ The market, in its typical myopic fashion, has done nothing more than extrapolat
 I can understand why this consensus belief is so firmly held. Betting against this trend has been a mugs game. Those that have been seduced by the dark side in their outlook for financial assets (be it stocks, bonds, spreads, or volatility) have fallen flat on their face.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/DarkSideJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/DarkSideJul2514.png" width="800" height="600">
+  <img src="http://themacrotourist.com/images/Azure/DarkSideJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DarkSideJul2514.png" width="800" height="600">
 
 Assuming that the economic recovery will spread to the real economy has been a terrible bet. Assuming that the Fed will slow down their propping up of financial assets has been equally stupid. 
 
@@ -46,7 +46,7 @@ Which brings me back to all the cross currents that we are in midst of battling.
 Don&#8217;t believe me that the market is skeptical about the Fed raising rates? Have a look at this chart of the implicit forward interest rate versus the Fed&#8217;s &#8220;plots&#8221; about the expected course of interest rates:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FedJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FedJul2514.png" width="400" height="400">
+  <img src="http://themacrotourist.com/images/Azure/FedJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FedJul2514.png" width="400" height="400">
 
 **The curve is trading below where the Fed is forecasting future rates.**
 
@@ -57,19 +57,19 @@ Which is quite unusual because it was less than a year ago that the Fed was stru
 Although the economy is not as strong as the Fed would like, rates are still zero and that rate is not the proper price for an economy five years out of a credit crisis. Not only that, but the economy is slowly improving and indicators like yesterday&#8217;s jobless claims are at levels inconsistent with a zero Fed Funds rate.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/JoblessJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/JoblessJul2514.png" width="600" height="342" />US Initial Jobless Claims</a>
+  <img src="http://themacrotourist.com/images/Azure/JoblessJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JoblessJul2514.png" width="600" height="342" />US Initial Jobless Claims</a>
 </div>
 
 The last time that Initial Jobless claims were at this level Fed Funds were trading over 4%!
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FFJOBJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FFJOBJul2514.png" width="600" height="342" />Claims (white line) and Fed Funds (yellow line)</a>
+  <img src="http://themacrotourist.com/images/Azure/FFJOBJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FFJOBJul2514.png" width="600" height="342" />Claims (white line) and Fed Funds (yellow line)</a>
 </div>
 
 I know that there is a lot more to the employment picture than just initial jobless claims, but there is no doubt that Fed policy is extremely accommodative. Have a look at this Taylor model for Fed Funds:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/TAYLORJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TAYLORJul2514.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/TAYLORJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TAYLORJul2514.png" width="600" height="342">
 
 You can quibble about the inputs, but there is no denying that most economic models indicate the Fed should have raised rates long ago! I guess it should be no surprise that financial assets are exploding to the upside. The Fed is once again keeping rates too low for too long &#8211; the exact same thing that all the pundits lambasted Greenspan for doing in the mid 2000s. That resulted in a massive real estate bubble that ultimately caused a tremendous amount of pain. This period of excessively easy monetary policy will also have costs that we don&#8217;t yet recognize.
 
@@ -82,4 +82,4 @@ I don&#8217;t think the Fed wants the market to be even more dovish than their g
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsJul2514.png" width="600" height="450"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsJul2514.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsJul2514.png" width="600" height="450"></p>

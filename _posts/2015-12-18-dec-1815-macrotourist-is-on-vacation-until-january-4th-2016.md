@@ -16,7 +16,7 @@ There will be no more MacroTourist updates until January 4th, 2016.
 It has been pretty warm on the East coast of North America, so I hope no one minds that I have made some adjustments to my Santa suit&#8230;
 
 
-  <img src="http://themacrotourist.com/pictures/SantaDec1815.png" alt="http://themacrotourist.com/pictures/SantaDec1815.png" style="margin:30px auto;display:block;" width="400" height="300">
+  <img src="http://themacrotourist.com/images/SantaDec1815.png" alt="http://themacrotourist.com/images/SantaDec1815.png" style="margin:30px auto;display:block;" width="400" height="300">
 
 Thank you for all your support throughout the year. It is a real privilege to have all the smart great readers. Your help, feedback and comments are all much appreciated.
 

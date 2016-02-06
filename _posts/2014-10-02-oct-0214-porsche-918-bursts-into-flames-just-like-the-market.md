@@ -57,7 +57,7 @@ But if there was ever a better parallel to today&#8217;s markets, I don&#8217;t 
 Last week-end, returning from the posh farm area north of Toronto called Creemore, Mike pulled his new 918 porsche in for gas.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/porscheOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/porscheOct0214.png" width="600" height="442">
+  <img src="http://themacrotourist.com/images/Azure/porscheOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/porscheOct0214.png" width="600" height="442">
 
 > Brand new Porsche 918 Spyders aren&#8217;t exactly a dime a dozen and as far as we know, there are were only two confirmed 918 Spyders in Toronto, Canada as of last night. Now, there is only one. The inflamed $900,000 hybrid supercar (pictured above), was spotted roasting itself into a useless lump of carbon-fibre and &#8216;unobtanium&#8217; at a gas station near Toronto&#8230; meeting its fiery death late last night.  
 > There is no confirmation on what caused the fire yet, but unconfirmed witness reports say the supercar caught on fire when fuel overflowed from the pump and met the hot exhaust tubes on the mid-engined Porsche. Fact is, we don&#8217;t know the official cause at this time, so we&#8217;ll wait for confirmation before pinning it down to any one thing.  
@@ -66,7 +66,7 @@ Last week-end, returning from the posh farm area north of Toronto called Creemor
 > If it does indeed belong to Wek, you have our utmost condolences. We wouldn&#8217;t wish this upon anyone, even someone notorious for foolish drunken escapades. Luckily, no injuries were reported and the damage was localized to &#8216;just&#8217; the one 918 Spyder.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/fireOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/fireOct0214.png" width="600" height="442">
+  <img src="http://themacrotourist.com/images/Azure/fireOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/fireOct0214.png" width="600" height="442">
 
 The Porsche 918 is supposed to be a ground breaking revolutionary new technological marvel. This one was driven by a former Bay Street trader super star turned private equity TV personality. **This situation epitomizes the new age we find ourselves in.** Much hyped new fangled technology that is only available to the 0.01%&#8217;ers. **_The fact that it is now a charred pile of burnt metal, leather and carbon-fibre should surprise no one&#8230;_**
 
@@ -77,10 +77,10 @@ The Porsche 918 is supposed to be a ground breaking revolutionary new technologi
 The selling of risk assets accelerated yesterday as the S&P 500 and Nasdaq broke key support levels. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXOct0214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SPXOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPXOct0214.png" width="600" height="342">
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/NDXOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/NDXOct0214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/NDXOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/NDXOct0214.png" width="600" height="342">
 
 Now all of a sudden, the technicians who were previously telling you that everything was hunky dory have all jumped aboard the sell bandwagon bus. Funny how when it goes up, they are bullish, and when it goes down, they are bearish. 
 
@@ -93,7 +93,7 @@ From a short term trading point of view, I wouldn&#8217;t want to be betting on 
 Yesterday we had oil selling off hard and bonds running like they stole something. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CL30Oct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CL30Oct0214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CL30Oct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CL30Oct0214.png" width="600" height="342">
 
 Lower energy cost and interest rates are both positives for the stock market. We are in the midst of a deflationary mini-dip. That might weigh on stocks over the short run as risk assets are sold off, but over the long run these are positive developments. It is tougher to get really bearish when these fundamentals inputs are heading in this direction.
 
@@ -106,19 +106,19 @@ I still contend that the big crash is only going to come once the bond market lo
 The reason for this latest swoon in risk assets is the winding down of QE, but it is being exacerbated by a market that is pricing in a somewhat more aggressive Fed. Although yesterday&#8217;s big sell off in the stock market finally put a halt to the rise, the two year treasury yield has been steadily climbing over the past few months.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USGG2YROct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG2YROct0214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/USGG2YROct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/USGG2YROct0214.png" width="600" height="342">
 
 When you look at the CFTC report, you see that the large speculators are placing big bets on higher yields at the short end.
 
 Here is the net position in US Treasury 2 year note futures.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CFTC2Oct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CFTC2Oct0214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CFTC2Oct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CFTC2Oct0214.png" width="600" height="342">
 
 And in the 3 month Eurodollar futures contract, the short speculation by the large speculators is even more intense.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CFTCEDOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CFTCEDOct0214.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CFTCEDOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CFTCEDOct0214.png" width="600" height="342">
 
 Although I am already long a small position in the EDU15, I am thinking about picking up some more.
 
@@ -141,4 +141,4 @@ Also, I think that the GPRO squeeze is nearing an end. The bloom has come off th
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsOct0214.png" width="600" height="442"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsOct0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsOct0214.png" width="600" height="442"></p>

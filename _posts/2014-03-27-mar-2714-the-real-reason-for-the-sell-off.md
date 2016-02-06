@@ -21,7 +21,7 @@ tags:
 Yesterday I wrote about how the action was getting a little squirrelly. I noted that higher opens were being sold aggressively. Wednesday&#8217;s action proved no different, and once again, the higher open was sold hard. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXGIPMar2714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXGIPMar2714.PNG" width="600" height="342" />S&P 500 trading for the first 3 days of this week</a>
+  <img src="http://themacrotourist.com/images/Azure/SPXGIPMar2714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPXGIPMar2714.PNG" width="600" height="342" />S&P 500 trading for the first 3 days of this week</a>
 </div>
 
 This time the selling continued all day and we finished on the lows. 
@@ -37,7 +37,7 @@ The market was extremely frothy and the Fed is rightfully trying to withdraw sti
 Do you want to know the best evidence that this was a Fed induced drop? Have a look at the 2 year Treasury yield over the past few months:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/USGG2YRMar2714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/USGG2YRMar2714.PNG" width="600" height="342" />US 2 Year Treasury Yield</a>
+  <img src="http://themacrotourist.com/images/Azure/USGG2YRMar2714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/USGG2YRMar2714.PNG" width="600" height="342" />US 2 Year Treasury Yield</a>
 </div>
 
 Even as the stock market has sold off, the yield on the 2 year keeps rising. Even as the tensions in Ukraine heat up, the 2 year yield keeps rising. Even as the economic releases show weakness, the 2 year yield keeps rising.
@@ -55,7 +55,7 @@ It is going to take some time for market participants to shed their &#8220;QE fo
 One of supposed &#8220;catalysts&#8221; for yesterday&#8217;s market drubbing was the Facebook acquisition of virtual reality company Oculus Rift. The market took the news that Zuckerberg was spending $2 billion on a company that is so far removed from Facebook&#8217;s primary business badly. They clobbered the stock.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/FBMar2714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/FBMar2714.PNG" width="600" height="342" />Facebook</a>
+  <img src="http://themacrotourist.com/images/Azure/FBMar2714.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FBMar2714.PNG" width="600" height="342" />Facebook</a>
 </div>
 
 I am actually quite pleased with the market&#8217;s reaction to this news. This is what should happen when an arrogant silicon valley tech CEO throws shareholder money out the window. _They should punish the stock for this kind of shit._ A few weeks ago I wrote about how [Zuckerberg was out control and the market was incorrectly rewarding him for the purchase of What&#8217;s App.](http://gfbblogs.azurewebsites.net/blog/2014/02/21/friday-february-21st-2014-i-am-not-afraid-of-looking-stupid-and-calling-this-a-bubble/). This $2 billion boondoggle is what happens when the market does not institute any discipline. I am actually much more optimistic that the market is returning to some sort of normalcy now that the stock is reacting unfavourably to stupid decisions.
@@ -63,7 +63,7 @@ I am actually quite pleased with the market&#8217;s reaction to this news. This 
 Zerohedge had a great post titled &#8220;Is This The Official Image Of The 2014 Market Top?&#8221; 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/OcculusRiftMar2714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/OcculusRiftMar2714.png" width="478" height="543" />Facebook&#8217;s new purchase&#8230;. WTF?</a>
+  <img src="http://themacrotourist.com/images/Azure/OcculusRiftMar2714.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/OcculusRiftMar2714.png" width="478" height="543" />Facebook&#8217;s new purchase&#8230;. WTF?</a>
 </div>
 
 <hr size="2" width="85%" />

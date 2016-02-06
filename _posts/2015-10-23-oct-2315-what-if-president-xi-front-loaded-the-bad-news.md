@@ -14,12 +14,12 @@ tags:
   - Xi Jinping
 ---
 
-  <img src="http://themacrotourist.com/pictures/XiamenOct2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/XiamenOct2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/XiamenOct2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/XiamenOct2315.png" width="600" height="342">
 
 This morning China cut both their one year interest by 25 basis points and reduced their reserve ratio by 50 basis points. Of course the China skeptics were quick to point out this is the sixth interest rate cut, and so far the others have &#8220;not worked,&#8221; so why does anyone expect this one to magically be the &#8220;one?&#8221;
 
 
-  <img src="http://themacrotourist.com/pictures/China1Oct2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/China1Oct2315.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/China1Oct2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/China1Oct2315.png" width="600" height="342">
 
 Maybe the skeptics are correct. The PBOC might be throwing tiny sparks on a thoroughly soaked wet campfire expecting it to be lit. Yet if the PBOC was _even more_ aggressive, these perma-China bears would say &#8220;look! they are panicking because the Chinese economy is **so bad!**&#8221; So let&#8217;s just throw out the comments from all the peanut gallery and think about what these latest cuts mean.
 

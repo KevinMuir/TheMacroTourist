@@ -22,12 +22,12 @@ tags:
 There can be no doubt that this month&#8217;s rally in the equity market has been historic. In less than a month we have rallied over 200 S&P handles. Although over the decades there have been other similarly explosive rallies , they have usually come at the beginning of secular bull market moves when stocks had been previously going down or sideways. This latest rally comes after the S&P 500 had already risen over 200% during the previous five years. The ferocity of the rally at this stage of the stock market cycle is quite unique. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/SPXNov1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/SPXNov1114.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SPXNov1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SPXNov1114.png" width="600" height="342">
 
 I get a good chuckle at all the reasons that market commentators use to explain the rally. Although I love reading Zero Hedge, his fascination with attributing the rally to Jim Bullard&#8217;s comments about potentially pausing the tapering of QE perplexes me. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/BullardNov1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/BullardNov1114.png" width="500" height="342">
+  <img src="http://themacrotourist.com/images/Azure/BullardNov1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BullardNov1114.png" width="500" height="342">
 
 Yes I will admit that Bullard did stop the market&#8217;s swoon on that particular day, but his opinion about pausing the tapering was quickly refuted by other Fed officials and then to top it off, _the Fed actually went ahead and completely wound down the QE program._ How could Bullard&#8217;s off handed remarks be responsible for this rally? The answer is of course is that they aren&#8217;t. 
 
@@ -44,7 +44,7 @@ It would be extremely naive to think that the Japanese financial authorities ann
 The Bank of Japan&#8217;s decision to increase their QE then threw gasoline on an already raging fire. And then finally the great price action has emboldened those of bullish persuasion to climb aboard for fear of missing the next great bull market. All of these factors have come together to create a perfect storm for a stock melt up.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/VoldemortNov1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/VoldemortNov1114.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/VoldemortNov1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/VoldemortNov1114.png" width="600" height="600">
 
 But I question how wise it is to jump on board this train.
 
@@ -63,4 +63,4 @@ I know all the bullish reasons why stocks have to rally&#8230; But whenever &#82
 **Positions**
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/PositionsNov1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/PositionsNov1114.png" width="600" height="342"></p>
+  <img src="http://themacrotourist.com/images/Azure/PositionsNov1114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PositionsNov1114.png" width="600" height="342"></p>

@@ -18,12 +18,12 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/pictures/Azure/TreadingWater.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/TreadingWater.png" width="600" height="500">
+  <img src="http://themacrotourist.com/images/Azure/TreadingWater.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TreadingWater.png" width="600" height="500">
 
 If you are older than forty years old, then you probably remember **Magnum PI**. For my younger readers, Magnum was a popular TV show from the 1980&#8217;s about a private investigator who lived on the Hawaiian estate of some elusive millionaire (a million dollars actually meant something back then).
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/magnumJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/magnumJun1915.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/magnumJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/magnumJun1915.png" width="600" height="400">
 
 It was a good show, and I think it has aged well. There were lots of great episodes, but I bet there is one that sticks in your mind better than others. For some reason most people seem to remember the &#8220;treading water&#8221; episode. The rest of the different stories all blend into some derivative of the typical TV show plot, but the one where Magnum treads water for the entire episode is permanently etched into many Magnum fans&#8217; brains.
 
@@ -54,7 +54,7 @@ The fear from the last crisis has left the Fed with a mindset that it is easier 
 Fellow Canadian, WSJ reporter Greg Ip wrote a terrific piece titled **Memo to Fed: Let the Economy Overheat.*** I don&#8217;t think he needs to suggest anything of the like to the Fed as they are already on the same page, but the article does a good job at understanding what they are thinking.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/memoJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/memoJun1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/memoJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/memoJun1915.png" width="600" height="342">
 
 From the article:
 
@@ -93,35 +93,35 @@ I think Janet & Co. will mouth words about being concerned about the excesses in
 If you leave rates too low for too long you risk overshooting on the other side. The worries about an overheating economy six months to a year down the road are real. That is why the yield curve is steepening.
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/US530Jun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/US530Jun1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/US530Jun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/US530Jun1915.png" width="600" height="342">
 
 Yellen most likely welcomes this development. If you are worried about slipping into a deflationary morass, then steepening the yield curve is one of the most reliable signals that monetary policy is accommodative.
 
 Risk assets that benefit from an easy monetary policy are exploding higher. The small cap equity ETF has broken out to new highs:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/IWMJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/IWMJun1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/IWMJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IWMJun1915.png" width="600" height="342">
 
 The small caps are more sensitive to a weaker US dollar and easy monetary policy &#8211; both of which Yellen is encouraging.
 
 The dark side of this policy is the speculative bubble is growing. Have a look at a few decade long Nasdaq composite chart:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/CCMPJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/CCMPJun1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/CCMPJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/CCMPJun1915.png" width="600" height="342">
 
 We have seen this movie before&#8230; My worry is that it will get worse before it gets better.
 
 The risks of this whole financial experiment lighting up like a huge forest fire are way higher than most market participants are discounting. 
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/forestfireJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/forestfireJun1915.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/forestfireJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/forestfireJun1915.png" width="600" height="342">
 
 The Fed is _convinced_ they will be able to handle inflation, and that deflation is the real worry. I will leave you with this thought &#8211; when was the last time the Fed got something like this correct? What do you think you should be hedging against?
 
 In the Magnum episode his friends all &#8220;sense&#8221; that something is wrong at the same moment, and rush to save Magnum before he drowns. It makes perfect sense that Magnum&#8217;s friend Rick who is partying on the King Kamehameha II with some young ladies, all of a sudden stops it all, to rescue Magnum. Who hasn&#8217;t had this sort of vision in the midst of an all night boat party off of Honolulu?
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/RickJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/RickJun1915.png" width="300" height="250">
+  <img src="http://themacrotourist.com/images/Azure/RickJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/RickJun1915.png" width="300" height="250">
 
 This is how it works on TV, but I don&#8217;t think the Fed will be quite as fortunate. There will be no hero saviour at the end of this story. Just make sure you remember this next crisis will look nothing like the last one. Don&#8217;t hedge with the idea it will be a repeat of 2008. It will look nothing like 2008&#8230;
 
@@ -134,7 +134,7 @@ It feels like Saving Private Ryan out there with all the tape bombs being droppe
 I am not sure of much, but I do know one thing; the Greeks consistently play this game better than the Europeans. Have a look at this great headline:
 
 
-  <img src="http://themacrotourist.com/pictures/Azure/GreekJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/pictures/Azure/GreekJun1915.png" width="600" height="900">
+  <img src="http://themacrotourist.com/images/Azure/GreekJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GreekJun1915.png" width="600" height="900">
 
 Who would want to bet against this man? The fury of IMF&#8217;s Christine Lagarde, or the wrath of his wife? Seems like a pretty easy choice to me. Greece is going to the wall.
 

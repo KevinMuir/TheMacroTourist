@@ -10,7 +10,7 @@ categories:
   - macro
 ---
 
-  <img src="http://themacrotourist.com/pictures/ErrandsNov0515.png" alt="http://themacrotourist.com/pictures/ErrandsNov0515.png" style="margin:30px auto;display:block;" width="600" height="300">
+  <img src="http://themacrotourist.com/images/ErrandsNov0515.png" alt="http://themacrotourist.com/images/ErrandsNov0515.png" style="margin:30px auto;display:block;" width="600" height="300">
 
 I have to be out of the office for a couple of days to do some errands…
 
