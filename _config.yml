@@ -16,7 +16,7 @@ baseurl: "http://themacrotourist.com"
 # Owner/author information
 owner:
   name:           Kevin Muir
-  avatar:         hmfaysal.jpg
+  avatar:         
   email:          kevin@wintorcapital.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    
@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://themacrotourist.com'
+  relativeLinks: 'http://themacrotourist.com/links.jsonp'
   media: 'images'
   metadata:
     _posts:
