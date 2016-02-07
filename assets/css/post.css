@@ -392,13 +392,13 @@ html, body, .notepad-post-container, .notepad-post-header {
   width: 100%; }
   .notepad-page-title a,
   .notepad-post-title-simple a {
-    color: #0054A6; }
+    color: #000000; }
     .notepad-page-title a:hover,
     .notepad-post-title-simple a:hover {
       color: #f4866c; }
   .notepad-page-title h1,
   .notepad-post-title-simple h1 {
-    color: #0054A6;
+    color: #000000;
     font-weight: 800;
     font-size: 3.125rem;
     padding: 0;
