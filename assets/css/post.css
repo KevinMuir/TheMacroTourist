@@ -94,11 +94,11 @@ html, body, .notepad-post-container, .notepad-post-header {
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%); }
     .post-template .notepad-post-title a {
-      color: #0054A6; }
+      color: #000000; }
       .post-template .notepad-post-title a:hover {
         color: #f4866c; }
     .post-template .notepad-post-title h1 {
-      color: #0054A6;
+      color: #000000;
       font-weight: 800;
       font-size: 1.0rem;
       margin: 0 auto;
