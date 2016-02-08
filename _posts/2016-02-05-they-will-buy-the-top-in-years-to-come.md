@@ -1,6 +1,6 @@
 ---
 id: 26010
-title: 'They will buy the top in years to come...'
+title: 'They will buy the top in years to come'
 date: 2016-02-05T11:45:00+00:00
 author: kevin
 layout: post
