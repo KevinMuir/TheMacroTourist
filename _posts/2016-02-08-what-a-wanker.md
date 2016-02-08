@@ -22,7 +22,7 @@ The hysteria about European banks is running pretty thick this morning.  The Ger
 
 <img src="http://themacrotourist.com/images/DBKFeb0816.png" alt="http://themacrotourist.com/images/DBKFeb0816.png" width="700" height="450" style="margin:30px auto;display:block;">
 
-As you can see, we are sitting at an important support level.  Could we bust down below?  For sure - never say never.  Don't ever forget the Friday before the week-end Lehman went bankrupt.  The Lehman preferreds were trading for something like $20 bucks and it opened in the pennies.  There is always a chance the market loses confidence in a financial institution.  This loss of confidence can happen astonishingly quickly.
+As you can see, we are sitting at an important support level.  Could we bust down below?  For sure - never say never.  Don't ever forget the Friday before the week-end Lehman went bankrupt.  The Lehman preferreds were trading for something like $20 bucks and they opened in the pennies.  There is always a chance the market loses confidence in a financial institution.  This loss of confidence can happen astonishingly quickly.
 
 And there is no doubt in my mind these new fangled convertible contingent bonds have failed to provide the stability regulators were hoping for.
 
