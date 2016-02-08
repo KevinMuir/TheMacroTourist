@@ -8,6 +8,7 @@ categories:
   - macro
 tags:
   - gold
+  - GDX
   
 ---
 <img src="http://themacrotourist.com/images/DontWorryFeb0516.png" alt="http://themacrotourist.com/images/DontWorryFeb0516.png" width="600" height="800" style="margin:30px auto;display:block;">
