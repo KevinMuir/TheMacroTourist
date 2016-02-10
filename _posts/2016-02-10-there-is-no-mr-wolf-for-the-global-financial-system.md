@@ -44,7 +44,7 @@ What's especially amusing is the fact there is so much debt, the Federal Reserve
 
 <img src="http://themacrotourist.com/images/TextBookFeb1016.jpg" alt="http://themacrotourist.com/images/TextBookFeb1016.jpg" width="750" height="460" style="margin:30px auto;display:block;">
 
-The Fed is using old metrics when they worry about inflation risk.  They stare at the zero Fed Funds rate and fret inflation is about to take off.  Meanwhile the simple truth is there is so much debt outstanding the old rules don't apply.  Developed nations have entered "balance sheet recessions."  Japan learned the difficulties in escaping from this negative feedback loop, and it appears the United States refuses to learn any of the lessons from Japan's lost decade.
+The Fed is using old metrics when they worry about inflation risk.  They stare at the zero Fed Funds rate and fret inflation is about to take off.  Meanwhile the simple truth is there is so much debt outstanding the old rules don't apply.  Developed nations have entered "balance sheet recessions."  Japan experienced the difficulties in escaping from this negative feedback loop, and it appears the United States refuses to learn any of the lessons from Japan's lost decade.
 
 Inflation has consistently been running below the Fed's 2% target.  If they truly have a 2% target, then half of the time it would be above the target level, and the other half below.  Yet the past decade has been significantly below the target level.
 
