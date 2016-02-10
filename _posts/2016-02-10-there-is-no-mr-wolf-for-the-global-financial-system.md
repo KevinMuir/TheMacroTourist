@@ -26,7 +26,7 @@ Maybe you think a return to sane monetary policy is a good thing.  I have no des
 
 Where I differ from my conservative friends is my belief that it is *way too late to return to prudent economic policies.*  There is simply too much debt for the economy to return to a normal state.  The only way out of this mess is to have a massive reset.  
 
-Any sort of austerity or *"proper monetary"* policy will cause the economy to sink into a debt destroying vicious circle.  Unfortunately the absolutely monster amount of debt means this natural economic cycle is especially painful.  The oversized debt means government officials are loathe to allow this to happen.  So instead of having a cleansing reset, we have just kept piling on more and more debt.
+Any sort of austerity or *"proper monetary"* policy would cause the economy to sink into a debt destroying vicious circle.  Unfortunately the absolutely monster amount of debt means this normally natural economic cycle would be especially painful.  And the oversized debt means government officials are loathe to allow this to happen.  So instead of having a cleansing reset, we have just kept piling on more and more debt.
 
 Which brings me back to Yellen and her desire to normalize policy.  If she was willing to sit through a severe economic slowdown then I would be all for her tightening monetary policy.  However we all know the moment things get ugly, she will return to the previous recipe of piling on even more debt.
 
