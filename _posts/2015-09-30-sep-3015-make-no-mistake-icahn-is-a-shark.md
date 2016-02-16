@@ -47,7 +47,7 @@ For an old guy, Icahn is amazingly technologically media savvy. He was one of th
 Yesterday Ichan took his media presence to a new level. On his website, Carl released a polished video titled “DANGER AHEAD &#8211; A message from Carl Icahn”.
 
 
-  <img src="http://carlicahn.com/" alt="http://themacrotourist.com/images/DangerSep3015.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/DangerSep3015.png" alt="http://themacrotourist.com/images/DangerSep3015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 It is slick. No doubt about that. But it is unbelievably ironic that Carl Icahn is now warning about the dangers of an overheated, over leveraged market.
 
