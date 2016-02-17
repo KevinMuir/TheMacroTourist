@@ -27,7 +27,7 @@ At the time Apple was trading for roughly $130 a share.  Carl claimed if the pri
 
 <img src="http://themacrotourist.com/images/AppleFeb1716.png" alt="http://themacrotourist.com/images/AppleFeb1716.png" width="750" height="460" style="margin:30px auto;display:block;">
 
-He would "just buy more," unless it actually went down, at which point he would sell ahead of all the poor schmucks who followed him into the name.
+He would "just buy more," unless it actually went down, at which point he would sell ahead of all the poor schmucks who followed him into the name.  Last night Carl issued a filing that he had sold 7 million shares of Apple in the 4th quarter.
 
 I have been a huge Apple bear for quite some time, so I don't begrudge Carl's sales. And I don't even fault Carl for *influencing* the market through his crafty propaganda.  After all, Carl is a shark, and you can't fault a shark for devouring his prey.
 
