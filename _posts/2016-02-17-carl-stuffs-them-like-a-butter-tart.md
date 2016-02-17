@@ -1,6 +1,6 @@
 ---
 id: 26011
-title: 'Carl stuffs 'em like a butter tart '
+title: 'Carl stuffs them like a butter tart '
 date: 2016-02-17T09:00:00-05:00
 author: kevin
 layout: post
