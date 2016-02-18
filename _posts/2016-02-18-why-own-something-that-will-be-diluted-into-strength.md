@@ -38,9 +38,9 @@ Instead investors who don't believe oil is headed to single digits should have a
 
 <img src="http://themacrotourist.com/images/DVNBondFeb1816.png" alt="http://themacrotourist.com/images/DVNBondFeb1816.png" width="750" height="460" style="margin:30px auto;display:block;">
 
-With a 9% yield for the next 25 years, the stock price would have to appreciate from $19.50 to more than $127 for you to be better off buying the equity.  I have made an assumption of the dividend yield for the stock staying at this level and that might not be the case, but you get the idea.  You need everything to go *perfectly* to be better off in the equity versus this bond.  Not only that, but if things don't go smoothly, you could still earn your 9%.  And even if you don't end up being paid back in full, you are ahead of the equity which would be zeroed.
+With a 9% yield for the next 25 years, the stock price would have to appreciate from $19.50 to more than $127 for you to be better off buying the equity.  I have made an assumption of the dividend yield for the stock staying at this level and that might not be the case, but you get the idea.  You need everything to go *perfectly* to be better off in the equity versus this bond.  Not only that, but if things don't go smoothly, you could still earn your 9% in the bond.  And even if you don't end up being paid back in full, you are ahead of the equity which would be zeroed.
 
-Energy equity investors are *much too optimistic* versus their high yield counterparts who have abandoned energy bond issues like the black death.  **Have a good hard look at taking advantage of this glaring inconsistency.**  Or at the very least, be skeptical of the rally in energy equities...
+Energy equity investors are *much too optimistic* versus their high yield counterparts who have abandoned energy bond issues like the black death.  **Have a good hard look at taking advantage of this glaring inconsistency.**  Or at the very least, be skeptical of the rally in energy equities until the energy high yield market rallies significantly...
 
 ---
 
@@ -56,7 +56,7 @@ And this comes right after Goldman Sachs came out with a "sell gold" call (from 
 >Gold will slump to $1,100 an ounce in three months and $1,000 an ounce in 12 months, analysts including Jeffrey Currie and Max Layton wrote in the report that was dated Feb. 15 and received on Tuesday. It was headlined with a remark from former President Franklin D. Roosevelt.
 >There’s “nothing to fear but fear itself,” the analysts entitled the seven-page note, channeling comments from Roosevelt’s 1933 inauguration when the U.S. economy was being ravaged by the Great Depression. “It’s time to sell the fear barometer,” the bank said, and recommended shorting gold.
 
-The fact that *gold is still climbing* in the midst of all this pessimism only makes me more bullish.  It reminds me of all the negativity that surrounded the equity market in 2009 and 2010.  Even though everyone was looking for the bear market to resume, the market just kept climbing.  It was only when *everyone* was convinced the stock would *never go down again* that we finally rolled over.  Buying in the face of doubts was the right call for equities in 2010, and it is the right call for gold in 2016.
+The fact that *gold is still climbing* in the midst of all this pessimism only makes me more bullish.  It reminds me of all the negativity that surrounded the equity market in 2009 and 2010.  Even though everyone was looking for the bear market to resume, the market just kept climbing.  It was only when *everyone* was convinced the stock market would *never go down again* that we finally rolled over.  Buying in the face of doubts was the right call for equities in 2010, and it is the right call for gold in 2016.
 
 Thanks for reading,  
 Kevin Muir  
