@@ -64,7 +64,7 @@ But what about Reagan? He was also a two term President whose final days looked 
 
 Most economic forecasters were also predicting a calm final year for Reagan to coast into the end of his Presidency. Unfortunately we all know that was not to be.
 
-<img src="http://themacrotourist.com/images/ProphetOct0415.png" alt="http://themacrotourist.com/images/ProphetOct0415.png" width="750" height="460" style="margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/ProphetOct0415.png" alt="http://themacrotourist.com/images/ProphetOct0415.png" width="300" height="300" style="margin:30px auto;display:block;">
 
 Just because the Autumn before the final year of their term ushered in market disasters for both Bush and Reagan does not _necessarily_ mean it will be the same for Obama. I don’t think anything is carved into stone. The analogy is interesting, but it is not some prophet proclaimed destiny.
 
