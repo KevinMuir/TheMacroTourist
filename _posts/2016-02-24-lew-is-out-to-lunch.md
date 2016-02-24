@@ -24,7 +24,7 @@ I don't expect any government official to not promote what is the best interest 
 
 And don't get me wrong, I don't blame Jack for trying to encourage cooperation.  He seems like a well spoken thoughtful gentleman.
 
-But he is completely **out to lunch about the severity of the situation.**  Not only that, his desire for the finance ministers to hold hands and sing Kumbaya to fix the world's problems is thoroughly naive. Especially since the United States' previous aggressively easy monetary policy (which is now being reversed too aggressively by Yellen & Co.) is one of the main reasons the world is in this fix.
+But he is completely **out to lunch about the severity of the situation.**  Not only that, his desire for the finance ministers to hold hands and sing Kumbaya to fix the world's problems is thoroughly naive. Especially since the United States' previous aggressively easy monetary policy (which is now being reversed too quickly by Yellen & Co.) is one of the main reasons the world is in this fix.
 
 <img src="http://themacrotourist.com/images/LewFeb2416.png" alt="http://themacrotourist.com/images/LewFeb2416.png" width="750" height="500" style="margin:30px auto;display:block;">
 
