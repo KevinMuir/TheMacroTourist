@@ -1,4 +1,9 @@
-
+---
+layout: page
+permalink: /Subscribe/index.html
+title: Subscribe
+tags: []
+---
 # The MacroTourist Subscribe Page
 
 The MacroTourist Newsletter is published every day (well, almost every day).  By subscribing, you will receive a copy of each day's post in your email inbox.  Your email address will never be used to sent SPAM or any solicitation of any kind.  Unsubscribe at any time.
