@@ -20,7 +20,7 @@ Apart from insights from his years of hard learned lessons presiding over one of
 
 <img src="http://themacrotourist.com/images/BloodFeb2516.png" alt="http://themacrotourist.com/images/BloodFeb2516.png" width="600" height="500" style="margin:30px auto;display:block;">
 
-Rudy's point is that although many market pundits are hysterically waving their arms moaning about the magnitude of this sell off, in the big picture, the dip is shallow.
+Rudy's point is that although many market pundits are hysterically waving their arms moaning about the terror of this sell off, in the big picture, the dip is shallow.
 
 <img src="http://themacrotourist.com/images/SPXFeb2516.png" alt="http://themacrotourist.com/images/SPXFeb2516.png" width="750" height="460" style="margin:30px auto;display:block;">
 
