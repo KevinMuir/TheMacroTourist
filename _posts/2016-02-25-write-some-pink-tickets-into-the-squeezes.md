@@ -26,7 +26,7 @@ Rudy's point is that although many market pundits are hysterically waving their 
 
 I know it is hard to stay bearish when we are down more than 100 handles from the highs.  Buying the dip has worked for the past 8 years.  It's tough to change the habit.
 
-But until the Federal Reserve changes its stance, their withdrawal of liquidity will result in *lower equity prices.*  Their tightening has set in motion of deflationary self reinforcing feedback loop that will be hard to stop.  
+But until the Federal Reserve changes its stance, their withdrawal of liquidity will result in *lower equity prices.*  Their tightening has set in motion a deflationary self reinforcing feedback loop that will be hard to stop.  
 
 In the mean time, we are getting short covering rallies in equities, but credit is not playing ball.  
 
