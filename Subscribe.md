@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /Subscribe/index.html
 title: Subscribe
 tags: []
 ---
