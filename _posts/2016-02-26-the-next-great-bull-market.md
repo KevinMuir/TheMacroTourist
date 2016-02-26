@@ -18,7 +18,7 @@ At the risk of boring everyone to death, I am writing about treasury inflation p
 
 <img src="http://themacrotourist.com/images/TGOLDFeb2616.png" alt="http://themacrotourist.com/images/TGOLDFeb2616.png" width="750" height="460" style="margin:30px auto;display:block;">
 
-During the great financial asset chase of 2009-2015, money flowed into long dated yield assets.  Securities with no yield, or whose yield was tied to inflation, were shunned.  Until a couple of months ago, you were a pariah if you suggested this trend might change.  Gold investors were tinfoil hat cooks who didn't "understand" the uselessness of the protection it offered.
+During the great financial asset chase of 2009-2015, money flowed into long dated yield assets.  Securities with no yield, or whose yield was tied to inflation, were shunned.  Until a couple of months ago, you were a pariah if you suggested this trend might change.  Gold investors were tinfoil hat kooks who didn't "understand" the uselessness of the protection it offered.
 
 Now gold is one of the top performing assets classes with traders desperately scrambling to get some in.
 
