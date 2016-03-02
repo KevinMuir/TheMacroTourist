@@ -25,7 +25,7 @@ Keeping in that spirit, I have to come clean that I was not setup for yesterday'
 <img src="http://themacrotourist.com/images/SPXMar0216.png" alt="http://themacrotourist.com/images/SPXMar0216.png" width="750" height="460" style="margin:30px auto;display:block;">
 
 
-The real question is whether something fundamental has changed which will bring about a resumption of the bull market, or whether this was merely a short covering rally.  
+The real question is whether something fundamental changed which will bring about a resumption of the bull market, or whether this was merely a short covering rally.  
 
 ---
 **Sticking to my view**
