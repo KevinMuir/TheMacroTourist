@@ -20,7 +20,7 @@ tags:
 
 Too many market pundits gloss over their mistakes, or even worse, pretend they never made the call in the first place.  Although I trade in and out against my longer term view, I don't want my daily letter to be a market timing service.  It is too difficult to articulate short term trading in a once a day journal entry.  Instead my goal is to hopefully give you something to think about, and to share my mistakes as I attempt to navigate this crazy market environment.
 
-Keeping in that spirit I have to come clean that I was not setup for yesterday's face ripping rally.  Although there were some shrewd traders that saw the buying wave building (RBC's US head of equities Charlie McElligott, [who appears on ZeroHedge from time to time](<http://www.zerohedge.com/news/2016-02-17/explaining-general-violence-markets-extreme-moves>), made a terrific call last week getting bullish), it is now obvious too many investors were either underinvested or full out short.
+Keeping in that spirit, I have to come clean that I was not setup for yesterday's face ripping rally.  Although there were some shrewd traders that saw the buying wave building (RBC's US head of equities Charlie McElligott, [who appears on ZeroHedge from time to time](<http://www.zerohedge.com/news/2016-02-17/explaining-general-violence-markets-extreme-moves>), made a terrific call last week getting bullish), it is now obvious too many investors were either underinvested or full out short.
 
 <img src="http://themacrotourist.com/images/SPXMar0216.png" alt="http://themacrotourist.com/images/SPXMar0216.png" width="750" height="460" style="margin:30px auto;display:block;">
 
