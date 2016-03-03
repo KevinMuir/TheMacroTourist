@@ -47,7 +47,7 @@ Just like all pigs are equal but some are more equal than others, all Central Ba
 
 <img src="http://themacrotourist.com/images/TGOLDMar0316.png" alt="http://themacrotourist.com/images/TGOLDMar0316.png" width="750" height="460" style="margin:30px auto;display:block;">
 
-Ever since the 2008/9 credit crisis gold held by Central Banks and other government institutions has only been going one way - up!  
+Ever since the 2008/9 credit crisis, gold held by Central Banks and other government institutions has only been going one way - up!  
 
 ---
 **Gold bulls - Don't be afraid of a rising stock market**
