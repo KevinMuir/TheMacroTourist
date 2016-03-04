@@ -17,11 +17,11 @@ tags:
 ---
 <img src="http://themacrotourist.com/images/BlackrockMar0416.png" alt="http://themacrotourist.com/images/BlackrockMar0416.png" width="600" height="660" style="margin:30px auto;display:block;">
 
-I have a confession to make.  This morning a ZeroHedge headline got me excited.  Usually his end of the world tweets merely cause a cynic sneer, but when I saw Tyler Durden's reporting about Blackrock suspending the issuance of gold trust shares, I thought to myself: *this is it!*  
+I have a confession to make.  This morning a ZeroHedge headline got me excited.  Usually his end of the world tweets merely cause a cynical sneer, but when I saw Tyler Durden's reporting about Blackrock suspending the issuance of gold trust shares, I thought to myself: *this is it!*  
 
 <img src="http://themacrotourist.com/images/ZHMar0416.png" alt="http://themacrotourist.com/images/ZHMar0416.png" width="600" height="200" style="margin:30px auto;display:block;">
 
-The moment where the delicate imbalance between paper gold demand and physical gold finally jumps to the front of investor's consciousness is upon us.  
+This is the moment where the delicate imbalance between paper gold demand and physical gold finally jumps to the front of investor's consciousness.  
 
 Yet sadly, once again, the reality of the situation was not nearly as dire as ZeroHedge's headline.  The truth of the matter was Blackrock suspended the issuance of their gold ETF product, not because of a lack of physical gold, but instead because Blackrock had failed to file the proper paperwork with the SEC to issue enough news shares.  From Blackrock's press release:
 
