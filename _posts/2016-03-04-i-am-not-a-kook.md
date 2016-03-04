@@ -53,7 +53,7 @@ These ETFs do a good job at tracking the price of physical gold.  There are some
 
 But what if I told you that there was another product where you could buy gold and silver at a *discount*, and the physical assets were held outside the US banking system?
 
-The Central Fund of Canada *(symbol CEF US Equity)* is a closed end fund that has been around for decades.  It's only asset is gold and silver. There is no redemption feature so it's traded value varies with market sentiment.  
+The Central Fund of Canada *(symbol CEF US Equity)* is a closed end fund that has been around for decades.  Its only asset is gold and silver. There is no redemption feature so it's traded value varies with market sentiment.  
 
 Given the inability to arbitrage discounts, it is no surprise CEF currently trades at a discount to NAV (net asset value).
 
