@@ -56,7 +56,7 @@ The Central Fund of Canada *(symbol CEF US Equity)* is a closed end fund that ha
 
 Given the inability to arbitrage discounts, it is no surprise CEF currently trades at a discount to NAV (net asset value).
 
-<img src="http://themacrotourist.com/images/CEFNMar0416.png" alt="http://themacrotourist.com/images/CEFNMar0416.png" width="750" height="460" style="margin:30px auto;display:block;">
+<a href="http://themacrotourist.com/images/CEFNMar0416.png"><img src="http://themacrotourist.com/images/CEFNMar0416.png" alt="http://themacrotourist.com/images/CEFNMar0416.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 CEF is currently at an approximate 7.5% discount to the underlying assets, which is right in line with the average of the past few years.
 
