@@ -36,7 +36,7 @@ Don't get me wrong - this is still good news for the price of gold.  It just was
 
 Before you write me off as some sort of gold bull kook, stop and think about the Blackrock news.  In the space of two months demand for gold has exploded so far past expectations, Blackrock did not have the proper paperwork filed.  They are in the business of issuing ETFs.  Not being able to issue ETFs is not part of their plan.
 
-Gold is not a big market.  Changes in sentiments, and more importantly changes in Central Bank allocations, can cause a *huge swing* in price.  I won't drone on about all the reasons I am long gold, but instead will present an idea on how to get long at a discount...
+Gold is not a big market.  Changes in sentiment, and more importantly changes in Central Bank allocations, can cause a *huge swing* in price.  I won't drone on about all the reasons I am long gold, but instead will present an idea on how to get long at a discount...
 
 ---
 **How about something other than GLD or IAU?**
