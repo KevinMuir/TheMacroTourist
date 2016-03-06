@@ -45,8 +45,7 @@ Many investors who want exposure to gold buy either the GLD or IAU ETF.  These E
 
 These ETFs do a good job at tracking the price of physical gold.  There are some investors who worry about the underlying assets being part of the US financial system, but otherwise it is difficult to find any problems with these products.
 
-<img src="http://themacrotourist.com/images/1933Mar0416.jpg" alt=
-"http://themacrotourist.com/images/1933Mar0416.jpg" width="750" height="460" style="margin:30px auto;display:block;">
+<a href="http://themacrotourist.com/images/1933Mar0416.jpg"><img src="http://themacrotourist.com/images/1933Mar0416.jpg" alt="http://themacrotourist.com/images/1933Mar0416.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 ---
 **What if I told you?**
