@@ -50,12 +50,12 @@ Even now their communicated expected path for interest rates differs greatly fro
 
 <a href="http://themacrotourist.com/images/FOMCMar0216.png"><img src="http://themacrotourist.com/images/FOMCMar0216.png" alt="http://themacrotourist.com/images/FOMCMar0216.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Ray Dalio from the world's largest hedge fund Bridgewater, along with other smart guys warned the Federal Reserve was making a *"1937 style mistake"* with their December tightening.  Their tight policy has created more stress on an already precariously balanced global financial system.
+Ray Dalio from the world's largest hedge fund Bridgewater, along with many other smart guys have warned the Federal Reserve was making a *"1937 style mistake"* with their December tightening.  Their tight policy has created more stress on an already precariously balanced global financial system.
 
 ---
 **What if they are not done?**
 
-Although the financial market turmoil in the first couple months has caused many FOMC members to back off their hawkish rhetoric, they have yet to commit to changing their policy.  There has been some acknowledgement financial conditions have tightened reducing the need for tightening, but there has been no withdrawal of a commitment to higher rates.  
+Although the financial market turmoil in the first couple months of the year has caused many FOMC members to back off their hawkish rhetoric, they have yet to commit to changing their policy.  There has been some acknowledgement financial conditions have tightened reducing the need for tightening, there has been no withdrawal of a commitment to higher rates.  
 
 <a href="http://themacrotourist.com/images/CMar0716.png"><img src="http://themacrotourist.com/images/CMar0716.png" alt="http://themacrotourist.com/images/CMar0716.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
