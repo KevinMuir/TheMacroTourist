@@ -111,5 +111,8 @@ I know this is a hard concept for many investors to accept, but **Quantitative E
 Thanks for reading and have a great weekend,  
 Kevin Muir  
 the MacroTourist  
-
-
+  
+  
+<a href="http://themacrotourist.com/Subscribe.html"><img src="http://themacrotourist.com/images/EMAIL.jpg" alt="http://themacrotourist.com/images/EMAIL.jpg" align="left" width="60" height="50" style="margin:30px auto;display:block;"></a>
+  
+Did you receive the MacroTourist email from a friend and want to sign up?  Simply click on the email icon.  Your email address will never be used for any solicitation of any kind and you can unsubscribe at any time.  
