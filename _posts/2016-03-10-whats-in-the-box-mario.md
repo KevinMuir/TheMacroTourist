@@ -38,11 +38,9 @@ This raising of the stakes by Draghi makes me more certain we are approaching th
 
 Thanks for reading,  
 Kevin Muir  
-the MacroTourist  
-
-PS:  For those who receive my post by email, I apologize for this morning's resend.  Mailchimp got a little frisky and decided to send out yesterday's again.  My apologies for clogging your inbox.  Kev
-
-
-
-
-
+the MacroTourist 
+  
+  
+<a href="http://themacrotourist.com/Subscribe.html"><img src="http://themacrotourist.com/images/EMAIL.jpg" alt="http://themacrotourist.com/images/EMAIL.jpg" align="left" width="70" height="60" style="margin:30px padding:10px;padding-bottom: 50px;auto;display:block;"></a>
+  
+Would you prefer to receive the MacroTourist delivered to your email inbox automatically every day?  Or did you receive the MacroTourist email from a friend and want to sign up?  Simply click on the email icon.  Your email address will never be used for solicitation of any kind and you can unsubscribe at any time.  
