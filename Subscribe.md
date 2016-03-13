@@ -48,9 +48,9 @@ If you know anyone who would be interested in receiving the MacroTourist Daily N
 
 If you are more technical and would prefer to subscribe using RSS, simply click on this [link here](http://themacrotourist.com/feed.xml).
 
-Thanks for reading!
-Kevin Muir
-the MacroTourist
-kevin@wintorcapital.com
+Thanks for reading!  
+Kevin Muir  
+the MacroTourist  
+kevin@wintorcapital.com  
 
 
