@@ -21,7 +21,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/YellenMar2216.png"><img src="http://themacrotourist.com/images/YellenMar2216.png" alt="http://themacrotourist.com/images/YellenMar2216.png" width="600" height="500" style="margin:30px auto;display:block;"></a>
 
-The MacroTourist sure picked a heck of a week to head off on vacation.  I was expecting a nice quiet affair at last week's FOMC meeting, with the Federal Reserve setting the market up for a June tightening, but ultimately trying to do their best to not derail the risk-on rally.  After all, they had been consistently signaling everything was on pace for four tightenings in the next year.  There has been *absolutely no signs* the interest rate path was about to be altered.  
+The MacroTourist sure picked a heck of a week to head off on vacation.  I was expecting a nice quiet affair at last week's FOMC meeting, with the Federal Reserve setting the market up for a June tightening, but ultimately trying to do their best to not derail the risk-on rally.  After all, they had been consistently signaling everything was on pace for four tightenings in the next year.  There had been *absolutely no signs* the interest rate path was about to be altered.  
 
 In fact, due to the ripping rally of the past few weeks, a few economists were even forecasting a **interest rate rise at last week's FOMC meeting.**  Although I did not think this was *probable*, I definitely thought it was *possible.* After all, even though I felt the Fed was making a colossal mistake, there were *zero signs they were about to change tack.*  I even wrote a piece about how Yellen might pull a Trichet and tighten twice in succession just to prove the first rate rise was not a mistake.
 
