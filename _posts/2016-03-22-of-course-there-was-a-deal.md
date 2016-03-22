@@ -105,7 +105,7 @@ One of Mario Draghi's answers at his recent Q&A session was especially interesti
 
 >**Question: Some people have called it currency wars.** 
 
->...Also, let's not forget that in the G20 in Shanghai all countries took a solemn agreement that basically they would avoid such war.
+>**Answer:**  ...Also, let's not forget that in the G20 in Shanghai all countries took a solemn agreement that basically they would avoid such war.
 
 Why would all countries agree to this "solemn agreement" when US policy was choking off economic growth and worsening the currency wars?  The answer is now obvious.  The countries all agreed because the US relented.  
 
