@@ -99,7 +99,7 @@ In essence, America's insistence on withdrawing liquidity caused the currency wa
 ---
 **Don't believe there was a deal?**
 
-Think back to the dark days of last month's market turmoil.  Even though it appeared nothing changed at the G20 meeting, the market has risen steadily for the past few weeks.  Although nothing officially was agreed on, there is no doubt in my mind the US signaled to the other Central Bankers that their foot would come off the brake.  And this market rally on "no news" was simply the plugged in crowd getting the wink and nod.  
+Think back to the dark days of last month's market decline.  Even though it appeared nothing changed at the G20 meeting, the market has risen steadily for the past few weeks.  Although nothing officially was agreed on, there is no doubt in my mind the US signaled to the other Central Bankers that their foot would come off the brake.  And this market rally on "no news" was simply the plugged in crowd getting the wink and nod.  
 
 One of Mario Draghi's answers at his recent Q&A session was especially interesting:
 
