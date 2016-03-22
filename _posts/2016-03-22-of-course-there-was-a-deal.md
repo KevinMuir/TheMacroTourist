@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'OF COURSE THERE WAS A DEAL'
-date: 2016-03-22T12:00:00-05:00
+date: 2016-03-22T11:30:00-05:00
 author: kevin
 layout: post
 categories:
