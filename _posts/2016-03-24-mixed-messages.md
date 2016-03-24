@@ -37,7 +37,7 @@ That premise now needs to be seriously questioned.  I don't know anymore what to
 
 If there was no deal amongst G20 government officials for the Federal Reserve to ease off on the tightening for the sake of the global economy, or even if there was a deal but Yellen cannot enforce it amongst her board, then we will become mired in the old paradigm of; higher US dollar, lower commodities (mainly oil), with stresses on risk assets and chances that China will be forced to devalue.  All of February worries will quickly return.
 
-Just look at today's action to get a sense of what might happen if the Fed continues with their hawkish rhetoric.
+Just look at yesterday's action to get a sense of what might happen if the Fed continues with their hawkish rhetoric.
 
 <a href="http://themacrotourist.com/images/FourMar2416.png"><img src="http://themacrotourist.com/images/FourMar2416.png" alt="http://themacrotourist.com/images/FourMar2416.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
