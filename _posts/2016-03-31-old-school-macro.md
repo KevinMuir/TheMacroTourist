@@ -61,7 +61,7 @@ Wait, that's exactly the sort of corporate pop that is ruining music.  Instead l
 >(Sad to see you go)
 >Was sort of hoping that you'd stay
 
-There is no doubt in my mind that if I was a young fellow looking for a job in the hedge fund industry, Odey Management would be my first call.  It would be like touring with the Led Zeppelin in their heyday.  Heck, I hope I haven't ruined my chances.  I might be closer to the profile of a 1970s rock star who has completely let himself go better than most of these young guys.  I might fit in perfectly at Odey...
+There is no doubt in my mind that if I was a young fellow looking for a job in the hedge fund industry, Odey Management would be my first call.  It would be like touring with Led Zeppelin in their heyday.  Heck, I hope I haven't ruined my chances at Crispin's firm.  I might be closer to a 1970's rock star who has completely let himself go than most of these young guys.  I might fit in perfectly at Odey...
 
 Thanks for reading,  
 Kevin Muir  
