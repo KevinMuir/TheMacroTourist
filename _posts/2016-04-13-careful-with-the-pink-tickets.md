@@ -25,7 +25,7 @@ But where I differ from most others is my belief about the origins of this lates
 
 What is the right price for an equity when the risk free rate is below zero?  Try sticking negative rates into all the fancy equity pricing models.  It doesn't work.  Our financial system was never designed for this sort of absurdity.
 
-What about the fact that Central Banks are actively monetizing their balance sheets by buying equities?  Do you think the Swiss National Bank or the Band of Japan are checking valuations before they pull the trigger on their gargantuan buy programs?  Not a chance.  They are lifting offers, desperately trying to get it in.
+What about the fact that Central Banks are actively monetizing their balance sheets by buying equities?  Do you think the Swiss National Bank or the Bank of Japan are checking valuations before they pull the trigger on their gargantuan buy programs?  Not a chance.  They are lifting offers, desperately trying to get it in.
 
 Central Banks have made a mockery of financial markets.  Was it really just an unlucky coincidence we had *the largest decline in the history of stocks to start a calendar year*, but that by quarter end, the *decline had been completely erased?*  Central Banks have pushed all asset prices to levels where the underlying fundamental bid is so much lower, the moment they walk away, prices collapse.  When they rush back, stocks go rocketing back up.
 
