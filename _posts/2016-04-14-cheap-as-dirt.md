@@ -112,7 +112,7 @@ I can't remember the stat, but I think it takes something like 6 or 7 times more
 
 Maybe you don't buy the "grains are going higher" argument, fine.  But if you are worried about inflation making a comeback, you could probably at least accept that in this world where it is difficult to find an uncorrelated asset that tracks inflation, grains are a potential candidate.  It is obviously not that easy as buying futures has roll problems and a myriad of other difficulties.  Yet as an inflation hedge, it is intriguing.  For me, this is is just an added kicker.
 
-Finally regardless if you believe greenhouse emissions are causing global warming, it is difficult to dismiss the fact the trend is towards a warmer climate.  Although this has resulted in near perfect growing seasons for the past few years, I do not believe this streak will last forever.  Eventually the hotter weather will create droughts that cause severe problems.  The weather has been so perfect for farmers for so long, we have almost forgotten Mother Nature can be cruel. 
+Finally regardless if you believe greenhouse emissions are causing global warming, it is difficult to dismiss the fact the trend towards a warmer climate.  Although this has resulted in near perfect growing seasons for the past few years, I do not believe this streak will last forever.  Eventually the hotter weather will create droughts that cause severe problems for the crops.  The weather has been so perfect for farmers for so long, we have almost forgotten Mother Nature can be cruel. 
 
 The bears are counting on;
 1. yields continuing to improve 
@@ -120,7 +120,7 @@ The bears are counting on;
 3. the growing season weather to once again be perfect
 4. no nominal inflation.  
 
-Maybe this all plays out exactly as the bears hope.  It has worked for the past five years, why not again?  But instead of joining them in their pessimism, I am willing to fade them.  **Grains are dirt cheap.**  They have suffered through a four decade bear market in real terms.  I can't remember the last time anyone recommended a core long grain position.  The relentless bear market has made this trade about as popular as Ebola.  I might not know much, but I know the risk reward in this type of environment is *always* skewed to the upside.  Surprises always come in the direction no one is expecting.
+Maybe this all plays out exactly as the bears hope.  It has worked for the past five years, why not again?  But instead of joining them in their pessimism, I am willing to fade them.  **Grains are dirt cheap.**  They have suffered through a four decade bear market in real terms.  I can't remember the last time anyone recommended a core long grain position.  The relentless bear market has made this trade about as popular as Ebola.  I might not know much, but I know the risk reward in this type of environment is skewed to the upside.  Surprises always come in the direction no one is expecting.
 
 I will leave you with one of Don Coxe's famous lines:
 
