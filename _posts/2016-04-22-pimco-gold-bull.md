@@ -51,7 +51,7 @@ The big deal is that *Rickards didn't write it*.  Whether you like Rickards or n
 
 The idea of the Federal Reserve monetizing their balance sheet against gold has so far stayed within the gold bug community.  But suddenly the idea has jumped out of its cage!  This isn't Schiff, Rickards or Sprott arguing the Fed should think about buying gold.  **This is PIMCO!**  They are a huge traditional money manager.  
 
-The fact that staid money managers such as PIMCO are starting to think about the possibility of the Federal Reserve buying gold has the potential to dramatically change the gold price.  Regardless of whether the Fed will realistically ever buy gold, the simple fact is that if money managers consider it a *possibility*, they will buy some gold.  If you think there is a 0 in 100 chance of an event occurring, it is easy to own none of the asset.  But if you change that to 1 or even 2 in a 100 chance, then all of a sudden it makes sense to buy a little gold.  
+The fact that staid money managers such as PIMCO are starting to think about the possibility of the Federal Reserve buying gold has the potential to dramatically change the gold price.  Regardless of whether the Fed will realistically ever buy gold, the simple fact is that if money managers consider it a *possibility*, the managers will buy some gold.  If you think there is a 0 in 100 chance of an event occurring, it is easy to own none of the asset.  But if you change that to 1 or even 2 in a 100 chance, then all of a sudden it makes sense to buy a little gold.  
 
 Late last year in the depths of the precious metal despair, Grant Williams gave a presentation titled ["Nobody Cares"](<https://www.youtube.com/watch?v=qnZHMmCjpQ8>).  It was a brilliant piece of work, and I am going to shameless steal a slide.  According to Grant, pension funds have 0.15% of their assets allocated to gold and another 0.15% in gold stocks.  That's a tiny portion of their assets and largely reflects their view that gold is nothing more than a 'pet rock.'  But what if they doubled this?  It's not like that is an outlandish view given their minuscule weighting.  A doubling of their allocation would result in $100 billion of buying.  What does $100 billion do to the gold market?  Grant created this great slide that shows all the gold assets you could buy for that amount:
 
@@ -85,7 +85,7 @@ Yet any single Central Bank buying gold would create imbalances in the currency 
 
 The specifics of any possible gold monetization are irrelevant.  Right now all you need to know is that smart guys are starting to buy it.  This is not some $50 up move you should ride.  This is the start of a secular move higher in gold.  Harley Bassman just ushered in the new era.
 
-Thanks for reading and have a great weekend,
+Thanks for reading and have a great weekend,  
 Kevin Muir  
 the MacroTourist  
 
