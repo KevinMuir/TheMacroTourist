@@ -34,7 +34,7 @@ Harley goes through the argument of why the Federal Reserve should consider mone
 
 Harley has taken former PIMCO portfolio manager Paul McCulley's argument that in this era of balance sheet constrained economies, a Central Bank needs to be "responsibly irresponsible" to the next level.
 
-I have been pounding on the drum that the popular idea Central Banks are powerless to create inflation is absurd.  It is all a question of commitment.  And Harley makes this point:
+I have been pounding the drum on the popular idea Central Banks are powerless to create inflation is absurd.  It is all a question of commitment.  And Harley makes this point:
 
 >In coda I would respond to the argument that a central bank cannot willfully create inflation – I disagree; it just depends upon how hard one tries. There are plenty of examples ranging from Weimar Germany to Zimbabwe where central banks have unleashed uncontrolled hyperinflations.
 
