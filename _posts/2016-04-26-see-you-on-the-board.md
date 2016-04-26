@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'SEE YOU ON THE BOARD'
-date: 2016-02-08T13:50:00-05:00
+date: 2016-04-26T13:50:00-05:00
 author: kevin
 layout: post
 categories:
