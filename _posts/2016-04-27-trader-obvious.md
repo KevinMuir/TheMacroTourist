@@ -58,7 +58,7 @@ I have learned the hard way that assuming a Central Banker will see all the obvi
 ---
 **The BoJ**
 
-Yesterday I wrote about the strange sudden obsession with the Bank of Japan's stock holdings.  And although I was not smart enough to figure it out, one of my much more astute readers was kind enough to point me in the right direction.  Have a look at this great tweet from Janney's Chief Fixed Income Strategist Guy LeBas ([@lebas_janney](<https://twitter.com/lebas_janney>)):
+Yesterday I wrote about the sudden strange obsession with the Bank of Japan's stock holdings.  And although I was not smart enough to figure it out, one of my much more astute readers was kind enough to point me in the right direction.  Have a look at this great tweet from Janney's Chief Fixed Income Strategist Guy LeBas ([@lebas_janney](<https://twitter.com/lebas_janney>)):
 
 <a href="http://themacrotourist.com/images/GuyApr2716.jpg"><img src="http://themacrotourist.com/images/GuyApr2716.jpg" alt="http://themacrotourist.com/images/GuyApr2716.jpg" width="600" height="600" style="margin:30px auto;display:block;"></a>
 
