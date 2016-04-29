@@ -30,7 +30,7 @@ They have both gone offered.  In Europe, it is even more pronounced:
 
 Investors have been hiding in supposedly "safe" fixed income for quite some time now.  I can't tell you the number of hedge funds who believe the US bond market offers terrific value against the coming deflationary collapse.  
 
-Investors often hedge for the last crisis instead of the next one, and not only is fixed income a poor place to hide, but offers a terrific shorting opportunity.  I am short US Treasuries, but have a much bigger position in German Bunds and Japanese JGBs.  Yet even I am somewhat surprised that in this down stock market tape, bonds aren't rising more.  
+Investors often hedge for the last crisis instead of the next one, and not only is sovereign fixed income a poor place to hide, but offers a terrific shorting opportunity.  I am short US Treasuries, but have a much bigger position in German Bunds and Japanese JGBs.  Yet even I am somewhat surprised that in this down stock market tape, bonds aren't rising more.  
 
 Maybe I am reading too much into some short term noise, but I am taking this as a positive sign for my position.  In fact, I will look for some spots to add to the trade in the coming days. 
 
