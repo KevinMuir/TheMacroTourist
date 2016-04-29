@@ -47,7 +47,7 @@ Before it is too late, please help me get Vermin Supreme elected.
 
 <a href="http://themacrotourist.com/images/VerminApr2916.jpg"><img src="http://themacrotourist.com/images/VerminApr2916.jpg" alt="http://themacrotourist.com/images/VerminApr2916.jpg" width="750" height="600" style="margin:30px auto;display:block;"></a>
 
-I don't know if it is the boot on his head, or his plan to travel back in time, but Vermin really speaks to me.  And lest you think this is a joke, please click [here](<https://www.youtube.com/watch?v=4d_FvgQ1csE>) to watch Vermin debate at the New Hampshire primary convention.  Vermin is no newcomer to the game of politics.  He has run for President in every election since 1992.  Click [here](<https://www.youtube.com/watch?v=lrDDkKPUFa4>) to learn more about Mr. Supreme and help me get him elected.
+I don't know if it is the boot on his head, his plan to travel back in time, or his hamster wheel alternative power plan, but Vermin really speaks to me.  And lest you think this is a joke, please click [here](<https://www.youtube.com/watch?v=4d_FvgQ1csE>) to watch Vermin debate at the New Hampshire primary convention.  Vermin is no newcomer to the game of politics.  He has run for President in every election since 1992.  Click [here](<https://www.youtube.com/watch?v=lrDDkKPUFa4>) to learn more about Mr. Supreme and help me get him elected.
 
 Thanks for reading,  
 Kevin Muir  
