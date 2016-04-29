@@ -27,7 +27,7 @@ The Yen chart looks much the same as the Nikkei:
 
 <a href="http://themacrotourist.com/images/YenApr2816.png"><img src="http://themacrotourist.com/images/YenApr2816.png" alt="http://themacrotourist.com/images/YenApr2816.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-To understand the violence of this Yen move, I stole a terrific chart made this morning by Bloomberg TV's anchor Matt *"I really like Macdonald's breakfast for lunch"* Miller and his partner in crime [Hillary Queen of Chartz](<https://twitter.com/queenofchartz>):
+To understand the violence of this Yen move, I stole a terrific chart made this morning by Bloomberg TV's anchor Matt *"I really like Mcdonald's breakfast for lunch"* Miller and his partner in crime [Hilary Queen of Chartz](<https://twitter.com/queenofchartz>):
 
 <a href="http://themacrotourist.com/images/DailyApr2816.png"><img src="http://themacrotourist.com/images/DailyApr2816.png" alt="http://themacrotourist.com/images/DailyApr2816.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
@@ -59,7 +59,7 @@ Now that we know how we got here, what are the ramifications from this latest de
 
 At the risk of embarrassing myself again with another terrible BoJ call, I will lay out my theory on what happened.  Kuroda, Abe and the rest of the Japanese administration were indeed keen to increase stimulus at this last meeting.  But don't forget the Bank of Japan is a committee.  It's supposed to be independent.  
 
-At the previous meeting when Kuroda moved to negative rates, there was four dissenters in the committee of nine.  He was barely able to pass it.  And I am not sure, but I think I recall a couple other previous important meetings having close votes.  Kuroda is powerful, but by no means omnipotent.  
+At the previous meeting when Kuroda moved to negative rates, there were four dissenters in the committee of nine.  He was barely able to pass it.  And I am not sure, but I think I recall a couple other previous important meetings having close votes.  Kuroda is powerful, but by no means omnipotent.  
 
 I think Kuroda simply didn't have the votes to pass another easing measure last night.  Realizing he couldn't get his desired stimulus measures through committee, he gave up and purposely did nothing.  He wanted the market to react the way it did.  He wants to force the hold outs around to his way of thinking.
 
