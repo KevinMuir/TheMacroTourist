@@ -68,7 +68,7 @@ Which brings me back to my earnings argument.  Right now the P/E on the S&P 500 
 
 But what were bond yields in 2004?  The US 10 year was over 4%.  Right now it is 1.80%.  
 
-I don't know what the right P/E should be.  I have a feeling risk free rates are more mispriceed than stocks, but my best bet is that both stocks and yields are headed higher in the coming quarters.  A P/E of 19 might seem stupid, but Central Banks monetizing their balance sheets by buying risk assets is infinitely more stupid.
+I don't know what the right P/E should be.  I have a feeling risk free rates are more mispriced than stocks, but my best bet is that both stocks and yields are headed higher in the coming quarters.  A P/E of 19 might seem stupid, but Central Banks monetizing their balance sheets by buying risk assets is infinitely more stupid.
 
 <a href="http://themacrotourist.com/images/PEMay0116.png"><img src="http://themacrotourist.com/images/PEMay0116.png" alt="http://themacrotourist.com/images/PEMay0116.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
