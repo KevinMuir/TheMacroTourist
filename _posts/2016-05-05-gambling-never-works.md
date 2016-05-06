@@ -52,7 +52,7 @@ Remember - having a position right in front of a big number isn't trading, it's 
 ---
 **Sentiment**
 
-I have been arguing sentiment is negative.  It's strange because during the rally of the past two months, few investors jumped on the bandwagon.  
+For the past month, I have been arguing sentiment is quite negative.  It's strange because during the recent rally, few investors jumped on the bandwagon.  
 
 This has been one of the most hated rallies in the history of Wall Street.  I know this intuitively, and all you need to do is look at the recent hedge fund guru Sohn Conference where all the supposedly "smart money" experts were uniformly bearish.  But I have had trouble demonstrating it.  Until now.  A Bloomberg reporter created this terrific chart that shows the past three rallies, with the accompanying ETF flows.  During 2014 when strategists were "so bullish it hurts", investors piled $35 billion into ETFs.  Then in the aftermath of the summer swoon of 2015, $9 billion of ETFs were created.  But in this last rally, only $3 billion has been made!
 
