@@ -39,7 +39,7 @@ Bespoke confirms this trend has played out during the past fifteen plus years:
 
 <a href="http://themacrotourist.com/images/BWeakMay0616.jpg"><img src="http://themacrotourist.com/images/BWeakMay0616.jpg" alt="http://themacrotourist.com/images/BWeakMay0616.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-I would always err on assuming this pattern repeats, but for today, I think it is especially important. Most importantly, the stock market will not like a strong employment report.  
+I would always err on assuming this pattern repeats, but for today, I think it is especially relevant. Most importantly, the stock market will not like a strong employment report.  
 
 ---
 **Don't gamble**
