@@ -78,7 +78,7 @@ Yesterday I bought some VIX puts for this summer.  I am way too chicken shit to 
 ---
 **Vancouver Real Estate**
 
-Recently I asked one of my West Coast buddies for his opinion on Vancouver real estate.  He sent me this great reply:
+I asked one of my West Coast buddies for his opinion on Vancouver real estate.  He sent me this great reply:
 
 >Our real estate is vastly over-valued. I have proof. I call it the locker room indicator. You’re a squash player so you are probably familiar with this indicator. When the squash boys, in the locker room or in the bar, after the game and a few beer, start talking investments, I lean in and listen closely. It is a topic that seldom comes up, but when it does, it is important. Squash players, as you know, are generally not the most sophisticated. They are awesome people, sincere, fit and a lot of other nice qualities. But not financially savvy. I remember back in 2000, everyone was buying tech  and telecommunication stocks. “B2B” and “fiber optics” were phrases that became more common than “boast” and “backhand volley drop”. Everyone knew or owned Amazon, Nortel, 360, Juniper, sisco, Palm, etc. It was a fascinating conversation that lasted maybe 3 months. You know the rest….
 
