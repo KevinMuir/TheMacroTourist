@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'A TRULY CONTRARIAN IDEA'
-date: 2016-05-16T11:00:00-05:00
+date: 2016-05-16T10:10:00-05:00
 author: kevin
 layout: post
 categories:
