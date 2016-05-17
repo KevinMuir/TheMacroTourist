@@ -57,7 +57,7 @@ Although I am hopeful the Fed can sit on their hands long enough to kick start t
 ---
 **Peeling off some gold**
 
-Although I have been a big gold proponent, I am peeling off a bit of my position up here.  By no means am I suggesting it will go down.  I am sticking with my long term position, and still view it as core long position.  Yet recently the party has become worryingly crowded.  
+Although I have been a big gold proponent, I am peeling off a bit of my position up here.  By no means am I suggesting the price of gold will collapse.  I am sticking with my long term position, and still view it as core long position.  Yet recently the party has become worryingly crowded.  
 
 Have a look at the CFTC commitment of traders report:
 
