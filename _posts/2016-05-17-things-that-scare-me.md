@@ -42,7 +42,7 @@ This scares me.  The market does not believe Yellen will be successful in inflat
 
 Which is why the velocity of money keeps plummeting.  All of these negative forces are worsened with an overly tight Federal Reserve.  Yellen & Co. keep assuming we are living in a pre-2008 crisis world.  
 
-The economy cannot handle higher rates, and the bond market **knows this better than anyone**.  This morning a bunch of economic releases indicated a stronger economy and higher inflation.  This should be negative for the long end of bond curve.  Yet instead of selling off, long bonds are rallying!  What amazing is that twos are down and 30s are up!  The yield curve continues to flatten.
+The economy cannot handle higher rates, and the bond market **knows this better than anyone**.  This morning a bunch of economic releases indicated a stronger economy and higher inflation.  This should be negative for the long end of bond curve.  Yet instead of selling off, long bonds are rallying!  What's amazing is that twos are down and 30s are up!  The yield curve continues to flatten.
 
 <a href="http://themacrotourist.com/images/TwoTenMay1716.png"><img src="http://themacrotourist.com/images/TwoTenMay1716.png" alt="http://themacrotourist.com/images/TwoTenMay1716.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
