@@ -76,7 +76,7 @@ I bought some US dollars yesterday.  We have had a little more than a year of si
 
 <a href="http://themacrotourist.com/images/DXYMay1816.png"><img src="http://themacrotourist.com/images/DXYMay1816.png" alt="http://themacrotourist.com/images/DXYMay1816.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-I think buying US dollars to express this view is a much better trade than shorting equities.  During all 2015 speculators were net long whopping amounts of US dollars.  This spring they got shaken off, and they have now flipped to a small net short.  
+I think buying US dollars to express the view of an overly aggressive Fed is a much better trade than shorting equities.  During all 2015 speculators were net long whopping amounts of US dollars.  This spring they got shaken off, and they have now flipped to a small net short.  
 
 <a href="http://themacrotourist.com/images/CMEMay1816.png"><img src="http://themacrotourist.com/images/CMEMay1816.png" alt="http://themacrotourist.com/images/CMEMay1816.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
