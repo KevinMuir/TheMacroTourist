@@ -34,7 +34,7 @@ A couple of the drunker guys yelled back “Hell yeah!  Birds for the bill” wh
 
 The bill came and my boss announced the amount.  Nine hundred and forty two dollars he calmly reported.
 
-Holy f$ck!  How much did we drink? I thought to myself.  At this point in my life I don’t think I had ever seen a restaurant or bar bill over $200.  This amount seemed like there was something wrong.  Was that the bill for the whole bar?  And what exactly is "birds"?
+Holy f$ck!  How much did we drink?  At this point in my life I don’t think I had ever seen a restaurant or bar bill over $200.  This amount seemed like there was something wrong.  Was that the bill for the whole bar?  And what exactly is "birds"?
 
 Next thing I knew my boss had arranged us all in a circle and reminded us of the rules.  Each one of us would commit to putting either zero, one, two or three coins in our hand.  We would then make a fist over the coins and push it towards the middle.  One by one we would all guess how many coins we collectively had in our hands, with no two guesses allowed to be the same.  After  everyone had guessed, we would reveal how many coins we had put in, and they would be added up.  If you had guessed the total amount, you were out and did not have to pay the bill.  This would repeat until there was only one guy left.  This poor soul would be stuck with the bill.
 
