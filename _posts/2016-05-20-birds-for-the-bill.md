@@ -46,7 +46,7 @@ Over the years I realized the best "birds" players used a lot of strategy.  Bluf
 
 I don't know if it was my poor playing, or maybe it was just bad luck, but next thing I knew, the game was down to two people - me and my boss.  Damn.  Why couldn't I have gotten out early?
 
-With trembling hands I chose zero coins, closed my fist and put my hand out.  It was my bosses turn to go first, so I had the advantage.  He stared at me with a big smile, obviously enjoying the game.  All the booze was rushing to my head and my stomach felt like someone had pumped in a canister of helium.  
+With trembling hands I chose zero coins, closed my fist and put my hand out.  It was my boss' turn to go first, so I had the advantage.  He stared at me with a big smile, obviously enjoying the game.  All the booze was rushing to my head and my stomach felt like someone had pumped in a canister of helium.  
 
 "Four" he grinned.
 
