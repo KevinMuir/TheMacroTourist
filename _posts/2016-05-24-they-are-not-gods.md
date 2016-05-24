@@ -34,7 +34,7 @@ Have a look at the most recent flow of funds:
 
 Out of equities, into bonds...
 
-How about gold?  Recall all the home office guys falling all over themselves with bullishness.  Smart guys like Druckenmiller proclaiming it their number one holding.  Investors piggybacked that call and sent GLD shares outstanding to new highs for this move even as prices were dipping.
+How about gold?  Recall all the family office guys falling all over themselves with bullishness.  Smart guys like Druckenmiller proclaiming it their number one holding.  Investors piggybacked that call and sent GLD shares outstanding to new highs for this move even as prices were dipping.
 
 <a href="http://themacrotourist.com/images/GLDMay2416.png"><img src="http://themacrotourist.com/images/GLDMay2416.png" alt="http://themacrotourist.com/images/GLDMay2416.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
