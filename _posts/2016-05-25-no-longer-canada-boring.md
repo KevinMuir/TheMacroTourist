@@ -71,7 +71,7 @@ I am shorting Canadian dollars.  I was already leaning towards being long US dol
 
 My suspicion is that those hedge funds bearish on Canadian real estate will finally prove correct in the coming quarters.  Well maybe not correct because being years early is still wrong.  I don't think it will be a "career making short", but Canada will be 'on offer' versus the US for some time to come.  I think the Canadian economic surprises will all be on the downside.  Canadian rates and the Loonie will not rise anywhere near as fast as US rates and the US dollar.  Not only am I shorting the Loonie, I will buy Canadian fixed income versus the US.  
 
-Let's cross our fingers and hope the real estate correction is just a typical Canada boring decline... 
+Let's cross our fingers and hope the real estate correction is just a typical Canadian boring decline... 
 
 Thanks for reading,  
 Kevin Muir  
