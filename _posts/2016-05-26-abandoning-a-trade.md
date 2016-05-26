@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'ABANDONING A TRADE'
-date: 2016-02-08T12:30:00-05:00
+date: 2016-03-26T12:30:00-05:00
 author: kevin
 layout: post
 categories:
