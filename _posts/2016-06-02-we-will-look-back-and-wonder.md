@@ -17,7 +17,7 @@ tags:
 
 <a href="http://themacrotourist.com/images/CentralBankersJun0216.png"><img src="http://themacrotourist.com/images/CentralBankersJun0216.png" alt="http://themacrotourist.com/images/CentralBankersJun0216.png" width="750" height="575" style="margin:30px auto;display:block;"></a>
 
-When I tell people my theory that inflation is the next big worry, they often condescendingly nod their head.  Then they kindly explain to me that, "of course they understand that no currency has ever collapsed due to deflation and that yes, they know that inflation is the ultimate end game."  But then they lower their voice almost to a whisper, and let me in on their little secret.  "But that's a long way off," they reassure me.  "There is no inflation to be found anywhere.  You will be right, but that's *years* (and maybe even decades) away..."
+When I tell people my theory that inflation is the next big worry, they often condescendingly nod their head.  Then they kindly explain to me that, "of course they understand that no currency has ever collapsed due to deflation and that yes, they know that inflation is the ultimate end game."  They lower their voice almost to a whisper, and let me in on their little secret.  "But that's a long way off," they reassure me.  "There is no inflation to be found anywhere.  You will be right, but that's *years* (and maybe even decades) away..."
 
 And maybe they are right.  Maybe all of this monetary madness will forever sit on the Central Banks' balance sheet as inert and useless as a pathetic old Hugh Hefner.  But all I know is these warnings that *"inflation will eventually come, but not just yet,"* sound suspiciously like a Chuck Prince forecast.
 
