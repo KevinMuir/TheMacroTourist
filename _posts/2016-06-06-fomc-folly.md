@@ -1,6 +1,6 @@
 ---
 id: 26011
-title: 'FOMC FOLLY'
+title: 'FOMC FOLLIES'
 date: 2016-06-06T09:30:00-05:00
 author: kevin
 layout: post
