@@ -17,7 +17,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/FOMCJun0616.png"><img src="http://themacrotourist.com/images/FOMCJun0616.png" alt="http://themacrotourist.com/images/FOMCJun0616.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-This morning's [*must listen* interview is last week's Benn Steil appearance on HedgeEye.](<https://app.hedgeye.com/insights/51403-benn-steil-mercurial-central-bankers-screwing-markets>).  Benn is the Director of International Economics at the Council on Foreign Relations.  In the discussion, Benn nails the internal politics facing Yellen and the FOMC.  I have transposed a couple of key excerpts:
+This morning's [*must listen* interview is last week's Benn Steil appearance on HedgeEye.](<https://app.hedgeye.com/insights/51403-benn-steil-mercurial-central-bankers-screwing-markets>)  Benn is the Director of International Economics at the Council on Foreign Relations.  In the discussion, Benn nails the internal politics facing Yellen and the FOMC.  I have transposed a couple of key excerpts:
 
 >My personal view is that she is clearly beginning to fear the emergence of dissents.  Bernanke didn't want to see those if he could avoid them as well.  **Bernanke ushered in this era of rock stars amongst Federal Reserve Presidents where they are shooting off their mouths every two minutes.**  And now the ethos is "let'em blow off steam in public.  But when we get behind closed doors at the rate meetings, we got to make sure we are all in this together."  
 
@@ -37,7 +37,7 @@ Japan spent a decade and a half figuring this out.  During this period their eco
 
 The Federal Reserve risks making *the exact same mistake as the Bank of Japan.*  Now at this point you might argue the Fed needs to install some discipline on the market.  The economy needs higher rates.  And that well might be correct.  But make no mistake, that sort of tough love medicine would cause an economic depression akin to the 1930's policy error.
 
-It is especially frustrating because the Federal Reserve has little chance of ever venturing down this road again.  We all know the end game is for the debt to be inflated away, but this lack of intellectual honesty only puts off the needed reset.
+It is especially frustrating because we all know the Federal Reserve has little chance of ever venturing down this road again.  The end game is for the debt to be inflated away, but this lack of intellectual honesty only puts off the needed reset.
 
 Japan is close to admitting the inevitability of this outcome, and the ECB has adopted an "inflate at all cost" mantra.  But the Federal Reserve is still stuck in the belief the old world order can return.
 
