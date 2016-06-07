@@ -27,7 +27,7 @@ I must admit that I have not been able to articulate a logical reason to own sto
 
 These bearish hedge fund managers are confident in their negative forecast.  But they don't realize the old rules are breaking.  The global economy and markets are not behaving like they used to.  
 
-I am unable to pin down all the factors driving this new market, but this weekend I got much closer when I stumbled upon a post by Two&Twenty titled ["Boombers stuck in a circular unfunded liability they will never break out of..."](<http://deuxetvingt.tumblr.com/post/120371236355/boomers-stuck-in-a-circular-unfunded-liability>)
+I have been unable to pin down all the factors driving this new market, but this weekend I got much closer when I stumbled upon a post by Two&Twenty titled ["Boombers stuck in a circular unfunded liability they will never break out of..."](<http://deuxetvingt.tumblr.com/post/120371236355/boomers-stuck-in-a-circular-unfunded-liability>)
 
 When I read his piece, a big light bulb went off.  Two&Twenty explained much better than anyone I have ever read why there is an incessant bid in the stock market.  I will probably end up quoting the whole post because it is so good, but let's have a look at his argument:
 
