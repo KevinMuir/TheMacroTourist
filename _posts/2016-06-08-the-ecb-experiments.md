@@ -57,7 +57,7 @@ On the other hand, I think:
 
 1. there is too much pessimism about the global economy.  Sure it stinks, but *everyone* knows that, and it is built into the price.  
 2. the ECB is "all in" and will reflate or die.  Contrary to popular belief, this is *negative* for bunds.  
-3. although I don't know whether England will leave the EU, I think any potential fall out will be much more *muted* than market concerns.  
+3. although I don't know whether Britain will leave the EU, I think any potential fall out will be much more *muted* than market concerns.  
 
 I am here to say, "not so fast. Sold to you."
 
