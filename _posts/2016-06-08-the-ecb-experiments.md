@@ -47,7 +47,7 @@ The ECB is taking bold steps and should not be underestimated.  And let's not fo
 
 And the third and final factor driving bund yields lower is worries about Brexit.  If the English vote to leave, and that proves to be the tipping point towards more countries exiting the union, then German bunds would be a logical safe place to hide.  This has caused bunds to be even better bid than otherwise would have been the case over the past month.
 
-All of these factors have combined to create an atmosphere where investors are piling into bunds like they are the last lifeboats on Titanic.  Even Bart has given up trying to fade the stampede.
+All of these factors have combined to create an atmosphere where investors are piling into bunds like they are the last lifeboats on the Titanic.  Even Bart has given up trying to fade the stampede.
 
 <a href="http://themacrotourist.com/images/BartJun0816.png"><img src="http://themacrotourist.com/images/BartJun0816.png" alt="http://themacrotourist.com/images/BartJun0816.png" width="500" height="300" style="margin:30px auto;display:block;"></a>
 
