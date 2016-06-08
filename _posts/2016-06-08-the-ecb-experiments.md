@@ -43,7 +43,7 @@ To top it all off, this morning Draghi laid to rest any worries that he was goin
 
 >“This dispels any doubts investors may have had about the commitment of the ECB and the central banks to tackle lower-rated names,” said Alex Eventon, a Paris-based fund manager at Oddo Meriten Asset Management which oversees 46 billion euros ($52 billion) of assets. “Telecom Italia is firmly at the weak end of the spectrum the ECB can buy. It’s good for high-yield investors who might have bought these bonds to ride the rally the ECB created.”
 
-The ECB is taking bold steps and should not be underestimated.  And let's not forget, the TLTRO balance sheet expansion is still ahead of us.  Later this month the ECB will expand their balance sheet even more aggressively with another "experiment."
+The ECB is taking bold steps and should not be underestimated.  And let's not forget, the TLTRO balance sheet expansion still ahead of us.  Later this month the ECB will expand their balance sheet even more aggressively with another "experiment."
 
 And the third and final factor driving bund yields lower is worries about Brexit.  If the English vote to leave, and that proves to be the tipping point towards more countries exiting the union, then German bunds would be a logical safe place to hide.  This has caused bunds to be even better bid than otherwise would have been the case over the past month.
 
