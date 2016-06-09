@@ -66,7 +66,7 @@ Remember how all the hedgies were all beared up in January?  How China was going
 
 Whether it is nat gas, crude oil, corn, wheat, cotton, they are all rising.  Yet instead of focusing on that, hedgies are busy hiding in long dated fixed income at ridiculously low rates.
 
-Although I think the global economy is ridiculously screwed, I just don't accept it will end in a deflationary bust.  I think history has shown this is a terrible bet.  
+Although I think the global economy is screwed, I just don't accept it will end in a deflationary bust.  I think history has shown this is a terrible bet.  
 
 Don't mistake my scoffing at negative stock market bets as a belief everything is fine.  Quite the contrary.  Everything is so FUBAR'd the only way out is to inflate at all costs.  Yet too little appreciate the most likely end to this mess is a fiery explosion to the upside.  
 
