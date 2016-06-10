@@ -37,7 +37,11 @@ Although I am not fussed about the fall out from Britain potentially leaving the
 
 <a href="http://themacrotourist.com/images/BrexitJun1016.png"><img src="http://themacrotourist.com/images/BrexitJun1016.png" alt="http://themacrotourist.com/images/BrexitJun1016.png" width="450" height="300" style="margin:30px auto;display:block;"></a>
 
-I have been underestimating the worries about Brexit.  In my mind, whatever the British chose, it is not a big deal.  But the "stay camp" has been dramatically overplaying the potential fall out from a *leave* result.  The countries don't share a currency, and a Brexit would mostly just cause a bunch of bureaucratic headaches.  There would be **minimal market impact**.  It would be little more than the collapse of a sophisticated free trade deal.  
+I have been underestimating the worries about Brexit.  In my mind, whatever the British chose, it is not a big deal.  
+
+But the "stay camp" has been dramatically overplaying the potential fall out from a *leave* result.  
+
+In my mind, the countries don't share a currency, and a Brexit would mostly just cause a bunch of bureaucratic headaches.  There would be **minimal market impact**.  It would be little more than the collapse of a sophisticated free trade deal.  
 
 You can count me in the camp of John Browne from Europacific Capital who claims any Brexit fears are overblown:
 
