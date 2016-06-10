@@ -85,7 +85,7 @@ Some of my buddies laughed when I wrote the piece [The most beautiful arbitrage 
 
 >A spokesman for Commerzbank said it was not storing cash "at the moment" and declined to comment on whether it might do so in the future.
 
-There no word yet if the vault will look anything like this:
+No word yet if the vault will look anything like this:
 
 <a href="http://themacrotourist.com/images/BondJun0916.jpg"><img src="http://themacrotourist.com/images/BondJun0916.jpg" alt="http://themacrotourist.com/images/BondJun0916.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
