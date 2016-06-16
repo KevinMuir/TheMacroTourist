@@ -1,6 +1,6 @@
 ---
 id: 26011
-title: 'THE FED CRIES UNCLE'
+title: 'THE FED CRIES UNCLE**'
 date: 2016-06-16T07:30:00-05:00
 author: kevin
 layout: post
