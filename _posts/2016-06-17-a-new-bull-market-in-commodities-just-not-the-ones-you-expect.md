@@ -45,7 +45,7 @@ But what the market is missing is that China is not a one trick pony.  It's not 
 
 One of those items is automobiles.  Chinese car purchases has tripled since 2008.
 
-<a href="http://themacrotourist.com/images/CarsJun1716.jpg"><img src="http://themacrotourist.com/images/CarsJun1716.jpg" alt="http://themacrotourist.com/images/CarsJun1716.jpg" width="750" height="250" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/CarsJun1716.jpg"><img src="http://themacrotourist.com/images/CarsJun1716.png" alt="http://themacrotourist.com/images/CarsJun1716.jpg" width="750" height="600" style="margin:30px auto;display:block;"></a>
 
 Although I understand that electric cars will be encouraged in China, they will still sell boatloads of the regular old gasoline kind.  As much as the Bill Nye's of the world want carbon based fossil fuels outlawed, it ain't going to happen.  Especially in China.  
 
