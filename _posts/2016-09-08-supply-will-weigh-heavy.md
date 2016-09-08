@@ -38,7 +38,7 @@ I don't have the direct numbers, but I am reading reports of huge supply being p
 
 This line of thinking is hardly ground breaking.  But I want to leave you with one thought regarding this summer's bond action.
 
-Quantitative Easing programs are by and large, designed to consistently buy bonds.  Week after week, the Central Bank bids, and whatever the price, they get their blue tickets fills. 
+Quantitative Easing programs are by and large, designed to consistently buy bonds.  Week after week, the Central Bank bids, and whatever the price, they get their blue ticket fills. 
 
 But during the summer months, trading desks empty, and more importantly, business slows to a crawl (especially this summer).  These are far from ideal conditions to float big new corporate issuances, so many Treasurers simply sit on their hands.  
 
