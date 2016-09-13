@@ -69,9 +69,9 @@ Now I know, I could have made this argument last year, or even 3 years ago.  And
 
 But don't forget, after the fact everyone will say they saw it coming, but in reality, almost no one will...
 
-Thanks for reading,
-Kevin Muir
-the MacroTourist
+Thanks for reading,  
+Kevin Muir  
+the MacroTourist  
 
 
 
