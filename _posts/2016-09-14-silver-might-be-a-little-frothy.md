@@ -41,5 +41,5 @@ Thanks for reading,
 Kevin Muir  
 the MacroTourist  
 
-**I will be unable to write for the next couple of days.  The MacroTourist will return on Monday September 19th.  Take care, Kev**
+**I will be unable to write for the next couple of days.  The MacroTourist will return on Monday September 19th.  Take care**
 
