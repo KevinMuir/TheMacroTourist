@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'THE NEXT GREAT BEAR MARKET'
-date: 2016-09-19T10:45:00-05:00
+date: 2016-09-19T11:00:00-05:00
 author: kevin
 layout: post
 categories:
