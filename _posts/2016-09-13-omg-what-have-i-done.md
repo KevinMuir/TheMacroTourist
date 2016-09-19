@@ -13,7 +13,7 @@ tags:
 ---
 <a href="https://www.youtube.com/watch?v=iOpIPCg8dLE"><img src="http://themacrotourist.com/images/OMGSep1316.png" alt="http://themacrotourist.com/images/OMGSep1316.png" width="750" height="600" style="margin:30px auto;display:block;"></a>
 
-Warren Buffett has many great lines about the market, but there is one that stands out to be particularly apt for the current environment.
+Warren Buffett has many great lines about the market, but there is *one* that stands out to be particularly apt for the current environment.
 
 <a href="http://themacrotourist.com/images/BuffettSep1216.jpg"><img src="http://themacrotourist.com/images/BuffettSep1216.jpg" alt="http://themacrotourist.com/images/BuffettSep1216.jpg" width="400" height="400" style="margin:30px auto;display:block;"></a>
 
