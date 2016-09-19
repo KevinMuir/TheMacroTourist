@@ -70,5 +70,7 @@ So while most bond bears are hoping the Fed raises rates, I can't think of anyth
 
 Thanks for reading,  
 Kevin Muir  
-the MacroTourist  
+the MacroTourist 
+
+
 
