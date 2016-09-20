@@ -25,7 +25,7 @@ I argued Brexit would not be a big deal.  During the Greek panic and the 2008 cr
 
 Brexit was nothing more than the rejection of an extremely elaborate free trade agreement.  Yeah, yeah, I know - that's an overly simple description, but there can be no denying that initially, the market completely misjudged the consequences.
 
-In the days that followed the decision by the Bank of England to flood the British economy with liquidity has obviously helped.  And to be fair, Britain has not yet formally requested to leave the EU, so there might still be some longer term consequences to be felt.  But on the whole, Brexit was way more of a "non-event" than most investors predicted.
+The decision by the Bank of England to subsequently flood the British economy with liquidity has obviously helped.  And to be fair, Britain has not yet formally requested to leave the EU, so there might still be some longer term consequences to be felt.  But on the whole, Brexit was way more of a "non-event" than most investors predicted.
 
 Yet there is one British asset class that is still reeling from the outcome.  The ongoing worry from international investors regarding the UK's place in the global financial system, and all the BOE liquidity that Carney has flushed into the economy has taken its toll on the pound.
 
