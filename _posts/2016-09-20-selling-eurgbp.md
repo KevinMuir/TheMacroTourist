@@ -45,7 +45,7 @@ Have a look at the chart of the net speculative positioning on the CME for both 
 
 The net short position in British Pound is at all time highs!  While speculators are also net short Euros, the position size is miles away from the all time high.
 
-I understand why the pound might trade *heavy* versus the US dollar.  The Federal Reserve hasn't expanded its balance sheets in many moons and is threatening to raise interest rates.  The Bank of England is cutting its benchmark rates and aggressively engaging in quantitative easing.  So yeah, some pound weakness against the US dollar is somewhat understandable.
+I understand why the pound might trade *heavy* versus the US dollar.  The Federal Reserve hasn't expanded its balance sheet in many moons and is even threatening to raise interest rates.  The Bank of England is cutting its benchmark rates and aggressively engaging in quantitative easing.  So yeah, some pound weakness against the US dollar is somewhat understandable.
 
 But the pound is threatening to hit new lows against the Euro.  It's not as if the ECB isn't also cutting rates and expanding their balance sheet.  Yet here we are with the EURGBP cross rate bumping back up to the 0.86 level.
 
