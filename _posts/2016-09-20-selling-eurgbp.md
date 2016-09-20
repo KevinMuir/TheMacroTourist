@@ -39,7 +39,7 @@ And in case you think this is just a US dollar story, the chart against the Euro
 
 As usual, where there is even the smallest bit of a trend, hedge funds and other speculators have pushed the trade to Tokyo-subway-crowded levels.  The pound went down on the Brexit news, and barely bounced due to the BOE response.  Of course this means that piling on the short side of the pound is the trade-du-jour. 
 
-Have a look at the chart of the net speculative positioning on the CME in both the pound, and for contrast, the Euro.
+Have a look at the chart of the net speculative positioning on the CME for both the pound, and for contrast, the Euro.
 
 <a href="http://themacrotourist.com/images/SpecSep2016.png"><img src="http://themacrotourist.com/images/SpecSep2016.png" alt="http://themacrotourist.com/images/SpecSep2016.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
