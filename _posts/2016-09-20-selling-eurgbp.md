@@ -21,7 +21,7 @@ In the aftermath of the surprise Brexit decision, many investors found themselve
 
 As the vote results trickled in, and the brutal reality set in that the average British voter was fed up with Brussels, the markets descended into a panic, extrapolating all sorts of overly dramatic outcomes. There was talk of a repeat of the 2008 credit crisis, or how Brexit would trigger the same sort of economic disaster as the Greek debacle.
 
-I argued Brexit would not be a big deal.  During the Greek panic and the 2008 credit crisis, there was a threatened *defaults* that would likely cascade through the global financial system.  Brexit had no such worry.  Britain did not share a currency.  There was no entity threatening not to pay. 
+I argued Brexit would not be a big deal.  During the Greek panic and the 2008 credit crisis, there were threatened *defaults* that would likely cascade through the global financial system.  Brexit had no such worry.  Britain did not share a currency.  There was no entity threatening not to pay. 
 
 Brexit was nothing more than the rejection of an extremely elaborate free trade agreement.  Yeah, yeah, I know - that's an overly simple description, but there can be no denying that initially, the market completely misjudged the consequences.
 
