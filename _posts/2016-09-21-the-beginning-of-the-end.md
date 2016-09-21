@@ -19,6 +19,7 @@ tags:
 Last night's Bank of Japan announcement has come and gone, and although markets have barely moved, there are larger consequences to their policy changes than first meets the eye.
 
 Let's recap Kuroda's move (from ForexLive):
+
 - Keeps negative rate unchanged
 - To expand monetary base until inflation stable above 2%
 - To modify its policy framework
