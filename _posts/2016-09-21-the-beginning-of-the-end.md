@@ -59,7 +59,7 @@ Yet this raises an interesting question.  Which way will the BoJ be tested?  Wil
 
 Pegging any market rate is always a dangerous proposition.  It's fine if you get the price right, but inevitably the price is always wrong, and the distortions created as you hold the peg can become quite dangerous.
 
-In the space of one evening, suddenly being short the 10 year JGB market seems quite boring.  After all, the Bank of Japan has promised to keep the yield around 0%.  So long or short, you seem destined to make no money.
+With Kuroda's new pledge, suddenly being short the 10 year JGB market seems quite boring.  After all, the Bank of Japan has promised to keep the yield around 0%.  So long or short, you seem destined to make no money.
 
 The absurdity of pegging the 10 year rate at 0% seems to be lost on most market participants.  There has been such a panic from long term yields falling ***below zero*** that stamping out the ponzi like speculation has dominated Central Bank thinking.  Instead of listening to the market signals, the Bank of Japan has acted to further suppress volatility.  
 
