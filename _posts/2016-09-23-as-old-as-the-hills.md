@@ -71,7 +71,7 @@ In the mean time, I will leave you with this week's Economist cover.
 You guess how long I think this will be Yellen's problem...
 
 - - - 
-**I am not just a douche bag, but I play a jerk on TV**
+**I am not just a douche bag, but I also play a jerk on TV**
 
 I have long given up watching CNBC.  The Jerry Springer'ness of the shows pushed me over the edge.  I can't stand the way the hosts berate their guests.  Who wants to listen to that?  
 
