@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'SOME PIGS ARE MORE EQUAL THAN OTHERS'
-date: 2016-09-26T10:3:00-05:00
+date: 2016-09-26T10:30:00-05:00
 author: kevin
 layout: post
 categories:
