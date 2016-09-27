@@ -21,7 +21,7 @@ tags:
 
 >Badly in need of a lift, Merriwether called an old friend, Vinny Mattone, who had been the fund's first contact at Bear Stearns.  Mattone, who had retired, was everything that J.M.'s elegant professors were not.  He wore a gold chain and a pinkie ring, and he showed up at Long-Term in a black silk shirt, open at the chest.  He looked as if he weighed three hundred pounds.  Unlike J.M.'s strangely wooden partners, Mattone saw markets as exquisitely human institutions - inherently volatile, ever-fallible.  
 > "Where are you?" Mattone asked bluntly.  
-> "We're down by half," Merriwehter said.  
+> "We're down by half," Merriwether said.  
 > "You're finished," Mattone replied, as if this conclusion needed no explanation.  
 > For the first time, Merriwether sounded worried.  "What are you talking about?  We still have two billion.  We have half - we have Soros."  
 > Mattone smiled sadly.  "When you're down by half, people figure you can go down all the way.  They're going to push the market against you.  They're not going to roll your trades.  You're *finished.*"
