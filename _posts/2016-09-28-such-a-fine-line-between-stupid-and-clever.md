@@ -22,7 +22,7 @@ My right wing friends love to point to the ballooning government debt and claim 
 
 <a href="http://themacrotourist.com/images/DebtSep2816.png"><img src="http://themacrotourist.com/images/DebtSep2816.png" alt="http://themacrotourist.com/images/DebtSep2816.png" width="750" height="500" style="margin:30px auto;display:block;"></a>
 
-And yeah, I get it.  There is a lot of government waste and too many resources spent on non-productive uses.  Yet I would argue there is a tremendous difference between investing in infrastructure like roads or fibre internet for all homeowners, and the more the typically thought of government waste.  But that doesn't matter.  I have no desire to get in a philosophical debate.  I understand the desire for debt to be cut - it sure appears scary, and the government seems incapable of beating itself out of a wet paper bag, so getting the government out of the way seems logical.
+And yeah, I get it.  There is a lot of government waste and too many resources spent on non-productive uses.  Yet I would argue there is a tremendous difference between investing in infrastructure like roads or fibre internet for all homeowners, and the more the typically thought of government waste.  But that doesn't matter.  I have no desire to get in a philosophical debate.  I understand the yearning for debt to be cut - it sure appears scary, and the government seems incapable of beating itself out of a wet paper bag, so getting the government out of the way seems logical.
 
 But here is a thought experiment.  
 
