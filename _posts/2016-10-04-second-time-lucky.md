@@ -1,4 +1,4 @@
-.---
+---
 id: 26011
 title: 'SECOND TIME LUCKY?'
 date: 2016-10-04T10:00:00-05:00
