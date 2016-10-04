@@ -50,7 +50,7 @@ And finally, bonds sold off a little in the months before the Fed rate rise, but
 
 <a href="http://themacrotourist.com/images/TenOct0416.png"><img src="http://themacrotourist.com/images/TenOct0416.png" alt="http://themacrotourist.com/images/TenOct0416.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Obviously there is no guarantee markets will follow last year's path.  Yet I think I it helpful to remind ourselves of the action leading up to the Fed's rate hike.  Remember, history rarely repeats, but it often rhymes.  
+Obviously there is no guarantee markets will follow last year's path.  Yet I think it helpful to remind ourselves of the action leading up to the Fed's rate hike.  Remember, history rarely repeats, but it often rhymes.  
 
 Thanks for reading,  
 Kevin Muir  
