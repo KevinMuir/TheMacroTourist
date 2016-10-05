@@ -48,7 +48,7 @@ The second chart is the MOVE Index.  Think about this as the VIX for bonds.
 
 <a href="http://themacrotourist.com/images/MOVEOct0516.png"><img src="http://themacrotourist.com/images/MOVEOct0516.png" alt="http://themacrotourist.com/images/MOVEOct0516.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-I contend the next financial crisis will not emanate from the stock market, but instead start when Central Banks lose control of the bond market.  While everyone else is busy buying VIX volatility, I would much rather pick away at owning bond vol.  
+The next financial crisis will not emanate from the stock market, but instead start when Central Banks lose control of the bond market.  While everyone else is busy buying VIX volatility, I would much rather pick away at owning bond vol.  
 
 I guess what I am saying is, get your cheap bond puts while you still can...
 
