@@ -26,7 +26,7 @@ Although I am a big long term precious metal bull, I have been concerned about t
 
 Precious metals might be a crowded trade, but it doesn't hold a candle to the most crowded trade of them all.  **Although many will disagree with me, I contend we are in the midst of a fixed income bubble so large, most can't even see we are in it.**  
 
-Not only that, but most financial pundits spits out nonsense that resembles an echo chamber of negativity regarding the economy.   It seems as if most traders are positioned for a perpetually moribund economy.  
+Not only that, but most financial pundits spits out nonsense that resembles an echo chamber of negativity.   It seems as if most traders are positioned for a perpetually moribund economy.  
 
 This theme was thrown for a bit of a loop this morning when the ISM non-manufacturing number was released:
 
