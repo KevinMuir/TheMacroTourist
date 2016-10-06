@@ -60,7 +60,11 @@ I am willing to bet rates in the US will rise much quicker than Canada.
 
 As we enter a tightening cycle, Canadian rates might be dragged higher along with the US, but it will be slow.  The spread between the short end of the Canadian and US curve has already flipped from Canada having higher rates to the US.  This trend will only continue.
 
-The other way to play the coming Canadian housing correction might be to short the Canadian dollar.  Unfortunately this is not quite so clean.  There are a variety of factors that go into the pricing of currency rates.  Recently there seems to be two major ones that are affecting the USDCAD rate.  I stole this great chart from the Globe and Mail:
+The other way to play the coming Canadian housing correction might be to short the Canadian dollar. 
+
+<a href="http://themacrotourist.com/images/CADOct0616.png"><img src="http://themacrotourist.com/images/BAOct0616.png" alt="http://themacrotourist.com/images/CADOct0616.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+
+Unfortunately this is not quite so clean.  There are a variety of factors that go into the pricing of currency rates.  Recently there seems to be two major ones that are affecting the USDCAD rate.  I stole this great chart from the Globe and Mail:
 
 <a href="http://themacrotourist.com/images/ROBOct0616.png"><img src="http://themacrotourist.com/images/ROBOct0616.png" alt="http://themacrotourist.com/images/ROBOct0616.png" width="750" height="800" style="margin:30px auto;display:block;"></a>
 
