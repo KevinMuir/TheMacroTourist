@@ -62,7 +62,7 @@ As we enter a tightening cycle, Canadian rates might be dragged higher along wit
 
 The other way to play the coming Canadian housing correction might be to short the Canadian dollar. 
 
-<a href="http://themacrotourist.com/images/CADOct0616.png"><img src="http://themacrotourist.com/images/BAOct0616.png" alt="http://themacrotourist.com/images/CADOct0616.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/CADOct0616.png"><img src="http://themacrotourist.com/images/CADOct0616.png" alt="http://themacrotourist.com/images/CADOct0616.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 Unfortunately this is not quite so clean.  There are a variety of factors that go into the pricing of currency rates.  Recently there seems to be two major ones that are affecting the USDCAD rate.  I stole this great chart from the Globe and Mail:
 
