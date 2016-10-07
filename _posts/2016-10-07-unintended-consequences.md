@@ -43,7 +43,7 @@ Therefore this next chart should surprise no one:
 
 <a href="http://themacrotourist.com/images/DealerOct0716.png"><img src="http://themacrotourist.com/images/DealerOct0716.png" alt="http://themacrotourist.com/images/DealerOct0716.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Dealers are extremely reluctant to use their balance sheet to provide liquidity for their clients.
+Dealers are extremely reluctant to use their balance sheet to keep markets in line.
 
 Increasingly traders are being replaced with machines.  When I was a young buck, financial securities used to trade up and down in a much more choppy pattern.  Nowadays, with the prevalence of VWAP and other algorithmic trading, it is a constant drip, drip, drip one way all day.  Then the next day some fundamental news changes the direction, and it is the same drip, drip, drip, the other way.  
 
