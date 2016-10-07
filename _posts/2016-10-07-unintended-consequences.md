@@ -31,8 +31,7 @@ There was no real news to account for the extreme move.  Yes, Hollande mouthed s
 
 As far as I can tell, during the NY session the Pound broke to new lows, and then a lack of liquidity, combined with a minor headline caused a chain reaction of selling when Asia opened.
 
-
-
+<a href="http://themacrotourist.com/images/breakdownOct0716.jpg"><img src="http://themacrotourist.com/images/breakdownOct0716.jpg" alt="http://themacrotourist.com/images/breakdownOct0716.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 It has been a long time since I have sat on a sell side trading desk and until recently, I didn't understand how much they have changed in the past decade.  The other day over beers, one of my old trader buddies (who moved on to create an extremely successful Canadian hedge fund), described the full extent of the hollowing out of the sell side.  He told me how desks that used to be stuffed with twenty salespeople/traders are now staffed with two.  Not only that, when you phone them up, their usual response is to simply shove the order in the machine.   
 
