@@ -1,7 +1,7 @@
 ---
-id: 26011
-title: 'THE MARKET IS IGNORING GEOPOLITICAL RISKS '
-date: 2016-10-14T13:45:00-05:00
+id: 26012
+title: 'MARKET IS IGNORING GEOPOLITICAL RISKS '
+date: 2016-10-14T14:00:00-05:00
 author: kevin
 layout: post
 categories:
