@@ -79,7 +79,7 @@ Friday's speech marks an acceptance of this realization.  Uber doves like Larry 
 
 Now some of you will cry out that this change in policy is a terrible development.  It will cause inflation!  It will debase the value of the US dollar!  To this I answer; of course it will!  That's the whole point.
 
-There is too much debt in the world and the only way out of this mess is for it to be inflated away.  And even if you think there is an alternative solution, it doesn't really matter as inflation is the most politically acceptable way to accomplish this debt reset.  There is no real point in complaining about it.  Better to just accept it and model your trading account accordingly.
+There is too much debt in the world and the only way out of this mess is for it to be inflated away.  And even if you think there is an alternative solution, it doesn't really matter as inflation is the most politically acceptable way to accomplish the needed debt reset.  There is no real point in complaining about it.  Better to just accept it and model your trading account accordingly.
 
 I don't think the Federal Reserve will back away from their signaled December hike.  They will lose too much credibility (which is already dangerously low).  Instead I think they will raise in December and indicate they will be on hold for quite some time.  Not only that, but I suspect they will once again change the goal posts for further tightening.
 
