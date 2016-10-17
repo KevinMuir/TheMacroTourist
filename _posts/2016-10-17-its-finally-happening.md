@@ -12,6 +12,8 @@ tags:
   - bonds
   - inflation
   - Federal Reserve
+  - gold
+  - silver
 
    
 ---
