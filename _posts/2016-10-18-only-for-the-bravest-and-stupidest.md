@@ -15,7 +15,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/StupidOct1716.png"><img src="http://themacrotourist.com/images/StupidOct1716.png" alt="http://themacrotourist.com/images/StupidOct1716.png" width="750" height="500" style="margin:30px auto;display:block;"></a>
 
-I know just enough about the swaps market to get myself in some serious trouble, but lord knows a lack of knowledge has never stopped me before.  Way back when in a former life, I traded plenty of total return equity index swaps, but they were basically tax games with a little bit of short term funding variables thrown in to spice it up.  
+I know just enough about the swap market to get myself in some serious trouble, but lord knows a lack of knowledge has never stopped me before.  Way back when in a former life, I traded plenty of total return equity index swaps, but they were basically tax games with a little bit of short term funding variables thrown in to spice it up.  
 
 The real swaps market is a gigantic liquid market where banks agree to swap a fixed cash flow for a floating one.  Although all swaps are OTC (over-the-counter) derivatives, there are some standard contracts that are actively traded and have futures market equivalents that hacks like me can trade.
 
