@@ -71,7 +71,7 @@ The key is to realize the 30 year swap futures will not trade the same as the 30
 
 <a href="http://themacrotourist.com/images/HedgeOct1716.png"><img src="http://themacrotourist.com/images/HedgeOct1716.png" alt="http://themacrotourist.com/images/HedgeOct1716.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-If you wanted to be short a 10 lot of long bond futures, instead short 11 or 12 of the 30 year swap futures.  
+If you wanted to be short a 11 lot of long bond futures, instead short 10 of the 30 year swap futures.  
 
 Personally I am also buying some 2s and 5s against short the 30 year swap futures.  In the coming months I expect the curve to steepen, and hopefully swap spreads also work their way back to zero.  I am not sure if I am brave or stupid.  You decide...
 
