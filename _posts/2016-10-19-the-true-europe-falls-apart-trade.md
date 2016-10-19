@@ -40,7 +40,7 @@ This insightful analysis doesn't deserve much more than a giant Homer Simpson DO
 
 There is a crisis coming, that much is certain.  The political situation is extremely precarious, and the economic equilibrium is even more unstable.  The chances of the EU continuing in its present form are extremely low.
 
-The Target 2 imbalances which represent the lending or borrowing down by each country's Central Bank with the ECB are expanding back to 2011 European crisis levels.
+The Target 2 imbalances which represent the lending or borrowing done by each country's Central Bank with the ECB are expanding back to 2011 European crisis levels.
 
 <a href="http://themacrotourist.com/images/Target2Oct1916.png"><img src="http://themacrotourist.com/images/Target2Oct1916.png" alt="http://themacrotourist.com/images/Target2Oct1916.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
@@ -58,7 +58,7 @@ With the collapse in the British Pound, the FTSE 100 has become the best perform
 
 The British stock market has moved almost tick for tick with the inverted pound.  
 
-I could easily see a situation where a full fledged euro crisis develops, but the Eurostoxx 50 screams higher!  I am already long out of the money long term Eurostoxx indexes ([Pretty Sure I am alone on this trade](<http://themacrotourist.com/macro/pretty-sure-i-am-alone-in-this-trade>)), but I am almost tempted to buy more.  
+I could easily see a situation where a full fledged euro crisis develops, but the Eurostoxx 50 screams higher!  I am already long out of the money long term Eurostoxx index calls ([Pretty Sure I am alone on this trade](<http://themacrotourist.com/macro/pretty-sure-i-am-alone-in-this-trade>)), but I am almost tempted to buy more.  
 
 Europe will rip apart in the coming years.  Just be careful on how you bet on it.  I think shorting the European currency is an infinitely smarter way to play it than assuming European stocks fall.  Heck you could almost argue that long Eurostoxx calls is the true *"EU collapses"* trade...  (and at the very least, it is probably the cheapest).
 
