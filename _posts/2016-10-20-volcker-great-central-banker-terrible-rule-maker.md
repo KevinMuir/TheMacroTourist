@@ -9,6 +9,7 @@ categories:
 tags:
   - Volcker Rule
   - Goldman Sachs
+  - junk bonds
    
 ---
 <a href="http://themacrotourist.com/images/GSOct2016.png"><img src="http://themacrotourist.com/images/GSOct2016.png" alt="http://themacrotourist.com/images/GSOct2016.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
