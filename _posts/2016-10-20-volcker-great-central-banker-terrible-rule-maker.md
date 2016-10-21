@@ -13,13 +13,13 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/GSOct2016.png"><img src="http://themacrotourist.com/images/GSOct2016.png" alt="http://themacrotourist.com/images/GSOct2016.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-I find Goldman Sach's sanctimonious ["doing God's work"](<http://dealbook.nytimes.com/2009/11/09/goldman-chief-says-he-is-just-doing-gods-work/?_r=0>) bullshit just as nauseating as the next guy.  Although I appreciate that the financial industry plays a much more important societal role than its reputation commands, it's not like we are curing cancer or tending orphans.  
+I find Goldman Sachs' sanctimonious ["doing God's work"](<http://dealbook.nytimes.com/2009/11/09/goldman-chief-says-he-is-just-doing-gods-work/?_r=0>) bullshit just as nauseating as the next guy.  Although I appreciate that the financial industry plays a much more important societal role than its reputation commands, it's not like we are curing cancer or tending orphans.  
 
 I also understand why Goldman Sachs is the lightning rod for our industry.  It's easy to hate them.  They make ungodly amounts of money (which makes Blankfein's inopportune comment all the more idiotic).  They never seem to make a mistake (apart from public relations).  And they are always on the right side of a trade.
 
 I wouldn't want my kids to work there, but I have a deep respect for the firm now often nicknamed the Vampire Squid.  There is a real problem with the fact that too often firms like Goldman are portrayed as some sort of scourge on society.  And I am especially concerned the regulators are busy outlawing practices that are beneficial to the market while doing nothing to expose the true problems.
 
-Take this week's WSJ story about a Goldman Sach's trader that recently made $100 million on a series of junk bond bets:
+Take this week's WSJ story about a Goldman Sachs' trader that recently made $100 million on a series of junk bond bets:
 
 >How One Goldman Sachs Trader Made More Than $100 Million
 
