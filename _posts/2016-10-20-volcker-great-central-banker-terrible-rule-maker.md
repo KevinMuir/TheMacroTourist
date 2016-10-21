@@ -81,7 +81,7 @@ By demonizing proprietary trading, the clueless officials in the government are 
 
 ***Institutional proprietary trading makes the entire market more efficient, not just for the firm's clients, but for everyone.***
 
-In my days as a prop trader on an institutional desk I can't tell you the number of times I found a mispriced security, and then proceeded to profit on it by providing liquidity and waiting for it to be properly priced.  That was my job.  It wasn't something to be ashamed of - it was something to be encouraged.  It allowed capital to be allocated in a more efficient manner.  It wasn't worthy of a Lloyd Blankfein spiritual accolade, but neither was it something that should be outlawed.
+In my days as a prop trader on an institutional desk I often tried to find mispriced securities, and then profit on them by providing liquidity and waiting for them to be properly priced.  That was my job.  It wasn't something to be ashamed of - it was something to be encouraged.  It allowed capital to be allocated in a more efficient manner.  It wasn't worthy of a Lloyd Blankfein spiritual accolade, but neither was it something that should be outlawed.
 
 But wait a minute - didn't this proprietary trading cause the 2008 financial crisis?  I contend the regular type of prop trading didn't bring down Bear Stearns and Lehman Brothers.  The stupid shit these bozos stuck on their balance sheet weren't trades - they were leveraged insanity.  I think Lehman even owned entire apartment blocks!  
 
