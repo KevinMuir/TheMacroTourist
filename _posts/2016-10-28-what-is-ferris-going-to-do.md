@@ -41,7 +41,7 @@ Yet, how can this be a bubble?  Bubbles are created when *everyone* believes som
 
 I know those lines seem quaint, but I heard them over and over again during their heyday.
 
-Do want to know what I hear today?  And trust me, I hear it from everyone.  Whether it is money managers managing billions of dollars, or the guys in the hockey locker room, everyone believes the same thing.  **We can never get inflation, and even more importantly, rates will never increase.**
+Do want to know what I hear today?  And trust me, I hear it from everyone.  Whether it is money managers managing gazillions of dollars, or the guys in the hockey locker room, everyone believes the same thing.  **We can never get inflation, and even more importantly, rates will never increase.**
 
 I have heard the most eloquent arguments about why it will never come.  Globalization, demographics, technological advancements, insane debt burdens - tons of people *way smarter than me* have all tried to convince me about the folly of my belief.  Yet instead of making me question my forecast, it only reinforces how cheap betting the other way must be. 
 
