@@ -77,7 +77,7 @@ In true bubble fashion, options on government bonds are amazingly cheap.  Why sh
 
 <a href="http://themacrotourist.com/images/MOVEOct2816.png"><img src="http://themacrotourist.com/images/MOVEOct2816.png" alt="http://themacrotourist.com/images/MOVEOct2816.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-I was hesitant to write this piece today.  After all, bonds have been backing up over the past couple of weeks.
+I was hesitant to write this piece today.  After all, bonds have had a rough couple of weeks.
 
 <a href="http://themacrotourist.com/images/SixOct2816.png"><img src="http://themacrotourist.com/images/SixOct2816.png" alt="http://themacrotourist.com/images/SixOct2816.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
