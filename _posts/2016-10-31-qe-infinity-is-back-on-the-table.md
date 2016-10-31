@@ -74,7 +74,7 @@ Stop to think about what happens when the Bank of Japan expands the money supply
 
 The main difference between this policy and *every other Central Bank QE program* is that the amount of purchases is ***infinite***.  This BoJ policy is the true *QE infninity*.
 
-It is no wonder the Yen has been going down.  And don't think this won't affect global bond markets.  This is all highly inflationary.  The Bank of Japan has gone "responsibly irresponsible" and as long as 0% is an expansionary rate, then this might be the policy that finally ushers in the final Japanese inflationary spiral. 
+It is no wonder the Yen has been going down.  And don't think this won't affect global bond markets.  This is all highly inflationary.  The Bank of Japan has gone "responsibly irresponsible" and as long as 0% is an expansionary rate, then this might be the policy that finally ushers in the Japanese inflationary spiral. 
 
 ---
 
