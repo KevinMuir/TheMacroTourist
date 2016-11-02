@@ -51,6 +51,8 @@ And let's not forget the US dollar.  I have long said the US dollar was the key 
 
 Finally, I would be remiss if I didn't mention the FOMC drift.  Even the NY Fed is aware of the tendency of the market to rally on Fed days [(see paper here)](<https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr512.pdf>).
 
+<a href="http://themacrotourist.com/images/FOMCNov0216.png"><img src="http://themacrotourist.com/images/FOMCNov0216.png" alt="http://themacrotourist.com/images/FOMCNov0216.png" width="750" height="700" style="margin:30px auto;display:block;"></a>
+
 When I combine all these factors, I think there is a decent chance the stock market decline will stop today.  I don't know for how long, and I am not predicting a ramp back to new highs.  But for me, I am not getting all beared up down here.  I am going to wait and see what Lord Vader has on offer before I commit to joining the dark side.
 
 Thanks for reading,  
