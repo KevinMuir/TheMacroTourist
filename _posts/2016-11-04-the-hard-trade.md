@@ -38,7 +38,7 @@ Although I understand the bears' arguments, I wonder if we are reaching the poin
 
 So even though the comparisons to BREXIT are tempting, I do not believe the market's reaction will be the same.  
 
-I sold my VIX longs a couple of days too early, and I had said I would remain more on the sidelines in front of the election, but I can't help myself.  On a trading basis, I think the long side is worth a shot in here.
+I sold my VIX longs a couple of days too early, and I had said I would remain more on the sidelines in front of the election, but I can't help myself.  On a trading basis, I think the long side of the equity market is worth a shot in here.
 
 We are approaching the 200 day moving average in the S&P 500.
 
