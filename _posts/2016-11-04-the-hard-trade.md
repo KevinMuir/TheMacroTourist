@@ -64,9 +64,9 @@ There has been no panic, just a constant large liquidation of risk assets.
 
 It is Friday morning, and although it is not getting the attention it deserves, the US unemployment number is due out in an hour.  I have no clue what it will say.  If I had to guess, I would err on the underwhelm side (new claims have been ticking up), but that's just a guess.
 
-**But I do think most large institutions are done selling their equities in front of the election.**  These institutions need liquidity.  They cannot wait until Monday or Tuesday to sell, they need to have it done this week.  And given that today is unemployment Friday, they probably erred on getting more of it done before the big release.
+**But I think most large institutions are done selling their equities in front of the election.**  These institutions need liquidity.  They cannot wait until Monday or Tuesday to sell, they need to have it done this week.  And given that today is unemployment Friday, they probably erred on getting more of it done before the big release.
 
-So although I am not sure about the unemployment number, I think it makes sense to wait until the dust clears and buy stocks mid morning.  I know that seems like a stupid call - after all stocks are trading like dog shit.  Yet the hard trades are often the right trades.  And I ask you, what could be a harder trade than buying stocks into a bad unemployment report after this week's terrible price action?
+So although I unsure about the unemployment number, I think it makes sense to wait until the dust clears and buy stocks mid morning.  I know that seems like a stupid call - after all stocks are trading like dog shit.  Yet the hard trades are often the right trades.  And I ask you, what could be a harder trade than buying stocks into a bad unemployment report after this week's terrible price action?
 
 Thanks for reading and have a great weekend,  
 Kevin Muir  
