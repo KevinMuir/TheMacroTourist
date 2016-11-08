@@ -25,7 +25,7 @@ As I peruse my twitter feed I am shocked at the level of aggressiveness.  Seemin
 
 <a href="http://themacrotourist.com/images/BestChoiceNov0816.jpg"><img src="http://themacrotourist.com/images/BestChoiceNov0816.jpg" alt="http://themacrotourist.com/images/BestChoiceNov0816.jpg" width="750" height="800" style="margin:30px auto;display:block;"></a>
 
-I have absolutely no idea which candidate will emerge victorious tonight.  I could be persuaded that the Clinton ground machine will ensure her lead in the polls translates to a Presidency.  On the other hand, there is a possibility the polls are not reflecting the anger felt by many Americans towards the political establishment and that Trump might garner more of a protest vote than indicated.  I have read many different reports by many smart people that are all over the map..  
+I have absolutely no idea which candidate will emerge victorious tonight.  I could be persuaded that the Clinton ground machine will ensure her lead in the polls translates to a Presidency.  On the other hand, there is a possibility the polls are not reflecting the anger felt by many Americans towards the political establishment and that Trump might garner more of a protest vote than indicated.  I have read many different reports by many smart people that are all over the map.  
 
 I have precious little to add on whether Clinton or Trump will win, and what the market *will* or *won't do* after the results are announced.  There are more than enough opinions out there for you to read.
 
