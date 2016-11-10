@@ -68,7 +68,7 @@ Crazy old Uncle Carl is out telling everyone how when he saw the S&Ps locked lim
 
 <a href="http://themacrotourist.com/images/VictoryNov1016.png"><img src="http://themacrotourist.com/images/VictoryNov1016.png" alt="http://themacrotourist.com/images/VictoryNov1016.png" width="750" height="990" style="margin:30px auto;display:block;"></a>
 
-But does anyone else think it is a little hypocritical for Carl to be betting a billion dollars on stocks going higher while his website is busy warning about the coming dangers?
+But does anyone else think it is a little hypocritical for Carl to be bragging about betting a billion dollars on stocks going higher while his website is busy warning about the coming dangers?
 
 <a href="http://themacrotourist.com/images/DangerNov1016.png"><img src="http://themacrotourist.com/images/DangerNov1016.png" alt="http://themacrotourist.com/images/DangerNov1016.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
