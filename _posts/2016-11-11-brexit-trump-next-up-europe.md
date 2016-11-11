@@ -71,7 +71,7 @@ There are so many levels I like this trade, and now that it is finally ticking t
 
 <a href="http://themacrotourist.com/images/ShitNov1116.jpg"><img src="http://themacrotourist.com/images/ShitNov1116.jpg" alt="http://themacrotourist.com/images/ShitNov1116.jpg" width="750" height="400" style="margin:30px auto;display:block;"></a>
 
-Worries about BREXIT are overdone, and the media is once again underestimating the pissed off'ness of the average voter.  I am selling the Euro against most currencies, but most especially the Pound.  
+Worries about BREXIT are overdone, and the media is once again underestimating the pissed off'ness of the average voter.  I expect a surge in leave EU support in the coming months.  I am selling the Euro against most currencies, but most especially the Pound.  
 
 BREXIT, Trump, next up; Europe.
 
