@@ -36,7 +36,7 @@ Have a look at the size of Crispin's positions.  I could only find this summer's
 
 <a href="http://themacrotourist.com/images/OdeyNov1116.jpg"><img src="http://themacrotourist.com/images/OdeyNov1116.jpg" alt="http://themacrotourist.com/images/OdeyNov1116.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Odey has 86% of his fund in gold!   And then he has a long Australian 10 year bond versus short Japanese 10 year position that accounts for 36% of his portfolio.  
+Odey has 86% of his fund in gold!   And then he has a long Australian bond versus short Japanese 10 year position that accounts for 36% of his portfolio.  
 
 For a while being long Australian bonds versus short JGBs was pure genius.  Australian 10 years were yielding over 250 basis points over JGBs, which made the trade positive carry, and as the deflationary global gloom spread over markets, Australian bonds rocketed higher as their yield plunged.
 
