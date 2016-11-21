@@ -84,7 +84,7 @@ The Trumpflation trade is over done.  The market has overestimated Trump's abili
 
 <a href="http://themacrotourist.com/images/Trump3Nov2116.png"><img src="http://themacrotourist.com/images/Trump3Nov2116.png" alt="http://themacrotourist.com/images/Trump3Nov2116.png" width="750" height="260" style="margin:30px auto;display:block;"></a>
 
-Regardless of whether you think the cast of Hamilton was correct to single out Pence, Trump's reaction has shown extremely poor judgment.  Trump has so many decisions to make, the last thing he should be worrying about is whether some Broadway actors were rude to his Vice President.
+Whether you think the cast of Hamilton was correct to single out Pence, Trump's reaction has shown extremely poor judgment.  Trump has so many decisions to make, the last thing he should be worrying about is whether some Broadway actors were rude to his Vice President.
 
 Even Pence himself showed considerably more maturity in dealing with the situation.  From Fox news:
 
