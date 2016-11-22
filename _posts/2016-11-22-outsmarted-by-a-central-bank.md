@@ -37,7 +37,7 @@ Let's examine the poster child of Central Bank equity monetization - the Swiss N
 
 <a href="http://themacrotourist.com/images/SNBTANov2216.png"><img src="http://themacrotourist.com/images/SNBTANov2216.png" alt="http://themacrotourist.com/images/SNBTANov2216.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Whereas many Central Banks stick to buying fixed income for their quantitative easing programs, and most purchase only domestic sovereign bonds, the SNB has been at the forefront of purchasing riskier assets, and even more disturbing, they don't confine it to Swiss risk assets, but instead buy other country's equities.
+Whereas many Central Banks stick to buying fixed income for their quantitative easing programs, and most purchase only domestic sovereign bonds, the SNB has been at the forefront of purchasing riskier assets, and even more disturbingly, they don't confine it to Swiss risk assets, but instead buy other country's equities.
 
 Here is the first page of the Bloomberg Holding screen for the SNB's US equity holdings:
 
