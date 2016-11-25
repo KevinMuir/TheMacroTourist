@@ -81,7 +81,7 @@ Is this "Trump infrastructure" industrial metals rally really just a Chinese dev
 
 Right now we are in the midst of a mad scramble out of "deflation forever" assets into the "second coming of Reagan" growth vehicles.  As this monster shift takes place, it is not wise to place too much weight on various asset's short term price moves.  There is a lot of volatility associated with the rebalancing.
 
-Let's see how everything settles next week.  In the mean time, keep your eyes on the CNY rate.  Most especially watch for a situation where the CNY declines, not just against the US dollar, but against other currencies.  It has been a while since the market has being concerned about the near term price of the Chinese Yuan, but I am not sure how long that will last.
+Let's see how everything settles next week.  In the mean time, keep your eyes on the CNY rate.  Most especially watch for a situation where the CNY declines, not just against the US dollar, but against other currencies.  It has been a while since the market has been concerned about the near term price of the Chinese Yuan, but I am not sure how long that will last.
 
 Thanks for reading and have a great week-end,  
 Kevin Muir  
