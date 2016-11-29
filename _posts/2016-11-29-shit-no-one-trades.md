@@ -43,7 +43,7 @@ How do you play it?
 
 Buying the commodities that China drove higher last decade will not work.  At least it won't work as well as many investors would hope.  China has created too much spare capacity in these commodities.
 
-No, we need to find commodities that have been neglected.  Shit that no one trades.
+No, we need to find commodities that have been neglected.  Shit no one trades.
 
 During the 1970's futures traders like Richard Dennis made fortunes trading trend following systems.  They rode the general rise in prices by going long stuff like soybeans, cotton and sugar.  Shit that no one trades anymore.  Yeah, I know - these commodities still trade, but how many times does Bloomberg talk about the big move in sugar versus every little tick in stocks?  
 
