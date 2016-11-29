@@ -37,7 +37,7 @@ We have suffered through years and years of Central Banks encouraging too much c
 
 That's about to change.  The masses (deplorables) have woken up to the elite's game of propping up the assets owned by the 0.01%'ers while the average Joe sees his salary stay the same (or even go down) while the cost of his expenses rise.  
 
-We are about to experience actual non-financial asset inflation again.  Policies are changing worldwide that will mark the end of the financial assets' dominance.  Money will flow to the masses instead of the 0.01%'ers.  It won't be some two quarter blip.  The general price level of regular goods will be increasing at an uncomfortable pace for decades to come.
+We are about to experience actual non-financial asset inflation again.  Policies are changing worldwide that will mark the end of financial assets' dominance.  Money will flow to the masses instead of the 0.01%'ers.  It won't be some two quarter blip.  The general price level of regular goods will be increasing at an uncomfortable pace for decades to come.
 
 How do you play it?  
 
