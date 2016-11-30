@@ -31,7 +31,7 @@ I know the good economic news keeps pushing bonds down and squeezing investors i
 
 But at this point, the move is getting late.  And with pension funds and other fixed weighted managers eager to rebalance, I think it is foolish to be reaching for stocks or pounding out new bond shorts down here.
 
-If you want to put that trade on, take a breath, go for a walk and wait a day or two.  If you are a nutbar and want to fade this move, then for the nimble trader, I think this morning offers a great opportunity.
+If you want to put that trade on (long stocks/short bonds), take a breath, go for a walk and wait a day or two.  If you are a nutbar and want to fade this move, then for the nimble trader, I think this morning offers a great opportunity.
 
 ---
 
