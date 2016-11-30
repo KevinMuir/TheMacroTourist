@@ -35,7 +35,7 @@ If you want to put that trade on, take a breath, go for a walk and wait a day or
 
 ---
 
-One quick note before I sign off.  Everyone hates gold again.  No need for me to dwell on all the reasons, but I want to highlight that my favourite closed end gold/silver fund, has once again blown out to an 8% discount.
+One quick note before I sign off.  Everyone hates gold again.  No need for me to dwell on all the reasons, but I want to highlight that my favourite closed end gold/silver fund has once again blown out to an 8% discount.
 
 <a href="http://themacrotourist.com/images/CEFNov3016.png"><img src="http://themacrotourist.com/images/CEFNov3016.png" alt="http://themacrotourist.com/images/CEFNov3016.png" width="750" height="500" style="margin:30px auto;display:block;"></a>
 
