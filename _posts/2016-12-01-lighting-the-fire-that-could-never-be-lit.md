@@ -72,7 +72,7 @@ Although there was some good economic news yesterday, I actually think Mnuchin's
 
 Maybe, just maybe, Trump's team has figured it out.  Before you categorize me as some sort of Trump supporter, let me assure you - I find many of the things he says despicable.  I am still amazed his making fun of the disabled reporter didn't sink his campaign right there and then (and lest you tar me as a Clinton supporter, don't worry - I think her behaviour with the Clinton foundation is a pathetic reflection of everything wrong with the political system).  But who cares what I think about politics?  As traders we should all put aside our political views and trade *what is*, not *what should be.*
 
-And there is a chance Trump has finally lit the monetary fire that everyone thought *could never be it.*  
+And there is a chance Trump has finally lit the monetary fire that everyone thought *could never be lit.*  
 
 This post is running long and I should really get to work, but I wanted to leave you with the following thought.  Don't underestimate the amount of monetary fuel that has been heaped onto global financial system during the past eight years.  If this is truly the lift off point, then assets will move like we have never seen before.  There will be epic moves that defy all logic.  Some of those will be lower, but a lot of them will be higher.  There is a very good chance Central Banks will lose control of the financial system.  Throw out the rule book of what "can't happen."  Hang on tight, it's going to be a wild ride.
 
