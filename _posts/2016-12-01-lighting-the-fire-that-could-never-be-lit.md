@@ -68,7 +68,7 @@ And then Mnuchin followed up with a comment that was dear to my heart.  From Blo
 
 It's about time!  For the past year I have been confused about everyone's myopic views about low long term rates.  To me it has been glaringly obvious.  Low long term rates are a signal that governments should be spending more, and borrowing longer.  The market has handed governments an unbelievable opportunity and they have all been too chicken shit to hit the bid.  Governments should be selling as many long term bonds as the market will let them.  They should steepen the yield curve.  
 
-Although there was some good economic news yesterday, I actually think Mnuchin's comments were what sent the bond market spiraling lower.  The long end led the move lower.  
+Although there was some good economic news yesterday, I actually think Mnuchin's comments were what sent the bond market spiraling lower.  The long end led the decline.  
 
 Maybe, just maybe, Trump's team has figured it out.  Before you categorize me as some sort of Trump supporter, let me assure you - I find many of the things he says despicable.  I am still amazed his making fun of the disabled reporter didn't sink his campaign right there and then (and lest you tar me as a Clinton supporter, don't worry - I think her behaviour with the Clinton foundation is a pathetic reflection of everything wrong with the political system).  But who cares what I think about politics?  As traders we should all put aside our political views and trade *what is*, not *what should be.*
 
