@@ -72,7 +72,7 @@ I am shorting the US dollar.  Call me naive, but I think governments have finall
 
 ---
 
-Quick note about this weekend's Italian referendum.  Many investors are worried about the potential for another Brexit/Trump situation.
+Quick note about this weekend's Italian referendum.  Many investors are worried about the potential for another Brexit/Trump surprise.
 
 I would argue this is an entirely different situation.  With both Brexit and Trump, the market expected the opposite result than what actually happened.  In this weekend's Italian referendum, no one is expecting Renzi's reforms to pass.  There should be zero surprise when his measure fails.
 
