@@ -34,7 +34,7 @@ Even the Economist has figure it out.  Have a look at this week's cover.
 
 <a href="http://themacrotourist.com/images/MightyDec0216.jpg"><img src="http://themacrotourist.com/images/MightyDec0216.jpg" alt="http://themacrotourist.com/images/MightyDec0216.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-While this seems insane, I respectfully submit that when everyone is *sure* of something, then no one is sure of anything.  
+While this seems absurd, I respectfully submit that when everyone is *sure* of something, then no one is sure of anything.  
 
 <a href="http://themacrotourist.com/images/TwainDec0216.jpg"><img src="http://themacrotourist.com/images/TwainDec0216.jpg" alt="http://themacrotourist.com/images/TwainDec0216.jpg" width="750" height="350" style="margin:30px auto;display:block;"></a>
 
