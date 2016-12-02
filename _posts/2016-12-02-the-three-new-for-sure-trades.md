@@ -1,6 +1,6 @@
 ---
 id: 26011
-title: 'THE THREE NEW FOR SURE TRADES'
+title: "THE THREE NEW 'FOR SURE' TRADES"
 date: 2016-12-02T08:40:00-05:00
 author: kevin
 layout: post
