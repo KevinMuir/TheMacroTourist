@@ -19,7 +19,7 @@ The bears are having a tough morning.  Many were convinced the Italian referendu
 
 <a href="http://themacrotourist.com/images/GIPDec0516.png"><img src="http://themacrotourist.com/images/GIPDec0516.png" alt="http://themacrotourist.com/images/GIPDec0516.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Turn out, the Italian referendum result was indeed "all baked in" and was no catalyst for the next great market crash.
+Turns out, the Italian referendum result was indeed "all baked in" and was no catalyst for the next great market crash.
 
 Where does that leave us?  Shorts are scrambling to get in all of their "end of the world" trades.  Spooz is set to gap up almost 10 bucks, bonds are down once again and gold is getting bludgeoned.  
 
