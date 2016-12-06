@@ -69,7 +69,7 @@ The lack of US dollar credit creation over the past half dozen years has, in par
 
 And as for the US dollar, I wonder if we are not witnessing the end of its role as the reserve currency.  After all, it has had a good run, but the problems resulting from Bernanke's overly easy policies and Yellen's too tight policies have made it abundantly clear that having the global financial system so closely tied to one independent nation's monetary policy is not so wise.
 
-I am still bearish on the US dollar, and I would rather bet on the Fed not tightening as quickly as the market anticipates rather than the other way round.  The idea that Trump's new Federal Reserve appointments will shift the FOMC boards' balance towards tight monetary policies is laughable.  During a true economic upturn, the Fed will be slow to raise rates.  They always have been, and they always will be.  I still contend that before this whole nightmare is over, the curve will become record steep.  We will look back and laugh that we were ever worried about a "US dollar shortage."  
+I am still bearish on the US dollar, and I would rather bet on the Fed not tightening as quickly as the market anticipates rather than the other way round.  The idea that Trump's new Federal Reserve appointments will shift the FOMC boards' balance towards tight monetary policies is laughable.  During a true economic upturn, the Fed will be slow to raise rates.  They always have been, and they always will be.  I still contend that before this whole nightmare is over, the yield curve will become record steep.  We will look back and laugh that we were ever worried about a "US dollar shortage."  
 
 Thanks for reading,  
 Kevin Muir  
