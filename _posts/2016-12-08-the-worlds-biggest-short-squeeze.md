@@ -60,7 +60,7 @@ This monster "short position" is why every single dip over in the equity market 
 
 Make no mistake - I am not advocating buying stocks in the hopes of riding this short squeeze wave.  I will be happy if I simply avoid wasting money shorting in the hopes of catching the great next crash.  And although I think there will be times when shorting stocks makes sense for a trade, I think we are much farther from a true meaningful correction than most market participants realize.  
 
-At this point you are probably saying to yourself, "great, all clear to get short now -when the MacroTourist writes pseudo bullish pieces like this, it is time for the rally to end."  And yeah, I agree, and it almost stopped me from writing it.  
+At this point you are probably saying to yourself, "great, all clear to get short now - when the MacroTourist writes pseudo bullish pieces like this, it is time for the rally to end."  And yeah, I agree, and it almost stopped me from writing it.  
 
 Yet too many people are confused by this mad scramble into risky assets.  They look at the ferocity of the buying and say it has to end badly.  They mistakenly think the buying is the result of thoughtful analysis about stock market valuations and therefore instinctively want to fade the move.
 
