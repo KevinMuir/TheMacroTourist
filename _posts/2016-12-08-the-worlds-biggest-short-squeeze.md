@@ -44,7 +44,7 @@ Here is where I differ from Danielle.  Both Danielle and her interviewer Grant W
 
 Imagine you are a pension plan administrator.  You have already told the actuaries who want to lower your return projections that you can't afford the increased capital requirements.  Maybe you have agreed to a small cut, but it's no where near a realistic number.  
 
-You desperately need your returns to match your projections, but the assets you bought in the aftermath of the 2008 credit crisis did not turn out nearly as well as you planned.  Your hedge fund returns are shit, and their fees are insane.  The money you sent to Bridgewater has performed all right, but the backup in yields has hurt that portion of the portfolio more than you would have guessed.  What you really need is some sort of asset with a high expected long term return that will satisfy your outlandish return assumptions.
+You desperately need your returns to match your projections, but the assets you bought in the aftermath of the 2008 credit crisis did not turn out nearly as well as you planned.  Your hedge fund returns are crap, and their fees are insane.  The money you sent to Bridgewater has performed all right, but the backup in yields has hurt that portion of the portfolio more than you would have guessed.  What you really need is some sort of asset with a high expected long term return that will satisfy your outlandish return assumptions.
 
 But wait, there is such an asset.  And even though you sold too many equities after the 2008 credit crisis, increasing your allocation today will allow you to claim you will meet your long term return assumptions.
 
