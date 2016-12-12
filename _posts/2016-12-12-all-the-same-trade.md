@@ -37,7 +37,7 @@ Well I am not so sure that is the whole picture.
 
 We know Central Banks are not adverse to monetizing their balance sheets with many different forms of assets.  Whereas they used to stick to fixed income (and way back when, gold), more and more of these yahoo Central Bankers are buying equities.  The Bank of Japan has been at the forefront of this insanity.  
 
-I have watched the trading the foreign exchange markets during the past month, and what has amazed me is the constant Yen selling.  It has been relentless.  Every day it just keeps going down.  Even when there is no fundamental news, it finds a way to decline.
+I have watched the trading in the foreign exchange markets during the past month, and what has amazed me is the constant Yen selling.  It has been relentless.  Every day it just keeps going down.  Even when there is no fundamental news, it finds a way to decline.
 
 Now to some extent, this should come as no surprise.  After all, the Bank of Japan has been printing at a schizoid pace for some time.
 
