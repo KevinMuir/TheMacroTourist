@@ -17,7 +17,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/CockyDec1216.png"><img src="http://themacrotourist.com/images/CockyDec1216.png" alt="http://themacrotourist.com/images/CockyDec1216.png" width="750" height="900" style="margin:30px auto;display:block;"></a>
 
-The mad dash run for US stocks has grabbed all the headlines, but some important stories are lurking in the background.  Although much of the stock buying has been the result of anticipated governmental policy changes and poorly positioned market participants, that's not the whole story.
+The mad dash run for US stocks has grabbed all the headlines, but some important stories are lurking in the background.  Although much of the stock buying has been the result of anticipated governmental policy changes and poorly positioned market participants, that's not the whole picture.
 
 Over the past month we have seen relentless equity buying and bond selling.  The trading between these two assets has been somewhat negatively correlated, but that shouldn't be that much of a surprise given how overweight bonds many investors found themselves prior to the election.  As the good economic news rolled in, stocks were bought and bonds sold.  Not tick for tick, but there is a loose correlation. 
 
