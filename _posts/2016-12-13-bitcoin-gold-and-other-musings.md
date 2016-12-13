@@ -72,7 +72,7 @@ But I did want to emphasize that one of these days, the elites will lose control
 
 I am not fussed that no one is coming for the gold today.  Just like everyone thought bonds could never go down only six months ago, sometimes it takes time.  The scramble into bitcoin is only a small example of what will happen when governments try to too tightly control the Frankenstein system they have created.  
 
-As I write this I realize I am beginning to sound more and more like a nutter.  Yet don't misread me as some sort of yelling-at-the-birds old man that is stuffing gold bars under his mattress.  I acknowledge that right now, the stock market is screaming higher and that gold is sucking wind.  
+As I write this I realize I am beginning to sound more and more like a nutter.  Yet don't misread me as some sort of yelling-at-the-birds old man that is stuffing gold bars under his mattress.  I acknowledge that right now, the stock market is screaming higher and gold is sucking wind.  
 
 But at the very least, into this madness, think about peeling off a little bit of equities and putting it into the oldest form of money out there...
 
