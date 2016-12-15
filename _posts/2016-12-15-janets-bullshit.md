@@ -68,7 +68,7 @@ We all know some dick who is just stringing along his/her partner.  And it is on
 
 Yesterday's complete waffling on any notion of allowing the economy to run hot throws cold water on the idea the Federal Reserve will be slow to raise rates.
 
-The Federal Reserve has clearly signaled they will be tight, and only getting tighter.  All that lip service about the huge number of underemployed was all talk.  
+The Federal Reserve has clearly signaled they will be tight, and only getting tighter.  All that lip service about the huge number of underemployed was just talk.  
 
 The Fed has done a dramatic shift towards tighter policy.  I was expecting a hawkish tone, but even I am surprised at the extent Janet has shifted.  This is a much bigger deal than most investors realize.
 
