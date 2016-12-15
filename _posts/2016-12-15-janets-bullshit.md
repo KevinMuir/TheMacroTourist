@@ -58,7 +58,7 @@ And if that exchange was not clear enough, Yellen went on to make it crystal cle
 
 <a href="http://themacrotourist.com/images/BenderDec1516.png"><img src="http://themacrotourist.com/images/BenderDec1516.png" alt="http://themacrotourist.com/images/BenderDec1516.png" width="750" height="400" style="margin:30px auto;display:block;"></a>
 
-When asked about her speech about allowing the economy to run hot, Yellen quickly backtracked and claimed the discussion was merely theoretical.  Well, f' me.
+When asked about her speech from last month about allowing the economy to run hot, Yellen quickly backtracked and claimed the discussion was merely theoretical.  Well, f' me.
 
 Yellen cannot claim the Fed Chair giving a speech where she outlined the benefits of allowing the economy to run hot was merely a "thought exercise."  It's like a guy whose girlfriend is eager to get married leaving hints about an upcoming proposal, but then when he fails to pop the question, responds with a "I didn't say I was *going to ask you to marry me.*"  
 
