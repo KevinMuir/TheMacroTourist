@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'THANKS FOR EVERYTHING - BACK ON JANUARY 10th, 2017'
-date: 2016-12-21T09:30:00-05:00
+date: 2016-12-22T06:00:00-05:00
 author: kevin
 layout: post
 categories:
