@@ -18,7 +18,7 @@ I would like to take a moment to thank everyone who takes the time to read my le
 
 I can't help but leave you with something to try to put a smile on your face.  Being a Canadian, I obviously grew up around hockey.  Yet over the years coaching my kids soccer, I have learned to appreciate the world's most popular sport.  I have even gotten to the point where Saturday morning I enjoy turning on the Premier League and watching a little soccer (sorry, football).  Yet even though I have embraced the game, I am still perplexed at all the writhing on the ground at the slightest contact.  
 
-But I have recently discovered there is a problem with leadership.  And to fix it, we need to start at the top.  I am creating a petition to swap soccer coaches with hockey coaches for a couple of weeks.  That way, we won't get anymore shit like this...  [Soccer coach gets paper airplane in head vs. hockey coach getting puck in face](https://www.youtube.com/watch?v=YxTDo9zH9yA).  Either that or we get those Aussie coaches to take a turn - those guys are stupid tough.
+I have recently discovered there is a problem with leadership.  And to fix it, we need to start at the top.  I am creating a petition to swap soccer coaches with hockey coaches for a couple of weeks.  That way, we won't get anymore shit like this...  [Soccer coach gets paper airplane in head vs. hockey coach getting puck in face](https://www.youtube.com/watch?v=YxTDo9zH9yA).  Either that or we get those Aussie coaches to take a turn - those guys are stupid tough.
 
 Have a Merry Christmas, Happy Holidays and a wonderful New Year.
 
