@@ -22,7 +22,7 @@ Most investors are busy asking themselves what will happen to the Italians if th
 
 Instead of worrying about the Italians, the market should worry about the Germans and the other creditor nations within the EU.  John Paul Getty, from Getty oil fame, once quipped that if you owe the bank $100 then that's your problem, but if you owe $100 million, then that's the bank's problem.  Obviously thanks to decades of irresponsible Central Bank monetary policies, numbers that small now seem quaint, but you get the idea.  
 
-GettyDec2116.jpg
+<a href="http://themacrotourist.com/images/GettyDec2116.jpg"><img src="http://themacrotourist.com/images/GettyDec2116.jpg" alt="http://themacrotourist.com/images/GettyDec2116.jpg" width="750" height="410" style="margin:30px auto;display:block;"></a>
 
 And if there was ever a case of a borrower owing so much that it is the lender's problem, then it's Italy.
 
