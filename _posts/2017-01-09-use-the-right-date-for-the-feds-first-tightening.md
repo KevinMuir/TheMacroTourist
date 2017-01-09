@@ -38,7 +38,7 @@ I can see the headlines already - ***"the average number of months from the firs
 
 <a href="http://themacrotourist.com/images/2017/01/LotsJan0917.png"><img src="http://themacrotourist.com/images/2017/01/LotsJan0917.png" alt="http://themacrotourist.com/images/2017/01/LotsJan0917.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-But the purpose of this post is to remind you that the Federal Reserve **did not start hiking in December 2015** as most believe.  No, the Fed has tightening since the first taper.  
+But the purpose of this post is to remind you that the Federal Reserve **did not start hiking in December 2015** as most believe.  No, the Fed has been tightening since the first taper.  
 
 When the Federal Reserve engaged in Quantitative Easing they pushed the effective Fed Funds rate below zero.  Two PHD economists, Wu and Xia created the Wu-Xia shadow rate to measure the equivalent Fed Funds rate.  According to their model, the Fed pushed Fed funds to a rate of **negative 2.88% in the summer of 2014**.  
 
