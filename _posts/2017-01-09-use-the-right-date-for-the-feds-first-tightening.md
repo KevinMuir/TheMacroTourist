@@ -44,7 +44,7 @@ When the Federal Reserve engaged in Quantitative Easing they pushed the effectiv
 
 <a href="http://themacrotourist.com/images/2017/01/WuJan0917.png"><img src="http://themacrotourist.com/images/2017/01/WuJan0917.png" alt="http://themacrotourist.com/images/2017/01/WuJan0917.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-The Federal Reserve actually first raised rates when they tapered their quantitative easing purchases.  If you use the shadow rate, the date of the first hike is advanced by more than a year to the Fall of 2014.
+The Federal Reserve actually first raised rates when they tapered their quantitative easing purchases.  If you use the shadow rate, the date of the first hike is advanced by more than a year to the Fall of 2014.  At the same time, rates are not up 50 basis points so far, but more than 350 basis from the negative 2.88% rate.
 
 During the past three economic cycles, the time from the first Fed rate hike to the recession averaged 3.5 years.  That timing would suggest we should be looking for a recession in the spring of 2018.  Funny, isn't that when all these economists were busy predicting the economy would really start growing?
 
