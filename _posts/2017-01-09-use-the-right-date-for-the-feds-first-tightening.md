@@ -16,7 +16,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/2017/01/FirstJan0917.png"><img src="http://themacrotourist.com/images/2017/01/FirstJan0917.png" alt="http://themacrotourist.com/images/2017/01/FirstJan0917.png" width="750" height="850" style="margin:30px auto;display:block;"></a>
 
-We are now about 90 months into the current economic expansion.  It might seem like it is getting a little long in the tooth, but since WWII there has being three periods that were even longer (from Wikipedia):
+We are now about 90 months into the current economic expansion.  It might seem like it is getting a little long in the tooth, but since WWII there has been three periods that were even longer (from Wikipedia):
 
 <a href="http://themacrotourist.com/images/2017/01/ExpansionJan0917.png"><img src="http://themacrotourist.com/images/2017/01/ExpansionJan0917.png" alt="http://themacrotourist.com/images/2017/01/ExpansionJan0917.png" width="750" height="500" style="margin:30px auto;display:block;"></a>
 
