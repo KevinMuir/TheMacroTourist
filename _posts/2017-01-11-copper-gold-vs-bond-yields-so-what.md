@@ -23,7 +23,7 @@ So it's no surprise his latest musing about the copper/gold ratio versus the US 
 
 <a href="http://themacrotourist.com/images/2017/01/CopperJan1117.png"><img src="http://themacrotourist.com/images/2017/01/CopperJan1117.png" alt="http://themacrotourist.com/images/2017/01/CopperJan1117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Far be it for me to question the King (or whatever he wants to call himself), but this relationship is interesting, but doesn't offer much opportunity.  Yeah, we get it.  The copper/gold ratio follows US 10 year yields fairly tightly.  Yet where is the trade?  
+Far be it for me to question the King (or whatever he wants to call himself), but this relationship is interesting, yet doesn't offer much opportunity.  Yeah, we get it.  The copper/gold ratio follows US 10 year yields fairly tightly.  Yet where is the trade?  
 
 So at the risk of high treason, I present the following chart which I think is much more interesting.
 
