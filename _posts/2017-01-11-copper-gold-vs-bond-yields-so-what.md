@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'COPPER/GOLD VS. BOND YIELDS - SO WHAT?'
-date: 2016-01-11T08:22:00-05:00
+date: 2017-01-11T08:22:00-05:00
 author: kevin
 layout: post
 categories:
