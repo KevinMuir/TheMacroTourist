@@ -43,7 +43,7 @@ But the surprising other Buffett drawdown occurred in the dotcom bubble.  No, no
 
 <a href="http://themacrotourist.com/images/2017/01/BRKDDJan1217.png"><img src="http://themacrotourist.com/images/2017/01/BRKDDJan1217.png" alt="http://themacrotourist.com/images/2017/01/BRKDDJan1217.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-I am by no means comparing Buffett to Odey.  They are almost polar opposites.  I have watched Odey's portfolio flip around and he makes a Chicago pit trader seem inactive.  
+I am by no means comparing Buffett to Odey.  They are almost polar opposites.  I have watched Odey's portfolio turn over, and he makes a Chicago pit trader seem inactive.  
 
 But I want to highlight that even though Odey has been halved, his real sin is that he didn't do it with everyone else.  
 
