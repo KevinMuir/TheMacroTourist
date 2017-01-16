@@ -71,7 +71,7 @@ Even in the following years as the Fed kept expanding their balance sheet, and t
 
 The size of the Fed's balance sheet was probably the most important determinant of the stock market level during this period.
 
-At the time most hedge funds managers were hyperventilating about the ultimate decline when the Fed would stop expanding their balance sheet.  But here we are with the Fed contemplating actually reducing it, yet most hedge funds are all bulled up on stocks and ignoring the Fed's rhetoric.
+At the time most hedge funds managers were hyperventilating about the ultimate decline when the Fed stopped expanding their balance sheet.  But here we are with the Fed contemplating actually reducing it, yet most hedge funds are all bulled up on stocks and ignoring the Fed's rhetoric.
 
 Well, I am not ignoring it.  And I don't buy that the relationship between the Fed's balance sheet and the stock market level should be tossed out the window.
 
