@@ -19,7 +19,7 @@ tags:
 
 The other day I turned on Bloomberg TV and some smart sounding portfolio manager was warning about all the dangers surrounding the Mexican economy, and by extension, their markets.  He had all sorts of reasons why investors should steer clear of Mexico.  No need for me to repeat them, all you need to do is open your inbox to be inundated with bearish Mexican research pieces.  Or crack open the newspaper.  Or turn on the TV.  Everyone is convinced Trump will crush the Mexican economy.
 
-If I asked how much the Mexican equity ETF underperformed the Russell 2000 ETF over the past month, you would probably guess 5%-10%, maybe even more.  After all, the constant barrage of Trump tweets about Mexico's taking advantage of America has created an awfully negative atmosphere surrounding the United States' southern neighbour.
+If I asked you how much the Mexican equity ETF underperformed the Russell 2000 ETF over the past month, you would probably guess 5%-10%, maybe even more.  After all, the constant barrage of Trump tweets about Mexico's taking advantage of America has created an awfully negative atmosphere surrounding the United States' southern neighbour.
 
 Well, don't look now, but that notion might be fully priced in.  
 
