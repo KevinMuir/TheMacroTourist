@@ -29,7 +29,7 @@ Over the past month the Mexican stock ETF has actually outperformed the Russell 
 
 I don't have on long EWW short IWM spread on directly.  My positions are a little more convoluted with a long Mexican Peso / short Canadian dollar being augmented with a long Eurostoxx / short Russell 2000 spread.  But they are based on the same reasoning.  
 
-I originally saw the idea of long EWW / short IWM from a gtwitter buddy **[The Long View @ hayekandkeynes](<https://twitter.com/hayekandkeynes?lang=en>)** who describes himself as a "recovering Bridgewater Associates employee."  Great, funny description and a must follow.  
+I originally saw the idea of long EWW / short IWM from a twitter buddy **[The Long View @ hayekandkeynes](<https://twitter.com/hayekandkeynes?lang=en>)** who describes himself as a "recovering Bridgewater Associates employee."  Great, funny description and a must follow.  
 
 Although I don't have this exact trade on my sheets, I will focus on his position as it is a cleaner example of exploiting the "all baked in" trade setup.
 
