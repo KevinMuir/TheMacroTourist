@@ -17,7 +17,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/2017/01/WoodJan3117.png"><img src="http://themacrotourist.com/images/2017/01/WoodJan3117.png" alt="http://themacrotourist.com/images/2017/01/WoodJan3117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-The other day I wrote a piece that highlighted the risks from an increasingly hawkish Fed ([Trump and Yellen's collision course](<http://themacrotourist.com/macro/trump-and-yellens-collision-course>)).  One of buddies emailed me to tell me I was overly concerned about the Fed's hawkish rhetoric.  He reasoned that we had seen this movie before.  And not just once, but a few times.  Over the past couple of years the Federal Reserve has talked a tough game, but when push came to shove, regularly fallen down.  
+The other day I wrote a piece that highlighted the risks from an increasingly hawkish Fed ([Trump and Yellen's collision course](<http://themacrotourist.com/macro/trump-and-yellens-collision-course>)).  One of my buddies emailed me to tell me I was overly concerned about the Fed's hawkish rhetoric.  He reasoned that we had seen this movie before.  And not just once, but a few times.  Over the past couple of years the Federal Reserve has talked a tough game, but when push came to shove, regularly fallen down.  
 
 At the beginning of last year the Fed had communicated an expectation to raise rates four times in the coming twelve months.  Well, we all know how that turned out.  The Federal Reserve was barely able to get one hike under its belt.  
 
