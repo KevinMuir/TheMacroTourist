@@ -85,7 +85,7 @@ I suspect the Fed will err on being more hawkish than anyone expects.  They will
 
 I am not sure of how to best play this rising tension between the Fed and Trump.  Eventually the Fed will tighten enough to break something, but the problem with that strategy is that we could scream much higher in the mean time.  
 
-I will throw out the idea the Fed will be as wimpy as they were over the past two years. After all, they only blinked once markets moved hard against them (which has not yet happened), and economic conditions were dramatically different back then.  Until these conditions change, I will assume the Fed will surprise on the hawkish side. 
+I am throwing out the idea the Fed will be as wimpy as they were over the past two years. After all, they only blinked once markets moved hard against them (which has not yet happened), and economic conditions were dramatically different back then.  Until these conditions change, I will assume the Fed will surprise on the hawkish side. 
 
 <a href="http://themacrotourist.com/images/2017/01/DazedFeb0117.png"><img src="http://themacrotourist.com/images/2017/01/DazedFeb0117.png" alt="http://themacrotourist.com/images/2017/01/DazedFeb0117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
