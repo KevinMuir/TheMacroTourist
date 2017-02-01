@@ -75,7 +75,7 @@ There are some smart people who think Trump's bumbling this weekend has introduc
 
 >This means the already extremely gradual pace of interest-rate hikes — just one in each of the past two years as opposed to initial hints from top officials of many more — will remain snail-like, almost imperceptible.
 
-Although I respect Pedro Nicolaci da Costa's opinion, I respectfully take the other side of the trade.  
+Although I understand Pedro Nicolaci da Costa's opinion, I respectfully take the other side of the trade.  
 
 Yes, there is some turmoil from Trump's recent actions, but let's face it, there is precious little market stress.  Stocks are still near the highs, spreads are acting well.  There are little signs of panic.
 
