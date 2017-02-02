@@ -25,7 +25,7 @@ And in case you think you might have missed the move, scale back and have a look
 
 I know just enough about the fundamentals of various "soft commodities" to get myself into some serious trouble.  I won't insult you with any sort of attempt to explain the recent price action.  I don't have a clue, but it sure seems bullish.  
 
-Yet I will remind you that for too long, many of these "soft commodities" have been overlooked.  Decades of persistent disinflation will do that.  
+Yet I remind you that for too long, many of these "soft commodities" have been overlooked.  Decades of persistent disinflation will do that.  
 
 <a href="http://themacrotourist.com/images/RealNov2816.jpg"><img src="http://themacrotourist.com/images/RealNov2816.jpg" alt="http://themacrotourist.com/images/RealNov2816.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
