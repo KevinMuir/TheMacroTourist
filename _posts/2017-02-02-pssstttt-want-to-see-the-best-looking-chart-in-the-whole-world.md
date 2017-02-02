@@ -31,7 +31,7 @@ Yet I will remind you that for too long, many of these "soft commodities" have b
 
 But what if the trend has finally turned?  What if the next great bull market will not be in stocks, or bonds, but "soft commodities?"  Remember, nothing offers better opportunities than ["Shit no one trades"](<http://themacrotourist.com/macro/shit-no-one-trades>).
 
-Sometimes you need to find new territory.  Spread your wings.  Trade different stuff.  Venture to the other side of the road...  Much like this [other Canadian groundhog](<https://www.youtube.com/watch?v=Ikw_q_lsM-c&feature=youtu.be>) did almost a decade ago at different F1 race.
+Sometimes you need to find new territory.  Spread your wings.  Trade different stuff.  Venture to the other side of the road...  Much like this [other Canadian groundhog](<https://www.youtube.com/watch?v=Ikw_q_lsM-c&feature=youtu.be>) did almost a decade ago at a different F1 race.
 
 Thanks for reading,  
 Kevin Muir  
