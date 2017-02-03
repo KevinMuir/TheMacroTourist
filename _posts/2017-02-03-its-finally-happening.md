@@ -30,7 +30,7 @@ And it's not like he was alone.  As recently as last summer large hedge fund man
 
 <a href="http://themacrotourist.com/images/2017/01/OdeyFeb0317.jpg"><img src="http://themacrotourist.com/images/2017/01/OdeyFeb0317.jpg" alt="http://themacrotourist.com/images/2017/01/OdeyFeb0317.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-I can't claim I was immune to the siren lure of the short JGB story.  After all, it was an awfully compelling story.  It's extremely difficult to see how Japan will be able to manage its monster debt load without inflating it away.
+I can't claim I was immune to the siren lure of the short JGB story.  After all, it was an awfully compelling story.  It's difficult to see how Japan will be able to manage its monster debt load without inflating it away.
 
 <a href="http://themacrotourist.com/images/2017/01/DebtFeb0317.png"><img src="http://themacrotourist.com/images/2017/01/DebtFeb0317.png" alt="http://themacrotourist.com/images/2017/01/DebtFeb0317.png" width="750" height="350" style="margin:30px auto;display:block;"></a>
 
