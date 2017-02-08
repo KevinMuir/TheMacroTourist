@@ -14,9 +14,7 @@ tags:
   - consumer confidence
    
 ---
-
-
-
+<a href="http://themacrotourist.com/images/2017/01/GSFeb0817.png"><img src="http://themacrotourist.com/images/2017/01/GSFeb0817.png" alt="http://themacrotourist.com/images/2017/01/GSFeb0817.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 Years ago I stumbled upon this interesting stock market indicator created by famed strategist Ed Yardeni.  I was intrigued because contrary to most equity models, Yardeni's formula did not include the traditional inputs of earnings or interest rates. 
 
