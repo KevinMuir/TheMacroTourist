@@ -42,7 +42,7 @@ Therefore the first change we need to make is to measure net speculative positio
 
 <a href="http://themacrotourist.com/images/2017/02/PercentFeb1317.png"><img src="http://themacrotourist.com/images/2017/02/PercentFeb1317.png" alt="http://themacrotourist.com/images/2017/02/PercentFeb1317.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-When we make that adjustment the net speculative position pictures changes a little.  Yes, net specs are still elevated, but nowhere near the degree when measured in absolute terms.
+When we make that adjustment, the net speculative position pictures changes a little.  Yes, net specs are still elevated, but nowhere near the degree when measured in absolute terms.
 
 I wish this was the only problem with my analysis, but there is another factor we need to consider.  When net specs hit their peak in 2014, the price of oil was much, much higher.
 
