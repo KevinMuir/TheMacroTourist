@@ -15,6 +15,8 @@ tags:
 
 The last couple of weeks have been wild.  Egged on by Trump's talk of "yuuugeeee" tax cuts, the stock market has propelled upwards in an unrelenting march to record highs.
 
+<a href="http://themacrotourist.com/images/2017/02/TRFeb1617.png"><img src="http://themacrotourist.com/images/2017/02/TRFeb1617.png" alt="http://themacrotourist.com/images/2017/02/TRFeb1617.png" width="400" height="300" style="margin:30px auto;display:block;"></a>
+
 <a href="http://themacrotourist.com/images/2017/02/SPXFeb1617.png"><img src="http://themacrotourist.com/images/2017/02/SPXFeb1617.png" alt="http://themacrotourist.com/images/2017/02/SPXFeb1617.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 Zerohedge did a great job highlighting Trump's "*talking up*" of the upcoming tax cuts:
