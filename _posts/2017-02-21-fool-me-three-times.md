@@ -71,6 +71,10 @@ I am not sure when the pressure valve will be released, but this cannot continue
 
 This will correct with a massive repricing of German fixed income lower.  Investors are busy chasing the "supposed" safe asset to make sure they don't get burned for a third time.  Once again, they will most likely be set up with the wrong position.  At this rate, the ECB will be forced to taper way sooner than the market realizes, regardless of the political risk.
 
+Inflation is quickly approaching Draghi's target.  Don't look now, but 2% will be hit sooner rather than later.
+
+<a href="http://themacrotourist.com/images/2017/02/EUCPIFeb2117.png"><img src="http://themacrotourist.com/images/2017/02/EUCPIFeb2117.png" alt="http://themacrotourist.com/images/2017/02/EUCPIFeb2117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+
 I continue to love owning European stocks versus American ones, while also being short bunds versus long US fixed income.  Today's economic numbers out of Europe only embolden me, but then again, I am the sort of idiot Stephen King was warning about...
 
 Thanks for reading,  
