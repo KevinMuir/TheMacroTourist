@@ -18,7 +18,7 @@ tags:
 
 While the whole world is buzzing about the colossal Oscars screw up, the MacroTourist is more focused on the stuff that really matters.  Like the hard hitting news about President Trump's weekend clandestine dinner sortie.  The Donald tried to evade the press, but a [shrewd reporter](<http://ijr.com/2017/02/810965-trump-ditched-the-press-to-have-dinner-heres-how-the-president-acts-when-no-one-is-watching/>) got the tip ahead of time and positioned himself in the booth close to the new President.
 
-Now I might offend some people with this next comment, but I have to just come and say it.  I can't hold back any longer.  
+Now I might offend some people with this next comment, but I have to just come out and say it.  I can't hold back any longer.  
 
 At dinner, Trump ordered an aged New York strip and ate it with ketchup.  Being a Canadian, I can live with the ketchup call.  After all, Canadians are the highest consumers of ketchup per capita in the world.
 
