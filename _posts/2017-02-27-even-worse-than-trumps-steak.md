@@ -16,7 +16,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/2017/02/SteakFeb2717.png"><img src="http://themacrotourist.com/images/2017/02/SteakFeb2717.png" alt="http://themacrotourist.com/images/2017/02/SteakFeb2717.png" width="750" height="900" style="margin:30px auto;display:block;"></a>
 
-While the whole world is buzzing about the colossal Oscars screw up, the MacroTourist is more focused on the stuff that really matters.  Like the hard hitting news about President Trump's weekend clandestine dinner sortie.  The Donald tried to evade the press, but a [shrewd reporter](<http://ijr.com/2017/02/810965-trump-ditched-the-press-to-have-dinner-heres-how-the-president-acts-when-no-one-is-watching/>) got the tip ahead of time and positioned himself in the booth close the new President.
+While the whole world is buzzing about the colossal Oscars screw up, the MacroTourist is more focused on the stuff that really matters.  Like the hard hitting news about President Trump's weekend clandestine dinner sortie.  The Donald tried to evade the press, but a [shrewd reporter](<http://ijr.com/2017/02/810965-trump-ditched-the-press-to-have-dinner-heres-how-the-president-acts-when-no-one-is-watching/>) got the tip ahead of time and positioned himself in the booth close to the new President.
 
 Now I might offend some people with this next comment, but I have to just come and say it.  I can't hold back any longer.  
 
