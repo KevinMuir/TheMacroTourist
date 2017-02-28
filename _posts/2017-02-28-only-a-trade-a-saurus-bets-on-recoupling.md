@@ -33,7 +33,7 @@ But have a look at the last year (highlighted by the red rectangle).  During thi
 
 Not only has the relationship broken down, it seems to have completely reversed.  
 
-Have a look at the past couple of years, but instead of inverting the US dollar, I have left it untouched.
+Let's look at another chart, but instead of inverting the US dollar, I have left it untouched.
 
 <a href="http://themacrotourist.com/images/2017/02/NOTFeb2817.png"><img src="http://themacrotourist.com/images/2017/02/NOTFeb2817.png" alt="http://themacrotourist.com/images/2017/02/NOTFeb2817.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
