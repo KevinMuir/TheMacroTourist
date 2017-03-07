@@ -40,7 +40,7 @@ The ECB is already tapering, and the next surprise will most likely come in the 
 
 And as for the big daddy of them all, the Federal Reserve is guiding towards rate hikes at the fastest rate since the credit crisis.  
 
-Which brings us back to the monster Federal Reserve balance sheet.  $4.5 trillion is a big number.  Even the boys at Goldman would probably need an extra drink to quell their nerves as they let that ride.  
+Which brings us back to the monster Federal Reserve balance sheet.  $4.5 trillion is a big number.  Even the crew at Goldman would probably need an extra drink to quell their nerves as they let that ride.  
 
 As the Federal Reserve raises rates, this balance sheet will become less and less profitable, until at a certain point, it would actually turn into a loss.  
 
