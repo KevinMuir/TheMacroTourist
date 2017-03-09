@@ -46,7 +46,7 @@ Not only that, although he is loathe to admit it, the French election also looms
 
 **So we have a situation where fear from previous tapering episodes, and the upcoming French election, are stopping the ECB from withdrawing stimulus as would typically be called for at this point.**
 
-Given the fact that the ECB is in essence "too easy", what should be the expected result?  While many market observers would say that since the ECB will be buying more bonds, therefore we should expect them to rise, I contend the opposite.  
+Given the fact that the ECB is in essence "too easy", what should be the expected result?  While many market observers would say that since the ECB will be buying more bonds, we should therefore expect them to rise, I contend the opposite.  
 
 The ECB is applying too much stimulus, risking higher future inflation.  Inflation is a long term fixed income investor's worst nightmare (apart from default).  A Central Bank that is too easy should cause the yield curve to steepen and actually cause long term bonds to fall in price.  
 
