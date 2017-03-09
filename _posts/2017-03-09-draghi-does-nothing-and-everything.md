@@ -72,6 +72,8 @@ This is non-consensus call.  I know all the arguments of the animal spirits Trum
 
 But the European equity market is hated with a vengeance brought on by decades of underperformance.  
 
+<a href="http://themacrotourist.com/images/2017/03/SPXMar0917.png"><img src="http://themacrotourist.com/images/2017/03/SPXMar0917.png" alt="http://themacrotourist.com/images/2017/03/SPXMar0917.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+
 During the period from 2009-2015, most money managers also hated US equities.  Yet as Bernanke kept feeding more and more QE into the system, US equities defied all skeptics and rose on "nothing but Central Bank money printing."  Europe is simply a few years behind.  
 
 Don't over think it.  European equities will climb that very same wall of worry (especially when Mario keeps making policy errors on the side of too much stimulus).
