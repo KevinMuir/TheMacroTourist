@@ -29,7 +29,7 @@ I am reposting a graph from that piece that shows the extended nature of specula
 
 Now fading a one way market based on over eager speculators is not for everyone.  You're almost guaranteed to look like an idiot for a while, and once it turns, everyone will claim it was obvious and they weren't part of the herd leaning the wrong way.  But the truth is that few catch the move because it is mentally so difficult to stand on the other side of the masses.
 
-With that in mind, I present the next accident waiting to happen (and I realize you will most likely think me an knob for suggesting taking the other side of this trade).
+With that in mind, I present the next accident waiting to happen (and I realize you will most likely think me a knob for suggesting taking the other side of this trade).
 
 Speculators are betting heavily that the Federal Reserve will continue raising rates.  In fact, they have taken a net short position of over $2.5 trillion dollars of 3 month Eurodollar futures contracts.
 
