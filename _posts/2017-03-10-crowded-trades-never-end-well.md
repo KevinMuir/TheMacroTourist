@@ -45,7 +45,7 @@ I don't know what the catalyst will be.  Maybe it will be a terrible unemploymen
 
 But I know that shorting the front end of the US yield curve is a crowded trade.  And if there is one thing that I have learned, it's that crowded trades never end well...
 
-Thanks for reading and have a great weekend,
+Thanks for reading and have a great weekend,  
 Kevin Muir  
 the MacroTourist
 
