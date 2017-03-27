@@ -21,7 +21,7 @@ I can't help but laugh at the sounds of crickets coming from the Trump bulls' ca
 
 Recent market action has been dominated by the unwinding of the "Trump reflation trade."  Suddenly everyone is dumping equities and greenbacks, while chasing US fixed income higher. 
 
-As I am still getting my bearings, I don't have any profound insight into this move.  But I wanted to take a moment to point out a possible way to play this "Trump reflation trade" unwind that might be slipping under the radar.
+As I am still getting my bearings, I don't have any profound insight into this move.  But I wanted to take a moment to point out a possible way to play this "Trump trade" unwind that might be slipping under the radar.
 
 In the initial weeks following Trump's win, copper rallied hard on the prospects of Trump's infrastructure build out plans.  
 
