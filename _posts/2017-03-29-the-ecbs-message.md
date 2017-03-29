@@ -19,6 +19,8 @@ tags:
 
 Theresa May has finally shed her European Union shackles.  This morning she delivered her *"I like you and we can still be friends, but I am just not that into you"* letter to the EU Council President Donald Tusk.  A teary Tusk responded that ["we already miss you,"](<http://www.telegraph.co.uk/news/2017/03/29/donald-tusk-tells-britain-already-miss/>) but has vowed to make the best of the difficult breakup.
 
+<a href="http://themacrotourist.com/images/2017/03/MissMar2917.png"><img src="http://themacrotourist.com/images/2017/03/MissMar2917.png" alt="http://themacrotourist.com/images/2017/03/MissMar2917.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+
 Although Tusk responded with grace, it didn't take long for the ECB to take the gloves off.  Minutes after Tusk's comments, the ECB "leaked" a story that the market misinterpreted their March 9th meeting's intention.  From the Reuters' article ["Spooked by yield rise, ECB wary of changing message again - sources"](<http://uk.reuters.com/article/uk-ecb-policy-idUKKBN1701I8>):
 
 >European Central Bank policymakers are wary of making any new change to their policy message in April after small tweaks this month upset investors and raised the spectre of a surge in borrowing costs for the bloc's indebted periphery.
