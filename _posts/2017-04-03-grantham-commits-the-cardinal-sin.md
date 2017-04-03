@@ -34,8 +34,6 @@ Therefore I was extremely interested to hear what Grantham thinks now that we ha
 
 But in a [recent interview with the WSJ](<http://on.wsj.com/2n43rdt>), Jeremy refused to join the parade of crash forecasters.
 
-<iframe allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0" scrolling="no" width="512" height="288" src="https://video-api.wsj.com/api-video/player/iframe.html?guid=D98E2C49-45CC-4F63-B304-7B6C5D26C7C8"></iframe>
-
 >"Is the U.S. stock market in a bubble, or is it different this time?"
 
 >"It doesn't have the characteristics of a bubble.  A simple way of defining a bubble is that it has to have nearly perfect fundamentals which have to be irrationally extrapolated with considerable euphoria.  Remember the style from 2000, Japan in '89, or the US housing market (house prices will never decline), or 1929 in the old days was a classic.  We have none of that euphoria.  We also have very imperfect fundamentals."
