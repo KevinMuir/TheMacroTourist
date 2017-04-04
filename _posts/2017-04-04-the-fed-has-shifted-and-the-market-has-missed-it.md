@@ -66,7 +66,7 @@ There are many different ways to play this potentail unwind, but I certainly wou
 
 Yet yield curve shifts aren't the only opportunities offered up from the Fed's policy change.
 
-The Federal Reserve owns $2.4 trillion of US Treasuries and $1.8 trillion in mortgage backed bonds.  If I were a member of the FOMC board I would push to wind down the mortgage back bonds first, but even if they choose a pro-rata wind down, the Fed will no longer be purchasing a large amount of mortgage backed securities that they were previously rolling.
+The Federal Reserve owns $2.4 trillion of US Treasuries and $1.8 trillion in mortgage backed bonds.  If I were a member of the FOMC board, I would push to wind down the mortgage back bonds first, but even if they choose a pro-rata wind down, the Fed will no longer be purchasing a large amount of mortgage backed securities that they were previously rolling.
 
 Mortgage backed securities are different from US Treasuries.  As rates decline, more homeowners refinance, so the mortgage instrument's duration declines - right when you want the opposite to happen.  When rates rise, fewer homeowners refinance, so the duration extends - again, right at the worse time.  Mortgages are therefore negative volatility securities.  
 
