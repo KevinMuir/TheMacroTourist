@@ -1,6 +1,6 @@
 ---
 id: 26011
-title: 'THE FED HAS SHIFTED, AND THE MARKET HAS MISSED IT'
+title: 'THE FED HAS SHIFTED (AND THE MARKET HAS MISSED IT)'
 date: 2017-04-04T12:35:00-05:00
 author: kevin
 layout: post
