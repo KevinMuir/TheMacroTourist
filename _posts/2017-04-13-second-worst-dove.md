@@ -83,9 +83,9 @@ Meanwhile speculators are massively betting on higher short term US dollar rates
 
 The market has badly misinterpreted Trump's monetary leanings, but so far not panicked because they believe Janet & Co. have their back.  Well, next year's FOMC board will look dramatically different.  Betting on their continued hawkish tendency is crazy.  One of these days the market will panic, and the rip roaring short cover at the front end of the yield curve will be vicious.
 
-Thanks for reading and have a Happy Easter weekend,
-Kevin Muir
-the MacroTourist
+Thanks for reading and have a Happy Easter weekend,  
+Kevin Muir  
+the MacroTourist  
 
 
 
