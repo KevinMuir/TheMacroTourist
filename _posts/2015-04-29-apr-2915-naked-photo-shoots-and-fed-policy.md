@@ -1,6 +1,6 @@
 ---
 id: 22891
-title: 'Apr 29/15 &#8211; Naked photo shoots and Fed policy'
+title: 'Naked photo shoots and Fed policy'
 date: 2015-04-29T11:28:33+00:00
 author: kevin
 layout: post
