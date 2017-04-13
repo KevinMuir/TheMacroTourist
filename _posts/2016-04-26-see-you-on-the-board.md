@@ -13,7 +13,7 @@ tags:
   - BoJ
   - silver
   - gold
-
+featured: true
   
    
 ---

@@ -14,6 +14,7 @@ tags:
   - economy
   - Fed
   - stocks
+featured: true
 ---
 They say there are those that are lucky enough to be born smart, while others are smart enough to be born lucky. I definitely fall into the latter category. I met my wife in University. I got my job on the institutional equity desk of Canada&#8217;s largest bank when I was 23 years old. We started my career together as young adults. As fortune would have it, I had the perfect seat for the coming computerization of the equity markets. I was also lucky enough to be at one of the few big dealers that had a direct drive payout. Within a year or two, my trading career was blooming, and I started to make a little money. When I turned 26, I married my wife (I know it seems young now, but it didn&#8217;t at the time). Then the markets got really busy (the dot com bubble was about to take off), just as I was given the responsibility of the main risk trader for the equity derivatives group. Next thing I knew, I wasn&#8217;t just making a little money, but a lot of it. Way more than some 26 year old punk should have ever made. My wife, who had some boring job at the local Toronto newspaper, realized that her salary was a rounding error, immediately quit. 
 

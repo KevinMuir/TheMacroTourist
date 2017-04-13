@@ -10,7 +10,7 @@ tags:
   - EU
   - EuroStoxx50
   - Europe
-   
+featured: true
 ---
 <a href="http://themacrotourist.com/images/BearOct1916.png"><img src="http://themacrotourist.com/images/BearOct1916.png" alt="http://themacrotourist.com/images/BearOct1916.png" width="750" height="800" style="margin:30px auto;display:block;"></a>
 
