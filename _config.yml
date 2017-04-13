@@ -42,6 +42,8 @@ links:
     url: /
     external: false
     icon: home
+	title: BEST OF
+	url: /Featured
   - title: About
     url: /about
 
