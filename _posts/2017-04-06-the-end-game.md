@@ -11,7 +11,7 @@ tags:
   - bonds
   - end game
   - inflation
-   
+featured: true
 ---
 <a href="http://themacrotourist.com/images/2017/04/LORApr0617.png"><img src="http://themacrotourist.com/images/2017/04/LORApr0617.png" alt="http://themacrotourist.com/images/2017/04/LORApr0617.png" width="750" height="550" style="margin:30px auto;display:block;"></a>
 
