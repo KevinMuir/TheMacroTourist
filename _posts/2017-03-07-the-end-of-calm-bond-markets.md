@@ -10,7 +10,7 @@ tags:
   - bonds
   - inflation
   - Fed
-   
+featured:true
 ---
 <a href="http://themacrotourist.com/images/2017/03/JanetMar0617.png"><img src="http://themacrotourist.com/images/2017/03/JanetMar0617.png" alt="http://themacrotourist.com/images/2017/03/JanetMar0617.png" width="750" height="350" style="margin:30px auto;display:block;"></a>
 

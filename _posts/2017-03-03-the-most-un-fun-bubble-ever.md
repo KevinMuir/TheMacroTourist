@@ -9,6 +9,7 @@ categories:
 tags:
   - stocks
   - bubble
+featured:true
    
 ---
 <a href="http://themacrotourist.com/images/2017/03/BubbleMar0317.png"><img src="http://themacrotourist.com/images/2017/03/BubbleMar0317.png" alt="http://themacrotourist.com/images/2017/03/BubbleMar0317.png" width="750" height="400" style="margin:30px auto;display:block;"></a>
