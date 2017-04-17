@@ -76,7 +76,7 @@ The Bank of Japan's quantitative easing program is without precedent in the deve
 
 At almost 90% of GDP, the Bank of Japan's balance sheet is just bat shit crazy!   No other way to describe it.
 
-With Kyle Bass and all the other "cool kids" focusing on China or some other trendy trade, the "Japanese QE blow up" forecast has drifted on the radar screen.  But it really shouldn't.  
+With Kyle Bass and all the other "cool kids" focusing on China or some other trendy trade, the "Japanese QE blow up" forecast has drifted off the radar screen.  But it really shouldn't.  
 
 We might kid ourselves that U.S. financial markets are reacting to fundamental news, but all too often, they are simply moving to the price on the Bank of Japan's last blue ticket.
 
