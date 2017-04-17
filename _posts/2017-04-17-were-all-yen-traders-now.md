@@ -36,7 +36,7 @@ But after the big emotional gap open, the price of all U.S. fixed income drifted
 
 Maybe this could be the result of thin holiday conditions.  For most of the night, prices meandered around, so it makes sense to not read too much into the moves.  
 
-But once U.S. traders returned to their turrets this morning, prices continued moving down.  Maybe this was an 'all-baked-in' situation where the weak CPI and Retail sales data were anticipated?
+But once U.S. traders returned to their turrets this morning, prices continued moving down.  Strange.  Maybe this was an 'all-baked-in' situation where the weak CPI and Retail sales data were anticipated?
 
 Yet today's economic data once again disappointed expectations.  The Empire Manufacturing Survey came in at 5.2 versus a forecasted 15.0.  
 
