@@ -31,9 +31,9 @@ Along with the long term capital flight, this has caused the Pound to weaken.  A
 
 Today, we have a situation where specs are stupid short, the pound is ridiculously cheap, and now the government has called a snap election.  
 
-**Even if there is a possibility that the opposition wins, the Pound's price needs to be adjusted higher.**  Suddenly BREXIT is not nearly of a 'sure thing.'  
+**Even if there is a possibility that the opposition wins, the Pound's price needs to be adjusted higher.**  Suddenly BREXIT is not nearly of a 'sure thing.'  And even if there is no going back from BREXIT, a proper mandate on negotiations will cause uncertainty to lift. 
 
-Sometimes trades are this simple.  The British Pound needs to be bought.  This isn't a one hour adjustment trade.  There will be a steady buyer of Pounds for weeks to come.  Whether it will result in a rally that ultimately needs to be sold is another matter, but in the meantime, the possibility of a BREXIT removal needs to be priced in.
+Sometimes trades are this simple.  The British Pound needs to be bought.  This isn't a one hour adjustment trade.  There will be a steady buyer of Pounds for weeks to come.  Whether it will result in a rally that ultimately needs to be sold is another matter, but in the meantime, the possibility of a BREXIT removal needs to be priced in.  
 
 You can outright buy Pounds against the U.S. dollar, or if you want a 'purer' play, you can short EUR/GBP.
 
