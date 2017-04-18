@@ -17,7 +17,7 @@ tags:
 
 British Prime Minister stunned markets this morning by announcing her intention to call a snap election for June 8th.  Figuring that she would have to face re-election anyway before BREXIT negotiations were complete, and given she is currently leading in the polls by over 20 points, a quick surprise election was her best bet.
 
-I have no idea if this was the right call.  It seems to make sense, but whether it will ultimately be successful is of no consequence for the trading landscape.  
+I have no idea if this was the right move.  It seems to make sense, but whether it will ultimately be successful is of no consequence for the trading landscape.  
 
 Right now, hedge funds and other speculators are short British Pounds.  Big time.
 
