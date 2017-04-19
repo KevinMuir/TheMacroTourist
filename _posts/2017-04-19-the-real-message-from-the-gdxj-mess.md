@@ -58,7 +58,7 @@ The GDXJ ETF has become so popular, the VanEck ETF holding company is bumping up
 
 Faced with all these problems, VanEck chose to dramatically alter the composition of the underlying index that GDXJ is supposed to track.  They announced their intention to make these changes on June 17th, but in the meantime, have released their new guidelines for the index.
 
-Over the years I have relied on one firm's index research more than any other.  In fact, even when I was the trader at another bank, I would desperately seek out TD's Peter Hayne's research pieces.  Peter has been doing this so long, there is a rumour he is grooming his high school aged son to take over his post when he retires to pass along the family business.
+Over the years I have relied on one firm's index research more than any other.  In fact, even when I was the trader at another bank, I would desperately seek out TD's Peter Haynes' research pieces.  Peter has been doing this so long, there is a rumour he is grooming his high school aged son to take over his post when he retires to pass along the family business.
 
 Now here comes the important part.  Have a look at TD's index research group's projected flows arising from this index rebalance.  First the adds:
 
