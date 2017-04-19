@@ -86,7 +86,7 @@ Although many are in a tizzy about the "potential" breakdown of the ETF model, a
 
 Did investors become too enamoured with GDXJ?  Yup, you betcha.  But why?  And what might this mean for the future?
 
-To answer these questions I refer you back to an absolutely fantastic presentation Grant Williams from RealVision TV fame game over a year ago.  It's called ["Nobody Cares."](<https://www.youtube.com/watch?v=qnZHMmCjpQ8>).  
+To answer these questions I refer you back to an absolutely fantastic presentation Grant Williams from RealVision TV fame gave over a year ago.  It's called ["Nobody Cares."](<https://www.youtube.com/watch?v=qnZHMmCjpQ8>).  
 
 In the presentation, Grant highlighted how little gold and other precious metal assets are held in pensions.  At that time, only 0.15% of pension assets were held in gold and gold equities. 
 
