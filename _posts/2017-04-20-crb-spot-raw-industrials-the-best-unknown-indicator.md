@@ -41,7 +41,7 @@ Have a look at this chart from BofA Merrill Lynch that shows the degree to which
 
 Fund managers, who before the election had been underweight U.S. equities, rushed in to buy American stocks on Trump reflation hopes.  But now that this optimism has faded, investors have quickly shifted from overweight to underweight U.S. equities.  
 
-The pessimistic attitude towards economic growth and stock market valuations has returned with a vengeance.  Suddenly many investors once again believe the entire global economy is once again headed into the toilet.
+The pessimistic attitude towards economic growth and stock market valuations has returned with a vengeance.  Suddenly many investors believe the entire global economy is once again headed into the toilet.
 
 I am sympathetic to the notion that Trump reflation hopes were overdone, but I wonder if market participants are now overly pessimistic towards global growth.
 
