@@ -1,6 +1,6 @@
 ---
 id: 26011
-title: 'CRB SPOT RAW INDUSTRIALS - THE BEST UNKNOWN INDICATOR'
+title: 'THE BEST UNKNOWN INDICATOR'
 date: 2017-04-20T11:00:00-05:00
 author: kevin
 layout: post
