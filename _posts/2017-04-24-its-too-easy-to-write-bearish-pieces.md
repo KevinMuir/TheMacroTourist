@@ -104,7 +104,7 @@ Everyone is bearish.  There is no great value added by warning about the potenti
 
 Yet the market is missing the possibility that all this debt ends up being paid back in greatly depreciated dollars.  And if that is the case, the actual nominal prices of financial assets might end up significantly higher than today's prices.  
 
-I will repeat my favourite line stolen from Bill Fleckenstein - Central Banks will continue printing until the bond market takes away the keys.  We are nowhere near that point, and it might not occur until private investors finally give up.  
+I will repeat my favourite line stolen from Bill Fleckenstein - Central Banks will continue printing until the bond market takes away the keys.  We are nowhere near that point, and it might not occur until private investors finally give up worrying about the downside.
 
 When the market mood is such that writing a bearish piece gets you as many boos as this piece will get me, that will be the time to think about betting against the stock market.  Until then, I am going to look at buying some of those way out-of-the-money calls as lottery tickets in case I am right.
 
