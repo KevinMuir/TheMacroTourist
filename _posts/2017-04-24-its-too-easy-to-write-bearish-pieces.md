@@ -72,7 +72,7 @@ I don't have any answers about how this will all end.  If someone thinks they do
 
 All I know is that the stock market keeps pushing higher, much to the bewilderment of almost everyone.  Yes, there might be some old school managers who mistakenly believe this cycle is the same as all the previous ones, but they are few and far between.  Not only that, but they are most likely wrong.  The economy is not nearly as strong as they continually predict.  Earnings are not growing as fast as they forecast.  Yet stocks keep pushing higher.
 
-I believe the chart above about the Central Bank balance sheet growth has more to do with the incessant financial asset bid than any other input, but there's no way I can really prove that.  
+I believe the chart above regarding the Central Bank balance sheet growth has more to do with the incessant financial asset bid than any other input, but there's no way I can really prove that.  
 
 Everyone is looking at stocks and seeing over-valuations and bubbles.  Yet stocks are not being bought by some out of control crowd suffering from mad delusions.  ***No, the madness is confined to a half dozen Central Banks with the ability to buy financial assets without the worry of coming up with the capital to pay for them.***
 
