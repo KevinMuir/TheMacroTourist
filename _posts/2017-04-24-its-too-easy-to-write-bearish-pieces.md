@@ -78,7 +78,7 @@ Everyone is looking at stocks and seeing over-valuations and bubbles.  Yet stock
 
 Private sector participants are reluctantly participating in the buying, but they are constantly watching for the first sign of trouble, ready to abandon ship.  
 
-They are all hedging, worried the 2008 credit crisis will repeat.  ZeroHedge had a [great article](<http://www.zerohedge.com/news/2017-04-22/despite-mounting-losses-mystery-trader-50-cent-doubles-down-massive-vix-spike-bet>) about the mysterious trader who buys 50,000 VIX calls that are trading for around 50 cents everyday, stinging him with $89 million in losses so far.
+They are all hedging, worried the 2008 credit crisis will repeat.  ZeroHedge had a [great article](<http://www.zerohedge.com/news/2017-04-22/despite-mounting-losses-mystery-trader-50-cent-doubles-down-massive-vix-spike-bet>) about the mysterious trader who buys 50,000 VIX calls that are trading for around 50 cents everyday, stinging him with $89 million in losses so far this year.
 
 I don't have any fundamental way to justify this potential outcome, but I worry that the real surprise will not be a repeat of 2008, but instead a crazy, out of control melt-up.  
 
