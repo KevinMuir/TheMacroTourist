@@ -10,6 +10,7 @@ tags:
   - stocks
   - French election
   - SKEW
+featured: true
    
 ---
 <a href="http://themacrotourist.com/images/2017/04/MonthlyApr2417.png"><img src="http://themacrotourist.com/images/2017/04/MonthlyApr2417.png" alt="http://themacrotourist.com/images/2017/04/MonthlyApr2417.png" width="600" height="850" style="margin:30px auto;display:block;"></a>
