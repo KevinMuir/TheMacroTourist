@@ -47,7 +47,7 @@ But I wanted to stress, that in the longer term picture, this move is so small, 
 
 <a href="http://themacrotourist.com/images/2017/04/SPXApr2617.png"><img src="http://themacrotourist.com/images/2017/04/SPXApr2617.png" alt="http://themacrotourist.com/images/2017/04/SPXApr2617.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-European stocks have gone now where for the past decade and a half.  Yeah, it's probably deserved, I get it.  But now we have a committed Central Bank, which seems to have adopted Paul McCulley's mantra of being "responsibly irresponsible", combined with a dirt cheap stock market, and a global economy that seems poised to grow.  
+European stocks have gone no where for the past decade and a half.  Yeah, it's probably deserved, I get it.  But now we have a committed Central Bank, which seems to have adopted Paul McCulley's mantra of being "responsibly irresponsible", combined with a dirt cheap stock market, and a global economy that seems poised to grow.  
 
 Contrast that to America where the stock market is richly priced, with Federal Reserve that appears to be hell bent on withdrawing accommodation as quickly as the market will let them.  
 
