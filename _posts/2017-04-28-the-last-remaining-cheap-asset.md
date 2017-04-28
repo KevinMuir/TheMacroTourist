@@ -39,7 +39,7 @@ I told you this wasn't going to be easy, so when the idea of buying grains makes
 
 I realize these charts do not represent grain's actual returns due to the problems rolling contracts and the embedded carry (positive/negative depending on the shape of the curve), but it gives you a sense of the spot market over the past five years.  The selling has been relentless, and discouraging.  
 
-I like to follow agriculture twitter.  It's a nice break from all the finance guys bragging about their latest wins or posting pictures of the meat they are bbq'ng that evening.  The ag people seem a little more humble, but I must admit, I get a kick out them showing off their latest tractors or combines.  
+I like to follow agriculture twitter.  It's a nice break from all the finance guys bragging about their latest wins or posting pictures of the meat they are bbq'ng that evening.  The ag people seem a little more humble, but I must admit, I get a kick out of them showing off their latest tractors or combines.  
 
 The reason I bring this up is to give you a sense of the sentiment within the agriculture trader community.
 
