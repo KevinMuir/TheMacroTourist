@@ -29,9 +29,7 @@ No, I would rather go looking for something truly forgotten, hated, and cheap.
 
 And nothing fits this bill better than grains.  
 
-I told you this wasn't going to be easy, and let's not forget the concept that we all can't be contrarians at the same time, so when the idea of buying grains makes you throw up a little in your mouth, don't immediately discount its investment merit.  
-
-The grain charts look like death.  No two ways about it.  As the trader who sits beside me says, "going long grains is a hedge against profits."  
+I told you this wasn't going to be easy, so when the idea of buying grains makes you throw up a little in your mouth, don't immediately discount its investment merit.  The grain charts look like death.  No two ways about it.  As the trader who sits beside me says, "going long grains is a hedge against profits."  
 
 <a href="http://themacrotourist.com/images/2017/04/WheatApr2817.png"><img src="http://themacrotourist.com/images/2017/04/WheatApr2817.png" alt="http://themacrotourist.com/images/2017/04/WheatApr2817.png" width="750" height="480" style="margin:30px auto;display:block;"></a>
 
