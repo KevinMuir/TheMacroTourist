@@ -15,7 +15,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/2017/04/TroubleApr2817.png"><img src="http://themacrotourist.com/images/2017/04/TroubleApr2817.png" alt="http://themacrotourist.com/images/2017/04/TroubleApr2817.png" width="750" height="560" style="margin:30px auto;display:block;"></a>
 
-There are two things that most men think they are experts at.  Ask any man, and chances are, deep down, they believe they are the world's greatest bbq'er and lover (probably in that order).  Personally, I know not everyone can be the world's greatest lover, so although I hope I might be in the top quartile (I am giving myself a boost for all those too-good-looking guys who think they don't even have to try), but god damn it!  I know that I am in the top percentile when it comes to bbq'ng!   
+There are two things that most men think they are experts at.  Ask any man, and chances are, deep down, they believe they are the world's greatest bbq'er and lover (probably in that order).  Personally, I know not everyone can be the world's greatest lover, so I hope I might be in the top quartile (I am giving myself a boost for all those too-good-looking guys who think they don't even have to try), but god damn it!  I know that I am in the top percentile when it comes to bbq'ng!   
 
 My delusions about my mad bbq'ng skills are similar to everyone's belief they are contrarians.  Whether it is the NYSE specialist, the Chicago pit local, the Bay Street equity trader, the London credit specialist, or even the guy at home trading in his underwear, we are all consumed by these romantic narratives where we bravely battle the naive masses to nail the next great trade.  But the reality is that *we can't all be contrarians.*  If we were, then it wouldn't be contrarian...
 
