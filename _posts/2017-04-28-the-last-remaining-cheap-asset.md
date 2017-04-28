@@ -79,7 +79,7 @@ This terrible bear market has not gone unnoticed by the speculators.  Have a loo
 
 Specs have never been this short!   Everyone believes prices can only go one way - lower!  After all, we are  all top performing bbq'ers and lovers.
 
-I must admit, I have been lugging around a long grain positions for the past few years, so I am not sure anyone should listen to my analysis.  Yet, while every is all beared up on grains, some smart guys are starting to talk about the investing merits of long positions.  Great technicians like Peter Brandt are raising the possibility a long term bottom might be forming.  And then, shrewd macro traders like Raoul Pal, are advocating long grain positions from a fundamental perspective.  
+I must admit, I have been lugging around a long grain position for the past few years, so I am not sure anyone should listen to my analysis.  Yet, while every is all beared up on grains, some smart guys are starting to talk about the investing merits of long positions.  Great technicians like Peter Brandt are raising the possibility a long term bottom might be forming.  And then, shrewd macro traders like Raoul Pal, are advocating long grain positions from a fundamental perspective.  
 
 But few are talking about the real reason that grains offer a compelling risk reward from the long side.  If this Central Bank experiment goes off the rails, we could have a return of 1970's style inflation.  That happens to coincide with the last great bull market in grains.  
 
