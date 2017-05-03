@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'AXE WOULD HATE RISK PARITY'
-date: 2016-02-08T11:00:00-05:00
+date: 2017-05-03T07:40:00-05:00
 author: kevin
 layout: post
 categories:
