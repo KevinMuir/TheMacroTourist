@@ -14,7 +14,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/2017/05/RiskMay0217.png"><img src="http://themacrotourist.com/images/2017/05/RiskMay0217.png" alt="http://themacrotourist.com/images/2017/05/RiskMay0217.png" width="600" height="460" style="margin:30px auto;display:block;"></a>
 
-The other day, legendary hedge fund manager Paul Tudor Jones made headlines when he issued a bold warning to Janet Yellen & Co. (from Bloomberg):
+The other day, fabled hedge fund manager Paul Tudor Jones made headlines when he issued a bold warning to Janet Yellen & Co. (from Bloomberg):
 
 >The legendary macro trader says that years of low interest rates have bloated stock valuations to a level not seen since 2000, right before the Nasdaq tumbled 75 percent over two-plus years. That measure -- the value of the stock market relative to the size of the economy -- should be “terrifying” to a central banker, Jones said earlier this month at a closed-door Goldman Sachs Asset Management conference, according to people who heard him.
 
