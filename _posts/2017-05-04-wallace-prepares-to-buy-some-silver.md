@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'WALLACE PREPARES TO BUY SOME SILVER'
-date: 2017-05-02T07:40:00-05:00
+date: 2017-05-04T07:40:00-05:00
 author: kevin
 layout: post
 categories:
