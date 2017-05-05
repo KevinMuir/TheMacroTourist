@@ -43,7 +43,7 @@ His policies are pro-Euro, business friendly, and can best be summed up as near 
 
 Le Pen is much more difficult to swallow.  She has been accused of being populist, racist and in general, radical.  
 
-I am not endorsing either candidate.  I don't have a clue who I would vote for if I were French.  All I care about is how this will affect the market.
+I am not endorsing either candidate.  All I care about is how this will affect the market.
 
 But I have to admit, Le Pen's strategy of making Macron seem like a puppet for the establishment is awfully effective.  Le Pen has trotted out a great line recently - **"Come next week, France will be ruled by a woman - either me, or Mrs. Merkel."**
 
