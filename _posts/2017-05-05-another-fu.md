@@ -69,7 +69,7 @@ Trading these sorts of situations is often about determining what odds are built
 
 <a href="http://themacrotourist.com/images/2017/05/LePenMay0517.png"><img src="http://themacrotourist.com/images/2017/05/LePenMay0517.png" alt="http://themacrotourist.com/images/2017/05/LePenMay0517.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Remember, anything can happen in politics, and when it comes to French politics, that is especially true.  After all, these are the people who put **[Félix Faure](<https://en.wikipedia.org/wiki/F%C3%A9lix_Faure>)** in power.  And for those who aren't familiar with good 'ole Félix, let's just say even Bill Clinton would have a lot to learn from the master himself.  Too bad it killed him...
+Remember, anything can happen in politics, and when it comes to French politics, that is especially true.  After all, these are the people who put **[Félix Faure](<https://en.wikipedia.org/wiki/F%C3%A9lix_Faure>)** in power.  And for those who aren't familiar with good 'ole Félix, let's just say even Bill Clinton would have a lot to learn from the master himself.  Too bad it ended up killing him...
 
 Thanks for reading and have a great weekend,  
 Kevin Muir  
