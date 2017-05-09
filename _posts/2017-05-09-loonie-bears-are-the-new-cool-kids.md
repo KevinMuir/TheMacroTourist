@@ -53,7 +53,7 @@ But then let's have a look at the other big driver of the Canadian dollar - oil.
 
 There is no denying that the Loonie is a petro-currency.  Instead of trading CAD, you might as well just trade WTI.
 
-Yet this correlation is showing the Loonie undervalued versus crude oil.  Could the recent Loonie's larger decline veruss oil be the result of the Home Capital Group worries?  
+Yet this correlation is showing the Loonie undervalued versus crude oil.  Could the recent Loonie's larger decline verus oil be the result of the Home Capital Group worries?  
 
 Before you run with that theory, let's replace spot crude with the one year forward contract. The correlation between the two assets becomes even tighter.
 
