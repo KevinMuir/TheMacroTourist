@@ -37,7 +37,7 @@ Realizing the big money had already been made, and that the market had taken pri
 
 And he concluded that once these millionaires became less focused on oil, and more interested in spending some of their new wealth, they would want to buy things.  Of course they would buy real estate, maybe some flashy cars, and most definitely some yachts, but they would also buy art.  
 
-The art market is a funny thing.  There are the renown artists that transcend all countries.  That is an international market.  But when it comes to smaller countries like Canada, Australia or Norway, the art market is dominated by locals.  Few outside of Canada know about the Group of Seven, but there are a couple of dozen elite Canadians who compete to own these iconic painters.  The prices of these art pieces are directly correlated to the wealth of these elite few.
+The art market is a funny thing.  There are the renown artists that transcend all countries.  That is an international market.  But when it comes to smaller countries like Canada, Australia or Norway, the art market is dominated by locals.  Few outside of Canada know about the Group of Seven, but there are a couple of dozen wealthy Canadians who compete to own these iconic painters.  The prices of these art pieces are directly correlated to the wealth of these elite few.
 
 <a href="http://themacrotourist.com/images/2017/05/HarrisMay1017.jpg"><img src="http://themacrotourist.com/images/2017/05/HarrisMay1017.jpg" alt="http://themacrotourist.com/images/2017/05/HarrisMay1017.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
