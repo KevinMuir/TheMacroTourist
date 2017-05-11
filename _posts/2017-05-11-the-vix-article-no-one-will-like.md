@@ -65,7 +65,7 @@ I agree with many of the VIX bulls' who claim there is pervasive volatility sell
 
 But on the other hand, there is equally massive volatility buying by retail and speculative accounts who believe the next crash is right around the corner.  This is why VXX shares outstanding is exploding higher.
 
-If there was truly this bias towards volatility selling, then the XIV's (which is the short volatility ETF) shares outstanding should be exploding higher as retail chase the hot product.  **Yet, instead, the shares outstanding are collapsing.**
+If there was truly a bias towards volatility selling, then the XIV's (which is the short volatility ETF) shares outstanding should be exploding higher as retail chase the hot product.  **Yet, instead, the shares outstanding are collapsing.**
 
 <a href="http://themacrotourist.com/images/2017/05/XIVMay1117.png"><img src="http://themacrotourist.com/images/2017/05/XIVMay1117.png" alt="http://themacrotourist.com/images/2017/05/XIVMay1117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
