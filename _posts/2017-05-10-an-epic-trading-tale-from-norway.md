@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'AN EPIC TRADING TALE FROM NORWAY'
-date: 2017-05-17T08:00:00-05:00
+date: 2017-05-10T08:00:00-05:00
 author: kevin
 layout: post
 categories:
