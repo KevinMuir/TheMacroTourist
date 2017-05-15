@@ -18,7 +18,7 @@ I don't want to goocher it, but it looks like I might have fluked into picking u
 
 The easiest, and most obvious, explanation centers around the rise in US dollar real yields.  A month ago, the US 5 year real yield (as measured by the TIPs market) was almost negative 30 basis points.  Last week, at its worst, the real yield had pushed up to just a hair under positive 20 basis points.  That's almost 50 basis points of real tightening.  
 
-TIPMay1517.png
+<a href="http://themacrotourist.com/images/2017/05/TIPMay1517.png"><img src="http://themacrotourist.com/images/2017/05/TIPMay1517.png" alt="http://themacrotourist.com/images/2017/05/TIPMay1517.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 This occurred during a period of US economic underperformance versus expectations. 
 
