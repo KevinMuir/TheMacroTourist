@@ -64,7 +64,7 @@ And what do you trading companies do when they are in trouble?  They sell stuff 
 
 In Iceberg's research, they outline a whole host of illiquid commodity assets they claim Noble is marking too high.  If this analysis is correct, then these assets will be the last thing Noble pitches.  Instead, liquid commodities, like say, silver, will be given the boot...
 
-I could be whistling in the wind, but I wonder if silver's decline over the past month has been a desperate attempt to shore up some liquidity at Noble.  Although we probably will never know for sure, I take solace in the fact that if I am correct, then most likely Noble will have no more silver to sell.  If the grim reaper of bankruptcy comes for Noble in the coming weeks, then all the good positions will have most likely already been sold.  Don't get too bearish on any Noble Group bad news, it's most likely already in the price of all but the most illiquid commodities.
+I could be whistling in the wind, but I wonder if silver's decline over the past month has been a desperate attempt to shore up some liquidity at Noble.  Although we probably will never know for sure, I take solace in the fact that if I am correct, then most likely Noble will have no more silver to sell.  If the grim reaper of bankruptcy comes for Noble in the coming weeks, then most likely all the good positions will have already been sold.  Don't get too bearish on any Noble Group bad news, it's most likely in the price of all, but the most illiquid, commodities.
 
 Thanks for reading,  
 Kevin Muir  
