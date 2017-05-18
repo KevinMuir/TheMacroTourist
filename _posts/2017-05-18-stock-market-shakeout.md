@@ -42,7 +42,7 @@ Nowadays, the best way to decide which stock markets are most crowded is to look
 
 <a href="http://themacrotourist.com/images/2017/05/OverMay1817.png"><img src="http://themacrotourist.com/images/2017/05/OverMay1817.png" alt="http://themacrotourist.com/images/2017/05/OverMay1817.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-You can see that managers overwhelmingly believe US stocks to be overvalued, with European stocks offering an undervalued opportunity.  **The long and short of it is that the European Eurostoxx trade is crowded.** 
+You can see that managers overwhelmingly believe US stocks to be overvalued, with European stocks offering an undervalued opportunity.  **The long and short of it is that the European Eurostoxx trade is crowded, while the US stock market has a relative under weighting.** 
 
 The sell off of the past couple of days was an unwinding of this lopsided sentiment.  That is why European stocks were leading on the downside even though the bad news was emanating out of America.
 
