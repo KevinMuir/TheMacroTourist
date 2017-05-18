@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'AN E.T.A. FOR THE MAN WITH THE PIN'
-date: 2017-07-17T13:50:00-05:00
+date: 2017-05-17T13:50:00-05:00
 author: kevin
 layout: post
 categories:
