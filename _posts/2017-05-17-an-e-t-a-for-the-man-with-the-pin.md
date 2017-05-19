@@ -102,7 +102,7 @@ Well, here's the genius of my buddy's observation.  CRS has all sorts of onerous
 
 **CRS made real estate exempt!!!**  So if you are living in a country where you are concerned about capital controls or taxation, and you want to diversify your risk without exposing yourself to reporting requirements, what is the best option?  **Buy yourself some real estate in a stable part of the world.**  
 
-This massive real estate rally in of the past year in Canada and Australia might have more to do with a rush to beat CRS implementation than anything else.  
+This massive real estate rally of the past year in Canada and Australia might have more to do with a rush to beat CRS implementation than anything else.  
 
 And if that is correct, then we might still have a couple of quarters of last minute shopping before this rally fizzles.  
 
