@@ -59,7 +59,7 @@ And the funniest part of this story?  Don't look now, but OTC derivative notiona
 
 We just hit new ten year lows.  Strange how all of those shrill predictions about the coming OTC derivative crisis have gone silent.
 
-I don't have any great insight about this development, but a simple reminder that the risks pundits are screaming the loudest about, are probably the ones you need to worry about the least.
+I don't have any great insight about this development, but a simple reminder that the risks of which the pundits are screaming the loudest, are probably the ones you need to worry about the least.
 
 Thanks for reading and have a great week-end,  
 Kevin Muir  
