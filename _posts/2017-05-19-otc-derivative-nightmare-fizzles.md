@@ -65,7 +65,7 @@ Thanks for reading and have a great week-end,
 Kevin Muir  
 the MacroTourist  
 
-PS:  It's the Victoria Day long week-end in Canada, so no 'Tourist on Monday.  Have a great long week-end!  
+PS:  It's the Victoria Day long week-end in Canada, so no 'Tourist on Monday.  To all my fellow Canadians, have a great holiday!  
 
 <a href="http://themacrotourist.com/images/2017/05/VictoriaMay1917.png"><img src="http://themacrotourist.com/images/2017/05/VictoriaMay1917.png" alt="http://themacrotourist.com/images/2017/05/VictoriaMay1917.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
