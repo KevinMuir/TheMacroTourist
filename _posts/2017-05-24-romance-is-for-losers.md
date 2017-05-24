@@ -53,7 +53,7 @@ But I find it extremely difficult to trade this scenario.  In my mind, I have gl
 
 Even as I write this, there is a smile on my face.  I loved being right while everyone else was wrong.  It was almost romantic.  
 
-Yet I can't tell you how much money I have wasted over the years trying to replicate these romantic dreams in my head.  It is enormous, and it has cost me so much mental and actual physical capital.  Springsteen wrote about the old loser sitting at the bar thinking 'bout it, and I now understand a little better what he meant. 
+Yet I can't tell you how much money I have wasted over the years trying to replicate these romantic dreams in my head.  It is enormous, and it has cost me so much mental and actual physical capital.  Springsteen wrote about the old deadbeat sitting at the bar thinking 'bout it, and I now understand a little better what he meant. 
 
 ***When it comes to trading, romance is for losers.***  
 
