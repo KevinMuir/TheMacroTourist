@@ -186,7 +186,7 @@ This is the stuff of bubbles.  No doubt about it.
 
 So far, I have been lucky enough to take some money out of bitcoin, but my forecasts have all been completely wrong.  I understand if you want to ignore my warnings.
 
-Yet I worry the public is climbing aboard a technology few understand, with little regulation and way too much hype.  In the coming months, we will hear stories of people being ripped off.  I suspect when it is all done, we will look back on this period and shake our heads.  
+Yet I worry the public is climbing aboard a technology many don't fully understand, with little regulation and way too much hype.  In the coming months, we will hear stories of people being ripped off.  I suspect when it is all done, we will look back on this period and shake our heads.  
 
 But what do I know?  I am the idiot who left over $5.5MM on the table from a simple $10k investment.  The only solace I take is that at least I am not the **[guy who paid for 10,000 bitcoins for two pizzas in 2010.](<https://www.forbes.com/sites/ericmack/2013/12/23/the-bitcoin-pizza-purchase-thats-worth-7-million-today/#25fb53722509>)**  That's some expensive pizzas...
 
