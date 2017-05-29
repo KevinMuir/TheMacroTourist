@@ -40,7 +40,7 @@ Back to my bitcoin story.  I can't remember the exact date.  I think it was earl
 
 "If no one controls it, how do you know when a transaction occurs?  How do you stop from being ripped off?"
 
-"Well, there are these computers constantly *mining* for bitcoins, and in the process, they commit your transaction to the blockchain, where it can never be removed" he explained.
+"Well, there are a network of computers that are building a distributed transaction ledger, using a system based on cryptography to ensure a consensus is reached," he explained.
 
 "I don't get it.  So you basically have a ledger in the sky, that is controlled by no one.  Yet we are going to use this as currency?" I asked incredulously.
 
