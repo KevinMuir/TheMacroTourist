@@ -116,7 +116,7 @@ When the price spiked, and then sold off, I figured the mania was over.  It was 
 
 Again, my prediction of the demise of bitcoin was completely off base.  
 
-Sure, bitcoin got quiet and drifted lower.  Two years later it was $250 again.  Yet, then Xi into power with anti-corruption regulatory drive.  The ChineThe government clamped down on capital flows, and gave bitcoin a second life I never expected.
+Sure, bitcoin got quiet and drifted lower.  Two years later it was $250 again.  Yet, then Xi into power with anti-corruption regulatory drive.  The Chinese government clamped down on capital flows, and gave bitcoin a second life I never expected.
 
 Since the end of 2015, the price of bitcoin has gone parabolic.  Not only has it surpassed the 2013 high, it has exploded to almost $3,000.
 
