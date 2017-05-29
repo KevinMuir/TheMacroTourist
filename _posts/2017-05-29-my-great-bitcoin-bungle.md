@@ -100,7 +100,7 @@ Back then, bitcoin exchanges were like the wild west.  It was like depositing mo
 
 We had noticed that amongst all the exchanges, there were a couple of persistent arbitrage opportunities.  Mt. Gox, a Japanese exchange, in particular seemed to consistently bid bitcoins at prices that were above the offers at other exchanges (eventually Mt.Gox would go bankrupt and bitcoin traders would lose almost everything).
 
-In terms of my collaboration with the kid I didn't bring much, but this is where my extra years on this earth shone through.  Realizing that these exchanges were nothing more than shoe string technology companies in some guy's parents' basement, I insisted we tread carefully.
+In terms of my collaboration with the kid, I didn't bring much, but this is where my extra years on this earth shone through.  Realizing that these exchanges were nothing more than shoe string technology companies in some guy's parents' basement, I insisted we tread carefully.
 
 Mt. Gox was obviously out of the question, something was wrong there, it didn't take a genius to see that.  But how would we know which exchanges were legit?
 
