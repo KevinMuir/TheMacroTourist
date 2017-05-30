@@ -43,7 +43,7 @@ If they were long tons of futures, I would expect to see them doing what they do
 
 I don't buy that this increase in net spec longs is a traditional increase in speculation.  There is something different about it.  
 
-I don't have any answers.  But I wonder if we are missing a new player that might have entered the market.
+I don't have any answers.  But I wonder if we are missing a new player that may have entered the market.
 
 I am not sure how China would be classified if they were to buy futures, but I think there is a decent chance they might not be classified as a hedger.  
 
