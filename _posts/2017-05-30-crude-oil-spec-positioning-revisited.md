@@ -21,7 +21,7 @@ However, over the past few years, I have been puzzled by the building of a massi
 
 <a href="http://themacrotourist.com/images/2017/05/CrudeMay3017.png"><img src="http://themacrotourist.com/images/2017/05/CrudeMay3017.png" alt="http://themacrotourist.com/images/2017/05/CrudeMay3017.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-The monster speculative long position doesn't correspond to the general attitude amongst traders.  In fact, without looking at the data, I would argue most specs were negative towards crude oil.  The data does not jive with my anecdotal evidence.
+The monster speculative long position doesn't correspond to the general attitude amongst traders.  In fact, without looking at the data, I would argue most specs are negative towards crude oil.  The data does not jive with my anecdotal evidence.
 
 I have written about the problems of solely using net contracts as a measure of speculative positioning before **([Re-evaluating crude oil spec positioning](<http://themacrotourist.com/macro/re-evaluating-crude-oil-spec-positioning>)).**  Increases in open interest, and dramatic changes in the price of the underlying asset can make some of these contract-only indicators less effective.  This is why experts who focus on CFTC Data, often use net position as a percent of open interest.  Adam Collins at Movement Capital has created a terrific website called **[Free COT Data](<https://freecotdata.com/commodities-2/>)** that uses this sort of analysis.  For those interested in CFTC positioning, I highly recommend Adam's site.  
 
