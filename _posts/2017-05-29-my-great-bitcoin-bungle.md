@@ -116,7 +116,7 @@ When the price spiked, and then sold off, I figured the mania was over.  It was 
 
 Again, my prediction of the demise of bitcoin was completely off base.  
 
-Sure, bitcoin got quiet and drifted lower.  Two years later it was $250 again.  Yet, then Xi into power with anti-corruption regulatory drive.  The Chinese government clamped down on capital flows, and gave bitcoin a second life I never expected.
+Sure, bitcoin got quiet and drifted lower.  Two years later it was $250 again.  Yet, then Xi came into power with anti-corruption regulatory drive.  The Chinese government clamped down on capital flows, and gave bitcoin a second life I never expected.
 
 Since the end of 2015, the price of bitcoin has gone parabolic.  Not only has it surpassed the 2013 high, it has exploded to almost $3,000.
 
@@ -188,7 +188,7 @@ So far, I have been lucky enough to take some money out of bitcoin, but my forec
 
 Yet I worry the public is climbing aboard a technology many don't fully understand, with little regulation and way too much hype.  In the coming months, we will hear stories of people being ripped off.  I suspect when it is all done, we will look back on this period and shake our heads.  
 
-But what do I know?  I am the idiot who left over $5.5MM on the table from a simple $10k investment.  The only solace I take is that at least I am not the **[guy who paid for 10,000 bitcoins for two pizzas in 2010.](<https://www.forbes.com/sites/ericmack/2013/12/23/the-bitcoin-pizza-purchase-thats-worth-7-million-today/#25fb53722509>)**  That's some expensive pizzas...
+But what do I know?  I am the idiot who left over $5.5MM on the table from a simple $10k investment.  The only solace I take is that at least I am not the **[guy who paid 10,000 bitcoins for two pizzas in 2010.](<https://www.forbes.com/sites/ericmack/2013/12/23/the-bitcoin-pizza-purchase-thats-worth-7-million-today/#25fb53722509>)**  That's some expensive pizzas...
 
 Thanks for reading,  
 Kevin Muir  
