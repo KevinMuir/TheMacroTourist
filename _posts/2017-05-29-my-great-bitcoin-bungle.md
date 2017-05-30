@@ -108,7 +108,7 @@ So we went about testing them.  We transferred small bitcoin positions, made a t
 
 Once we had figured out which exchanges were (somewhat) trustworthy, we went about creating automated programs to arbitrage between the two exchanges.  Don't forget, on stock exchanges, brokers are not allowed to lock the market (offer at the price another exchange is bidding).  In bitcoin, there are no rules, so there were not only locked markets, but often straight arbs (where you could buy on one exchange and immediately sell it on another exchange, locking in a profit).
 
-For a few wild months, we mined, arb'd, and speculated on bitcoins.  During that period, the price of bitcoin soared from $150 to almost $1,200.  We had bought so many computers that office became so hot, we were forced to move them to an cold, Canadian un-heated garage.
+For a few wild months, we mined, arb'd, and speculated on bitcoins.  During that period, the price of bitcoin soared from $150 to almost $1,200.  We had bought so many computers that our office became so hot, we were forced to move them to an cold, Canadian un-heated garage.
 
 <a href="http://themacrotourist.com/images/2017/05/XBTMay2917.png"><img src="http://themacrotourist.com/images/2017/05/XBTMay2917.png" alt="http://themacrotourist.com/images/2017/05/XBTMay2917.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
