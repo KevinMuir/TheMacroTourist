@@ -21,7 +21,7 @@ Yesterday the SPDR Utility ETF closed at a new all-time high.  With all the exci
 
 <a href="http://themacrotourist.com/images/2017/05/XLUMay3017.png"><img src="http://themacrotourist.com/images/2017/05/XLUMay3017.png" alt="http://themacrotourist.com/images/2017/05/XLUMay3017.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-The relationship between the inverted yield of the 30 year US Treasury and the SPDR XLU ETF held fairly tight between 2013 and 2016.  Yet since the Trump election, it has completely broken down.
+Between 2013 and 2016, the relationship between the inverted yield of the 30 year US Treasury and the SPDR XLU ETF held fairly tight.  Yet since the Trump election, it has completely broken down.
 
 Obviously, the correlation need not continue, and the two assets might simply head their own merry way.
 
