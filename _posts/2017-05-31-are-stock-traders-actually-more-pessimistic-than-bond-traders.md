@@ -35,7 +35,7 @@ They seem intent on removing accommodation until something breaks.  Ultimately, 
 
 An argument could certainly be made that the mad scramble into stocks is sending *all sectors higher*, and utilities are just being dragged along for the ride.  Yet I can't help but notice that many other sectors closed at one month lows yesterday.  
 
-Could it be utility stocks *smell* the coming slowdown ahead of the bond market?  I am not sure, but if the economy does roll over, it will be a rare occasion when the stock traders were the more pessimistic bunch.  Hey, there is a first for everything, including having the stock guys getting it more right than the bond traders.
+Could it be utility stocks *smell* the coming economic slowdown ahead of the bond market?  I am not sure, but if the economy does roll over, it will be a rare occasion when the stock traders were the more pessimistic bunch.  Hey, there is a first for everything, including having the stock guys getting it more right than the bond traders.
 
 Thanks for reading,  
 Kevin Muir  
