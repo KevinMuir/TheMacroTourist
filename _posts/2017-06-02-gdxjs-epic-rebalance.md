@@ -65,7 +65,7 @@ Since the April 12th index announcement, these stocks are off by almost 30%!
 
 An argument could be made that we should be buying the stocks that have held up best during this selling onslaught.  I am sympathetic to the idea of buying strength instead of extreme weakness.  But I am, after all a knife catching addict, and the decline is too hard to resist.  Maybe I will buy a little Kirland, Centerra and St Barabara as chasers to my portfolio of hard stuff.  I am not sure yet.
 
-But I don't plan on waiting.  We get the official index announcement later today, and I am sure there will be lots of chatter about the rebalance, but be weary of the hyperbolic predictions of doom.  There is a good chance this all built into the price of the stocks, and the surprise will be how much these names rally into the rebalance, not the other way round.
+But I don't plan on waiting.  We get the official index announcement next Friday, and I am sure there will be lots of chatter about the rebalance, but be weary of the hyperbolic predictions of doom.  There is a good chance this all built into the price of the stocks, and the surprise will be how much these names rally into the rebalance, not the other way round.
 
 I know this is contrary to prevailing wisdom, and I understand if you want to take Begbie's advice and stay away from catching knives, but a the very least be careful of assuming the index effect will make the moves even worse.  This has already been an epic rebalance.
 
