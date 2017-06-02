@@ -31,7 +31,7 @@ A month and a half ago I wrote about the problems facing VanEck with their Vecto
 
 I was concerned about the massive amount of shares that would need to be traded.  Many of the forecasted index flows represented 10+ days of average volume for some stocks.
 
-Well, this opportunity proved too tempting for the street.  Traders have beaten the stocks coming out of the index with an ugly stick.  Actually, that description doesn't really do justice to the true extent of the carnage. 
+Well, this opportunity proved too tempting for the street.  Traders have beaten the stocks being reduced within the index with an ugly stick.  Actually, that description doesn't really do justice to the true extent of the carnage. 
 
 TD Index Specialist Peter Haynes recently wrote a report where he described the rebalance as **"the single greatest wealth destruction event in index history."**  He included a great chart that showed that the stocks with forecasted weight reductions have declined 15.7% while the adds are down only 3.3%.  
 
