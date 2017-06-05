@@ -98,7 +98,7 @@ It seems crazy to rely on these Central Bank knobs as a backstop as you buy asse
 
 <a href="http://themacrotourist.com/images/2017/06/AdultsJun0517.jpg"><img src="http://themacrotourist.com/images/2017/06/AdultsJun0517.jpg" alt="http://themacrotourist.com/images/2017/06/AdultsJun0517.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-And if you are a hedge fund, you remember the fortunes made during the pricking of the last bubble.  Hedge fund managers who were previously nobodies, became household names.  Everyone wants to replicate that success.  Everywhere you look there are managers with calls about the next "big short."  
+And if you manage a hedge fund, you remember the fortunes made during the pricking of the last bubble.  Hedge fund managers who were previously nobodies, became household names.  Everyone wants to replicate that success.  Everywhere you look there are managers with calls about the next "big short."  
 
 On Wall Street everyone hedges for the last crisis.  I don't know much, but I do know that the next crisis will look nothing like the previous one.
 
