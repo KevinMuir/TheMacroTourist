@@ -42,7 +42,7 @@ I understand Bass didn't lose any money from this trade, and if anything, this i
 
 My point is that we all get it wrong, including Bass, Yusko, Icahn and **[insert whatever guru you want in here]**.
 
-So when you take solace in the fact the stock market is running higher without you, I would be weary of consoling yourself that you are in smart company.
+So when you take solace in the fact the stock market is running higher without you, I would be wary of consoling yourself that you are in smart company.
 
 Now please don't mistake my unwillingness to join the chorus of those warning about the dangers ahead as my belief that everything is rosy.  I understand the arguments about the huge imbalances in the financial system.  I don't need a lecture about the unsustainability of the current environment.  I get it, we are screwed.  We have made too many promises, have not saved enough and have created a can't win financial situation.
 
