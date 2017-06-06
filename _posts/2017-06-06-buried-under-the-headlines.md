@@ -62,9 +62,9 @@ I believe the Chinese purposely tightened last year so that they could ease into
 
 But now they have tightened enough.  They have slowed their economy.  Withdrawn liquidity out the global financial system.  They have accomplished what they set out to do.
 
-From here on out, the emphasis will center back on creating the growth that is necessary for the government's survival.  Today's development of the Chinese potentially buying more US Treasuries, only reaffirms my belief that there will be a reflating of the global economy.
+From here on out, the emphasis will center back on creating the growth that is necessary for the government's survival.  Today's development of the Chinese potentially buying more US Treasuries, only reaffirms my belief that there will be a Chinese reflating of the global economy.
 
-I am not sure if you should get long US Treasuries because the Chinese have indicated that they might buy some more.  But I do know that you shouldn't short world growth because China is about to implode.  I suspect we have seen the last of their tightening policies, and that Raoul and all the other Yuan bears, might just be right yet.  As usual, the real trade is buried under the headline news.
+I am not sure if you should get long US Treasuries because the Chinese have indicated that they might buy some more.  But I do know that you shouldn't short world growth because China is about to implode.  I suspect we have seen the last of their tightening policies, and that Raoul and all the other Yuan bears, might just be right yet.  As usual, the real trade is buried under the headlines.
 
 Thanks for reading,  
 Kevin Muir  
