@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Subscribe
+title: Receive by email
 tags: []
 ---
-# The MacroTourist Subscribe Page
+# The MacroTourist Signup Page
 
-The MacroTourist Newsletter is published every day (well, almost every day).  By subscribing, you will receive a copy of each day's post in your email inbox.  Your email address will never be used to sent SPAM or any solicitation of any kind.  Unsubscribe at any time.
+The MacroTourist Newsletter is published every day (well, almost every day).  By signing up, you will receive a copy of each day's post in your email inbox.  Your email address will never be used to sent SPAM or any solicitation of any kind.  Unsubscribe at any time.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -17,7 +17,7 @@ The MacroTourist Newsletter is published every day (well, almost every day).  By
 <div id="mc_embed_signup">
 <form action="//themacrotourist.us5.list-manage.com/subscribe/post?u=812b2eabc6978197626b2acc4&amp;id=91b046bbf6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to the MacroTourist Newsletter</h2>
+	<h2>Signup to receive the MacroTourist Newsletter</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
