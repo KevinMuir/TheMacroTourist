@@ -12,7 +12,7 @@ tags:
   - Kyle Bass
   - Mark Yusko
   - nickel
-   
+featured: true
 ---
 <a href="http://themacrotourist.com/images/2017/06/WithoutJun0517.png"><img src="http://themacrotourist.com/images/2017/06/WithoutJun0517.png" alt="http://themacrotourist.com/images/2017/06/WithoutJun0517.png" width="750" height="900" style="margin:30px auto;display:block;"></a>
 

@@ -11,7 +11,7 @@ tags:
   - VXX
   - XIV
   - volatility
-   
+featured: true
 ---
 <a href="http://themacrotourist.com/images/2017/05/CatMay1117.png"><img src="http://themacrotourist.com/images/2017/05/CatMay1117.png" alt="http://themacrotourist.com/images/2017/05/CatMay1117.png" width="750" height="800" style="margin:30px auto;display:block;"></a>
 

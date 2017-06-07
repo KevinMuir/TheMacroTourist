@@ -10,7 +10,7 @@ tags:
   - bitcoin
   - virtual currencies
   - ethereum
-   
+featured: true
 ---
 <a href="http://themacrotourist.com/images/2017/05/InvestorsMay2817.png"><img src="http://themacrotourist.com/images/2017/05/InvestorsMay2817.png" alt="http://themacrotourist.com/images/2017/05/InvestorsMay2817.png" width="750" height="420" style="margin:30px auto;display:block;"></a>
 
