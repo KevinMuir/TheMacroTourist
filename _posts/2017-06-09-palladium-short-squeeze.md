@@ -74,7 +74,7 @@ This slide is from North American Palladium's website presentation from 2015 (it
 
 When I was discussing palladium with Ari this morning, he wryly commented, "now that we have noticed the big curve inversion, the move is probably over."  That's part of the reason I enjoy talking with him.  Ari is probably even more cynical than me.  
 
-But I reminded him that this palladium move was a high standard deviation event.  And I reminded him of one of my favourite lines.  You know the problem with fading a 4 standard deviation move?  It's almost always right, but not before it becomes a 6 or 7 standard deviation move...  
+But I told him that this palladium move was a high standard deviation event.  And I reminded him of one of my favourite lines.  You know the problem with fading a 4 standard deviation move?  It's almost always right, but not before it becomes a 6 or 7 standard deviation move...  
 
 Thanks for reading and have a great week-end,  
 Kevin Muir  
