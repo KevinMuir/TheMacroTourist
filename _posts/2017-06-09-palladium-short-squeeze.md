@@ -52,7 +52,7 @@ I realize palladium is more of an industrial metal than a pure precious metal, b
 
 <a href="http://themacrotourist.com/images/2017/06/PalladiumLTJun0917.png"><img src="http://themacrotourist.com/images/2017/06/PalladiumLTJun0917.png" alt="http://themacrotourist.com/images/2017/06/PalladiumLTJun0917.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-One of my trading buddies, the always insightful **[Ari Pine](<https://twitter.com/std_dev>)** trades a ton of precious metals, and has been encouraging me to watch the platinum/palladium spread for some time now.   
+One of my trading buddies, the always insightful **[Ari Pine](<https://twitter.com/std_dev>)** trades a ton of precious metals, and has been encouraging me to watch the palladium/platinum spread for some time now.   
 
 <a href="http://themacrotourist.com/images/2017/06/SpreadJun0917.png"><img src="http://themacrotourist.com/images/2017/06/SpreadJun0917.png" alt="http://themacrotourist.com/images/2017/06/SpreadJun0917.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
