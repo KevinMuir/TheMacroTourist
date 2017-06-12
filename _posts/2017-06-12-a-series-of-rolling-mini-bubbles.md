@@ -51,7 +51,7 @@ Except, what do you think happened to the Russell?
 
 Huh?  It's up?  What's that about?
 
-As ugly as the Nasdaq looked on Friday, it wasn't a systemic collapse in equities, but the shaking out of yet another hedge fund induced mini-bubble.
+As ugly as the Nasdaq looked on Friday, it didn't reflect a systemic collapse in equities, but the shaking out of yet another hedge fund induced mini-bubble.
 
 I have seen this scenario play over time and time again.  The trades the hedge funds are most enthusiastic about, are the very ones you should avoid the most.  
 
