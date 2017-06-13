@@ -39,7 +39,7 @@ Here is the same chart with the Russell 2000 replaced with the ratio of the Russ
 
 <a href="http://themacrotourist.com/images/2017/06/RTYNDXJun1217.png"><img src="http://themacrotourist.com/images/2017/06/RTYNDXJun1217.png" alt="http://themacrotourist.com/images/2017/06/RTYNDXJun1217.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Why does this matter?  Well, Friday we had the sell off the bears has been pining for.  And the Nasdaq 100 chart pattern experienced a serious hiccup.
+Why does this matter?  Well, Friday we had the sell off the bears have been pining for.  And the Nasdaq 100 chart pattern experienced a serious hiccup.
 
 <a href="http://themacrotourist.com/images/2017/06/NDXJun1217.png"><img src="http://themacrotourist.com/images/2017/06/NDXJun1217.png" alt="http://themacrotourist.com/images/2017/06/NDXJun1217.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
