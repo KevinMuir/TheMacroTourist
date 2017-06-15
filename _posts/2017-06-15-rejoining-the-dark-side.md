@@ -33,7 +33,7 @@ And maybe it didn’t.  Maybe it is as simple as the ECB and Bank of Japan’s b
 
 <a href="http://themacrotourist.com/images/2017/06/Big3Jun1517.png"><img src="http://themacrotourist.com/images/2017/06/Big3Jun1517.png" alt="http://themacrotourist.com/images/2017/06/Big3Jun1517.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Look at the chart of the combined balance sheet for the Fed, BoJ and ECB closely.  The acceleration is mind boggling.  You don't throw that sort of liquidity into the global financial system and not expect it to have an effect.  It's actually surprising that stocks didn't run even further.
+Look at the chart of the combined balance sheet for the Fed, BoJ and ECB closely.  The acceleration is mind boggling.  You don't throw that sort of liquidity into the global financial system and not expect it to have an effect.  It's actually surprising that stocks didn't run even farther.
 
 Yet stock markets are forward discounting mechanisms.  Although the ECB has not yet signaled a taper, the writing is on the wall.  Like a child playing musical chairs, markets are eyeing the exit with a worrisome determination.  Everyone knows the next move for the ECB is to reduce stimulus, it's only a question of timing.  As for the Bank of Japan, even crazy Kuroda is putting out feelers for the slowing down of stimulus.  The rate of balance sheet expansion for the ECB and BoJ has peaked for the time being.  
 
