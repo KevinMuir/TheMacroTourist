@@ -43,7 +43,7 @@ When I wrote my piece yesterday about Yellen being more of a hawk than the commo
 
 >Overall agree with the view in your piece, but I think it's been quite clear in communications since the GFC that the Fed has actually three targets, inflation, employment and financial conditions. I think people like Dudley have been the most vocal proponents of this third goal. My view of the Fed since Janet took over is the capacity to look through inflation dynamics as long as employment is still growing since they still view stuff through the Phillips curve but to overweight changes in financial conditions in the short term.
 
-If you don't follow **[Sam, then you should get right on it.](<https://twitter.com/Lightfieldcap>)**.  Although I intuitively realized the Fed was more apt to ease when markets were in turmoil, I didn't put it together that the opposite was also true.  The Fed was more likely to tighten when financial conditions were easy.
+If you don't follow **[Sam, then you should get right on it](<https://twitter.com/Lightfieldcap>)**.  Although I intuitively realized the Fed was more apt to ease when markets were in turmoil, I didn't put it together that the opposite was also true.  The Fed was more likely to tighten when financial conditions were easy.
 
 Have a look at the chart of financial conditions over the past few years:
 
