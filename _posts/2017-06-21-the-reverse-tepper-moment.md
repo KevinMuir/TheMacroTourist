@@ -13,9 +13,11 @@ tags:
   - bonds
    
 ---
-**UPDATE:**  After I wrote this piece, **[Peter Boockvar](<https://twitter.com/pboockvar?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor>)** from the Lindsey Group tweeted me to tell me that I was a little late to the party with this idea.  It turns out, Peter had already spoken about this very topic last month at a Mauldin Conference.  I wasn't there, nor had anyone mentioned the thought to me, but nonetheless, Peter deserves credit for coming up with the idea first.  Peter has graciously allowed me to include his PowerPoint Presentation.  **[Click here and save "target as" to access it](https://dl.dropboxusercontent.com/u/256606/theMacroTourist/Boockvar.pptx)**.
-
 <a href="http://themacrotourist.com/images/2017/06/YellenJun2117.png"><img src="http://themacrotourist.com/images/2017/06/YellenJun2117.png" alt="http://themacrotourist.com/images/2017/06/YellenJun2117.png" width="750" height="900" style="margin:30px auto;display:block;"></a>
+
+**UPDATE:**  After I wrote this piece, **[Peter Boockvar](<https://twitter.com/pboockvar?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor>)** from the Lindsey Group tweeted me to tell me that I was a little late to the party with this idea.  It turns out, Peter had already spoken about this very topic last month at a Mauldin Conference.  I wasn't there, nor had anyone mentioned the thought to me, but Peter deserves credit for coming up with the idea first.  Peter has graciously allowed me to include his PowerPoint Presentation.  **[Click here and save "target as" to access it](https://dl.dropboxusercontent.com/u/256606/theMacroTourist/Boockvar.pptx)**. 
+
+---
 
 Think back to September of 2010.  At the time, most pundits were bearish US equities.  There was a ton of doubt about the efficacy of quantitative easing.  Many investors were chasing gold, believing the Fed was pushing on a string and another 2008 style collapse was imminent.  
 
