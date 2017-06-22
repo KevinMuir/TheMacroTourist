@@ -13,6 +13,9 @@ tags:
   - bonds
    
 ---
+**UPDATE:**  After I wrote this piece, **[Peter Boockvar](<https://twitter.com/pboockvar?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor>)** from the Lindsey Group tweeted me to tell me that I was a little late to the party with this idea.  It turns out, Peter had already spoken about this very topic last month at a Mauldin Conference.  I wasn't there, nor had anyone mentioned the thought to me, but nonetheless, Peter deserves credit for coming up with the idea first.  I told him I wish I had been there, as I wouldn't have wasted time with my version.  Peter has graciously allowed me to include his PowerPoint Presentation.  [Here it is](http://themacrotourist.com/images/2017/06/Peter.pptx)
+
+
 <a href="http://themacrotourist.com/images/2017/06/YellenJun2117.png"><img src="http://themacrotourist.com/images/2017/06/YellenJun2117.png" alt="http://themacrotourist.com/images/2017/06/YellenJun2117.png" width="750" height="900" style="margin:30px auto;display:block;"></a>
 
 Think back to September of 2010.  At the time, most pundits were bearish US equities.  There was a ton of doubt about the efficacy of quantitative easing.  Many investors were chasing gold, believing the Fed was pushing on a string and another 2008 style collapse was imminent.  
