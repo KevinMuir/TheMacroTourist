@@ -26,7 +26,7 @@ We started talking about the extra cold war stockpiles that were continually ove
 
 Bingo!  This was the catalyst I was looking for.  I made a note to write up the idea and start buying some uranium stocks.  
 
-But then, life took over and I got busy.  Thinking there was no rush, after all, everyone was focused on Trump's economic plans, not his nuclear plans, I let it slip. 
+But then, life took over and I got busy.  Thinking there was no rush, after all, everyone was focused on Trump's economic policies, not his nuclear plans, I let it slip. 
 
 It has now become common place, but this was my first taste of being run over by a Trump tweet.  Out of the blue, the US President made an abrupt U-turn in American nuclear weapon policy.
 
