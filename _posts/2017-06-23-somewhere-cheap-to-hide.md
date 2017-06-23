@@ -70,7 +70,7 @@ But how to accomplish that?
 
 You can't just run out and buy uranium and store it in a vault.  There are few entities that are allowed to own and transact in this controlled resource.
 
-Lucky for us, there is a closed-end fund that owns a big slug of the two different types of uranium.  The Canadian company, the Uranium Participation Corp, is a unique fund that offers the ability to buy spot uranium.
+Lucky for us, there is a closed-end fund that owns a big slug of the two different types of uranium.  The Canadian company, the Uranium Participation Corp, is a unique fund that offers the ability to buy spot uranium (symbol in Canada - U.  Symbol in the US - URPTF).
 
 <a href="http://themacrotourist.com/images/2017/06/UJun2317.png"><img src="http://themacrotourist.com/images/2017/06/UJun2317.png" alt="http://themacrotourist.com/images/2017/06/UJun2317.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
