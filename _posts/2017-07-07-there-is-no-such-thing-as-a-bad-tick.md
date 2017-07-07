@@ -15,7 +15,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/2017/07/ConeJul0717.png"><img src="http://themacrotourist.com/images/2017/07/ConeJul0717.png" alt="http://themacrotourist.com/images/2017/07/ConeJul0717.png" width="750" height="850" style="margin:30px auto;display:block;"></a>
 
-It's one of those periods when everything is conspiring against previous metals.  For those of the bullish persuasion, this can be a difficult time.  I have resorted to wearing my own self-imposed "cone of precious metal trading" in an attempt to stop me from buying too much, too early.  
+It's one of those periods when everything is conspiring against precious metals.  For those of the bullish persuasion, this can be a difficult time.  I have resorted to wearing my own self-imposed "cone of precious metal trading" in an attempt to stop me from buying too much, too early.  
 
 Let's review why this environment is so problematic for precious metals.  The main reason is that the global backup in interest rates is about the worst thing you could ask for.  Think about it for a second.  Central Banks are signaling they want tighter monetary policy because they are worried about *future inflation* running too hot.  They are in essence behaving marginally more prudently.  For all those hard money advocates that have been railing against irresponsible Central Banks, they now have less to complain about.  Gold has often been called the anti-Central Bank asset, and although many would argue Central Bank policies are still a long way from appropriate, trading is all about the direction of change, and there can be no denying that Central Banks are becoming more hawkish, not the other way round.
 
