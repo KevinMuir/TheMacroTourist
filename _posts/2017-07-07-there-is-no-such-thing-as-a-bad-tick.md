@@ -65,7 +65,7 @@ But I somehow doubt it.  Someone still needed to sell 6 thousand contracts.  And
 
 However, putting away my cockamamie theories, I want to point out one important indisputable fact.  The BoJ has committed to pegging their 10 year rate to 0%.  If the global bond bear market gathers speed to the downside (higher yields), then the Japanese will increasingly find themselves having to defend this peg.  As they defend it, this will increase the money supply, which will ultimately be inflationary.  That might force more JGB holders to sell, creating a self reinforcing vicious circle.  The Japanese have relinquished control of their money supply.  If credit is demanded, they are forced to provide it in unlimited quantities.  
 
-Over the short run, this might cause precious metals to go even lower, and stocks might gain as the BoJ's printed money finds its way into risky assets.  Yet eventually this will prove a dangerous game to play and I suspect it will prove an unstable equilibrium.
+Over the short run, this might cause precious metals to go even lower, and stocks might gain as the BoJ's printed money finds its way into risky assets.  Yet eventually this will become a dangerous game to play and I suspect it will prove an unstable equilibrium.
 
 Last night, talking it over with my trader pal **[Ari Pine](<http://www.futuresradioshow.com/guest-tax/ari-pine/>)**, he told me that he thinks a likely candidate for the next flash crash might be the Japanese Yen.  I can't say I disagree.  All the ingredients are in place.  
 
