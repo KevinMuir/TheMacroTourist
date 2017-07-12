@@ -32,7 +32,7 @@ The most obvious one is crude oil.  As much as we would wish otherwise, our Cana
 
 Crude oil has pushed down to new lows, while at the same time, the Canadian dollar has been doing the opposite and rallying hard.  
 
-But wait!  The Loonie strength should be expected as Canadian rates are headed higher.  Surely the Canadian dollar can't just follow crude around tick for tick.
+But wait!  Maybe the Loonie strength should be expected as Canadian rates are headed higher.  Surely the Canadian dollar can't just follow crude around tick for tick.
 
 And yes, the other important determinant for Canadian dollar pricing is the relative interest rate differential between US and Canadian rates.
 
