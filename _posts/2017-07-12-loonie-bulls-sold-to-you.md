@@ -38,7 +38,7 @@ And yes, the other important determinant for Canadian dollar pricing is the rela
 
 <a href="http://themacrotourist.com/images/2017/07/TwoJul1217.png"><img src="http://themacrotourist.com/images/2017/07/TwoJul1217.png" alt="http://themacrotourist.com/images/2017/07/TwoJul1217.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-The spread between Canadian and US 2 year yields has been rocketing higher, which explains the Loonie's action over the past few months.  However the spread between the interest rate differential and CAD seems to have closed.
+The spread between Canadian and US 2 year yields has been rocketing higher, which explains the Loonie's action over the past few months.  However the divergence between the interest rate differential and CAD seems to have closed.
 
 Now that the Bank of Canada Governor Poloz has gotten the first hike under his belt, do you really think he will be more aggressive than the Federal Reserve?  Or do you think he might take a "easy-as-she-goes" tact?  
 
