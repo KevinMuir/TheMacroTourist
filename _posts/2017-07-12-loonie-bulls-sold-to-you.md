@@ -44,7 +44,7 @@ Now that the Bank of Canada Governor Poloz has gotten the first hike under his b
 
 After all, don't forget that the Canadian economy is dealing with a precariously perched highly real estate dependent economy.  
 
-What makes this even more amusing is that Poloz is raising rates even in the face of weakening inflation.  He is another Central Banker who views the decrease in inflation as "merely temporary."  
+What makes this even more amusing is that Poloz is raising rates in the face of weakening inflation.  He is another Central Banker who views the decrease in inflation as "merely temporary."  
 
 <a href="http://themacrotourist.com/images/2017/07/CPIJul1217.png"><img src="http://themacrotourist.com/images/2017/07/CPIJul1217.png" alt="http://themacrotourist.com/images/2017/07/CPIJul1217.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
