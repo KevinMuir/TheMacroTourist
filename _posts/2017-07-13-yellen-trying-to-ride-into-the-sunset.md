@@ -24,7 +24,7 @@ Yellen's term ends in late January 2018, and although no one has confirmed it, l
 
 So Janet has six more months of steering this global supertanker of an economy.  Does she rock the boat and attempt to quell her critics that claim she has been too easy for too long?  Or does she simply try not to make waves and see if she can keep the balls in the air until her handoff?  Or does she cruise into the sunset at 197 miles per hour, letting the economy and markets run hot, not caring about the problems she might leave for her successor?
 
-I had really believed the world's Central Bankers had agreed to a hawkish shift in the wake of the recent easy financial conditions.  There were many signals from various Central Bank officials throughout the globe.  But yesterday at the Humphrey Hawkins' testimony, Yellen seemed to completely abandon any notion that Federal Reserve officials were targeting financial conditions.  Instead she delivered a boilerplate Central Bank head speech.  
+I had really believed the world's Central Bankers had agreed to a hawkish shift in the wake of the recent overly easy financial conditions.  There were many signals from various Central Bank officials throughout the globe.  But yesterday at the Humphrey Hawkins' testimony, Yellen seemed to completely abandon any notion that Federal Reserve officials were targeting financial conditions.  Instead she delivered a boilerplate Central Bank head speech.  
 
 Markets took this as a signal that all their concerns about the Federal Reserve taking away the punch bowl prematurely were overblown.  
 
