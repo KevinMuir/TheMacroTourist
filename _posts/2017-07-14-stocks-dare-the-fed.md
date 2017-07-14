@@ -24,7 +24,7 @@ Well, this morning about the most awkward economic news possible was released.  
 
 This puts the Fed in a terrible place.  It is obvious they have whiffed badly when it comes to meeting their inflation target.  This morning Fed President Evans said "low U.S. inflation is a serious policy outcome miss."  Yeah, you don't say?  Well, what did you expect?  Raising rates into an obvious economic slowdown will have that effect on inflation.
 
-But you have to think Dudley and Fischer were aware of this possiblity when they made their comments about financial conditions comments.  So now the real question is how much they are prepared to follow up their words with deeds.
+But you have to think Dudley and Fischer were aware of this possiblity when they made their comments about financial conditions.  So now the real question is how much they are prepared to follow up their words with deeds.
 
 Make no mistake, the market will test them.  Given that the market is now convinced the Fed is on the sidelines, the last remaining potential bearish catalyst has suddenly evaporated.  With the weight of a heavily handed Fed lifted, stocks, and financial conditions in general, will explode higher.  
 
