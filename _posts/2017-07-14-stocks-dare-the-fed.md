@@ -50,7 +50,7 @@ Finally, although most stock market bulls believe a rising market goes hand in h
 
 <a href="http://themacrotourist.com/images/2017/07/VIXJul1417.png"><img src="http://themacrotourist.com/images/2017/07/VIXJul1417.png" alt="http://themacrotourist.com/images/2017/07/VIXJul1417.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-The market is at an inflection point, and it should be interesting to see how both the Fed, and market participants, deal with this new dilemma.  Hold on to your hats, "here he comes, squeeze play, it's gonna be close...  Holy cow I think he's gonna make it!"
+The market is at an inflection point, and it should be interesting to see how both the Fed, and market participants, deal with this new dilemma.  Hold on to your hats, "bunted down the third base line, the suicide squeeze is on..."
 
 Have a great weekend,  
 Kevin Muir  
