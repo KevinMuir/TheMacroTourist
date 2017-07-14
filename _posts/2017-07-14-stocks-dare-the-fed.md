@@ -20,7 +20,7 @@ tags:
 
 It was only a month ago Fed President Dudley was lecturing us about the dangers of overly easy financial conditions and how inflation's sanguine performance was "transitory."  And it wasn't like he was alone.  The Fed's generally accepted second in command, Stanley Fischer, echoed similar comments.  
 
-Well, this morning about the most awkward economic news was released.  CPI undershot, coming in at 1.6% instead of the expected 1.7%.  Retail sales were abysmal, registering -0.2% instead of the forecasted 0.1% gain.  And the University of Michigan sentiment numbers reflected a public who is becoming increasingly skeptical of the Fed's rosy outlook.  The actual index was 93.1 instead of the surveyed 95.0, but more importantly, expectations plumetted to 80.2 instead of 84.4.
+Well, this morning about the most awkward economic news possible was released.  CPI undershot, coming in at 1.6% instead of the expected 1.7%.  Retail sales were abysmal, registering -0.2% instead of the forecasted 0.1% gain.  And the University of Michigan sentiment numbers reflected a public who is becoming increasingly skeptical of the Fed's rosy outlook.  The actual index was 93.1 instead of the surveyed 95.0, but more importantly, expectations plumetted to 80.2 instead of 84.4.
 
 This puts the Fed in a terrible place.  It is obvious they have whiffed badly when it comes to meeting their inflation target.  This morning Fed President Evans said "low U.S. inflation is a serious policy outcome miss."  Yeah, you don't say?  Well, what did you expect?  Raising rates into an obvious economic slowdown will have that effect on inflation.
 
