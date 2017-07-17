@@ -52,7 +52,7 @@ Barrons' even went so far to make bitcoin their cover story (and you know **[how
 
 <a href="http://themacrotourist.com/images/2017/07/BarronsJul1717.jpg"><img src="http://themacrotourist.com/images/2017/07/BarronsJul1717.jpg" alt="http://themacrotourist.com/images/2017/07/BarronsJul1717.jpg" width="750" height="600" style="margin:30px auto;display:block;"></a>
 
-And nothing made me laugh more than the bitcoin enthusiast who sneaked into Fed Chair Janet Yellen's Humphrey Hawkins' testimony to hold up a "buy Bitcoin" sign.
+And nothing made me laugh more than the bitcoin zealot who sneaked into Fed Chair Janet Yellen's Humphrey Hawkins' testimony to hold up a "buy Bitcoin" sign.
 
 <a href="http://themacrotourist.com/images/2017/07/YellenJul1717.png"><img src="http://themacrotourist.com/images/2017/07/YellenJul1717.png" alt="http://themacrotourist.com/images/2017/07/YellenJul1717.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
