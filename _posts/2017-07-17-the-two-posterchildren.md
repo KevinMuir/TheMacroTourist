@@ -62,7 +62,7 @@ Although there were other stories that dragged the stock market higher during th
 
 For the longest time, it seemed like regardless of what the stock market or other financial markets did, each day TSLA and XBT were sure to rally.
 
-And this next statement is where I am going to get myself into some trouble.  I don't think this speculation was healthy.  I don't view either of these themes as particularly well thought out.  Yeah, I know Musk is going to change the world, and we will all be paying for our TSLA Model 3s in bitcoin.  Don't bother trying to convert me.  I think both of these assets are legitimate technologies, but both are priced for an unrealistic reality.  
+And this next statement is where I am going to get myself into some trouble.  I don't think this speculation was healthy.  I don't view either of these themes as particularly well thought out.  Yeah, I know Musk is going to change the world, and we will all be paying for our TSLA Model 3's in bitcoin.  Don't bother trying to convert me.  I think both of these assets are legitimate technologies, but both are priced for an unrealistic reality.  
 
 Regardless of your views about TESLA's priced in bitcoin, there can be no denying that the tone of the trading has changed for both of these recent market darlings.
 
