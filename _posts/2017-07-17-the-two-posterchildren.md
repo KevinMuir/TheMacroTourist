@@ -74,7 +74,7 @@ If they can't rally along with the rest of the market, what is that saying about
 
 I listened to this terrific **[Felder Report Podcast the other day with Bill Fleckenstein](<https://www.thefelderreport.com/2017/06/13/podcast-bill-fleckenstein-on-central-bankers-financial-bubbles-and-white-burgundy/>)** and he had this great line about short selling.  Fleck said he likes to shoot his short sell candidates in the back.  He would rather wait for the turn, and then lean on the sell button, instead of fighting them on the way up.
 
-I wonder if the kid with the Bitcoin sign was the top.  And maybe Tesla's model 3 production announcement will prove to be a buy-the-rumour-sell-the-news event.  Could this be the perfect time to shoot both TSLA and XBT in back?
+I wonder if the kid with the Bitcoin sign was the top.  And maybe Tesla's model 3 production announcement will prove to be a buy-the-rumour-sell-the-news event.  Could this be the perfect time to shoot both TSLA and XBT in the back?
 
 If you want to learn more about opportunities on the dark side of TSLA, then I highly suggest you follow **[Mark Spiegel on Twitter](<https://twitter.com/markbspiegel>)**.  Not only will he help you understand the absurdity of TSLA's valuation, it is some of the funniest stuff on financial twitter.
 
