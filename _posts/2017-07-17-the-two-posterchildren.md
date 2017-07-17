@@ -58,7 +58,7 @@ And nothing made me laugh more than the bitcoin zealot who sneaked into Fed Chai
 
 I have to give the kid credit - it was a great stunt.  But it sums up the degree at which this theme has captured the enthusiasts' imagination.
 
-Although there were other stories that were also dragging the stock market higher during the past few months (NVDA and AMZN are good candidates), I consider TSLA and XBT (bitcoin) the two most prominent leaders.  In my mind, these were the two names where speculation was running the most amok.  
+Although there were other stories that dragged the stock market higher during the past few months (NVDA and AMZN are good candidates), I consider TSLA and XBT (bitcoin) the two most prominent leaders.  In my mind, these were the two names where speculation was running the most amok.  
 
 For the longest time, it seemed like regardless of what the stock market or other financial markets did, each day TSLA and XBT were sure to rally.
 
