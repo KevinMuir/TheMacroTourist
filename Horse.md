@@ -74,7 +74,7 @@ A year ago we had an email exchange, and his comments hit home so much, I saved 
 
 >This is just a derivative of the Brady Bond solution for LDC debt from 30 years ago.
 
-Yup, spot on.  We are completely on the same page, he just expressed it so much more eloquently than me.
+Yup, spot on.  We are completely on the same page, he just expressed it so much more eloquently.
 
 My pal is much more courageous than me, grabbing onto crypto currencies as a means to hedge this inflationary reset.  And who knows?  It could be that I will be clinging to my barbarous yellow rock while he enjoys the coming fiat currency reset that sends Bitcoin to the much talked about $500k target.
 
