@@ -85,6 +85,6 @@ As soon as I wrote yesterday's post, I worried that I sold the hole.  When my pa
 
 Will his views prove correct?  I don't know.  I just thought they would be nice to share.  His thinking requires the ability to imagine the world as a much different place.  Is he mad, or genius?  You decide.  But I will remind you of one thing - "poor people are crazy, the rich are just eccentric."
 
-Thanks for reading,
-Kevin Muir
-the MacroTourist
+Thanks for reading,  
+Kevin Muir  
+the MacroTourist  
