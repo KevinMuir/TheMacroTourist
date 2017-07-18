@@ -1,4 +1,13 @@
 ---
+layout: page
+permalink: /horse/index.html
+title: The MacroTourist
+tags: [The MacroTourist]
+imagefeature:
+chart: true
+---
+
+---
 id: 26011
 title: 'SPOT THE HORSE'
 date: 2017-07-18T11:01:00-05:00
