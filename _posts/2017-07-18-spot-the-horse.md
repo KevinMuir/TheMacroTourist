@@ -40,7 +40,7 @@ Back to my pal, the Bitcoin bull.  He finished up his crypto call with the follo
 
 >"BTC going to 500k or higher....short BTC for a trade but don't fight the GBTC premium.  Most of the big guys have to buy it by ETF, or closed end fund, because they are not allowed to own the crypto itself."
 
-I know what you are thinking.  And no, my pal is not notorious tech entrepreneur John McAfee (who is also so confident that Bitcoin is heading to $500,000 that is willing to do the following if he is wrong):
+I know what you are thinking.  And no, my pal is not notorious tech entrepreneur John McAfee (who is also so confident that Bitcoin is heading to $500,000 that he is willing to do the following if he is wrong):
 
 <a href="http://themacrotourist.com/images/2017/07/JohnJul1817.png"><img src="http://themacrotourist.com/images/2017/07/JohnJul1817.png" alt="http://themacrotourist.com/images/2017/07/JohnJul1817.png" width="600" height="460" style="margin:30px auto;display:block;"></a>
 
