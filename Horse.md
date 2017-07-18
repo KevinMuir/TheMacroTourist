@@ -35,7 +35,7 @@ My buddy is a big crypto currency bull.  I am talking **[Ghostbusters-Stay-Puft-
 
 >"I agree with your short term views on the valuation of both (TSLA and GBTC), but I will let you in on a little secret.  ***There are not a lot of BTC bitcoin funds in the queue***, and since we are one of them then I think I speak with a little more insight."
 
-If my pal is correct, then that is indeed good information.  I had assumed there is a huge lineup of Winkelvii type bitcoin ETF's waiting in the wings, but if I am wrong, then maybe the GBTC premium will persist for longer than I imagined.
+If my pal is correct, then that is indeed good information.  I had assumed there was a huge lineup of Winkelvii type bitcoin ETF's waiting in the wings, but if I am wrong, then maybe the GBTC premium will persist for longer than I imagined.
 
 And some of my astute readers correctly noted that the borrow fee on the GBTC is quite excessive, so the perceived premium to NAV is not as "capturable" as I made out.  Full Circle tweeted that the 80% premium was roughly the annual cost of borrow.
 
