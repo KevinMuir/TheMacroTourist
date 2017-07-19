@@ -12,11 +12,11 @@ tags:
   - XBT
   - Bitcoin
   - GBTC
-   
+
 ---
 <a href="http://themacrotourist.com/images/2017/07/LionelJul1717.png"><img src="http://themacrotourist.com/images/2017/07/LionelJul1717.png" alt="http://themacrotourist.com/images/2017/07/LionelJul1717.png" width="750" height="590" style="margin:30px auto;display:block;"></a>
 
-I am sure to madden a bunch of readers this morning, but here it goes nonetheless.  For most of the spring and early summer, there were two poster children of speculative froth.  
+I am sure to anger a bunch of readers this morning, but here it goes nonetheless.  For most of the spring and early summer, there were two poster children of speculative froth.  
 
 The first was Tesla. Egged higher by Elon Musk's tweets poking fun at the skeptical short sellers, this stock was seemingly unstoppable.  Rising from $240 in March, TSLA ticked at $387 in late June, squeezing the shorts by 61% in the space of one quarter.
 
@@ -93,10 +93,3 @@ Although some market pundits are looking at the TSLA and XBT weakness and extrap
 Thanks for reading,  
 Kevin Muir  
 the MacroTourist  
-
-
-
-
-
-
-
