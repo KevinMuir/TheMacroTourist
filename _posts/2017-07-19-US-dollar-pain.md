@@ -65,7 +65,7 @@ As you can see, the US dollar was way over its skis last year.  And 13D's foreca
 
 Tomorrow we have both the ECB and BoJ meeting.  Could some renewed dovishness cause the US dollar to pick itself off the mat and rally a little?  For sure.  The US dollar is oversold and due for a bounce.
 
-But a little part of me wonders if everyone is looking for a US dollar rally to sell into.  I don't yet know what I am going to do.  I too am looking a better entry, but that makes me just another mope.  Sometimes the best trades are the ones no one believes in, and which do not offer a clean, easy entry.  Luke Gromen is right when he says there isn't a soul alive who thinks the DXY could fall below 80.  Don't forget that markets often go to points least expected, and where they hurt the most participants.  With the worldwide US financial asset massive overweight, I almost wonder if the real US dollar pain trade is lower.
+But a little part of me wonders if everyone is looking for a US dollar rally to sell into.  I don't yet know what I am going to do.  I too, am looking a better entry, but that makes me just another mope.  Sometimes the best trades are the ones no one believes in, and which do not offer a clean, easy entry.  Luke Gromen is right when he says there isn't a soul alive who thinks the DXY could fall below 80.  Don't forget that markets often go to points least expected, and where they hurt the most participants.  With the worldwide US financial asset massive overweight, I almost wonder if the real US dollar pain trade is lower.
 
 Thanks for reading,  
 Kevin Muir  
