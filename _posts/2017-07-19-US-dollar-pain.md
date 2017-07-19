@@ -15,7 +15,6 @@ tags:
   - 13D
 
 ---
-BossJul1917.png
 <a href="http://themacrotourist.com/images/2017/07/BossJul1917.png"><img src="http://themacrotourist.com/images/2017/07/BossJul1917.png" alt="http://themacrotourist.com/images/2017/07/BossJul1917.png" width="750" height="550" style="margin:30px auto;display:block;"></a>
 
 Although I am sure they were some traders advocating shorting the US dollar into the Trump bump, they sure seemed few and far between (apart from this badass cat who nailed the trade and is now covering into the USD weakness).
