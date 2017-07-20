@@ -83,6 +83,6 @@ And don't be so sure it will look like a repeat of 2008.  If I had to guess, my 
 
 My mesage to all those new quant fund vol sellers, come on in!   The water's warm.  Glad to have your new supply keeping implieds low.  Don't worry, I am sure the returns of the next 8 years of commodity volatility selling will be just as good as the last 8 years of equity index volatility selling...  Yeah, when didn't chasing the previous decade's best return strategy not work?
 
-Thanks for reading,
-Kevin Muir
-the MacroTourist
+Thanks for reading,  
+Kevin Muir  
+the MacroTourist  
