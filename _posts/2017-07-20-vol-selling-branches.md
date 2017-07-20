@@ -21,7 +21,7 @@ But yesterday I had dinner with a buddy who passed along some interesting inform
 
 He still keeps in contact with his old shop, and he told me what the brokers are experiencing.  Across the board, clients are engaging in volatility selling strategies.  And although they are shorting some stock index volatility, they are not limiting themselves to equities.
 
-He described an endemic pattern of these sophisticated clients shorting gold vol, euro vol, bond vol, any listed options, these guys are shorting them.  Take gold for example.  They pick a three month option, and with gold trading here at 1245, they sell the 1145 put while simultaneously selling the 1345 call. Lever up the position, collect the premium, and let the quiet markets pad your bankroll.  And clients are doing this strategy in size.
+He described an endemic pattern of these sophisticated clients shorting gold vol, euro vol, bond vol - any listed options, these guys are shorting them.  Take gold for example.  They pick a three month option, and with gold trading here at 1245, they sell the 1145 put while simultaneously selling the 1345 call. Lever up the position, collect the premium, and let the quiet markets pad your bankroll.  And clients are doing this strategy in size.
 
 I was surprised.  I didn't expect the volatility selling to extend to most other financial markets.  I had thought it was confined to equities, but I was obviously wrong.
 
