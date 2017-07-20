@@ -27,7 +27,7 @@ I was surprised.  I didn't expect the volatility selling to extend to most other
 
 And I guess it shouldn't really be a surprise.  The reality is that volatility has collapsed pretty well across the board.
 
-Have a look at the Merrill Lynch MOVE Index.  Think about this as bond VIX.
+Have a look at the Merrill Lynch MOVE Index.  Think about this as the bond VIX.
 
 <a href="http://themacrotourist.com/images/2017/07/MOVEJul2017.png"><img src="http://themacrotourist.com/images/2017/07/MOVEJul2017.png" alt="http://themacrotourist.com/images/2017/07/MOVEJul2017.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
