@@ -45,7 +45,7 @@ And yeah, I get it.  The reason that many of these implied volatilities are so l
 
 <a href="http://themacrotourist.com/images/2017/07/SPXJul2017.png"><img src="http://themacrotourist.com/images/2017/07/SPXJul2017.png" alt="http://themacrotourist.com/images/2017/07/SPXJul2017.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-So even though VIX with a 10 handle seems low, when 30 day realized vol is running at 7.5%, a dynamic hedging S&P 500 volatility seller can still make money.
+So even though VIX with a 10 handle seems bat-shit-stupid, when 30 day realized vol is running at 7.5%, a dynamic hedging S&P 500 volatility seller can still make money.
 
 And here is where it gets interesting.  I think equity index volatility selling has been especially profitable because of the Great Financial Crisis.  In 2008 we experienced a once in a lifetime volatility spike, and human beings find it extremely difficult to forget that sort of trauma.  So index vol has stayed bid way higher than rightfully should be the case.  Too many people remember the horrors of 2008, and they have consistently paid too much for the insurance to protect against that situation repeating.
 
