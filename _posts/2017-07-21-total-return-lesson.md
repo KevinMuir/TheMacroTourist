@@ -73,7 +73,7 @@ All of this was not new to me.  Years of pricing and trading stock index futures
 
 But I must admit, like a mope I just accepted the charts that Bloomberg spit out at me.  So when I brought up the US lond bond future using the **US1 Comdty** function, I knew that it represented the actual prices and just tried to mentally adjust for the carry.
 
-Then I saw a tweet from super nice guy, and a terrific twitter resource, **[George Pearkes](https://twitter.com/pearkes?lang=en)** of Bespoke Investments.  He shouted out about a new high in a roll adjusted future contract.  I DM'd him and asked if he knew how to adjust my Bloomberg.  George is a little bit of guru, so I shouldn't really have been surprised when he immediately responded back with instructions.  This seems simple, but I wasn't aware of it, and I am now like your annoying brother-in-law who has adopted a paleo diet, and is now overcompensating by spreading the word like gospel.
+Then I saw a tweet from super nice guy, and a terrific twitter resource, **[George Pearkes](https://twitter.com/pearkes?lang=en)** of Bespoke Investments.  He shouted out about a new high in a roll adjusted future contract.  I DM'd him and asked if he knew how to adjust my Bloomberg.  George is a little bit of guru, so I shouldn't really have been surprised when he immediately responded back with instructions.  This seems simple, but I wasn't aware of it, and I am like your annoying brother-in-law who has adopted a paleo diet, and is now overcompensating by spreading the word like gospel.
 
 Regardless, here it goes.
 
