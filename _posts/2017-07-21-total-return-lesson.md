@@ -101,6 +101,6 @@ And as for my favourite trade, shorting bunds and going long US treasuries, it i
 
 It's had a good move, down from 240 to 175, so maybe a rest is in order.
 
-Thanks for reading and have a great weekend,
-Kevin Muir
+Thanks for reading and have a great weekend,  
+Kevin Muir  
 the MacroTourist  
