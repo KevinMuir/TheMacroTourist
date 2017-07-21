@@ -47,7 +47,7 @@ Here is our US long bond future, with the lead contract price action as reported
 
 <a href="http://themacrotourist.com/images/2017/07/US1Jul2117.png"><img src="http://themacrotourist.com/images/2017/07/US1Jul2117.png" alt="http://themacrotourist.com/images/2017/07/US1Jul2117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-I want to repeat, these are the ***actual prices*** from the exchange.  But there are a half dozen days when the contract month is advanced to the next month, and the chart shows a loss on the day that does not really exist.  In reality, the trader who was long would be selling one month and rebuying the new contract month at a lower price.
+I want to repeat, these are the ***actual prices*** from the exchange.  But there are a half dozen days when the contract month is advanced to the next month, and the chart shows a loss on that day that does not really exist.  In reality, the trader who was long would be selling one month and rebuying the new contract month at a lower price.
 
 If you account for those days by adjusting the chart, it actually should look something like this.
 
