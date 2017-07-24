@@ -48,11 +48,11 @@ Especially when you consider that the EUR currency seems to have run ahead of on
 
 <a href="http://themacrotourist.com/images/2017/07/EURvsSpreadJul2117.png"><img src="http://themacrotourist.com/images/2017/07/EURvsSpreadJul2117.png" alt="http://themacrotourist.com/images/2017/07/EURvsSpreadJul2117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-The German 10 year bund/US t-note spread has recently been tracking the Euro currency quite closely.  But that relationship has bent a little during this recent period of EUR strength.
+The German 10 year bund/US T-note spread has recently been tracking the Euro currency quite closely.  But that relationship has bent a little during this recent period of EUR strength.
 
 As many of you are aware, one of my favourite trades is short German bund futures/long US t-note futures.  The yield spread has risen from the absurd 235 basis points to 172 bps, but I think it still has some room to run.
 
-I am combining these two trades, shorting EURUSD into this spike, but also adding to my short bund/long t-note position.
+I am combining these two trades, shorting EURUSD into this spike, but also adding to my short bund/long T-note position.
 
 If you have a look at the regression analysis over the past couple of years, the EUR overvaluation becomes obvious.
 
@@ -60,7 +60,7 @@ If you have a look at the regression analysis over the past couple of years, the
 
 There is nothing saying this relationship cannot change.  If we are about to enter into a secular monster EUR bull market, then this spread will most likely blow out.  But again, I am betting we aren't about to experience that sort of dramatic shift (at least not yet).
 
-I was looking for an excuse to add to my short bund/long t-note position, and shorting Euro against it looks like the perfect reason.  Now maybe I am getting too cute.  Maybe I will get my ass handed to me fading this sort of strength.  But I just can't help it.  I hate crowded trades, and when I see a chance like this, I need to write some pink tickets.
+I was looking for an excuse to add to my short bund/long T-note position, and shorting Euro against it looks like the perfect reason.  Now maybe I am getting too cute.  Maybe I will get my ass handed to me fading this sort of strength.  But I just can't help it.  I hate crowded trades, and when I see a chance like this, I need to write some pink tickets.
 
 When the EUR continues to rally in my face, feel free to remind me that the crowd sometimes gets it right.
 
