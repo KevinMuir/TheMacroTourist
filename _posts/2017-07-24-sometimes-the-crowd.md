@@ -52,7 +52,7 @@ The German 10 year bund/US t-note spread has recently been tracking the Euro cur
 
 As many of you are aware, one of my favourite trades is short German bund futures/long US t-note futures.  The yield spread has risen from the absurd 235 basis points to 172 bps, but I think it still has some room to run.
 
-I am shorting EURUSD into this spike, but I am also adding to my short bund/long t-note position.
+I am combining these two trades, shorting EURUSD into this spike, but also adding to my short bund/long t-note position.
 
 If you have a look at the regression analysis over the past couple of years, the EUR overvaluation becomes obvious.
 
