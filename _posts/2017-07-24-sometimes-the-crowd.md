@@ -28,7 +28,7 @@ And this hasn't gone unnoticed by traders.
 
 <a href="http://themacrotourist.com/images/2017/07/EURCFTCJul2117.png"><img src="http://themacrotourist.com/images/2017/07/EURCFTCJul2117.png" alt="http://themacrotourist.com/images/2017/07/EURCFTCJul2117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Back in April, speculative traders were leaning short the Euro.  But that's changed, and now the net spec position of Euro currency futures at the CME is sitting at the highest level since 2010.
+Back in April, speculative traders were leaning short the Euro.  But that's changed, and now the net spec position of Euro currency futures traders at the CME is sitting at the highest level since 2010.
 
 It's suddenly de rigueur to be all bulled up about the Euro.
 
