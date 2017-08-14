@@ -25,7 +25,7 @@ Instead I will share with you the first review:
 
 >I am never one to be disparaging, but I was left with no other choice here. I have to say that this was one of the worst books I've ever read. It went beyond gratuitous to a level that I didn't think possible. The writing itself was deplorable alone, but the plot, or lack thereof, was far worse. Ugh, it was just bad bad bad! This is so far from erotic romance. Hell, it had none at all. It also had nothing to do with shifters, and more about an intern being #$%@'d to advance her supposed career. Nothing is sexy about this book, so please do not waste your time on trash like this.
 
-Unfortunately, lately, it's more than terribly written Billionaire Bears that are disappointing.
+Unfortunately, lately, it's more than terribly written Billionaire Bears Club books that are disappointing.
 
 Whether it is Gross, Icahn, Gundlach, Jones or Marks, there is no shortage of billionaires warning about the impending stock market crash.
 
