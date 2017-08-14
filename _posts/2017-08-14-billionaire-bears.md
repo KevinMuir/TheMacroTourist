@@ -53,7 +53,7 @@ Yet what will be the outcome of a slowing economy?  Why, more Central Banking ea
 
 So ironically, as the economy rolls over (however slight), Central Banks quickly take their foot off the brake, and financial assets magically levitate.
 
-I am still on vacation time, so this post will be brief.  But I wanted to take a moment to remind everyone that before the Great Financial Crisis, the collective balance sheet for the big 3 Central Banks (Fed, ECB & BoJ) was approximately $4 trillion.  Today it is $14 trillion.
+I am still getting caught up from my vacation, so this post will be brief.  But I wanted to take a moment to remind everyone that before the Great Financial Crisis, the collective balance sheet for the big 3 Central Banks (Fed, ECB & BoJ) was approximately $4 trillion.  Today it is $14 trillion.
 
 <a href="http://themacrotourist.com/images/2017/08/Big3Aug1417.png"><img src="http://themacrotourist.com/images/2017/08/Big3Aug1417.png" alt="http://themacrotourist.com/images/2017/08/Big3Aug1417.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
