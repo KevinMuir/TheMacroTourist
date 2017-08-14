@@ -19,7 +19,7 @@ I have to give Cramer credit, that's a good line to describe the growing cohort 
 
 Aware of the burgeoning $1.99 Kindle romance section where some serious authors have created pseudo names to write under because the money is too good to pass up, I have never actually been exposed to these books.  Until now...
 
-I wonder if Cramer came up with his description after reading Ursala Maya's **[The Billionaire Bears Club](https://www.goodreads.com/book/show/23787546-billionaire-bears-club)**.  I had planned to quote the summary in this post, but even the summary's innuendo might be pushing it.
+Did Cramer came up with his description after reading Ursala Maya's **[The Billionaire Bears Club](https://www.goodreads.com/book/show/23787546-billionaire-bears-club)**.  I had planned to quote the summary in this post, but even the summary's innuendo might be pushing it.
 
 Instead I will share with you the first review:
 
