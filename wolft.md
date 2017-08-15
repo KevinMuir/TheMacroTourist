@@ -44,7 +44,7 @@ I don't regularly watch CNBC, but last week while on vacation, I turned on the S
 </div>
 
 
-<a href="" title="I don't regularly watch CNBC, but last week while on vacation, I turned on the Sirius XM radio and was instantly assaulted with Jim Cramer's shrieking.  I was about to turn the channel when he shouted how the "billionaire bears" might finally be catching a break with the stock market downdraft.">Link Text Here</a>
+<a href="" title="I don't regularly watch CNBC, but last week while on vacation, I turned on the Sirius XM radio and was instantly assaulted with Jim Cramer's shrieking.  I was about to turn the channel when he shouted how the billionaire bears might finally be catching a break with the stock market downdraft.">Link Text Here</a>
 
 
 
