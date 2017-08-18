@@ -52,7 +52,7 @@ It's not really fair as the 1980's bubble was so egregious, it makes the recent 
 
 Part of the BoJ's Quantitative Easing program is buying equity ETFs.  I am sure you have seen all the frantic warnings about how the BoJ owns X% of the ETFs outstanding.  Well, this argument is disingenuous as it is massively dependent on the popularity of Japanese ETFs.  If there is little outside investor interest in owning equities in ETF form, then the percentage of ETFs that the BoJ owns will be higher.  What is more appropriate is to examine the percentage of the market cap of the underlying equities that the BoJ owns.  And by that measure, it is quite less disturbing.
 
-Regardless, given the BoJ's buying, I expected the larger cap Japanese to be outperforming.  After all, they are the biggest beneficiaries of the balance sheet expansion.
+Regardless, given the BoJ's buying, I expected the larger cap Japanese equities to be outperforming.  After all, they are the biggest beneficiaries of the balance sheet expansion.
 
 However, much to my surprise, this is not the case.  Here are the total returns for the Nikkei (large cap), the TOPIX (broad based), the MOTHERS (small cap) and finally, the JOF (US listed small cap fund - denominated in Yen to keep it fair) since the introduction of Abeconomics.
 
