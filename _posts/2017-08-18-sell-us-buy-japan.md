@@ -68,7 +68,7 @@ If you are interested in playing this small cap sector of the Japanese equity ma
 
 I can already hear the cries of disdain of how I am buying the country whose long term financial prospects are the dimmest.  Yeah, yeah, I know.  Japan's demographics are terrible.  Their debt to GDP is mind numbingly large.  It certainly appears as if their ability to grow is hampered by many handicaps.  
 
-But since when has fundamentals mattered?  Everyone complains that Central Banks have made a mockery of markets, but then they spend their time fading them.  Why not just pick the most aggressive Central Bank and go with it?
+But since when have fundamentals mattered?  Everyone complains that Central Banks have made a mockery of markets, but then they spend their time fading them.  Why not just pick the most aggressive Central Bank and go with it?
 
 And what better time to jump aboard the Japanese monetary madness than when the bloom has come off the US rose?  
 
