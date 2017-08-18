@@ -93,7 +93,7 @@ The US is not going to war with the North Koreans, but the American government i
 - - -
 I was hesitant to write this piece today because US stocks had such a terrible day yesterday.  And although I am medium term bearish on American risk assets, from a short term perspective, we are due for a bounce.
 
-Over the years I have learned the hard way about getting bearish on stocks after big down days.  And I stumbled upon this great method of stopping from pulling a Gartman by getting full blown bearish into the hole.
+Over the years I have learned the hard way about getting bearish on stocks after big down days.  And I stumbled upon this great method of stopping from getting full blown bearish into the hole.
 
 If you watch the Bollinger Band of the QQQ ETF, and change the default settings to a length of 10 and a standard deviation of 1.5, I have found that any day that the ETF closes below the bottom part of the band, it is time to cover all your shorts, and even think about getting long.
 
