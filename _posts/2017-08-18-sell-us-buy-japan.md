@@ -28,7 +28,7 @@ I am going to toss an idea out there that is sure to gather a lot of cynical smi
 
 Abeconomics is still in full force.  The Bank of Japan is still expanding their balance sheet like mad.  And although many pundits are skeptical of Prime Minister Abe's chances of being re-elected in the upcoming elections, and see nothing but risks, I am not as pessimistic.
 
-I don't think the Japanese people will reverse Abeconomics.  Sure, the hedge fund gurus will all tell you what a disaster it's being, but I just don't see it.
+I don't think the Japanese people will reverse Abeconomics.  Sure, the hedge fund gurus will all tell you what a disaster it's been, but I just don't see it.
 
 Have a look at Japan's nominal GDP.  
 
