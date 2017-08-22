@@ -49,7 +49,7 @@ So let's zoom in on the recent action to get a feel for the potential of a stock
 
 Contrary to most pundits' warnings, the Yardeni indicator is sitting at new highs.  
 
-Wow.  How can that be?  that doesn't make any sense.  Aren't things rolling over?
+Wow.  How can that be?  That doesn't make any sense.  Aren't things rolling over?
 
 Well, maybe we should have a look at the various components a little more closely.
 
