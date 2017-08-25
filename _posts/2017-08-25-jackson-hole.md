@@ -44,7 +44,7 @@ Most likely they will both duck and try to not disrupt the markets.  But there i
 
 It seems like this is one of those situations where the risk reward favours taking a stab on the dark side of the bond market.  If I am wrong, and they don't make any market moving news, then I suspect the bond market will be unchanged, or slightly higher.
 
-But if I am correct, then I get the feeling there are a lot of longs in the market that might be caught by surprise.  With all the recent North Korea/debt ceiling angst, over the past couple of weeks, most traders have been scrambling into safer fixed income.  
+But if I am correct, then I get the feeling there are a lot of longs in the market that might be caught by surprise.  With all the recent North Korea/debt ceiling angst over the past couple of weeks, most traders have been scrambling into safer fixed income.  
 
 I am playing it by buying steepeners in the front end of the Fed Funds futures and Eurodollar curve.  For the past year, the curve has been flattening like a slowly leaking tire, and I think that the risks are definitely skewed towards Janet and Mario trying to stop that loss of air.
 
