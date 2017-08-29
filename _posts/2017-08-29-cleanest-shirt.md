@@ -124,7 +124,7 @@ I just didn't expect a prominent pension plan manager say it out loud.  Imagine 
 
 >“It seems as if there is no president in the U.S.,” Risto Murto, chief executive officer of Varma Mutual Pension Insurance Co., said in an interview in Helsinki on Wednesday. “If I look at what is the moral and practical power, there is no longer a traditional president.”
 
-I don't want to make a political judgement - Trump is what he is.  If you want to debate politics, go somewhere else.  I only care what he means to the markets, and there is no doubt that although he views himself as quite the stock market whisperer, the reality is that American stocks are sucking wind compared to the rest of the world.  
+I don't want to make a political judgement - Trump is what he is.  If you want to debate politics, go somewhere else.  I only care what he means to the markets, and there is no doubt that although he views himself as quite the stock market whisperer, the reality is that American stocks are stinking compared to the rest of the world.  
 
 Investors piled into America in the initial stages of his Presidency, but have spent the next six months exiting.  
 
