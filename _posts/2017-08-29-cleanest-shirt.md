@@ -22,7 +22,7 @@ Nothing better illustrates the one sided nature of US dollar sentiment than the 
 
 It was tough to find anyone who thought the US dollar might decline.  Which is exactly why it did.
 
-Fast forward to today.  After six months of near constant dripping lower, suddenly with the break of some long term support, the pundits are now *convinced the US is headed much lower.*  
+Fast forward to today.  After six months of near constant dripping lower, suddenly with the break of some long term support, the pundits are now *convinced the USD is headed much lower.*  
 
 And maybe we are.  Who knows?  This market has certainly been difficult to trade lately, so perhaps we are due for an easy, trending, simple US dollar breakdown.
 
