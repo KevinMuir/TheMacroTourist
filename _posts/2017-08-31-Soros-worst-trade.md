@@ -41,7 +41,7 @@ How did George manage through this period with his large position?  After all, U
 
 Let's have a look at the chart of the S&P 500 futures contract during this volatile week.  When you look at the following 5 minute chart, and see how the S&P 500 contract was down almost 80 handles on the day of the crash, it easy to be fooled into thinking it might not have been that bad.  But you need to remember that the S&P 500 closed at 281.50 on Friday.  So Black Monday's decline on October 19th, 1987 would equal almost 700 points in today's market.  We are trading at 2,460 as I write this, so imagine a crash tomorrow that sends the spooz down to 1,750 in a single session!
 
-<a href="http://themacrotourist.com/images/2017/08/SpoozAug3017.png"><img src="http://themacrotourist.com/images/2017/08/SpoozAug3017.png" alt="http://themacrotourist.com/images/2017/08/SpoozAug3017.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/2017/08/SpoozAug3017.png"><img src="http://themacrotourist.com/images/2017/08/SpoozAug3017.png" alt="http://themacrotourist.com/images/2017/08/SpoozAug3017.png" width="750" height="550" style="margin:30px auto;display:block;"></a>
 
 Many of us know the story of Friday's decline that was celebrated by some as the end of the correction, only to be followed by Monday's gap down and the accompanying collapse.  Then Tuesday's attempted rally that failed, with the scary push down to a new low.  Finally, Wednesday's big gap higher that managed to hold all day.  
 
