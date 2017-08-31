@@ -153,7 +153,7 @@ The controversy centered around the fact that Borsellino allegedly offered it do
 
 **Either way, the pit ripped Soros' face off in what has to be the wildest open in the history of futures trading.**
 
-And all I can say about Borsellino's, the other pit locals' and Goldman's purchases from the greatest trader who has ever lived is, **"Damn!  I wish I traded that!"**
+And all I can say about Borsellino's, the other pit locals', and Goldman's purchases from the greatest trader who has ever lived is, **"Damn!  I wish I traded that!"**
 
 ---
 
