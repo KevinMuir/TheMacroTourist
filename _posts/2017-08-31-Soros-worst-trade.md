@@ -50,7 +50,7 @@ But how many remember Thursday's open?  Have a look at the monster gap down. The
 That story is not well known, and is the subject of today's **DIWITT** and is a trade that Soros would most likely like to forget.
 
 ---
-I am not going to tell the whole story, but take snippets out of a couple of books to tell the tale.  The first is Tim Metz' Black Monday.  Before we start, you might be confused when the author talks about "cars."  Cars refer to contracts because at one point, contracts were often the amount that would fill one railway car. It was something particular to the CME and not seldom used at the CBOT.  Often, it gave away a trader's background.  Anyways, on to the story.
+I am not going to tell the whole story, but take snippets out of a couple of books to tell the tale.  The first is Tim Metz' Black Monday.  Before we start, you might be confused when the author talks about "cars."  Cars refer to contracts because at one point, contracts were often the amount that would fill one railway car. It was something particular to the CME and seldom used at the CBOT.  Often, it gave away a trader's background.  Anyways, on to the story.
 
 <a href="http://themacrotourist.com/images/2017/08/BlackMondayAug3017.jpg"><img src="http://themacrotourist.com/images/2017/08/BlackMondayAug3017.jpg" alt="http://themacrotourist.com/images/2017/08/BlackMondayAug3017.jpg" width="500" height="600" style="margin:30px auto;display:block;"></a>
 
