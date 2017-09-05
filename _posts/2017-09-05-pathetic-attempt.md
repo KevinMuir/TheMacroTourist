@@ -101,7 +101,7 @@ There is a famous market saying, "when the ducks quack, feed 'em!"  Well, corpor
 
 They are about to fill the bid in the bond market like a butter tart.
 
-Although many market pundits are getting all bulled up on bonds, I am not so sure that this wise.  I see a Fed and ECB that will be friendly to the short end of the curve, but both Central Banks' actions might way heavily on the long end.  The speculative community is heavily long far dated paper, while short the front end.  It wouldn't take much for them to ring the register on their trades.  And in the coming days, if North Korea manages to keep their missiles in their pocket, we could see a bunch of supply hit the market that might be the trigger for this unwind.
+Although many market pundits are getting all bulled up on bonds, I am not so sure that this wise.  I see a Fed and ECB that will be friendly to the short end of the curve, but both Central Banks' actions might weigh heavily on the long end.  The speculative community is heavily long far dated paper, while short the front end.  It wouldn't take much for them to ring the register on their trades.  And in the coming days, if North Korea manages to keep their missiles in their pocket, we could see a bunch of supply hit the market that might be the trigger for this unwind.
 
 There you go.  A short's desperate attempt to put a bearish spin on this manic squeeze into fixed income.  Pretty pathetic, eh?
 
