@@ -45,7 +45,7 @@ The Yen's movements have been tracking the US 10 year yield almost tick for tick
 
 <a href="http://themacrotourist.com/images/2017/09/10JPYSep0517.png"><img src="http://themacrotourist.com/images/2017/09/10JPYSep0517.png" alt="http://themacrotourist.com/images/2017/09/10JPYSep0517.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-It seems crazy that the country which North Korean is lobbing missiles over is experiencing currency appreciation, but there's no sense arguing with the market - it is what it is.
+It seems crazy that the country which North Korea is lobbing missiles over is experiencing currency appreciation, but there's no sense arguing with the market - it is what it is.
 
 Therefore, if you believe the North Korean situation will escalate from here, then, by all means, load up on treasuries.  That's the right trade.  Yet, I just don't see war breaking out, and I suspect North Korea will slip off the front page before you know it.  There are no real military options, so the idea of Trump and the rest of the world doing anything more than increasing sanctions is a non-starter.  Kim Junior will keep testing his missiles, Trump will keep warning him that he will face severe consequences, and nothing will change.  
 
