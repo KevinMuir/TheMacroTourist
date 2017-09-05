@@ -69,7 +69,7 @@ And so far they have been bang on correct!  The US 2-10 year Treasury yield spre
 
 <a href="http://themacrotourist.com/images/2017/09/US210Sep0517.png"><img src="http://themacrotourist.com/images/2017/09/US210Sep0517.png" alt="http://themacrotourist.com/images/2017/09/US210Sep0517.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Maybe the hedgies will be correct.  Maybe the curve is about to flatten even further.  
+Maybe the hedgies will continue to be correct.  Maybe the curve is about to flatten even further.  
 
 But over the years I have learned that when hedgies all think one thing, it is time to think something else.
 
