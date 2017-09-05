@@ -73,7 +73,7 @@ Maybe the hedgies will continue to be correct.  Maybe the curve is about to flat
 
 But over the years I have learned that when hedgies all think one thing, it is time to think something else.
 
-The Fed will err on being easy, but will continue with their plans to wind down the balance sheet.  On the other side of the Atlantic, the ECB is in a real predicament as they are running out of bunds to buy, and desperately want to taper their QE program.  How can they get out of this mess without disrupting the economy?  Through firm forward guidance that guarantee short term rates will not be raised.  
+The Fed will err on being easy, but will continue with their plans to wind down the balance sheet.  On the other side of the Atlantic, the ECB is in a real predicament as they are running out of bunds to buy, and desperately want to taper their QE program.  How can they get out of this mess without disrupting the economy?  Through firm forward guidance that guarantees short term rates will not be raised.  
 
 In my books, I think both the Fed and ECB will be easy on the short end, but hawkish on the long end.  This will occur through either quantitative tightening (Fed), or the reduction in the amount of quantitative easing (ECB).  In both cases, I think that means a steeper yield curve.
 
