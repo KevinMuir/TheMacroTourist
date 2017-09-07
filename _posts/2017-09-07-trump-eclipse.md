@@ -94,7 +94,7 @@ Finally, I will write about this in a little more detail in the coming days, but
 
 Earlier in the year, the difference between the front end of the US and Canadian money market curves had more than 3 more relative tightenings priced in for the US out to June 2019.  With the recent flattening of the US curve, and the surprise hike by the Bank of Canada, this spread has spiked to a point where Canada is now priced to have 1.5 more tightenings than the US.  
 
-No way the highly levered Canadian economy can handle the increased rates and the massive strength of the Loonie.  I am shorting June 2019 BAX's and buying the equivalent Eurodollar contract.  I expect these two contracts to converge back to zero in the coming months.
+No way the highly levered Canadian economy can handle the increased rates and the massive strength of the Loonie.  I am buying June 2019 BAX's and shorting the equivalent Eurodollar contract.  I expect these two contracts to converge back to zero in the coming months.
 
 Thanks for reading,  
 Kevin Muir  
