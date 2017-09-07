@@ -76,7 +76,7 @@ I couldn't agree more.  I think Trump staring at the Solar eclipse was the botto
 
 <a href="http://themacrotourist.com/images/2017/09/EclipseSep0717.png"><img src="http://themacrotourist.com/images/2017/09/EclipseSep0717.png" alt="http://themacrotourist.com/images/2017/09/EclipseSep0717.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-After that bonehead move, it's all uphill.  Seriously, there is so little expecting of him, he is bound to outperform.
+After that bonehead move, it's all uphill.  Seriously, there is so little expected of him, he is bound to outperform.
 
 And if that is indeed the case, have a look at this chart of Trump's approval rating versus US 10 year yields.
 
