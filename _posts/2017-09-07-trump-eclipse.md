@@ -24,7 +24,7 @@ Last night the US stock market sold off on headlines that Trump had taken Gary C
 
 >CNN reporter Jake Tapper tweeted that a source close to the White House told him that Cohn is "more likely to get electric chair than Fed Chair."
 
-I have been skeptical that Trump would give the nod to Gary.  First of all, he's a Democrat.  Secondly, he's got squid stench all over him.  But most importantly, he ain't going to do what Trump wants.  Gary is way too much of his own man to appeal to Trump.  No, Gary will stick around with the administration for his full year so he will be eligible for the tax deferral deal on his Goldman stock, and then he is going to quietly split.  
+I have been skeptical that Trump would give the nod to Gary.  First of all, he's a Democrat.  Secondly, he's got squid stench all over him.  But most importantly, he ain't going to do what Trump wants.  Gary is way too much of his own man to appeal to Trump.  No, Gary will stick around with the administration for his full year so he will be eligible for the tax deferral deal on his Goldman stock, and then he will quietly split.  
 
 And the prediction markets have correctly taken Cohn's chances for Fed Chair down to almost 10%.
 
