@@ -82,7 +82,7 @@ And if that is indeed the case, have a look at this chart of Trump's approval ra
 
 <a href="http://themacrotourist.com/images/2017/09/TrumpSep0717.png"><img src="http://themacrotourist.com/images/2017/09/TrumpSep0717.png" alt="http://themacrotourist.com/images/2017/09/TrumpSep0717.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-I lagged the yield series by a couple of weeks, and I suspect that Trump's recent performance might help stop this bond rally.  
+I lagged the yield series by a couple of weeks, and I suspect that Trump's recent performance might help slow down this bond rally.  
 
 Right now it seems like nothing can stop this bond move, but remember the market always looks best at the top.  I still see all sorts of reasons to be skeptical of this squeeze into fixed income.  
 
