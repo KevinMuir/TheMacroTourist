@@ -46,7 +46,7 @@ Trump is the King of Debt.  If there is one thing he is good at - it's debt.  An
 
 Market strategists who toss around names for a new Fed Chair like Warsh and Taylor, both of who are now academics, are completely missing the boat.  Trump will surprise us with the most unorthodox, easy money, lunatic you could ever dream up.  The only conventional candidate that stands a chance is Neel Kashkari.  He is currently on the FOMC board, is a Republican, and most importantly, is a huge dove.  If not Chair, could he maybe take over as Vice Chairman when Fischer leaves?  
 
-Regardless of the exact composition of the FOMC, the correct bet is to assume it will become significantly easier in the years to come.  I guess to some extent the market has already figured this out.  Over the past month, gold is exploding higher and the US dollar is selling off hard.  I suspect it might be only the beginning.  
+Regardless of the exact composition of the FOMC, the correct bet is to assume it will become significantly easier in the years to come.  I guess to some extent the market has already figured this out.  Over the past month, gold has exploded higher and the US dollar sold off hard.  I suspect it might be only the beginning.  
 
 ---
 
