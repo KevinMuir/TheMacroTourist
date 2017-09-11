@@ -20,7 +20,7 @@ tags:
 
 Whenever I tell people the next big crisis will come from inflation, not deflation, the looks of disgust are worse than when someone says Justin Bieber's music is not that bad.  And when I try to tell them that the true bubble is in fixed income, not stocks, they look at me as if I just slipped the Biebs into the next-up slot on the Spotify playlist.
 
-"Where is the growth going to come from?" they often ask or, "demographics will keep inflation subdued for another generation," they retort.  
+"Where will the growth come from?" they often ask or, "demographics will keep inflation subdued for another generation," they retort.  
 
 And I must admit, I have always had difficulty articulating *how* inflation would manifest.  Usually, I would go with the classic, "throughout the millennia, governments have always resorted to inflating their way out of debt, and this time will prove no exception."  
 
