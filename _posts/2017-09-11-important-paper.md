@@ -28,7 +28,7 @@ But that has always left a sour taste in the mouths of the deflationistas who ca
 
 Until now...
 
-In a Bank of International Settlements paper from this summer, Charles Goodhart and Manoj Pradhan present a powerful argument that demographics is about to usher in a sea change.  I am surprised the paper is not receiving more attention, but I guess with everyone so focused on the supposed coming deflation, this sort of research is not all that popular.
+In a Bank of International Settlements paper from this summer, Charles Goodhart and Manoj Pradhan present a powerful argument that demographics are about to usher in a sea change.  I am surprised the paper is not receiving more attention, but I guess with everyone so focused on the supposed coming deflation, this sort of research is not all that popular.
 
 But you should go read the paper titled **"[Demographics will reverse three multi-decade global trends](http://www.bis.org/publ/work656.pdf)"** today.  I suspect it will be one of *the* BIS papers of the next decade.
 
