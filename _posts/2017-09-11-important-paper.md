@@ -60,7 +60,7 @@ Wall Street only strips bonds when there is demand for zero coupon instruments. 
 
 In the aftermath of the Great Financial Crisis, the total amount of stripped bonds fell.  That makes sense.  Clients throughout the world suddenly found themselves short on capital and extremely scared, so I wouldn't expect anything else.  As quantitative easing was instituted, clients rushed to buy more stripped bonds, and by 2011, the total amount was back to pre-crisis highs (even though rates were significantly lower).  
 
-The total amount of stripped bonds went sideways from 2011 and 2012, but then in 2013, they started rising again.  But the really amazing action happened in 2016 and 2017.  ***It has gone parabolic!***
+The total amount of stripped bonds went sideways from 2011 and 2012, but then in 2013, they started rising again.  But the really amazing action happened in 2016 and 2017.  ***It went parabolic!***
 
 The notion that clients are not leaning heavily long fixed income is crap.  They are stuffed to the gills as the whole world can only imagine rates and inflation going one way - lower.  
 
