@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'ARI SAYS GET LONG STEEPENERS'
-date: 2016-09-12T11:10:00-05:00
+date: 2017-09-12T11:10:00-05:00
 author: kevin
 layout: post
 categories:
