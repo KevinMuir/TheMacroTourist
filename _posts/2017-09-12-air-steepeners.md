@@ -15,7 +15,7 @@ tags:
 ---
 <a href="http://themacrotourist.com/images/2017/09/DinosaurSep1217.png"><img src="http://themacrotourist.com/images/2017/09/DinosaurSep1217.png" alt="http://themacrotourist.com/images/2017/09/DinosaurSep1217.png" width="600" height="600" style="margin:30px auto;display:block;"></a>
 
-All the credit for the first part of today's post goes to **[LongConvexity](https://twitter.com/longconvexity?lang=en)**, the mysterious Ari-Gold-type hedge fund manager, who reminded me of the enormous seasonal effect in the US 5/30 year treasury yield curve spread.  
+All credit for the first part of today's post goes to **[LongConvexity](https://twitter.com/longconvexity?lang=en)**, the mysterious Ari-Gold-type hedge fund manager, who reminded me of the enormous seasonal effect in the US 5/30 year treasury yield curve spread.  
 
 <a href="http://themacrotourist.com/images/2017/09/AirSep1217.png"><img src="http://themacrotourist.com/images/2017/09/AirSep1217.png" alt="http://themacrotourist.com/images/2017/09/AirSep1217.png" width="300" height="400" style="margin:30px auto;display:block;"></a>
 
