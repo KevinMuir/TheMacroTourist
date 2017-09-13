@@ -1,7 +1,7 @@
 ---
 id: 26011
 title: 'ARI SAYS GET LONG STEEPENERS'
-date: 2017-09-12T11:10:00-05:00
+date: 2017-09-13T08:10:00-05:00
 author: kevin
 layout: post
 categories:
@@ -15,7 +15,7 @@ tags:
 ---
 **NOTE:  I forgot to send out yesterday's post by email.  I apologize.  Here it is.  You will get two today!**
 
-  
+
 
 <a href="http://themacrotourist.com/images/2017/09/DinosaurSep1217.png"><img src="http://themacrotourist.com/images/2017/09/DinosaurSep1217.png" alt="http://themacrotourist.com/images/2017/09/DinosaurSep1217.png" width="600" height="600" style="margin:30px auto;display:block;"></a>
 
