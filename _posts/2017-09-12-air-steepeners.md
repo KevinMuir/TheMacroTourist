@@ -13,6 +13,10 @@ tags:
   - SX5E
   - Eurostoxx
 ---
+**NOTE:  I forgot to send out yesterday's post by email.  I apologize.  Here it is.  You will get two today!**
+
+  
+
 <a href="http://themacrotourist.com/images/2017/09/DinosaurSep1217.png"><img src="http://themacrotourist.com/images/2017/09/DinosaurSep1217.png" alt="http://themacrotourist.com/images/2017/09/DinosaurSep1217.png" width="600" height="600" style="margin:30px auto;display:block;"></a>
 
 All credit for the first part of today's post goes to **[LongConvexity](https://twitter.com/longconvexity?lang=en)**, the mysterious Ari-Gold-type hedge fund manager, who reminded me of the enormous seasonal effect in the US 5/30 year treasury yield curve spread.  
