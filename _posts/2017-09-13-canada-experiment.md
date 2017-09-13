@@ -68,7 +68,7 @@ To some extent, this is a philosophical debate.  Either you believe Richard Koo,
 
 **Monetary policy divergences**
 
-Talk, talk, talk.  It seems that all the Federal Reserve does.  Speech after speech.  Dot plot after dot plot.  Opinion after opinion.  FOMC board members express their views on monetary policy, and in the process, attempt to mold markets to their views.  
+Talk, talk, talk.  It seems that's all the Federal Reserve does.  Speech after speech.  Dot plot after dot plot.  Opinion after opinion.  FOMC board members express their views on monetary policy, and in the process, attempt to mold markets to their views.  
 
 I have long believed that all this communication counterproductive.  It often confuses markets as one moment markets will hear an argument for raising rates at the next meeting, and then hours later, a different FOMC board member will make the case for no rate hikes for a considerable time.  
 
