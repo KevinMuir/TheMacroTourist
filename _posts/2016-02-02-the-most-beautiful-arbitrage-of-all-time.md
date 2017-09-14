@@ -14,12 +14,11 @@ tags:
   - gold
   
 ---
-
-<img src="http://themacrotourist.com/images/NegRatesFeb0216.png" alt="http://themacrotourist.com/images/NegRatesFeb0216.png" style="width:700px;height:auto;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/NegRatesFeb0216.png" alt="http://themacrotourist.com/images/NegRatesFeb0216.png" width="700" height="460" style="margin:30px auto;display:block;"></a>
 
 First it was the ECB.  They were then followed by a host of other independent European countries like Switzerland and Sweden.  Now it is Japan's turn.  One by one, large developed economies have adopted negative interest rate policies.  What used to be unimaginable has now become strangely routine.  
 
-<img src="http://themacrotourist.com/images/TwoYearFeb0216.png" alt="http://themacrotourist.com/images/TwoYearFeb0216.png" style="width:700px;height:auto;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/TwoYearFeb0216.png" alt="http://themacrotourist.com/images/TwoYearFeb0216.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 
 Even NIRP skeptic Federal Reserve Vice Chairman Stanley Fischer admitted yesterday during a Bloomberg interview that negative rates were "working better than I expected in 2012."
@@ -50,7 +49,7 @@ Now let's assume a Swiss bank borrows one billion Francs for two years at a nega
 
 Obviously currency can be stolen, so you can't just stuff all this currency in the office safe.  You need a secure vault.  But I am sure most Swiss banks already have Doctor No style vaults buried deep in the mountains.  
 
-<img src="http://themacrotourist.com/images/LairFeb0216.jpg" alt="http://themacrotourist.com/images/LairFeb0216.jpg" style="width:700px;height:auto;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/LairFeb0216.jpg" alt="http://themacrotourist.com/images/LairFeb0216.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 Take the billion Francs, hire a few more guards, and pocket the 40 million Francs.  And the good news about this arbitrage?  It's scalable.  If you are going to do one billion, why not two or five?  
 
@@ -68,7 +67,7 @@ When that happens, there will be *no currency* that is safe.  All countries will
 
 I wish there was some sort of currency that was no one's obligation and couldn't be debased.  This currency would have no yield, and would be easy to store vast quantity of wealth in a small area.  Ideally it will have been accepted as a store of value for thousands of years.  In an environment of negative rates, the demand for this type of currency would sky rocket.  Man, I just wish I could think of something like that...
 
-<img src="http://themacrotourist.com/images/GoldFeb0216.jpg" alt="http://themacrotourist.com/images/GoldFeb0216.jpg" style="width:700px;height:auto;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/GoldFeb0216.jpg" alt="http://themacrotourist.com/images/GoldFeb0216.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 Thanks for reading,  
 Kevin Muir  

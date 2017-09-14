@@ -1,5 +1,5 @@
 ---
-id: 26055		
+id: 26055
 title: 'Carl stuffs them like a butter tart '
 date: 2016-02-17T09:00:00-05:00
 author: kevin
@@ -9,7 +9,7 @@ categories:
 tags:
   - Apple
   - Carl Icahn
-   
+
 ---
 <img src="http://themacrotourist.com/images/SuperbadFeb1716.png" alt="http://themacrotourist.com/images/SuperbadFeb1716.png" width="750" height="400" style="margin:30px auto;display:block;">
 
@@ -33,18 +33,8 @@ I have been a huge Apple bear for quite some time, so I don't begrudge Carl's sa
 
 <img src="http://themacrotourist.com/images/SharkSep3015.png" alt="http://themacrotourist.com/images/SharkSep3015.png" width="600" height="200" style="margin:30px auto;display:block;">
 
-Carl didn't become rich worrying about anyone but Carl.  Always ask yourself who is the prey.  Just remember that when Carl tweets the next "great trade." 
+Carl didn't become rich worrying about anyone but Carl.  Always ask yourself who is the prey.  Just remember that when Carl tweets the next "great trade."
 
 Thanks for reading,  
 Kevin Muir  
 the MacroTourist  
-
-
-
-
-
-
-
-
-
-

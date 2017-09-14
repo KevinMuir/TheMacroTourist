@@ -21,7 +21,7 @@ tags:
   - Tolkien
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/eaglesMar0215-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/eaglesMar0215-1.png" width="400" height="600">
+  <img src="http://themacrotourist.com/images/Azure/eaglesMar0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/eaglesMar0215.png" width="400" height="600">
 
 As a geeky young teenager I spent way too many hours with my nose deep in Tolkien&#8217;s Lord of the Rings. I thought I was a bit of a fan until I googled the main plot hole that many have criticized Tolkien for not addressing. Upon researching, I realized that there are people who take their devotion to LOTR to another level. I am not going to do the plot hole justice, but the gist of the complaint is that the eagles could have either carried the ring and dropped it in Mt. Doom, or at the very least, carried Frodo part of the way. Even Tolkien knew that the eagles were a potential problem. In a letter written by Tolkien he warned:
 
@@ -103,6 +103,3 @@ Thanks for reading,
 Kevin Muir 
   
 the MacroTourist
-
-
-  <img src="http://themacrotourist.com/images/Azure/MTWood" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MTWood" width="600" height="100">

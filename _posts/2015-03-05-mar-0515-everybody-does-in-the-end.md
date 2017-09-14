@@ -148,6 +148,3 @@ Thanks for reading,
 Kevin Muir 
   
 the MacroTourist
-
-
-  <img src="http://themacrotourist.com/images/Azure/MTWood" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MTWood" width="600" height="100">

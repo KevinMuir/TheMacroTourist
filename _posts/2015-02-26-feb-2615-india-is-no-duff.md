@@ -100,5 +100,3 @@ Since listing, the fund has unfortunately being rallying. I bought a little earl
 They issued stock at $10 and there were some fees with the deal, so the NAV is probably $9.70 or so. That means we are already trading at a 7% premium. I wish I had bought more when it was below issue, but I got too cute.
 
 Yet with the world stock markets on fire, I think India has the potential of being a top performer in the months and years to come. Buying Prem&#8217;s fund is a chance to get in early on this coming boom. I am buying it and putting it in the drawer. I think the mistake will be selling this too early&#8230;
-
-[<img  style="padding-top: 1.0em;padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/images/Azure/MTMistake.png" width="130" height="65" />](http://themacrotourist.com/images/Azure/MTMistake.png)</div>

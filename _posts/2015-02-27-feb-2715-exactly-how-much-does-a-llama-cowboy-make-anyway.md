@@ -131,6 +131,3 @@ Since my last post, the economic data has continued to come in lower than expect
 I don&#8217;t know if the start of the ECB QE program next month will be the catalyst, or if China will finally make some bold move to restart growth. Or maybe we have just hit a point of maximum pessimism.
 
 But either way, I am looking for the economy to perform above expectations in the coming months. 
-
-
-  <img src="http://themacrotourist.com/images/Azure/MTBoat.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MTBoat.png" width="700" height="200">

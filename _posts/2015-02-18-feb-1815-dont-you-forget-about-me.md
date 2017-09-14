@@ -97,7 +97,7 @@ But hey, so far I am completely wrong. The stock market does not agree with my a
 Maybe I am wrong. Maybe the 0.01% will find some way to continue to pull the wool over the rest of society&#8217;s eyes. Somehow the people in power have convinced the public that bailing out the banks of their reckless behaviour while continually cutting services to the public makes sense. Or that waging wars overseas is a better use of money than upgrading infrastructure or spending money on education. They cloak their selfish policies in guise of being true to capitalism.
 
 
-  <img src="http://themacrotourist.com/images/Azure/steinbeckDeb1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/steinbeckDeb1815.png" width="500" height="342">
+  <img src="http://themacrotourist.com/images/Azure/steinbeckFeb1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/steinbeckFeb1815.png" width="500" height="342">
 
 Yet their policies are anything but true to the values they espouse. But the public is waking up to this reality.
 

@@ -22,7 +22,7 @@ tags:
   - Wells Capital
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/BearJan1215-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BearJan1215-1.png" width="600" height="450">
+  <img src="http://themacrotourist.com/images/Azure/BearJan1215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BearJan1215.png" width="600" height="450">
 
 It&#8217;s being a tough slug for the equity bears over the past couple of years. The last few months have been especially confusing as US stocks have been impervious to the quickly decaying global economic fundamentals. I know that there are many different inputs that determine equity prices, but this last move higher has been remarkably divorced of any traditional relationship to the fundamentals.
 

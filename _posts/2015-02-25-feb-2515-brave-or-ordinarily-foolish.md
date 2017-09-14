@@ -34,7 +34,7 @@ I think we are now in the 9th or 10th day of the index closing higher. I am not 
 In the picture at the top of the letter there is a warning about the difference about being brave and just &#8220;ordinary&#8221; foolish. I don&#8217;t know which I am being, but I think it is time to pull out the pink tickets.
 
 
-  <img src="http://themacrotourist.com/images/Azure/SellTicket.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SellTicket.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SellTicketFeb0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SellTicketFeb0215.png" width="600" height="342">
 
 Yesterday was the first day in a month that the market leaders did not close at the highs. Have a look at the daily chart for the XBI Biotech ETF:
 
@@ -83,5 +83,3 @@ I take solace in the fact my favourite quantitative shop GMO has the emerging ma
 
 I am hopeful that the EEM rally has just started when the US stocks might be rolling over.
 
-
-  <img src="http://themacrotourist.com/images/Azure/MTMistake.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MTMistake.png" width="100" height="50">

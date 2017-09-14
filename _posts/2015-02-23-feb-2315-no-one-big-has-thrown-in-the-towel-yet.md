@@ -26,7 +26,7 @@ At 4am on February 15th, 1996, after sitting alone in a room writing out lyrics 
 Dylan was in Nashville, having left New York the previous year. He had been frustrated with the slow progress recording his next record. So at the suggestion of his producer, he took guitarist (and fellow Canadian) Robbie Robertson and keyboardist Al Kooper down to Nashville, and along with a host of session players, set about recording Blonde on Blonde.
 
 
-  <img src="http://themacrotourist.com/images/Azure/dylanFeb2315-2.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/dylanFeb2315-2.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/dylanFeb2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/dylanFeb2315.png" width="600" height="600">
 
 For the non-Dylan fans, most of you will be familiar with first track of this album. Rainy Day Women #12 & 35, or as you might know it &#8220;Everyone must be get stoned&#8221;, is an iconic overplayed Dylan tune. Yet the rest of the album is pure genius, with track after track of classic Dylan at his best. 
 

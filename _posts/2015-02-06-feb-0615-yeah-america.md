@@ -40,7 +40,7 @@ At the risk of offending my Quebecois countrymen, I have watched the Caisse de D
 When I see the head of the Caisse pumping the merits of investing in America in a bullish Business Week cover article, I know it is time to take out some pink tickets.
 
 
-  <img src="http://themacrotourist.com/images/Azure/SellTicket.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SellTicket.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/SellTicketFeb0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SellTicketFeb0215.png" width="600" height="342">
 
 Don&#8217;t get me wrong, I understand why investing in America seems like the smart and safe thing to do. The rest of the global economy is basically falling off a cliff, so it seems like a good place to hide.
 

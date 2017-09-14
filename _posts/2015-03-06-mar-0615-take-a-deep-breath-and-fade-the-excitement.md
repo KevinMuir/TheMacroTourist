@@ -53,5 +53,3 @@ Kevin Muir
   
 the MacroTourist
 
-
-  <img src="http://themacrotourist.com/images/Azure/MTWood" alt="http://themacrotourist.com/images/Azure/MTWood" style="margin:30px auto;display:block;" width="600" height="100">

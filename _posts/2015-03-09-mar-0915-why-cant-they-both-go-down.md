@@ -79,7 +79,7 @@ Almost no one thinks that **both stocks and bonds can go down _at the same time.
 Well, both stocks and bonds went up with the Fed at their back, why can’t they both go down with the Fed doing the opposite?
 
 
-  <img src="http://themacrotourist.com/images/Azure/CentralBankDisaster.png" alt="http://themacrotourist.com/images/Azure/CentralBankDisaster.png" style="margin:30px auto;display:block;" width="500" height="600">
+  <img src="http://themacrotourist.com/images/Azure/CentralBankDisasterMar0915.png" alt="http://themacrotourist.com/images/Azure/CentralBankDisasterMar0915.png" style="margin:30px auto;display:block;" width="500" height="600">
 
 Thanks for reading,
   
@@ -87,5 +87,3 @@ Kevin Muir
   
 the MacroTourist
 
-
-  <img src="http://themacrotourist.com/images/Azure/MTWood" alt="http://themacrotourist.com/images/Azure/MTWood" style="margin:30px auto;display:block;" width="600" height="100">

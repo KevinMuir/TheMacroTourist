@@ -103,7 +103,3 @@ I sympathize with Yellen&#8217;s predicament. She has been handed a _can&#8217;t
 
 
   <img src="http://themacrotourist.com/images/Azure/LindsayFeb2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LindsayFeb2415.png" width="500" height="342">
-
-
-  <img src="http://themacrotourist.com/images/Azure/MTArrow.png
-" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MTArrow.png" width="150" height="75">

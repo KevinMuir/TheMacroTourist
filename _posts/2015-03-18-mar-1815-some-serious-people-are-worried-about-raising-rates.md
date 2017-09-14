@@ -19,7 +19,7 @@ tags:
   - Ray Dalio
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/ChristineLagardeBOJ.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ChristineLagardeBOJ.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/ChristineLagardeBOJMar1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ChristineLagardeBOJMar1815.png" width="600" height="342">
 
 Usually IMF Head Christine Lagarde is too busy hobnobbing with the financial elite to take time out to issue warnings about the financial markets, but yesterday she cautioned US rate increases could trigger instability in emerging markets:
 
