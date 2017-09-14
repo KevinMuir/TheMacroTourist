@@ -16,7 +16,7 @@ tags:
   - Yen
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/AmericanConsumer.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/AmericanConsumer.png" width="500" height="600">
+  <img src="http://themacrotourist.com/images/Azure/AmericanConsumerJun0315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/AmericanConsumerJun0315.png" width="500" height="600">
 
 Over the past week or so, I have adjusted my expectations for economic strength in the coming months downward. I am perplexed by the American economy&#8217;s inability to achieve a self sustaining virtuous expansion. And it seems like I am not the only one. Yesterday, the Wall Street Journal&#8217;s most plugged in Fed watcher Jon Hilsenrath, penned a blog piece that wondered out loud why US shoppers refuse to open their wallet.
 
@@ -118,7 +118,7 @@ I know I have been a little tough on Apple&#8217;s new watch. I have slammed it 
 Well, I take all that back. I didn&#8217;t realize the true hipness of this new Apple Watch until I saw this recent picture of the latest convert.
 
 
-  <img src="http://themacrotourist.com/images/Azure/NewtApple.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/NewtApple.png" width="500" height="500">
+  <img src="http://themacrotourist.com/images/Azure/NewtAppleJun0315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/NewtAppleJun0315.png" width="500" height="500">
 
 If it is good enough for Newt Gingrich, then I am sure the millennials will be right behind him on the style train.
 

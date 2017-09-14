@@ -16,7 +16,7 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/FederalReserveDash.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FederalReserveDash.png" width="800" height="200">
+  <img src="http://themacrotourist.com/images/Azure/FederalReserveDashApr0115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FederalReserveDashApr0115.png" width="800" height="200">
 
 I am sure most of you will have heard about Amazon&#8217;s new Dash Button product. If you haven&#8217;t, it is a small electronic device about the size of a pack of gum. When you press the button, Amazon automatically orders whatever product you are about to run out of. So far Amazon has 258 products on offer. 
 
@@ -31,7 +31,7 @@ But you might have missed a small partnership announcement that Amazon buried in
 </p>
 
 
-  <img src="http://themacrotourist.com/images/Azure/FedDash2.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FedDash2.png" width="800" height="200">
+  <img src="http://themacrotourist.com/images/Azure/FedDash2Apr0115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FedDash2Apr0115.png" width="800" height="200">
 
 It&#8217;s nice to see the Federal Reserve using technology to make it as easy possible for the Wall Street fat cats to get even fatter. 
 
@@ -74,5 +74,3 @@ Kevin Muir
   
 the MacroTourist
 
-
-  <img src="http://themacrotourist.com/images/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/images/Azure/MTArrow.png" width="200" height="100">

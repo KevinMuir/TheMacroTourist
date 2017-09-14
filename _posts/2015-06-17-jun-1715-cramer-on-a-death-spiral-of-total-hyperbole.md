@@ -18,7 +18,7 @@ tags:
   - Russia
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/GreekVendingMachine.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GreekVendingMachine.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/GreekVendingMachineJun1715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GreekVendingMachineJun1715.png" width="600" height="600">
 
 You know that couple that is always threatening to break up? Everyone has someone like that in their life. The constant &#8220;he treats me so badly, I don&#8217;t know why I stay with him.&#8221; Or the &#8220;she doesn&#8217;t understand me, I can&#8217;t even remember why I married her.&#8221; At first you are sympathetic to their plight, but by the end you just want them to shut the f<sup>$</sup>\# up and get divorced.
 

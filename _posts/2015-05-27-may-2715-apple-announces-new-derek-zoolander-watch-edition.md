@@ -14,7 +14,7 @@ tags:
   - Carl Icahn
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/BlueSteelWatch.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BlueSteelWatch.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/BlueSteelWatchMay2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BlueSteelWatchMay2715.png" width="600" height="342">
 
 Lately I have been worried Apple jumped the shark with the launch of the much anticipated Apple Watch. I firmly believe Steve Jobs would have never allowed such a half finished product out the door. And most importantly, he would have never in a million years coached Apple store staff to give f#%ng fashion advice to sell the product. From Fortune:
 
@@ -60,7 +60,7 @@ I don&#8217;t begrudge Apple taking advantage of rock bottom interest rates. I t
 Have a look at this list of top hedge fund holdings:
 
 
-  <img src="http://themacrotourist.com/images/Azure/FactsetMay2715-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FactsetMay2715-1.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/FactsetMay2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FactsetMay2715.png" width="600" height="400">
 
 Apple is a top holding from all of our fast money friends. And it&#8217;s not just the hedge fund mopes who are falling all over themselves with Apple infatuation. Look at this screen shot from a recent CNBC piece:
 
@@ -76,7 +76,7 @@ What do you think about the chances Apple will be a top performer when _everyone
 Last week my favourite jackassactivist™ investor Carl Icahn got on CNBC to tout his $240 Apple price target and to bully Tim Cook into buying more stock back.
 
 
-  <img src="http://themacrotourist.com/images/Azure/IcahnPleeb.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IcahnPleeb.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/IcahnPleebMay2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IcahnPleebMay2715.png" width="600" height="342">
 
 Do you think Steve Jobs would have put up with this crap from Icahn? He would have told him to go pound sand. He would have never let himself be bullied into floating tons of debt to buy back stock. 
 

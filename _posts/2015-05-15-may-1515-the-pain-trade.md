@@ -13,7 +13,7 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/HedgiesRealize.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HedgiesRealize.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/HedgiesRealizeMay1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HedgiesRealizeMay1515.png" width="600" height="342">
 
 Last night the S&P 500 finished at a new all time closing high. It did this with little fanfare.
 

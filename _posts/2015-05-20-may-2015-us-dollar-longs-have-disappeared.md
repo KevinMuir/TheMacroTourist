@@ -15,7 +15,7 @@ tags:
   - Yen
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/StillLongUSD.png" alt="http://themacrotourist.com/images/Azure/StillLongUSD.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/StillLongUSDMay2015.png" alt="http://themacrotourist.com/images/Azure/StillLongUSDMay2015.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 During the first quarter of this year, it seemed like all everyone could talk about was the long US dollar trade. The hedgies had all ridden the trade to great profits and, as usual, all they could do was extrapolate that trend continuing forever. I believed the sentiment was so one sided it made more sense to trade the US dollar from the short side ([Apr 06/15 &#8211; The coming US Dollar unwind](http://gfbblogs.azurewebsites.net/blog/2015/04/06/apr-0615-the-coming-us-dollar-unwind/)). Proving that even stopped clocks are right twice a day, I managed to get that call correct. The US dollar index corrected from a high of just over 100 to a low of 93 earlier this week.
 

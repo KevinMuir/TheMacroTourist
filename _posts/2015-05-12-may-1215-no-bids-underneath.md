@@ -16,7 +16,7 @@ tags:
   - Volcker
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/NoBidsUnderneath.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/NoBidsUnderneath.png" width="600" height="550">
+  <img src="http://themacrotourist.com/images/Azure/NoBidsUnderneathMay1215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/NoBidsUnderneathMay1215.png" width="600" height="550">
 
 I have been waiting for this moment for a while. I have long held the belief that the Central Banks will eventually lose control of the long end. But over the past couple of years it seemed like I was the only one who ever worried about it. Even though Central Banks around the world were shovelling heaps of liquidity into the economy, the markets became convinced that monetary theory no longer applied, and that any injections were accompanied by a decline in the velocity of money. 
 

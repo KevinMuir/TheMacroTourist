@@ -15,7 +15,7 @@ tags:
   - quant shops
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/LittleTweaks.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LittleTweaks.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/LittleTweaksJun2515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LittleTweaksJun2515.png" width="600" height="400">
 
 In these posts I rarely get on my soapbox to preach I know for certain where a market is headed. I view trading like being the blackjack dealer at a Vegas casino. On any single hand, the dealer can lose. The dealer can even be cash flow negative for the night. But over the long run, the odds are stacked decidedly in favour of the dealer. In trading our job is not to be right 100% of the time, but merely to set up enough trades with positive risk reward profiles and to manage that risk.
 
@@ -160,7 +160,7 @@ The only insight I can pass along is that every day it drags on, more money flee
 **Some wise words from the squid**
 
 
-  <img src="http://themacrotourist.com/images/Azure/SquidStorm.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SquidStorm.png" width="500" height="350">
+  <img src="http://themacrotourist.com/images/Azure/SquidStormJun2515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SquidStormJun2515.png" width="500" height="350">
 
 Recently Goldman Sach&#8217;s President posted a podcast to the company&#8217;s website. Gary Cohn took the time to warn the troops about the market&#8217;s lack of preparedness regarding potential Federal Reserve rate increases. From Bloomberg:
 

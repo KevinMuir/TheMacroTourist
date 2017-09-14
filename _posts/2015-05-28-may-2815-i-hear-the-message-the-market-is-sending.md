@@ -18,7 +18,7 @@ tags:
   - yield curve
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/BenderRates.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BenderRates.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/BenderRatesMay2815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BenderRatesMay2815.png" width="600" height="342">
 
 We are currently mired in a strange period for the markets. The Federal Reserve would like to get on with the removal of their zero interest rate policy. Nothing would make them happier than if the economy showed enough strength to necessitate a rate hike. The problem is that although there are some signs of encouragement, there is precious little evidence the economy is strong enough to justify raising rates. 
 

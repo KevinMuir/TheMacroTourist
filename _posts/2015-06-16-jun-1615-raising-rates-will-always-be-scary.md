@@ -16,7 +16,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/VentureOutside.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/VentureOutside.png" width="600" height="450">
+  <img src="http://themacrotourist.com/images/Azure/VentureOutsideJun1615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/VentureOutsideJun1615.png" width="600" height="450">
 
 Let&#8217;s face it, there will never be a great time to raise rates. We have stuffed our economy full of so much debt and leverage, relied too much on financial repression to boost the value of long dated financial assets, and in general created such a Frankenstein economy addicted to cheap credit that raising rates _will from now on always be scary._ When guys like Leon Cooperman argue we shouldn&#8217;t worry about the first hike they are mistakenly assuming the markets will behave like previous cycles.
 
@@ -37,7 +37,7 @@ Remember Jim Bianco&#8217;s recent reminder that no country has ever normalized 
 If Leon Cooperman and guys like him are sure they know how the markets and the economy will react, they must be even smarter than their reputations. I, on the other hand, don&#8217;t have a clue what this economic monstrosity will spit out.
 
 
-  <img src="http://themacrotourist.com/images/Azure/BernankeControl.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BernankeControl.png" width="600" height="700">
+  <img src="http://themacrotourist.com/images/Azure/BernankeControlJun1615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BernankeControlJun1615.png" width="600" height="700">
 
 All I know is that the financial system is much more unstable than almost everyone believes. 
 

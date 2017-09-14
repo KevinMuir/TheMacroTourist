@@ -17,7 +17,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/Pulp25bps.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Pulp25bps.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/Pulp25bpsMar2315.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Pulp25bpsMar2315.png" width="600" height="342">
 
 I am old enough to remember when stocks used to trade in eighths. I know this might seem crazy to my young readers, but almost everything used to trade in fractions of eight. When you wanted to narrow the spread, we moved down to sixteenths and thirty-seconds. It sometimes even got really stupid and we would trade stocks in 128ths. Obviously this tradition was nothing more than an archaic throwback to the past, and the equity markets had the good sense to move to decimal trading well over a decade ago. 
 

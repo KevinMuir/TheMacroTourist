@@ -18,7 +18,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/TreadingWater.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TreadingWater.png" width="600" height="500">
+  <img src="http://themacrotourist.com/images/Azure/TreadingWaterJun1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TreadingWaterJun1915.png" width="600" height="500">
 
 If you are older than forty years old, then you probably remember **Magnum PI**. For my younger readers, Magnum was a popular TV show from the 1980&#8217;s about a private investigator who lived on the Hawaiian estate of some elusive millionaire (a million dollars actually meant something back then).
 

@@ -17,7 +17,7 @@ tags:
   - Petrobas
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/HemingwayLoans.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HemingwayLoans.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/HemingwayLoansJun0115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HemingwayLoansJun0115.png" width="600" height="600">
 
 Over the week-end, Greek Premier Alexis Tsipras stomped down on the intensity pedal with an aggressive editorial in Le Monde. The Telegraph&#8217;s Ambrose Evans-Pritchard summed it up nicely:
 
@@ -76,7 +76,7 @@ Although I believe the Greeks should hold tough in their negotiations, there wil
 If I were forced to guess the outcome, I would probably err on the side European officials will acquiesce to the Greek demands. At the end of the day, government officials want to kick the can down the road. No one wants to be the one who ushers in the next credit crisis. I don&#8217;t think any government will willfully take away the printing press. Although many will mouth words of fiscal responsibility, when it comes down to it, none of this &#8220;extend and pretend&#8221; will stop until the markets say enough is enough. To think otherwise is just naive.
 
 
-  <img src="http://themacrotourist.com/images/Azure/HemingwayKick.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HemingwayKick.png" width="600" height="700">
+  <img src="http://themacrotourist.com/images/Azure/HemingwayKickJun0115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HemingwayKickJun0115.png" width="600" height="700">
 
 <hr size="3" width="85%" />
 

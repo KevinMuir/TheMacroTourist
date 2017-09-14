@@ -13,7 +13,7 @@ tags:
   - Steve Cohen
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/EvilBear.png" alt="http://themacrotourist.com/images/Azure/EvilBear.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/EvilBearMay1415.png" alt="http://themacrotourist.com/images/Azure/EvilBearMay1415.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Can you remember back to the last financial crisis? As the 2007/8 credit swoon dragged on, do you recall how many traders tried to catch what they felt was an oversold stock market? It was after all, down a long way.
 

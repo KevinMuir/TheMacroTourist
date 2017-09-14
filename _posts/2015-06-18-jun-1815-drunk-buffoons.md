@@ -18,7 +18,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/FedOfficialsatFOMC.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FedOfficialsatFOMC.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/FedOfficialsatFOMCJun1815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FedOfficialsatFOMCJun1815.png" width="600" height="400">
 
 Well, I sure whiffed on that call. Although I did not think the Fed would raise rates at yesterday&#8217;s FOMC meeting, I was convinced they would take the opportunity to cement in expectations for a September hike. The market was pricing an approximately 50% chance of a 25 basis point rise in Fed Funds by October (first clean month of Fed Fund futures after the mid-September FOMC meeting). After yesterday&#8217;s meeting this probability declined to 40%.
 

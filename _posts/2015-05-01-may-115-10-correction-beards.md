@@ -17,7 +17,7 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/JesseFelder.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JesseFelder.png" width="500" height="500">
+  <img src="http://themacrotourist.com/images/Azure/JesseFelderMay0115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JesseFelderMay0115.png" width="500" height="500">
 
 One of the guys I follow on Twitter is an ex-Bear Stearns guy who now writes his own newsletter. He is a smart shrewd fellow, and even more importantly, he makes me laugh. His name is [Jesse Felder](http://jessefelder.tumblr.com/post/112242999915/this-is-my-10-beard-its-about-5-months-old-now) and last fall he decided he wouldn&#8217;t shave until the stock market experienced a 10% correction. Think about it as a playoff hockey beard if you may (for my non-Canadian readers, NHL players often don&#8217;t shave during the entire playoffs and by the time they get to the Stanley Cup finals, there are some pretty burly looking players). Well, even the NHL playoffs don&#8217;t last as long as the market has managed to go without a 10% correction. I am actually a little worried about Jesse as the picture above was taken in February, so he has another two months of growth since then, and the stock market is still miles away from a 10% correction. 
 

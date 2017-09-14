@@ -15,7 +15,7 @@ tags:
   - liquidity
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/RelaxingPool.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/RelaxingPool.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/RelaxingPoolJun1215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/RelaxingPoolJun1215.png" width="600" height="342">
 
 Over the past few weeks there has been a tremendous amount of discussion in the media about the lack of liquidity in financial markets. Market pundits are tossing around a multitude of different theories for the reason of this collapse. Everything from the Volcker rule to HFT (high frequency trading) is being blamed. It seems like every big shot financial titan has felt the need to weigh in on this subject.
 

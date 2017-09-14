@@ -75,6 +75,3 @@ Thanks for reading,
 Kevin Muir
   
 the Macro Tourist
-
-
-  <img src="http://themacrotourist.com/images/Azure/MacroTouristBison.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MacroTouristBison.png" width="300" height="300">

@@ -16,7 +16,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/YellenEarlyHikes.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/YellenEarlyHikes.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/YellenEarlyHikesMay2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/YellenEarlyHikesMay2615.png" width="600" height="400">
 
 On Friday Fed Chairwoman Janet Yellen gave a speech in Rhode Island. Although it would be foolish to expect any change in policy at this sort of speech, it was still a chance to gain a better understanding at how Yellen sees the economy unfolding. As I listened to the speech, a moment of dread for my long US dollar position immediately overcame me as Yellen&#8217;s words hit the tape:
 

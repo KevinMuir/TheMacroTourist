@@ -19,7 +19,7 @@ tags:
   - yield curve
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/Dontpushluck.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Dontpushluck.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/DontpushluckJun3015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DontpushluckJun3015.png" width="600" height="400">
 
 I am a little bit of a fence sitter when it comes to technical analysis. Although I acknowledge there are aspects of technical analysis that work, my main complaint is that technical analysts try to explain every squiggle when more often than not, it is completely random. In my previous life as an index trader we used to get big orders that pushed around the entire stock market. Sometimes as we moved up or down the market, we would reach a point where another big client would fill our order. All of a sudden, the market might go from being better bid to offered, as our new seller would continue leaning on it. Later that evening when I would go home and turn on the business news, I would sometimes see a technical analyst talking about how the market reached an important Fibonacci level and couldn&#8217;t break through resistance. Well, I was part of the discussion persuading the seller to plug our buyer, and I knew full well that Fibonacci levels and every other technical indicator under the sun has absolutely zero influence. I don&#8217;t think technical analysis never works, I just don&#8217;t think it can be used to explain all the random price movements.
 

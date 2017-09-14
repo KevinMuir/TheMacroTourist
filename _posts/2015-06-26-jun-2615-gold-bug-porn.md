@@ -18,7 +18,7 @@ tags:
   - Sprott
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/EricSprottPorn.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EricSprottPorn.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/EricSprottPornJun2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EricSprottPornJun2615.png" width="600" height="342">
 
 I am no dyed in the wool gold bug. If I believed the world&#8217;s Central Banks were about to reverse their course of excessively easy monetary policy and instead normalize rates, then I would short gold with both fists. Yet when I look at the policies that governments and Central Banks are perpetuating, it makes me realize there is no other answer except to inflate our way out. The debt problem is only getting worse. As a global society, we continue to spend way more than we earn. As this debt mounts, we become more sensitive to rises in interest rates, which in turn, forces Central Banks to keep rates even lower. This increase in debt diminishes our ability to spend, so the economy sags, forcing the Central Banks to lower rates even further. This cycle continues until the Central Banks have negative rates and are in essence &#8220;pushing on a string.&#8221; We are reaching the point where the Central Banks&#8217; ability to influence the economy is so muted, they are becoming desperate. 
 
@@ -29,7 +29,7 @@ But if you are like me, and you believe that no society has ever chosen austerit
 I understand that feeling. Too many gold bugs seem to be bullish regardless of what is happening in the markets. If the banks are going up, then you need to buy gold. If the banks are going down, you need to buy gold. If the US dollar is rising, then you need to buy gold. If the US dollar is falling, you need to buy gold. These guys are obsessed with gold, and their position ledger only knows long, longer, and max long. 
 
 
-  <img src="http://themacrotourist.com/images/Azure/MoreEricPorn.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MoreEricPorn.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/MoreEricPornJun2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MoreEricPornJun2615.png" width="600" height="342">
 
 For a couple of years after the 2008 credit crisis, the financial community swallowed the gold bugs&#8217; story hook line and sinker. Stories about famed hedge fund manager Jim Paulson&#8217;s massive gold position filled the trader&#8217;s gossip rooms. He had nailed the real estate debacle, and now was about to nail the gold trade. The GLD ETF was the number one holding on hedge fund&#8217;s position sheet for months and months. Gold bugs like Eric Sprott became celebrities. 
 
@@ -86,7 +86,7 @@ Usually I stick to writing about macro events, but this next part is something a
 **North American Palladium &#8211; A balance sheet arbitrage opportunity?**
 
 
-  <img src="http://themacrotourist.com/images/Azure/WarrenJun2615" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/WarrenJun2615" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/WarrenJun2615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/WarrenJun2615.png" width="600" height="400">
 
 Everyone wants to invest like Warren Buffett, but his unique position often gives him access to deals that regular investors can&#8217;t buy. Think back to the credit crisis of 2008. In the depths of the panic, Warren invested in a few different financial companies. But instead of just wandering onto the stock exchange and purchasing stock like the rest of us, Warren was able to strike sweetheart deals. Goldman Sachs came knocking and asked for $5 billion. Warren agreed, but it came in the form of a preferred share that paid 10% with warrants to buy Goldman Sachs stock at $115. It was in essence a synthetic convertible preferred. If Goldman Sachs&#8217; stock went nowhere for the next few years, then Warren would earn 10% (assuming Goldman was still around to pay back the preferred). If the stock rallied, then Warren would participate fully. It was a heads-I-win tails-you-lose situation for Warren. There can be no denying that having this sort of preferential deal access creates a tail wind at Warren&#8217;s portfolio&#8217;s back.
 

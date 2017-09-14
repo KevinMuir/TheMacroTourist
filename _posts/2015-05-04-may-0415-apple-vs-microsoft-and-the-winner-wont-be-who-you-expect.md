@@ -18,7 +18,7 @@ tags:
   - Steve Jobs
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/DogAppleWatch.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DogAppleWatch.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/DogAppleWatchMay0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DogAppleWatchMay0415.png" width="600" height="600">
 
 I don&#8217;t usually write much about individual stocks, but today I will make an exception. I am sure when you read my post, you will think that I am a clueless idiot. But I am going to put it out there nonetheless. 
 
@@ -82,7 +82,7 @@ The design is also sorely lacking. In a blow that strikes Apple hard, it was rec
 I am a seller of the Apple Watch and think it is only a matter of time before it becomes as cool as &#8220;Google Glasses.&#8221; 
 
 
-  <img src="http://themacrotourist.com/images/Azure/GoogleGlass.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GoogleGlass.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/GoogleGlassMay0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GoogleGlassMay0415.png" width="600" height="400">
 
 Don&#8217;t forget how jazzed up everyone was about Google Glass when it was first launched. Now you are a pariah if you wear it in public. I don&#8217;t expect Apple Watch to bomb that badly, but the market will be disappointed with the adoption rate. 
 
@@ -170,7 +170,7 @@ Every time you turn around, Microsoft is showing signs of innovating. No longer 
 I know it is gimicky, but their recent [How-Old.net](http://how-old.net/) web page is illustrative of how Microsoft is changing. This web service allows you to upload your photo and their software uses new algorithms to estimate your age. Give a whirl &#8211; it&#8217;s actually quite neat. I uploaded a photo of myself, and although it did guess my age to be a couple years older than my actual age, I attribute that to the stress of being short Apple in the face of the mad crowd of bulls. I decided to upload a photo of Yoda, and I was quite shocked that the software managed to guess his age bang on.
 
 
-  <img src="http://themacrotourist.com/images/Azure/HowOldisYoda.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HowOldisYoda.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/Azure/HowOldisYodaMay0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HowOldisYodaMay0415.png" width="600" height="600">
 
 There are a million other neat things that Microsoft is working on. I could list more, but there is no one &#8220;magic bullet.&#8221; **As &#8220;the kid&#8221; explained to me, Microsoft are simply doing all the right things they should have been doing ages ago.**
 

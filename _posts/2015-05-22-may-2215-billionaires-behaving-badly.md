@@ -17,7 +17,7 @@ tags:
   - Steve Schwarzman
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/CrabClaws.png" alt="http://themacrotourist.com/images/Azure/CrabClaws.png" style="margin:30px auto;display:block;" width="400" height="500">
+  <img src="http://themacrotourist.com/images/Azure/CrabClawsMay2215.png" alt="http://themacrotourist.com/images/Azure/CrabClawsMay2215.png" style="margin:30px auto;display:block;" width="400" height="500">
 
 Recently BlackStone’s Steve Schwarzman gave $150 million to his alma mater, Yale University. Proving that billionaires are no less insecure than the rest of us, he took the opportunity to strike out against the university that rejected him a few decades back. Although it was hard to hear, during the interview with Bloomberg news, I could definitely make out some sniffles as Steve recounted the story about being turned down by Harvard Business school. As tears welled up, Schwarzman recounted how he even phoned the Dean from his high school pay phone, begging for him to change his mind. He said it was like phoning “God” (which Schwarzman said we now know is just silly, as God works at Goldman Sachs). At this stage in the interview, Steve needed to take a break. After pulling himself together, Steve told how he got the last laugh. The Dean of Harvard reached out to him last year to say, “Boy we sure got that one wrong.”
 

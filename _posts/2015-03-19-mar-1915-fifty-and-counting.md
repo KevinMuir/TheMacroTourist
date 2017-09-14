@@ -18,7 +18,7 @@ tags:
   - Yellen
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/RiskyBusiness.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/RiskyBusiness.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/RiskyBusinessMar1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/RiskyBusinessMar1915.png" width="600" height="400">
 
 We knew that yesterday&#8217;s FOMC meeting was an important one, and it certainly didn&#8217;t disappoint. The S&P rallied 30 handles and the US dollar index traded in a 3 big figure range.
 
@@ -72,6 +72,3 @@ Thanks for reading,
 Kevin Muir 
   
 the MacroTourist
-
-
-  <img src="http://themacrotourist.com/images/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/images/Azure/MTArrow.png" width="200" height="100">

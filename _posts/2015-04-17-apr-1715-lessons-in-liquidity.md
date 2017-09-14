@@ -115,5 +115,3 @@ And it&#8217;s not just sell side CEOs trying to scare Congress into loosening t
   </p>
   
   
-    <img src="http://themacrotourist.com/images/Azure/TheMacroTouristBear.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TheMacroTouristBear.png" width="300" height="300" /></a>
-  </div>

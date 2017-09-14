@@ -15,7 +15,7 @@ tags:
   - QE
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/EuroStoxxLongs.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EuroStoxxLongs.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/EuroStoxxLongsJun0915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EuroStoxxLongsJun0915.png" width="600" height="400">
 
 A couple of weeks ago [(May 29/15 &#8211; Day 172 of Knife Catchers Anonymous™)](http://themacrotourist.com/blog/2015/05/29/may-2915-day-172-of-knife-catchers-anonymous-2/) I suggested the long EuroStoxx was a crowded trade and due for a pull back. Although I didn&#8217;t know the catalyst, I figured the massively overbought nature of the trade made the risk reward favour at the very least watching from the sidelines.
 

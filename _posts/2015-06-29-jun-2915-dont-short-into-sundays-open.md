@@ -15,7 +15,7 @@ tags:
   - Greece
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/LennonSundayOpen.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LennonSundayOpen.png" width="600" height="700">
+  <img src="http://themacrotourist.com/images/Azure/LennonSundayOpenJun2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/LennonSundayOpenJun2915.png" width="600" height="700">
 
 Friday night&#8217;s surprise from Greek Prime Minister&#8217;s Tsipras certainly threw the markets for a loop. After what seemed like an endless series of deadline extensions, the Europeans finally told the Greeks to shit or get off the pot. In what had surely been the plan all along, the Greek government quickly called a referendum to let the Greek people decide if they should accept the proposed deal. This was a brilliant strategic move by the Greek government. There was little chance the Europeans would acquiesce to all the Greek&#8217;s demands, so at a certain point, an imperfect deal would have to either be accepted or declined. Either way, the Greek government would be blamed. It was a no-win situation for them. So instead of displeasing everyone, they threw the decision back to the Greek people. They in essence said &#8220;we have negotiated the best deal we can for you, now you decide if you want it or not.&#8221; Shrewd. 
 

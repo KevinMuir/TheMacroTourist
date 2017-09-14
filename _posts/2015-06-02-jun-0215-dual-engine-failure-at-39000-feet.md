@@ -15,7 +15,7 @@ tags:
   - Fed
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/SingaporeAirlines.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SingaporeAirlines.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/SingaporeAirlinesJun0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SingaporeAirlinesJun0215.png" width="600" height="400">
 
 The other day I was chatting with my co-coach for my oldest daughter&#8217;s soccer team. We have been coaching our daughters together for years, and have gotten to know each well enough to talk about a little more than just soccer strategy. He&#8217;s a pretty interesting guy. He used to fly planes for the military, but he now hauls around passengers for a big Canadian airline. When I am bored, I usually quiz him about all the pilot stuff the twelve year boy in me always wanted to know.
 

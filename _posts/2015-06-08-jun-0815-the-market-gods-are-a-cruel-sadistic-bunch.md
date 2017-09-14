@@ -17,7 +17,7 @@ tags:
   - Triple Crown
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/YellenRaiseRates.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/YellenRaiseRates.png" width="600" height="375">
+  <img src="http://themacrotourist.com/images/Azure/YellenRaiseRatesJun0615.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/YellenRaiseRatesJun0615.png" width="600" height="375">
 
 Friday&#8217;s US employment release pushed the Federal Reserve one step closer towards the first rate hike in over a decade. The change in non-farm payrolls came in at 280k versus an expected 226k. More importantly, the average hourly earnings nudged up to 2.3%. All in, it was a solid report with almost all aspects heading in the right direction. [Tim Duy&#8217;s Fed Watch blog](http://economistsview.typepad.com/timduy/2015/06/solid-employment-reprot.html) had a great summary of the different employment indicators that Yellen keeps an eye on to judge the state of the labour market.
 

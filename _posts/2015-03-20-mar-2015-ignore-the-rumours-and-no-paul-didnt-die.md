@@ -99,5 +99,3 @@ Kevin Muir
   
 the MacroTourist
 
-
-  <img src="http://themacrotourist.com/images/Azure/MTWood"><img class="size-full wp-image-14271" style="padding-bottom: 0.5em;" style="margin:30px auto;display:block;" src="http://themacrotourist.com/images/Azure/MTArrow.png" width="200" height="100">

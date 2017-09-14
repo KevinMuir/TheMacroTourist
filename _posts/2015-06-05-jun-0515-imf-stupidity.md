@@ -18,7 +18,7 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/IMFFed.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IMFFed.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/IMFFedJun0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/IMFFedJun0515.png" width="600" height="400">
 
 In what has to be one of the stupidest moves I have seen in a long time, yesterday IMF Head Christine Lagarde told the Fed to hold off raising rates until the first half of 2016. One of my twitter guys joked that the IMF is used to telling highly indebted sovereigns what to do with their economies. All kidding aside, this was such a brain dead move I can&#8217;t figure what Lagarde was thinking. I have to believe it wasn&#8217;t a mistake. You don&#8217;t get to be the head of the IMF making off handed remarks. So I am assuming Lagarde purposely applied this pressure. But why?
 

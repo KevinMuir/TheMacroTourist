@@ -18,7 +18,7 @@ tags:
   - Niels Jensen
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/BondBullsBeware.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BondBullsBeware.png" width="500" height="600">
+  <img src="http://themacrotourist.com/images/Azure/BondBullsBewareJun1515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BondBullsBewareJun1515.png" width="500" height="600">
 
 One of my bigger failings as a trader is my tendency to be correct at turning points, but then giving up on the trade too early because it has moved &#8220;too far too fast.&#8221; I try to stick with it, but I find it difficult to be among the herd. As soon I notice too many people agreeing with me, I figure I must be wrong. This is obviously a dumb conclusion. During the meat of the move, the herd will be correct, and the proper time to be contrarian is only at extremes. 
 

@@ -14,7 +14,7 @@ tags:
   - Fed
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/Fedunclog.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/Fedunclog.png" width="500" height="400">
+  <img src="http://themacrotourist.com/images/Azure/FedunclogJun2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FedunclogJun2215.png" width="500" height="400">
 
 Last week, the Telegraph published an unusual article whose interviewee advocated the following:
 
@@ -71,7 +71,7 @@ Over the week-end I listened to an interview on King World News (I can&#8217;t b
 I love that line. They are _faking it._ I couldn&#8217;t agree more. 
 
 
-  <img src="http://themacrotourist.com/images/Azure/FedOfficialsFaking.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FedOfficialsFaking.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Azure/FedOfficialsFakingJun2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/FedOfficialsFakingJun2215.png" width="600" height="400">
 
 These Central Bankers are completely and utterly lost. They have theories, but they are simply applying duct tape on the most recent point of failure. Not only that, they are slowly coming to terms with the realization about the monster Frankenstein disaster they have created. As Nomi said:
 

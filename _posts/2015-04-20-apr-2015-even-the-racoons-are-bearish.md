@@ -67,7 +67,7 @@ For a rich Chinese person who is thinking about emigrating to Canada, or more li
 I have no idea how long this can continue. One of my co-workers lives in a tower in a younger part of the city and he tells me that it is filled with Asian kids driving much too nice cars for their stage in life. It seems like whenever I see a fancy new BMW i8 or some other exotic sports car on the road in Toronto there is a kid who doesn&#8217;t look old enough to shave driving it.
 
 
-  <img src="http://themacrotourist.com/images/Azure/BMWi8Apr2015-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BMWi8Apr2015-1.png" width="500" height="342">
+  <img src="http://themacrotourist.com/images/Azure/BMWi8Apr2015.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BMWi8Apr2015.png" width="500" height="342">
 
 There is no doubt that my dog park real estate agents have to be at least partially correct that this influx of immigration is driving the Canadian housing market. I don&#8217;t have any clue when this is going to end. I actually would have thought it would have already be over, but it shows no signs of even slowing down. 
 
@@ -91,5 +91,3 @@ Kevin Muir
   
 the Macro Tourist
 
-
-  <img src="http://themacrotourist.com/images/Azure/TheMacroTouristBear.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/TheMacroTouristBear.png" width="300" height="300">

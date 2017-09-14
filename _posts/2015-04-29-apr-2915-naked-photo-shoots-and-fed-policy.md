@@ -71,7 +71,7 @@ And just like the Fed was convinced that the wealth affect would kick start the 
 As we have approached the previously communicated economic conditions necessary for the Fed to remove the &#8220;emergency rate&#8221; rate of zero, the Fed has continually moved the goal posts. Every time we get close, they pull the ball away.
 
 
-  <img src="http://themacrotourist.com/images/Azure/EmergencyLowRate.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EmergencyLowRate.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/EmergencyLowRateApr2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EmergencyLowRateApr2915.png" width="600" height="342">
 
 They give lip service to the idea of raising rates, but they are simply too scared of how the markets will react. 
 
@@ -80,7 +80,7 @@ Remember Einhorn&#8217;s $250,000 lunch with Ben Bernanke? How can you forget Da
 The Fed went into the previous crisis with good intentions. They didn&#8217;t nefariously blow this massive bubble. But that ended up being the result. They have allowed things to progress to the point where there is no good way out. This will end badly. 
 
 
-  <img src="http://themacrotourist.com/images/Azure/HanLeia.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HanLeia.png" width="500" height="600">
+  <img src="http://themacrotourist.com/images/Azure/HanLeiaApr2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/HanLeiaApr2915.png" width="500" height="600">
 
 This dilemma was no more planned than my naked pictures with my pregnant wife. But let me tell you the final chapter of that story. Just like the Fed hasn&#8217;t thought through all the unintended consequences of their easy money policies, my wife and I hadn&#8217;t thought through all the consequences of those pictures. After picking them up, we took the nice tasteful one and hung it up in our home. The racier artsy ones were quickly put in the closet, with us both vowing to never speak of them again. I thought the saga was over. 
 

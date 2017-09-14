@@ -15,7 +15,7 @@ tags:
   - German
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/PreparetoDie.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PreparetoDie.png" width="500" height="450">
+  <img src="http://themacrotourist.com/images/Azure/PreparetoDieJun0415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PreparetoDieJun0415.png" width="500" height="450">
 
 There is really only one story to talk about this morning. The German Bund mini-crash is the driving force behind all other global macro price movements over the past couple of days. The selling in the bund started on Monday, and has been relentless all week long.
 
