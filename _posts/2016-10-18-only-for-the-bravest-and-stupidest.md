@@ -53,7 +53,7 @@ With the Deutsche Bank concerns and the uncertainty of the upcoming US election,
 
 This means that although the 30 year US treasury yield is 2.52%, the equivalent swap is only 1.96%!
 
-<a href="http://themacrotourist.com/images/USSW30Oct17165.png"><img src="http://themacrotourist.com/images/USSW30Oct17165.png" alt="http://themacrotourist.com/images/USSW30Oct17165.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/USSW30Oct1716.png"><img src="http://themacrotourist.com/images/USSW30Oct1716.png" alt="http://themacrotourist.com/images/USSW30Oct1716.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 Swap rates have not backed up nearly as much as treasury yields during the past month.  
 

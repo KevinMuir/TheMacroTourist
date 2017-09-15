@@ -70,7 +70,7 @@ In the mean time, speculators are overly optimistic about economic growth.  They
 
 Somehow they have also talked themselves into believing Trump's policies will be bullish for oil prices.  If anything, his beliefs more closely resemble Sarah Palin's "drill baby drill."
 
-<a href="http://themacrotourist.com/images/2017/01/drill-baby-drill.jpg"><img src="http://themacrotourist.com/images/2017/01/drill-baby-drill.jpg" alt="http://themacrotourist.com/images/2017/01/drill-baby-drill.jpg" width="600" height="700" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/2017/01/drill-baby-drill.jpgJan3017"><img src="http://themacrotourist.com/images/2017/01/drill-baby-drillJan3017.jpg" alt="http://themacrotourist.com/images/2017/01/drill-baby-drillJan3017.jpg" width="600" height="700" style="margin:30px auto;display:block;"></a>
 
 I don't see how this all adds up to higher oil prices.  Markets that have record net long speculative positions, priced for perfection, are a recipe for disaster.  
 

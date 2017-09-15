@@ -30,7 +30,7 @@ But what if I told you all these worries were as old as the hills?  Have a look 
 
 ***Debt levels are disturbingly high.***
 
-<a href="http://themacrotourist.com/images/39BillionSep216.jpg"><img src="http://themacrotourist.com/images/39BillionSep216.jpg" alt="http://themacrotourist.com/images/39BillionSep216.jpg" width="750" height="500" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/39BillionSep2316.jpg"><img src="http://themacrotourist.com/images/39BillionSep2316.jpg" alt="http://themacrotourist.com/images/39BillionSep2316.jpg" width="750" height="500" style="margin:30px auto;display:block;"></a>
 
 ***Learning nothing from the 2008 crisis, Wall Street bankers keep stuffing money into their own jeans, ignoring Main Street.***
 

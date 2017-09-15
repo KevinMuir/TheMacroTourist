@@ -106,7 +106,7 @@ What is a bond investor's worst nightmare (except for default)?  Inflation.  Wha
 
 I know this is a hard concept for many investors to accept, but **Quantitative Easing is NOT bond friendly.**
 
-<a href="http://themacrotourist.com/images/NotBondFriendly.png"><img src="http://themacrotourist.com/images/NotBondFriendly.png" alt="http://themacrotourist.com/images/NotBondFriendly.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/NotBondFriendlyMar1116.png"><img src="http://themacrotourist.com/images/NotBondFriendlyMar1116.png" alt="http://themacrotourist.com/images/NotBondFriendlyMar1116.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 Thanks for reading and have a great weekend,  
 Kevin Muir  

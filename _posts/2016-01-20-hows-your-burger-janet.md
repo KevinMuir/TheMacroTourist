@@ -36,7 +36,7 @@ Much to many of these old timers surprise, the stock market failed to follow the
 Instead of shrugging off the rate hike, the S&P 500 has plummeted by almost 8%. Small cap stocks have fared even worse.
 
 
-  <img src="http://themacrotourist.com/images/RTYJan20165.png" alt="http://themacrotourist.com/images/RTYJan20165.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+  <img src="http://themacrotourist.com/images/RTYJan2016.png" alt="http://themacrotourist.com/images/RTYJan2016.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 **What Cooperman and all the other economic optimists are missing is the fact we are in a balance sheet recession.** The natural state of the global economy is for credit to be paid back, not expanded. Absent aggressive monetary (or fiscal) policy measures, credit will be destroyed. When Bernanke&#8217;s Fed was engaged in all the various forms of Quantitative Easing, the natural credit contraction was offset enough to put off the deleveraging. But ever since Yellen has taken over as head of the Federal Reserve, she has ended all the QE programs and proceeded to raise rates. This has ushered in a massive contractionary credit destruction cycle. With the supply of US dollars shrinking the greenback has rallied. The declining liquidity has starved the global financial system of the much needed lubricant to keep the precariously balanced unprecedented debt burden from collapsing.
 

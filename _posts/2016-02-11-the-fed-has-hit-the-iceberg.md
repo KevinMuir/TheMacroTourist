@@ -41,7 +41,7 @@ There seems to be a lot of bewilderment about the US dollar sell off versus the 
 
 The real question you should ask is whether China has included another non-traditional currency in that basket.  I know if I were China, I would...
 
-<img src="http://themacrotourist.com/images/GotGold.png" alt="http://themacrotourist.com/images/GotGold.png" width="600" height="200" style="margin:30px auto;display:block;"></a>
+<img src="http://themacrotourist.com/images/GotGoldFeb1116.png" alt="http://themacrotourist.com/images/GotGoldFeb1116.png" width="600" height="200" style="margin:30px auto;display:block;"></a>
 
 Thanks for reading,  
 Kevin Muir  
