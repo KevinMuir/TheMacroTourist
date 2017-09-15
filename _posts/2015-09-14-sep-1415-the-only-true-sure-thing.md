@@ -17,7 +17,7 @@ tags:
   - Yuan
 ---
 
-  <img src="http://themacrotourist.com/images/TheSureThing.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/TheSureThing.png" width="400" height="600">
+  <img src="http://themacrotourist.com/images/TheSureThingSep1415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/TheSureThingSep1415.png" width="400" height="600">
 
 In the mid 1980s Rob Reiner released the classic teenage romantic comedy _The Sure Thing._ It was Reiner’s second film, and to a large degree forgotten by serious film buffs. There is no denying the premise was stupid. John Cusak plays the lead character, a college student travelling across the country to visit his pal, who has promised to set him up with this beautiful girl. The girl is described as a “sure thing.” To save money, Cusak shares the journey with Daphne Zuniga, another college student. They are complete opposites and find each other’s company annoying. Of course, in the end Cusak falls in love with his polarizing travel companion instead of the “sure thing.” The movie is formulaic, predictable and juvenile. Having said all that, I think it is terrific. It doesn’t hurt that I was 15 years old when it was released, but I refuse to be swayed that it deserves the 6.9 out of 10 that Rotten Tomatoes rates it. In my mind, it is a classic that will forever be burned into my teenage mind as one of the best movies of the 1980s.
 

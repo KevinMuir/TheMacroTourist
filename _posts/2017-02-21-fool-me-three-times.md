@@ -41,7 +41,7 @@ This is best exemplified by the recent widening out of French / German yield spr
 
 This flight out of French (and other European risky assets) is creating a wall of money flowing into German (supposedly safe) assets.  This morning, the German 2 year yield hit a record low of minus 86 basis points!   F' me. 
 
-<a href="http://themacrotourist.com/images/2017/02/GDBR2Feb21117.png"><img src="http://themacrotourist.com/images/2017/02/GDBR2Feb21117.png" alt="http://themacrotourist.com/images/2017/02/GDBR2Feb21117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/2017/02/GDBR2Feb2117.png"><img src="http://themacrotourist.com/images/2017/02/GDBR2Feb2117.png" alt="http://themacrotourist.com/images/2017/02/GDBR2Feb2117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 An investor needs to give up more than a 1.5% of their principal for the privilege of lending the German government money for two years.
 

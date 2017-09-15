@@ -30,7 +30,7 @@ Last year when Vancouver was facing the same sort of runaway price rise, their g
 
 Many of them came to Toronto.
 
-<a href="http://themacrotourist.com/images/2017/04/YYZYYVApr211.jpg"><img src="http://themacrotourist.com/images/2017/04/YYZYYVApr211.jpg" alt="http://themacrotourist.com/images/2017/04/YYZYYVApr211.jpg" width="400" height="460" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/2017/04/YYZYYVApr2117.jpg"><img src="http://themacrotourist.com/images/2017/04/YYZYYVApr2117.jpg" alt="http://themacrotourist.com/images/2017/04/YYZYYVApr2117.jpg" width="400" height="460" style="margin:30px auto;display:block;"></a>
 
 I am not claiming foreigners are the culprit for Toronto's out of control rising housing market.  I actually think absurdly low interest rates, combined with unscrupulous dealings from companies like Home Capital Group, are more to blame.  But Vancouver's decision definitely sent more money scuttling to Toronto, at a time when supply was already tight.  This extra demand sent prices soaring.
 

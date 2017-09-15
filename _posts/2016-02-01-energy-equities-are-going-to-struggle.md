@@ -13,7 +13,7 @@ tags:
  
 ---
 
-<img src="http://themacrotourist.com/images/EnergyFeb0116.png" alt="http://themacrotourist.com/images/EnergyFeb0116.png" style="width:700px;height:auto;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/EnergyFeb0116.png" alt="http://themacrotourist.com/images/EnergyFeb0116.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 A couple of weeks ago when [I wrote a post about my bullish leanings on crude oil](<http://themacrotourist.com/blog/2016/01/15/gutsiest-move-i-ever-saw-mav/>), I received a whole bunch of feedback warning me about the dire straights of the energy industry.  Many were concerned I did not understand the true extent of the damage done to the energy sector.  
 
@@ -31,14 +31,13 @@ Now we are left with the aftermath of the bubble - too much supply being pumped 
 
 Even if we get a crude oil rally to $35, $40 or even $50, most of these companies will still not be able to survive.  By the end of the bubble, most of their debt was issued at levels that required $80 oil, continued access to cheap capital and depletion rates that were probably overly optimistic.  
 
-<img src="http://themacrotourist.com/images/CostFeb0116.jpg" alt="http://themacr
-otourist.com/pictures/CostFeb0116.jpg" style="width:500px;height:auto;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/CostFeb0116.jpg" alt="http://themacrotourist.com/pictures/CostFeb0116.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 When I say I am bullish on energy, I mean the actual price of crude oil - not energy companies' equity prices.  We have experienced a great bubble, and when a bubble of this sort bursts, it takes a long time to work off the excesses.   
 
 Think back to one of the greatest bubbles of all time - the DotCom bubble.  When it collapsed many investors were anticipating a big bounce to retrace a significant portion of the decline.  
 
-<img src="http://themacrotourist.com/images/NDXFeb0116.png" alt="http://themacrotourist.com/images/NDXFeb0116.png" style="width:700px;height:auto;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/NDXFeb0116.png" alt="http://themacrotourist.com/images/NDXFeb0116.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 However instead of bouncing hard after the monster decline, the Nasdaq 100 went sideways for the next five years.  It was a complete grind as the wheat was separated from the chaff.  
 

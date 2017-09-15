@@ -14,7 +14,7 @@ tags:
   - Jim Grant
 ---
 
-  <img src="http://themacrotourist.com/images/AllBehold.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/AllBehold.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/AllBeholdJul2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/AllBeholdJul2715.png" width="600" height="400">
 
 Short and sweet today as the MacroTourist is actually on a camping trip with the wife’s in-laws celebrating her father’s 70th birthday. Almost skipped posting, but on Friday I stumbled on a Jim Grant interview that I couldn’t resist writing up.
 

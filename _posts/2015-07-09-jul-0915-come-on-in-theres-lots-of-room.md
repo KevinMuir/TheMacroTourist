@@ -18,7 +18,7 @@ tags:
   - Yen
 ---
 
-  <img src="http://themacrotourist.com/images/Comeonin2.png" alt="http://themacrotourist.com/images/Comeonin2.png" style="margin:30px auto;display:block;" width="600" height="400">
+  <img src="http://themacrotourist.com/images/Comeonin2Jul0915.png" alt="http://themacrotourist.com/images/Comeonin2Jul0915.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Things got a little squirrelly yesterday. There was some real fear as investors panicked that China was plunging into the abyss. Investors pitched commodity trades faster than John Travolta heads to the men’s steam room after a workout.
 

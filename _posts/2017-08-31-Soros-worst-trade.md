@@ -21,7 +21,7 @@ There is this Canadian rock star who retired a few years back and took up hostin
 
 Well, I am stealing his idea with my own segment called, **"Damn! I wish I traded that!"**  
 
-<a href="http://themacrotourist.com/images/2017/08/Damn.png"><img src="http://themacrotourist.com/images/2017/08/Damn.png" alt="http://themacrotourist.com/images/2017/08/Damn.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/2017/08/DamnAug3117.png"><img src="http://themacrotourist.com/images/2017/08/DamnAug3117.png" alt="http://themacrotourist.com/images/2017/08/DamnAug3117.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 And for the first episode of **DIWITT**, I present the story of George Soros' worst trade...
 

@@ -97,7 +97,7 @@ At the risk of being disrespectful of the world&#8217;s largest hedge fund, I hu
 Gold seems to be struggling to make a bottom. The rallies are still met with selling, and we don&#8217;t seem to be able to get any traction. I had to suffer through another of Sprott&#8217;s paper gold manipulation interviews this week-end (although Eric did have some other great bullish points, it is always frustrating when he trots out the manipulation argument). Instead of complaining about the &#8216;paper selling&#8217;, I am going to pull out the tuxedo baby to deal with the short sellers.
 
 
-  <img src="http://themacrotourist.com/images/Tuxedobaby.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Tuxedobaby.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/TuxedobabyJul2815.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/TuxedobabyJul2815.png" width="600" height="600">
 
 Thanks for reading,
   

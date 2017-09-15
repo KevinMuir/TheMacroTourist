@@ -17,7 +17,7 @@ tags:
 
 This morning the Empire State Manufacturing Survey was released for the January period.  Economists expected a bounce from last month's terrible -19.37.  However instead of the forecasted -10.00, January's activity came in at -16.64.  
 
-<img src="http://themacrotourist.com/images/EmpireFeb16165.png" alt="http://themacrotourist.com/images/EmpireFeb16165.png" width="750" height="460" style="margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/EmpireFeb16165.png" alt="http://themacrotourist.com/images/EmpireFeb16165.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 At first glance it is easy to see how traders interpreted this result pessimistically. This Empire State Manufacturing survey release is not some fluke outlier event. Most economic releases keep disappointing.  Many economic releases have been screaming recession is just around the corner.
 

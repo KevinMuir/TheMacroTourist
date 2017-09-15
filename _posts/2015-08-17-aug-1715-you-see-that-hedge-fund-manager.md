@@ -13,7 +13,7 @@ tags:
   - gold
   - Paulson
 ---
-[<img src="http://themacrotourist.com/wp-content/uploads/2015/08/LuggedGold.png" alt="LuggedGold" width="1500" height="1002" class="aligncenter size-full wp-image-25564" srcset="http://themacrotourist.com/wp-content/uploads/2015/08/LuggedGold-300x200.png 300w, http://themacrotourist.com/wp-content/uploads/2015/08/LuggedGold-1024x684.png 1024w, http://themacrotourist.com/wp-content/uploads/2015/08/LuggedGold-1400x933.png 1400w, http://themacrotourist.com/wp-content/uploads/2015/08/LuggedGold-520x347.png 520w, http://themacrotourist.com/wp-content/uploads/2015/08/LuggedGold.png 1500w" sizes="(max-width: 1500px) 100vw, 1500px" />](http://themacrotourist.com/wp-content/uploads/2015/08/LuggedGold.png)
+
   
 The MacroTourist is still on vacation, but I couldn&#8217;t help but write a quick post about a recent development.
 

@@ -17,7 +17,7 @@ tags:
   - Yuan
 ---
 
-  <img src="http://themacrotourist.com/images/CommodityRisk.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CommodityRisk.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/CommodityRiskJul2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CommodityRiskJul2215.png" width="600" height="400">
 
 The commodity rout continues unabated. Every tiny rally has been just another chance to get short. The selling has been relentless and unwavering.
 
@@ -66,7 +66,7 @@ As the Federal Reserve gradually slowed down the rate of expansion of their bala
 Herein lies the problem. The Federal Reserve does not tune monetary policy for the global financial system. Eventually the state of the world economy affects the US economy, and so at extremes the Federal Reserve will respond to global slowdowns with more liquidity. But the month to month setting of monetary policy is largely immune to global developments. That wouldn&#8217;t be a big deal if the world didn&#8217;t trade most goods in US dollars, or if there wasn&#8217;t a huge amount of US dollar denominated debt. But being the reserve currency carries a responsibility that American officials largely ignore. 
 
 
-  <img src="http://themacrotourist.com/images/Connally.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Connally.png" width="500" height="600">
+  <img src="http://themacrotourist.com/images/ConnallyJul2215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/ConnallyJul2215.png" width="500" height="600">
 
 I guess it is the American&#8217;s prerogative to ignore this reserve currency responsibility, but we should just be aware that someday the world might abandon the US dollar as the universal currency. If the US officials refuse to acknowledge the effect their policy has on the world economy, they might some day be in for a surprise when the rest of the world finds an alternative. 
 

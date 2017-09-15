@@ -19,7 +19,7 @@ tags:
   - Yuan
 ---
 
-  <img src="http://themacrotourist.com/images/CommodityBear.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CommodityBear.png" width="600" height="400">
+  <img src="http://themacrotourist.com/images/CommodityBearJul2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CommodityBearJul2415.png" width="600" height="400">
 
 The pain in commodity land continues overnight. The catalyst for the latest sell off is the terrible Chinese manufacturing PMI number. Analysts were expecting slightly over 50, but the actual number came in at a little over 48.
 

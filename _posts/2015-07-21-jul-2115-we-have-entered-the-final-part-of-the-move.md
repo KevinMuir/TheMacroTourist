@@ -13,7 +13,7 @@ tags:
   - stocks
 ---
 
-  <img src="http://themacrotourist.com/images/HeadReceiver.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/HeadReceiver.png" width="600" height="600">
+  <img src="http://themacrotourist.com/images/HeadReceiverJul2115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/HeadReceiverJul2115.png" width="600" height="600">
 
 The great trader Yogi Berra understood all too well how difficult it is to predict the market&#8217;s movement. The direction is never clear. If isn&#8217;t murky, then your forecast is probably wrong. 
 

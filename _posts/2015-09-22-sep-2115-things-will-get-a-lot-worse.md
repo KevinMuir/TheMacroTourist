@@ -33,7 +33,7 @@ Everyone is a critic of the Federal Reserve. Although I am sympathetic to the co
 The real mistake was committed almost twenty years ago when Greenspan recognized the dangers of the overly easy monetary policy, and instead of having the courage to tighten, merely gave a speech.
 
 
-  <img src="http://themacrotourist.com/images/TotalCreditSep2215-1.png" alt="http://themacrotourist.com/images/TotalCreditSep2215-1.png" style="margin:30px auto;display:block;" width="600" height="342">
+  <img src="http://themacrotourist.com/images/TotalCreditSep2215.png" alt="http://themacrotourist.com/images/TotalCreditSep2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 December 5th, 1996 was probably the last time we could turn back. At that point Greenspan noted the possibility of the stock market being “irrationally exuberant.”
 

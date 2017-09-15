@@ -11,7 +11,7 @@ tags:
  
 ---
 
-<img src="http://themacrotourist.com/images/EyesUpJan2716.png" alt="http://themacrotourist.com/images/EyesUpJan2716.png" style="width:600px;height:400px;margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/EyesUpJan2716.png" alt="http://themacrotourist.com/images/EyesUpJan2716.png" width="600" height="400" style="margin:30px auto;display:block;"></a>
 I know it seems like the S&P 500 is down a long way, and it *is tempting* to try to catch the falling knife, but I urge you to step back and have a look at the big picture.  Since the bottom in March of 2009, the S&P 500 has rallied more than 200%.  
 
 In terms of percentage appreciation, this move is the 4th largest S&P 500 rally in history:  

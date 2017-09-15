@@ -31,7 +31,7 @@ But Tsirpras’ next move was the truly shocking development. I assumed that sin
 We now know that the Greek government officials are not some master game theory tacticians, but instead the biggest bunch of riverboat gamblers since Austin Powers hit the blackjack tables.
 
 
-  <img src="http://themacrotourist.com/images/Ialsoliketo.png" alt="http://themacrotourist.com/images/Ialsoliketo.png" style="margin:30px auto;display:block;" width="600" height="375">
+  <img src="http://themacrotourist.com/images/IalsoliketoJul1315.png" alt="http://themacrotourist.com/images/IalsoliketoJul1315.png" style="margin:30px auto;display:block;" width="600" height="375">
 
 The arrogance of these jokers is unbelievable. It is one thing to drive a hard bargain because you are prepared to accept the consequences of a ‘no deal’ conclusion, but it is entirely another thing to just assume the other side will eventually fold because you think they ‘need a deal more than you.’
 

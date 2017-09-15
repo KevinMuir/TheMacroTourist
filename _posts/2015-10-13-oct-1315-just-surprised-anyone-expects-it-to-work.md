@@ -53,7 +53,7 @@ What do you think happens when you increase the banks’ capital requirements an
 Don’t forget the equation made famous by Friedman (so much so, he made himself a licence plate to celebrate it):
 
 
-  <img src="http://themacrotourist.com/images/MVPQ.png" alt="http://themacrotourist.com/images/MVPQ.png" style="margin:30px auto;display:block;" width="400" height="342">
+  <img src="http://themacrotourist.com/images/MVPQOct1315.png" alt="http://themacrotourist.com/images/MVPQOct1315.png" style="margin:30px auto;display:block;" width="400" height="342">
 
 There is much debate about this equation, but let’s just admit that in a broad sense, it holds true.
 

@@ -22,7 +22,7 @@ I find too many traders spend far too long discussing _what should be_ instead o
 To help me understand what is going on through the FOMC members&#8217; minds, I read former Texas Fed President Bob McTeer&#8217;s blog religiously. 
 
 
-  <img src="http://economyblog.ncpa.org/" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/McTeerDec0915.png" width="600" height="100">
+  <img src="http://themacrotourist.com/images/McTeerDec0915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/McTeerDec0915.png" width="600" height="100">
 
 Yesterday he wrote a piece titled [November Jobs Report Seals the Deal for December Lift-Off](http://economyblog.ncpa.org/november-jobs-report-seals-the-deal-for-december-lift-off/). Bob argues a Fed hike at the next meeting December 16th is a done deal. That&#8217;s hardly original thinking. But let&#8217;s dig a little deeper into his piece:
 

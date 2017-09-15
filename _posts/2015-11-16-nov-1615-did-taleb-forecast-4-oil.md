@@ -40,7 +40,7 @@ This is completely opposite of Nassim Taleb’s pontifications. Suggesting that 
 I don’t fault Taleb for a bad call. Lord knows I have my share of bad calls. Even Druck has bad calls. But neither of us belittle anyone who doesn’t agree with us and proclaim trades to be “no brainers.”
 
 
-  <img src="http://themacrotourist.com/images/NoBrainer.png" alt="http://themacrotourist.com/images/NoBrainer.png" style="margin:30px auto;display:block;" width="360" height="342">
+  <img src="http://themacrotourist.com/images/NoBrainerNov1615.png" alt="http://themacrotourist.com/images/NoBrainerNov1615.png" style="margin:30px auto;display:block;" width="360" height="342">
 
 And I don’t know how Taleb does it, but the media conveniently forgets about these transgressions. I guess if you say something with enough arrogance, no one will want to contradict you.
 

@@ -12,7 +12,7 @@ tags:
   - 
    
 ---
-<a href="http://themacrotourist.com/images/Dragons.png"><img src="http://themacrotourist.com/images/Dragons.png" alt="http://themacrotourist.com/images/Dragons.png" width="400" height="500" style="margin:30px auto;display:block;"></a>
+<a href="http://themacrotourist.com/images/DragonsApr2116.png"><img src="http://themacrotourist.com/images/DragonsApr2116.png" alt="http://themacrotourist.com/images/DragonsApr2116.png" width="400" height="500" style="margin:30px auto;display:block;"></a>
 
 Way back when in a former life, I knew this great fellow who was the head floor trader for our firm.  He was fond of a saying I still remind myself of today:
 

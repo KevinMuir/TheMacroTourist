@@ -16,7 +16,7 @@ tags:
   - Soros
 ---
 
-  <img src="http://themacrotourist.com/images/Azure/GeorgeBubbleChaser.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GeorgeBubbleChaser.png" width="400" height="500">
+  <img src="http://themacrotourist.com/images/Azure/GeorgeBubbleChaserJul0715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/GeorgeBubbleChaserJul0715.png" width="400" height="500">
 
 My younger cockier self used to try to short every bubble out there. I used to rail against all the stupid prices, the parabolic moves and the ignorant performance chasing. But the last five years have been tough on me. Bubbles are so prevalent, with so many asset prices going to levels that make no sense. German 10 year bunds at 0.05%? How do you account for that sort of stupidity? The Central Banks are in the driver&#8217;s seat of these latest manias, and in some ways, they are even more delusional than the maddest crowd. 
 
@@ -128,7 +128,7 @@ Bill Fleckenstein summed it up perfectly:
 It is quite fitting that outside the ECB they recently had to make repairs to the Euro statue:
 
 
-  <img src="http://themacrotourist.com/images/Euromaintenance.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Euromaintenance.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/EuromaintenanceJul0715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/EuromaintenanceJul0715.png" width="600" height="342">
 
 I suspect before this is all through, those repairmen will be needed for not only the Euro statue, but for the real Euro as well&#8230; Be careful out there&#8230;
 

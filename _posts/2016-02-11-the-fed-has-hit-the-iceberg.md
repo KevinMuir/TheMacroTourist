@@ -15,7 +15,7 @@ tags:
   - Federal Reserve
    
 ---
-<img src="http://themacrotourist.com/images/TitanicFeb1116.png" alt="http://themacrotourist.com/images/TitanicFeb1116.png" width="750" height="650" style="margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/TitanicFeb1116.png" alt="http://themacrotourist.com/images/TitanicFeb1116.png" width="750" height="650" style="margin:30px auto;display:block;"></a>
 
 Over the years I have watched enough Federal Reserve Chairman testimony to Congress to last a lifetime.  While it is always amusing to watch the head of the Federal Reserve dance around questions from the people's elected representatives, the queries go from just plain stupid to completely partisan in a heartbeat.  In between you sometimes get an intelligent question, but on the whole it is hardly a forum for sophisticated economic debate.
 
@@ -33,17 +33,15 @@ All of yesterday's developments make the Fed much less likely to come to the mar
 
 ### Guess who?
 
-<img src="http://themacrotourist.com/images/ChinaFeb1116.png" alt="http://themacrot
-ourist.com/images/ChinaFeb1116.png" width="750" height="460" style="margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/ChinaFeb1116.png" alt="http://themacrotourist.com/images/ChinaFeb1116.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 There seems to be a lot of bewilderment about the US dollar sell off versus the Yen and the Euro.  I actually think it is pretty simple.  In mid December China announced they would tie the Yuan to a basket of currencies.  If you have a currency that was previously tied to one currency, but has now shifted to a group, the obvious outcome is for you to ***sell the original currency*** and ***buy the new basket.***  
 
-<img src="http://themacrotourist.com/images/EURFeb1116.png" alt="
-http://themacrotourist.com/images/EURFeb1116.png" width="750" height="460" style="margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/EURFeb1116.png" alt="http://themacrotourist.com/images/EURFeb1116.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
 The real question you should ask is whether China has included another non-traditional currency in that basket.  I know if I were China, I would...
 
-<img src="http://themacrotourist.com/images/GotGold.png" alt="http://themacrotourist.com/images/GotGold.png" width="600" height="200" style="margin:30px auto;display:block;">
+<img src="http://themacrotourist.com/images/GotGold.png" alt="http://themacrotourist.com/images/GotGold.png" width="600" height="200" style="margin:30px auto;display:block;"></a>
 
 Thanks for reading,  
 Kevin Muir  

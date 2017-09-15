@@ -46,7 +46,7 @@ Germany will walk away and allow the Greeks to hang themselves. The Greek bankin
 Who knows if Mario has the chops to stand up to the Germans. He isn&#8217;t exactly the toughest of characters.
 
 
-  <img src="http://themacrotourist.com/images/Azure/DraghiJul0515-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DraghiJul0515-1.png" width="400" height="500">
+  <img src="http://themacrotourist.com/images/Azure/DraghiJul0515.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DraghiJul0515.png" width="400" height="500">
 
 Over the short run, the ECB will be the only game in town for the Greeks. Whether they can cushion this fallout remains to be seen. So far the market has been remarkably nonchalant about the whole affair, and it up in the air whether this is because the contagion is ring fenced, or whether everyone still assumes there will be a last minute deal.
 
