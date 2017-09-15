@@ -30,7 +30,7 @@ There are a ton of other reasons why the US stock market is overvalued, but unle
 
 But the most important part of this theory is that it is no longer just a theory. For the first time in a long time, market action is reflecting the bears&#8217; concerns. The stock market is trading heavy, with little ability to muster rallies of any real consequence. Suddenly the path of least resistance is down, not up.
 
-Even market darlings like Apple computer are sagging. For the longest time, this company could do no wrong. Everything was interpreted bullishly. Colossal flops like the Apple Watch (<img src="http://themacrotourist.com/blog/2015/05/27/may-2715-apple-announces-new-derek-zoolander-watch-edition/" target="_blank">Zoolander edition</a>) were quickly glossed over and unrealistic growth extrapolated forever into the future. Yet have a look at the chart lately:
+Even market darlings like Apple computer are sagging. For the longest time, this company could do no wrong. Everything was interpreted bullishly. Colossal flops like the Apple Watch were quickly glossed over and unrealistic growth extrapolated forever into the future. Yet have a look at the chart lately:
 
 
   <img src="http://themacrotourist.com/images/AAPLJan0616.png" alt="http://themacrotourist.com/images/AAPLJan0616.png" style="margin:30px auto;display:block;" width="800" height="450">
