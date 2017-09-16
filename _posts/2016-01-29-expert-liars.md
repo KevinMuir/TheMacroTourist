@@ -38,7 +38,7 @@ The US dollar has soared on the news, and why not?  They have a Central Bank ins
 
 But let's not forget the biggest problem two weeks ago.  Or have we all forgotten China?  
 
-<img src="http://themacrotourist.com/images/CNYJPYJan2930.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CNYJPYJan2930.png" width="700" height="450" />
+<img src="http://themacrotourist.com/images/CNYJPYJan2916.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CNYJPYJan2916.png" width="700" height="450" />
   
 The Chinese Yuan is tied to the US dollar, or at least it *used to be*.  The recent move by the PBoC to benchmark their currency to a new *basket* of currencies has not been tested.  
 
