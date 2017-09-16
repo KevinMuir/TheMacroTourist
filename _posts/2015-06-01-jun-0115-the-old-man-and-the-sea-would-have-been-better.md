@@ -110,8 +110,7 @@ So yes, gold in US dollars is sucking wind, but in most other currencies, it is 
 Last month when Mexico came to market with their 100 year bond denominated in Euros, I thought I had seen it all. Well, this morning Petrobas announced they are floating half a billion of 100 year notes at a yield of approximately 8.85%. Yes, this is the same Petrobas that had bankruptcy concerns a few months ago when oil dipped to $42. Let&#8217;s see, PBR 5 year Credit Default Swap is sitting near the highs, yet investors are willing to lend them money for 100 years.
 
 
-  <img src="http://themacrotourist.com/images/Azure/PBRCDSJun0115.png 
-" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PBRCDSJun0115.png" width="600" height="342">
+  <img src="http://themacrotourist.com/images/Azure/PBRCDSJun0115.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PBRCDSJun0115.png" width="600" height="342">
 
 Makes perfect sense. Lending PBR for a century sounds like a terrific idea &#8211; put me in for 25.
 

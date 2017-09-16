@@ -14,9 +14,7 @@ tags:
   - Fortress
 ---
 
-  <img src="http://themacrotourist.com/images/CBOct1415.png
-" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CBOct1415.png
-" width="600" height="700">
+  <img src="http://themacrotourist.com/images/CBOct1415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/CBOct1415.png" width="600" height="700">
 
 Earlier this week, another high profile macro hedge fund announced it was closing the doors. From the WSJ:
 

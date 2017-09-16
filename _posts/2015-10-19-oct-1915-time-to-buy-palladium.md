@@ -15,9 +15,7 @@ tags:
   - Volkwagen
 ---
 
-  <img src="http://themacrotourist.com/images/SelfOct1915.png
-" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/SelfOct1915.png
-" width="600" height="342">
+  <img src="http://themacrotourist.com/images/SelfOct1915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/SelfOct1915.png" width="600" height="342">
 
 If you believe we are a scant few years away from a Elon Musk/Sergey Brin inspired world where self driving electric cars ferry us all around in some sort of Utopian Uber ride sharing environment, then stop reading. Actually you can keep reading because maybe you want to take the other side of my trade.
 
