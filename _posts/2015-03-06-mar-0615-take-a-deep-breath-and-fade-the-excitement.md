@@ -47,7 +47,7 @@ And the pattern was even more clear on the previous unemployment release.
 
 It is hard, but today is not the day to chase. Even when the news seems to be lining up for a big move your way, instead of adding, it is better to a big deep breath and think about fading the excitement.
 
-Good luck with today’s trading,
+Good luck with today's trading,
   
 Kevin Muir
   

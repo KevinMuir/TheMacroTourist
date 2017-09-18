@@ -81,7 +81,7 @@ I am not saying this scenario is by any means certain.  I just think it is way m
 
 Recently there has been a ton of press about the increase in Chinese M&A.  This snippet sums it up well:
 
->Chinese companies pursuing firms based in the United States isn’t a new trend in the M&A space, but it looks to be a growing one," wrote Birstingl in a note Tuesday. " In the first three months of 2016, there were 17 transactions announced in which a Chinese acquirer purchased a US target. This marked the largest transaction count of this deal type in the first three months of a year on record."
+>Chinese companies pursuing firms based in the United States isn't a new trend in the M&A space, but it looks to be a growing one," wrote Birstingl in a note Tuesday. " In the first three months of 2016, there were 17 transactions announced in which a Chinese acquirer purchased a US target. This marked the largest transaction count of this deal type in the first three months of a year on record."
 
 >Additionally, Birstingl noted, the value of deals made just in the past 3 months already eclipses the total for all of 2015. So far $28.8 billion worth of deals has been announced in 2016, versus $5.7 billion total for last year.
 

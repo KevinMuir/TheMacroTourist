@@ -20,7 +20,7 @@ This morning's big news is the Chinese announcement they would they would buy mo
 
 >China is prepared to increase its holdings of U.S. Treasuries under the right circumstances, as officials  judge the assets are becoming more attractive than other sovereign debt and as the yuan stabilizes, according to people familiar with the matter. Treasuries rose, driving yields to the lowest since November.
 
->The people didn’t specify the exact circumstances for continuing a run of purchases that has extended to two months through March, after reductions in all but one of the previous eight months. The nation has maintained the trend, said the people, who asked not to be identified because they aren’t authorized to comment on the matter publicly. The yuan has climbed more than 2 percent against the dollar this year, after plunging 6.5 percent in 2016 in its biggest decline in more than two decades.
+>The people didn't specify the exact circumstances for continuing a run of purchases that has extended to two months through March, after reductions in all but one of the previous eight months. The nation has maintained the trend, said the people, who asked not to be identified because they aren't authorized to comment on the matter publicly. The yuan has climbed more than 2 percent against the dollar this year, after plunging 6.5 percent in 2016 in its biggest decline in more than two decades.
 
 >While China reduced its ownership of Treasuries last year by the most in data going back to 2000 as it sought to defend the yuan, it has since changed strategy and added to its holdings in the two months through March. 
 

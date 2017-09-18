@@ -36,7 +36,7 @@ As the world began to learn more about the so called &#8220;Bond King,&#8221; th
 Even with El-Erian swept to the sidelines, Gross was unable to soothe things over internally at PIMCO. According to his superiors his behaviour was becoming increasingly erratic. It has been reported that he would not allow traders to look at him. Last year [I wrote about a strange Bill Gross article](http://gfbblogs.azurewebsites.net/blog/2014/04/02/apr-0214-pimco-and-the-top-in-the-bond-market/) where he seemed to gush all over the &#8220;brilliant&#8221; Michael Jackson. Who knew that not only did he admire Jackson&#8217;s music but might also have &#8220;mirrored&#8221; some of the strange behaviour as well. Although I am being facetious, there seems to be no doubt that Bill Gross suffered from a &#8220;God&#8221; complex that befalls too many rock stars like Michael Jackson. In a reported interchange between Gross and El-Elrian, Bill showed his true colours:
 
 > “I have a 41-year track record of investing excellence,” Mr. Gross told Mr. El-Erian, according to the two witnesses. “What do you have?”  
-> “I’m tired of cleaning up your s—,” Mr. El-Erian responded, referring to conduct by Mr. Gross that he felt was hurting Pimco, these two people recall.
+> “I'm tired of cleaning up your s—,” Mr. El-Erian responded, referring to conduct by Mr. Gross that he felt was hurting Pimco, these two people recall.
 
 And herein lies the crux of the problem. Although maybe Gross has outperformed over the last four decades, during the last four years he has been sucking wind. He has missed most of the big moves in the bond market. 
 
@@ -87,8 +87,8 @@ However in a strange development, **Fed President Richard Fisher has tipped his 
 
 Fisher has traditionally been a big hawk, so the fact that he is goes on to express some worry about being behind the curve is no surprise.
 
-> The Federal Reserve mustn’t “fall behind the curve” as it weighs when to start raising interest rates, Dallas Fed President Richard Fisher said, citing strengthening U.S. growth and building wage-price pressures.  
-> “I don’t want to fall behind the curve here,” Fisher said in a Fox News interview. “I think we could suddenly get a patch of high growth, see some wage-price inflation, and that is when you start to worry.”
+> The Federal Reserve mustn't “fall behind the curve” as it weighs when to start raising interest rates, Dallas Fed President Richard Fisher said, citing strengthening U.S. growth and building wage-price pressures.  
+> “I don't want to fall behind the curve here,” Fisher said in a Fox News interview. “I think we could suddenly get a patch of high growth, see some wage-price inflation, and that is when you start to worry.”
 
 But why bother citing two specific economic reports that would &#8220;knock your socks off?&#8221; 
 

@@ -68,7 +68,7 @@ Or how about Stanley Druckenmiller&#8217;s recent comments:
 And former PIMCO head Mohamed El-Erian shares the same thoughts:
 
 <p style="padding-left: 30px;">
-  &#8220;I am mostly concentrated in cash&#8230; because I think most asset prices have been pushed by central banks to very elevated levels. Central banks look at growth, at employment, at wages. They are too low. They don’t have the instruments they need, but they feel obliged to do something; so they artificially lift asset prices&#8230; Because they hope that they will trigger what’s called the wealth effect, but there is a massive gap right now between asset prices and fundamentals.&#8221;
+  &#8220;I am mostly concentrated in cash&#8230; because I think most asset prices have been pushed by central banks to very elevated levels. Central banks look at growth, at employment, at wages. They are too low. They don't have the instruments they need, but they feel obliged to do something; so they artificially lift asset prices&#8230; Because they hope that they will trigger what's called the wealth effect, but there is a massive gap right now between asset prices and fundamentals.&#8221;
 </p>
 
 Now you can choose to ignore these wise old veterans as _&#8220;has beens&#8221;_ that don&#8217;t understand the new reality. You can play the game by being long risk assets along with the herds of other momentum chasers. I can&#8217;t find the quote, but some grizzled Wall Street veteran has a great line that you can _either look stupid during or after the bubble &#8211; but you have to choose._

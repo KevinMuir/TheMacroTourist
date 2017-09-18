@@ -31,7 +31,7 @@ The Wall Street analysts aren&#8217;t letting something like poor battery life s
 As a perfect example of this unbridled optimism from Wall Street, Oppenheimer&#8217;s analyst recently published a piece highlighting all the naysayers of previous Apple products:
 
 <p style="padding-left: 30px;">
-  Rarely does the general public get Apple products right at first sight, before their actual shipment. Looking back at Apple’s first generation product launches (iPod, iPhone, and iPad), one thing becomes clear: each product begged the question: what does it do?
+  Rarely does the general public get Apple products right at first sight, before their actual shipment. Looking back at Apple's first generation product launches (iPod, iPhone, and iPad), one thing becomes clear: each product begged the question: what does it do?
 </p>
 
 <p style="padding-left: 30px;">
@@ -43,7 +43,7 @@ As a perfect example of this unbridled optimism from Wall Street, Oppenheimer&#8
 </p>
 
 <p style="padding-left: 30px;">
-  “Clearly Apple is following Sony’s lead by integrating consumer electronics devices into its marketing strategy, but Apple lacks the richness of Sony’s product offering. And introducing new consumer products right now is risky, especially if they cannot be priced attractively…” (Technology Business Research, October 2001)
+  “Clearly Apple is following Sony's lead by integrating consumer electronics devices into its marketing strategy, but Apple lacks the richness of Sony's product offering. And introducing new consumer products right now is risky, especially if they cannot be priced attractively…” (Technology Business Research, October 2001)
 </p>
 
 <p style="padding-left: 30px;">
@@ -51,11 +51,11 @@ As a perfect example of this unbridled optimism from Wall Street, Oppenheimer&#8
 </p>
 
 <p style="padding-left: 30px;">
-  “The keyboard more or less requires “faith” in the word auto-correction, an Apple rep likened it to using The Force, and while all three reviewers were able to get up to speed sooner or later, it’s most certainly agreed that this is no BlackBerry- killer.” (Engadget, review of other journalist’s iPhone reviews, June 2007)
+  “The keyboard more or less requires “faith” in the word auto-correction, an Apple rep likened it to using The Force, and while all three reviewers were able to get up to speed sooner or later, it's most certainly agreed that this is no BlackBerry- killer.” (Engadget, review of other journalist's iPhone reviews, June 2007)
 </p>
 
 <p style="padding-left: 30px;">
-  “Five hundred dollars? Fully subsidized? With a plan? That is the most expensive phone in the world. And it doesn’t appeal to business customers because it doesn’t have a keyboard, which makes it not a very good email machine.” (Steve Ballmer, 2007)
+  “Five hundred dollars? Fully subsidized? With a plan? That is the most expensive phone in the world. And it doesn't appeal to business customers because it doesn't have a keyboard, which makes it not a very good email machine.” (Steve Ballmer, 2007)
 </p>
 
 <p style="padding-left: 30px;">
@@ -63,11 +63,11 @@ As a perfect example of this unbridled optimism from Wall Street, Oppenheimer&#8
 </p>
 
 <p style="padding-left: 30px;">
-  ”This time around the Next Big Thing is called an iPad. It’s basically an oversize iPod Touch… Jobs and his team kept using words like “breakthrough” and “magical”, but the iPad is neither, at least not right now…At the very least, we had hoped a tablet from Apple would do something new, something we’ve never seen before. That’s not the case…” (Newsweek, January 2010)
+  ”This time around the Next Big Thing is called an iPad. It's basically an oversize iPod Touch… Jobs and his team kept using words like “breakthrough” and “magical”, but the iPad is neither, at least not right now…At the very least, we had hoped a tablet from Apple would do something new, something we've never seen before. That's not the case…” (Newsweek, January 2010)
 </p>
 
 <p style="padding-left: 30px;">
-  Not that we think we get it right all the time—but in this report, we attempt to at least “think different”. We believe all products are built to solve problems, some obvious, some less so. When a problem is less obvious, designers need to ask the right questions and correctly frame the problem, then find a solution. The reason opinions are divided on the Watch, is that it solves both existing problems (time-keeping, fitness tracking) and problems we don’t know exist (new ways to connect to people and potentially to other devices). It’s this second question that Apple tends to get right, and early reviews tend not to answer.
+  Not that we think we get it right all the time—but in this report, we attempt to at least “think different”. We believe all products are built to solve problems, some obvious, some less so. When a problem is less obvious, designers need to ask the right questions and correctly frame the problem, then find a solution. The reason opinions are divided on the Watch, is that it solves both existing problems (time-keeping, fitness tracking) and problems we don't know exist (new ways to connect to people and potentially to other devices). It's this second question that Apple tends to get right, and early reviews tend not to answer.
 </p>
 
 And maybe Oppenheimer is right. Maybe Apple does know better. Maybe I am demonstrating a dramatic lack of imagination. Maybe I simply don&#8217;t understand yet how this product is going to change my life. Maybe&#8230;

@@ -53,7 +53,7 @@ I think there is a chance that Abe has started a ball rolling that he will be un
 
 We continue to get some terrible economic numbers out of Germany. From the FT:
 
-> Output plunged 4.0 per cent from July, data published on Tuesday show, far more than the average 1.5 per cent drop forecast by economists and the largest decrease since February 2009, when the global financial crisis first hit Europe’s factories.  
+> Output plunged 4.0 per cent from July, data published on Tuesday show, far more than the average 1.5 per cent drop forecast by economists and the largest decrease since February 2009, when the global financial crisis first hit Europe's factories.  
 > Coming on top of poor August data for industrial orders earlier this week, the numbers indicate that Germany is starting to suffer from a global weakening in demand for its exports due to geopolitical upheavals and slower growth in China.  
 > With the figures influenced by plants closing for later than usual summer holidays, economists hedged their bets about the outlook for the rest of the year.  
 > But they are no longer ruling out Germany falling into recession – with a possible decline in gross domestic product coming in the third quarter on top of the 0.2 per cent drop recorded in the three months to June.

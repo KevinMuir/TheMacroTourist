@@ -84,7 +84,7 @@ Don't believe me?  Well, maybe you should go read his book - it seems especially
 
 I hate to admit it, but Steve Bannon's recent comments about North Korea made a whole lot more sense.
 
->Contrary to Trump’s threat of fire and fury, Bannon said: “There’s no military solution [to North Korea’s nuclear threats], forget it. Until somebody solves the part of the equation that shows me that ten million people in Seoul don’t die in the first 30 minutes from conventional weapons, I don’t know what you’re talking about, there’s no military solution here, they got us.”
+>Contrary to Trump's threat of fire and fury, Bannon said: “There's no military solution [to North Korea's nuclear threats], forget it. Until somebody solves the part of the equation that shows me that ten million people in Seoul don't die in the first 30 minutes from conventional weapons, I don't know what you're talking about, there's no military solution here, they got us.”
 
 My guess is that Trump's bluster about North Korea will prove just as effective as his boasts about passing a yuuuuge health care bill.  It's tough to take this view, as I will look like an idiot if I am wrong, but I think the correct bet is to assume the North Korea situation is just two large leashed dogs barking at each other.
 

@@ -32,9 +32,9 @@ I must admit, I am a little surprised it has gone so smoothly.  But I wonder if 
 
 Last FOMC meeting Minneapolis Fed President Neel Kashkari dissented against the rate hike in part because he felt the Federal Reserve should concentrate on winding down their balance sheet.  Given that during the 2008 credit crisis the Fed argued bond purchases during Quantitative Easing was accommodative, it follows that unwinding their balance sheet would be restrictive.  Instead of raising rates, Neel felt the Fed should substitute rate hikes with portfolio unwind.  Makes sense, and in the week after the meeting, many Fed officials came right out and acknowledged this was a path they were preparing for.  Then last week, the third most important person at the Fed (right behind Yellen and Fischer), NY Fed President Bill Dudley said the following:
 
->“It wouldn’t surprise me if sometime later this year or sometime in 2018, should the economy perform in line with our expectations, that we’ll start to gradually let securities mature rather than reinvesting them.”
+>“It wouldn't surprise me if sometime later this year or sometime in 2018, should the economy perform in line with our expectations, that we'll start to gradually let securities mature rather than reinvesting them.”
 
->“If we start to normalize the balance sheet, that’s a substitute for short-term rate hikes because it would also work in the direction of tightening financial conditions.”
+>“If we start to normalize the balance sheet, that's a substitute for short-term rate hikes because it would also work in the direction of tightening financial conditions.”
 
 >“If and when we decide to begin to normalize the balance sheet we might actually decide at the same time to take a little pause in terms of raising short-term interest rates.”
 
@@ -48,7 +48,7 @@ Dudley's remarks made perfect sense to me, and obviously to the rest of the mark
 
 In an absolute harebrained move, on Friday Dudley redirected the market.  From Bloomberg:
 
->Dudley said his March 31 comments that caused bonds to rally and steepened the curve were “misconstrued” by some.  A pause “at the time you make the decision on the balance sheet” would be to make sure it “doesn’t turn out to be a bigger decision than you thought you were making. So, I would emphasize the words ‘little pause,”’ Dudley said 
+>Dudley said his March 31 comments that caused bonds to rally and steepened the curve were “misconstrued” by some.  A pause “at the time you make the decision on the balance sheet” would be to make sure it “doesn't turn out to be a bigger decision than you thought you were making. So, I would emphasize the words ‘little pause,”' Dudley said 
 
 Talk about sending the market scurrying back.  Suddenly the market was no longer just worrying about Fed rate hikes, but the added burden of rate hikes along with balance sheet wind down loom large.
 

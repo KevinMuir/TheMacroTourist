@@ -36,7 +36,7 @@ And make no mistake about it &#8211; it is the hedge funds leading this charge l
 
 Although I was by no means long, I have not being nearly short enough. I have made my usual mistake and misjudged how much the aggressive trader types were stuffed to the gills with this shit. I thought that the liquidation would be more of a rotation than a full blow sell off.
 
-And it is not like there haven’t been signals. Last week Todd Harrison (from Minyanville) and Jason Goepfert (from Sentiment Trader) highlighted a chart that showed _for the first time ever_, the S&P 500 hit a 52 week high at the same time the Smart Money Index hit a 3 month low. The SMI (Smart Money Index) measures the difference of the Dow Jones return for the first 30 minutes of trading versus the last 30 minutes trading. Traditionally a healthy market is filled with more buying towards the end of the day as opposed to the beginning. The SMI index usually just tracks the S&P fairly closely.
+And it is not like there haven't been signals. Last week Todd Harrison (from Minyanville) and Jason Goepfert (from Sentiment Trader) highlighted a chart that showed _for the first time ever_, the S&P 500 hit a 52 week high at the same time the Smart Money Index hit a 3 month low. The SMI (Smart Money Index) measures the difference of the Dow Jones return for the first 30 minutes of trading versus the last 30 minutes trading. Traditionally a healthy market is filled with more buying towards the end of the day as opposed to the beginning. The SMI index usually just tracks the S&P fairly closely.
 
 
   <img src="http://themacrotourist.com/images/Azure/SMARTSPXApr0414.PNG" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SMARTSPXApr0414.PNG" width="600" height="342" />SMART (in white) vs SPX (in yellow)</a>
@@ -54,7 +54,7 @@ Whereas a month ago, these hedge funds were falling all over themselves with bul
 
 And herein lies the real question that you need to ask yourself. Is this decline in the last month the start of something more ominous, or is it simply a much needed correction in the high flying names that were bid up too high?
 
-I unfortunately don’t have the answer. The sheer amount of these hedge funds makes determining the answer to this sort of question extremely difficult.
+I unfortunately don't have the answer. The sheer amount of these hedge funds makes determining the answer to this sort of question extremely difficult.
 
 I have already made a mistake in selling calls in the high flying names instead of buying puts. Given the massive correction on Friday, I would have been much better off being long volatility. I underestimated the amount of pain that these hedge funds were feeling and their desperation for getting these names off the sheets.
 
@@ -64,7 +64,7 @@ I am always cognizant to the fact that the Monday morning of the 1987 crash we o
 
 My only salvation is that this morning, I see that many aggressive traders are puking, with even the “legendary” Dennis Gartman reporting that he reduced his stock market exposure to neutral given the fact that “risk happens quickly” and now Gartman sees the need for safety.
 
-Gee, wasn’t this the same “legendary” Gartman who was just a week ago advocating “aggressive” long positions in equities? Thanks for that insight about risk happening quickly. It happens especially quickly today when all you hedge funds take the same side of every trade.
+Gee, wasn't this the same “legendary” Gartman who was just a week ago advocating “aggressive” long positions in equities? Thanks for that insight about risk happening quickly. It happens especially quickly today when all you hedge funds take the same side of every trade.
 
 I am not nearly as smart (or “legendary”) as Gartman, but I think that he is a perfect barometer for the hedge fund community.
 
@@ -72,7 +72,7 @@ And although I am not suggesting that you should aggressively get long equities,
 
 **Postscript:** As I write this there was an article crossing the Bloomberg about all the losses at the top hedge funds for the 1st quarter of 2014. There was some real pain at these shops. They were obviously stuffed even more to the gills with crap than I would have ever imagined. Here are some stats from Bloomberg:
 
-> Jones’s $13.5 billion Tudor Investment Corp. fell 3.2 percent in its Tudor BVI Global fund in the first three months of this year, according to clients, who asked not to be named because the returns are private. Bacon’s Moore Capital Management LLC, which runs about $15 billion, slid 2.8 percent through March 27 in the Moore Global Investments fund, an investor said. Novogratz’s Fortress Macro fund lost 5.5 percent in the quarter, according to investors in the fund. New York- based Fortress Investment Group LLC oversees about $4 billion in macro strategies.
+> Jones's $13.5 billion Tudor Investment Corp. fell 3.2 percent in its Tudor BVI Global fund in the first three months of this year, according to clients, who asked not to be named because the returns are private. Bacon's Moore Capital Management LLC, which runs about $15 billion, slid 2.8 percent through March 27 in the Moore Global Investments fund, an investor said. Novogratz's Fortress Macro fund lost 5.5 percent in the quarter, according to investors in the fund. New York- based Fortress Investment Group LLC oversees about $4 billion in macro strategies.
 
 <hr size="2" width="85%" />
 
@@ -80,7 +80,7 @@ And although I am not suggesting that you should aggressively get long equities,
 
 On Friday, the ECB let leak that they had modelled up a $1 trillion QE program.
 
-There is no doubt that the ECB has a real problem on its hands. When compared to the world’s other major Central Banks, they are by far the tightest. Their inability to aggressively expand their balance sheet is causing the Euro to march straight upward. Although the problem is being offset with lower interest rates throughout the Eurozone, they are quickly descending into a Japanese style deflation.
+There is no doubt that the ECB has a real problem on its hands. When compared to the world's other major Central Banks, they are by far the tightest. Their inability to aggressively expand their balance sheet is causing the Euro to march straight upward. Although the problem is being offset with lower interest rates throughout the Eurozone, they are quickly descending into a Japanese style deflation.
 
 Many within the ECB, including Chairman Draghi, understand this problem and have desperately tried to talk down the Euro. However, the market is increasingly skeptical of these comments bringing any action due to the intransigence of the Germans.
 
@@ -104,7 +104,7 @@ For that reason, I think it is time to short German 10 year bonds. If you look a
 
 I know that many will think &#8211; if the ECB is about to institute QE, why would you short Bunds?
 
-Remember &#8211; QE is inflationary. And what is a bond investor’s worst nightmare? Inflation!
+Remember &#8211; QE is inflationary. And what is a bond investor's worst nightmare? Inflation!
 
 <hr size="2" width="85%" />
 

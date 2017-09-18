@@ -9,7 +9,7 @@ permalink: /blog/2015/10/12/oct-1215-happy-canadian-thanksgiving/
 categories:
   - macro
 ---
-Today is Canadian Thanksgiving, and there will be no MacroTourist post. I am taking the day off to be with the family and trying to remember what’s really important in life.
+Today is Canadian Thanksgiving, and there will be no MacroTourist post. I am taking the day off to be with the family and trying to remember what's really important in life.
 
 I leave you with the immortal words of the great philosopher Ferris Bueller:
 

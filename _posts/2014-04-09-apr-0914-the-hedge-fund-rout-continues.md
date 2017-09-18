@@ -21,13 +21,13 @@ tags:
 ---
 Yesterday we finally got a bounce in the equity markets. But what was most interesting was that the hedge fund rout continued, with many crowded hedge fund trades continuing to show signs of a stressful unwinding.
 
-According to Goldman Sachs, yesterday was the worst day in terms of relative performance for the hedge funds’ long positions versus their short positions in quite some time:
+According to Goldman Sachs, yesterday was the worst day in terms of relative performance for the hedge funds' long positions versus their short positions in quite some time:
 
 > Our HF VIP basket underperforms the SPX by over 100bps, 3 standard dev move and the worst since June 2012.
 
 And the stress was not just limited to individual stock names. Many other trades that have been popular with hedge funds also exhibited strange behaviour.
 
-The Japanese Yen short has been a popular trade with the hedge fund community ever since Prime Minister Abe pledged to stop the decades long deflationary vicious circle. Since the introduction of the aggressive monetary easing, the Yen’s weakness has also been highly correlated to the US stock market. Have a look at this chart that shows the Yen versus the S&P 500 during the past year:
+The Japanese Yen short has been a popular trade with the hedge fund community ever since Prime Minister Abe pledged to stop the decades long deflationary vicious circle. Since the introduction of the aggressive monetary easing, the Yen's weakness has also been highly correlated to the US stock market. Have a look at this chart that shows the Yen versus the S&P 500 during the past year:
 
 
   <img src="http://themacrotourist.com/images/Azure/JPYSPXApr0914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/JPYSPXApr0914.png" width="600" height="342" />USDJPY (white line) vs S&P 500 (yellow line)</a>

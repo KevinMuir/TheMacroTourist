@@ -33,7 +33,7 @@ Last night, the Japanese stock market once again led the world's stock markets l
 
 In the meantime, Kuroda desperately tries to jawbone the market higher.  Yesterday speaking in Parliament (from Marketwatch):
 
-...Kuroda reiterated his stance to “undertake additional monetary easing without hesitation” if necessary, either by increasing the central bank’s asset purchases or by lowering its deposit rate further below zero, or both. 
+...Kuroda reiterated his stance to “undertake additional monetary easing without hesitation” if necessary, either by increasing the central bank's asset purchases or by lowering its deposit rate further below zero, or both. 
 
 <a href="http://themacrotourist.com/images/KurodaApr0516.png"><img src="http://themacrotourist.com/images/KurodaApr0516.png" alt="http://themacrotourist.com/images/KurodaApr0516.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 

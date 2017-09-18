@@ -22,7 +22,7 @@ Although Europe is now mired deep in negative interest rate territory, not that 
 
 In June of 2008, even though the world's largest economy had just entered what was obviously a monster credit crisis, good 'ole J.C. Trichet raised the ECB's main financing rate from 4% to 4.25%.  It had been sitting at 4% for a full year, so there was no rush.  Yet Trichet was "worried" about inflation.  From the ECB's statement:
 
->On the basis of our regular economic and monetary analyses, we decided at today’s meeting to increase the key ECB interest rates by 25 basis points. This decision was taken to prevent broadly based second-round effects and to counteract the increasing upside risks to price stability over the medium term. HICP inflation rates have continued to rise significantly since the autumn of last year. They are expected to remain well above the level consistent with price stability for a more protracted period than previously thought.
+>On the basis of our regular economic and monetary analyses, we decided at today's meeting to increase the key ECB interest rates by 25 basis points. This decision was taken to prevent broadly based second-round effects and to counteract the increasing upside risks to price stability over the medium term. HICP inflation rates have continued to rise significantly since the autumn of last year. They are expected to remain well above the level consistent with price stability for a more protracted period than previously thought.
 
 We all know how much of a concern inflation was during the ensuing period.  By the end of January 2009, a little more than six months after Trichet had tightened, the ECB's main financing rate had been slashed to 2%.  By the start of the summer it had been further halved to 1%.  
 

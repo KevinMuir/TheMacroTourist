@@ -42,7 +42,7 @@ Yet as they continue to be &#8220;patient&#8221; the bubbles just grow all the b
 Today Yellen is testifying in front of Congress in her Humphrey Hawkins appearance. Last year when she delivered her report to Congress she noted:
 
 <p style="padding-left: 30px;">
-  Nevertheless, valuation metrics in some sectors do appear substantially stretched—particularly those for smaller firms in the social media and biotechnology industries, despite a notable downturn in equity prices for such firms early in the year. Moreover, implied volatility for the overall S&P 500 index, as calculated from option prices, has declined in recent months to low levels last recorded in the mid-1990s and mid-2000s, reflecting improved market sentiment and, perhaps, the influence of ‘reach for yield’ behavior by some investors.
+  Nevertheless, valuation metrics in some sectors do appear substantially stretched—particularly those for smaller firms in the social media and biotechnology industries, despite a notable downturn in equity prices for such firms early in the year. Moreover, implied volatility for the overall S&P 500 index, as calculated from option prices, has declined in recent months to low levels last recorded in the mid-1990s and mid-2000s, reflecting improved market sentiment and, perhaps, the influence of ‘reach for yield' behavior by some investors.
 </p>
 
 These comments were made last summer on July 25th. Let&#8217;s have a look at how these sectors have performed since her warning.
@@ -59,11 +59,11 @@ The market for Silicon Valley startups is still so hot that wise venture capital
 </p>
 
 <p style="padding-left: 30px;">
-  More than a dozen investors swarmed the lanky partner of Benchmark, eager to speak with him— but few were planning to heed the venture capitalist’s advice. According to Gurley, one man, who represented a large mutual fund, asked, “You don’t want us to invest in this but the big tech stocks are not delivering enough growth and my competitors are getting into these startups, so what are we supposed to do?”
+  More than a dozen investors swarmed the lanky partner of Benchmark, eager to speak with him— but few were planning to heed the venture capitalist's advice. According to Gurley, one man, who represented a large mutual fund, asked, “You don't want us to invest in this but the big tech stocks are not delivering enough growth and my competitors are getting into these startups, so what are we supposed to do?”
 </p>
 
 <p style="padding-left: 30px;">
-  Gurley says he didn’t have a good answer but he wasn’t surprised by the sentiment, which he describes as FOMO, a slang popular among millennials that stands for “fear of missing out.”
+  Gurley says he didn't have a good answer but he wasn't surprised by the sentiment, which he describes as FOMO, a slang popular among millennials that stands for “fear of missing out.”
 </p>
 
 <p style="padding-left: 30px;">
@@ -75,7 +75,7 @@ The market for Silicon Valley startups is still so hot that wise venture capital
 </p>
 
 <p style="padding-left: 30px;">
-  “This is the most crowded party that’s ever been thrown,” he said.
+  “This is the most crowded party that's ever been thrown,” he said.
 </p>
 
 Although the easily tracked publicly traded social media valuations have not risen since Yellen&#8217;s comments last summer, the bubble has become even bigger &#8211; the party just moved to a new location.

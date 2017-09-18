@@ -35,7 +35,7 @@ According to Goldman, this was one of the biggest Fed surprises in the past 15 y
 
 >Excluding two meetings during the depths of the financial crisis in late 2008 and early 2009, the shock of Wednesday's slash to the so-called "dot plot" was only exceeded by introduction of calendar-based forward guidance in 2011, the decision to forego "Septaper" in 2013, and last March's markdown, according to Goldman:
 
->"Markets had little doubt that the FOMC would leave the funds rate unchanged at yesterday’s meeting—futures markets implied only about a 5 percent chance of an increase before the announcement," wrote Pandl and Struyven. "Yet the decision was clearly a major dovish surprise for markets, with interest rates declining across the curve and the dollar falling against other developed market currencies."
+>"Markets had little doubt that the FOMC would leave the funds rate unchanged at yesterday's meeting—futures markets implied only about a 5 percent chance of an increase before the announcement," wrote Pandl and Struyven. "Yet the decision was clearly a major dovish surprise for markets, with interest rates declining across the curve and the dollar falling against other developed market currencies."
 
 >The economists judge how big a surprise a Fed announcement is by the extent to which a variety of asset classes—from stocks, to gold, to inflation-protected Treasuries, to the Chicago Board Options Exchange Volatility Index—move together in the wake of these communiques, and the direction in which they go.
 

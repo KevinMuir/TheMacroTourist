@@ -47,7 +47,7 @@ The first one is an easy answer - technology.  Whether it was the fabled Unicorn
 
 But the second US economic bright spot is not quite so easy to remember.  In the Fall of 2014, crude oil was still $85.  It had fallen from $110, but it was still high and the idea it was about to collapse was far from most investors' minds.  At the time the US was in the midst of another boom.  But this one was in Texas and North Dakota.  For example, this report from Forbes sums up the extent that US job growth depended on the energy industry:
 
->...during the 24 month period from July 2009 through June of 2011, Texas created 49% of all new jobs created in the United States, and the vast majority of those jobs were either directly or indirectly the result of the state’s oil and natural gas boom, centered in plays like the Eagle Ford in South Texas, the Permian Basin of West Texas, and the Granite Wash play in the Texas Panhandle.
+>...during the 24 month period from July 2009 through June of 2011, Texas created 49% of all new jobs created in the United States, and the vast majority of those jobs were either directly or indirectly the result of the state's oil and natural gas boom, centered in plays like the Eagle Ford in South Texas, the Permian Basin of West Texas, and the Granite Wash play in the Texas Panhandle.
 
 With the help of the Tech Bubble 2.0 and the shale energy zaniness, the United States managed to outperform the rest of the world, both from a stock market return and actual economic growth point of view.  No wonder capital kept flowing into the US.  Have a look at this great chart from [Charlie Beilello from Pension Partners](<https://twitter.com/MktOutperform>):
 

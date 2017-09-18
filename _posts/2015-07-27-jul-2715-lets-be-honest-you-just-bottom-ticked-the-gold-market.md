@@ -16,16 +16,16 @@ tags:
 
   <img src="http://themacrotourist.com/images/AllBeholdJul2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/AllBeholdJul2715.png" width="600" height="400">
 
-Short and sweet today as the MacroTourist is actually on a camping trip with the wife’s in-laws celebrating her father’s 70th birthday. Almost skipped posting, but on Friday I stumbled on a Jim Grant interview that I couldn’t resist writing up.
+Short and sweet today as the MacroTourist is actually on a camping trip with the wife's in-laws celebrating her father's 70th birthday. Almost skipped posting, but on Friday I stumbled on a Jim Grant interview that I couldn't resist writing up.
 
-Jim was asked about the [recent article](http://blogs.wsj.com/moneybeat/2015/07/17/lets-be-honest-about-gold-its-a-pet-rock/) by WSJ’s Jason Zweig describing gold as a pet rock.
+Jim was asked about the [recent article](http://blogs.wsj.com/moneybeat/2015/07/17/lets-be-honest-about-gold-its-a-pet-rock/) by WSJ's Jason Zweig describing gold as a pet rock.
 
 
   <img src="http://themacrotourist.com/images/PetrockJul2415.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/PetrockJul2415.png" width="600" height="650">
 
-I have to admit, it’s a pretty good line. It makes a great headline.
+I have to admit, it's a pretty good line. It makes a great headline.
 
-Jim was quick to highlight another of the author’s previous stories. This article was written on September 17th, 2011 and it was titled: [“Is Gold cheap? Who knows, but gold miners are…”](http://www.wsj.com/articles/SB10001424053111904491704576575051077746110)
+Jim was quick to highlight another of the author's previous stories. This article was written on September 17th, 2011 and it was titled: [“Is Gold cheap? Who knows, but gold miners are…”](http://www.wsj.com/articles/SB10001424053111904491704576575051077746110)
 
 In what can only be described as timing that would make a Bruno Mars jealous, Jason Zweig missed top ticking the GDX gold miner ETF by mere days.
 

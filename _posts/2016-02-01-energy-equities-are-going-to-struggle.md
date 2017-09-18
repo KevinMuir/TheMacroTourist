@@ -21,7 +21,7 @@ In actuality, one of my main reasons for my crude oil bullishness is that *I do 
 
 I am decidedly in Blackrock's Larry Fink's camp (from a Bloomberg article last week);
 
->Laurence D. Fink, chairman of BlackRock Inc., the world’s largest money manager, said as many as 400 energy companies may not survive because oil prices are not high enough for them to meet their debt obligations.
+>Laurence D. Fink, chairman of BlackRock Inc., the world's largest money manager, said as many as 400 energy companies may not survive because oil prices are not high enough for them to meet their debt obligations.
 
 #### But how did we get here?
 

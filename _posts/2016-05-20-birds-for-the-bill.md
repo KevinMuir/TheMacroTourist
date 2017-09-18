@@ -20,25 +20,25 @@ Sometimes when you are too eager, the market gods punish you for your enthusiasm
 
 Instead of recounting a few anecdotes about traders who pushed trades too hard when they were out of kilter, I will tell the story of a game we used to play with the traders on the desk.
 
-I was introduced the game “Birds” shortly after taking my job on the Institutional Desk at RBC Dominion Securities in the early 90s.  Back then, DS was the best investment dealer on the street, and so when I was fortunate enough to be offered a job and they asked me how much I wanted to make, I answered “I just want an opportunity to contribute.”  Right answer for a pimply faced kid looking for a chance to make it on an institutional desk, but that didn’t stop them from signing me up for the bare minimum.  “Great.  You will make $26,000 and start next Monday.”  
+I was introduced the game “Birds” shortly after taking my job on the Institutional Desk at RBC Dominion Securities in the early 90s.  Back then, DS was the best investment dealer on the street, and so when I was fortunate enough to be offered a job and they asked me how much I wanted to make, I answered “I just want an opportunity to contribute.”  Right answer for a pimply faced kid looking for a chance to make it on an institutional desk, but that didn't stop them from signing me up for the bare minimum.  “Great.  You will make $26,000 and start next Monday.”  
 
 A couple of weeks into my job, my boss (who at the time seemed so old, but was actually just turning 30) asked me if I wanted to go out with the boys for some drinks after work. I jumped at the chance.  Next thing I knew I was in a dark packed bar just off Bay street, hanging around with a dozen different traders.  It was heaven.  There were bond traders, inter dealer brokers (and those of you who have been around know these guys are the most trouble) and a few familiar faces from our equity trading desk.  The drinks came faster than a keg party in freshman year of University.  
 
-Sometime after 10 o’clock some guys had to go home, so they started stuffing $20s into my boss’ hand to pay for their share of drinking.  Instead of just accepting the money, my boss (who eventually became one of my dearest friends), in his rambunctious intoxicating style shouted “Birds for the bill!"
+Sometime after 10 o'clock some guys had to go home, so they started stuffing $20s into my boss' hand to pay for their share of drinking.  Instead of just accepting the money, my boss (who eventually became one of my dearest friends), in his rambunctious intoxicating style shouted “Birds for the bill!"
 
 A couple of the drunker guys yelled back “Hell yeah!  Birds for the bill” while a few less enthusiastic traders merely nodded in agreement.  My boss affirmed the bill would be settled with the game.
 
 “Kev - you in?” my boss asked.
 
-“Of course I’m in” I replied, too scared to look like a mope on my first month on the job.
+“Of course I'm in” I replied, too scared to look like a mope on my first month on the job.
 
 The bill came and my boss announced the amount.  Nine hundred and forty two dollars he calmly reported.
 
-Holy f$ck!  How much did we drink?  At this point in my life I don’t think I had ever seen a restaurant or bar bill over $200.  This amount seemed like there was something wrong.  Was that the bill for the whole bar?  And what exactly is "birds"?
+Holy f$ck!  How much did we drink?  At this point in my life I don't think I had ever seen a restaurant or bar bill over $200.  This amount seemed like there was something wrong.  Was that the bill for the whole bar?  And what exactly is "birds"?
 
 Next thing I knew my boss had arranged us all in a circle and reminded us of the rules.  Each one of us would commit to putting either zero, one, two or three coins in our hand.  We would then make a fist over the coins and push it towards the middle.  One by one we would all guess how many coins we collectively had in our hands, with no two guesses allowed to be the same.  After  everyone had guessed, we would reveal how many coins we had put in, and they would be added up.  If you had guessed the total amount, you were out and did not have to pay the bill.  This would repeat until there was only one guy left.  This poor soul would be stuck with the bill.
 
-Gulp.  My mind raced.  I am making $26,000 a year.  This bar bill was an entire pay cheque.  Not only that, I don’t think I have that much in my bank account.  Well no matter, no going back now.  After all, there are 8 of us.  What are the chances I will lose?
+Gulp.  My mind raced.  I am making $26,000 a year.  This bar bill was an entire pay cheque.  Not only that, I don't think I have that much in my bank account.  Well no matter, no going back now.  After all, there are 8 of us.  What are the chances I will lose?
 
 The game commenced and I quickly realized there was a lot more than luck involved.  How many coins should I put in my hand?  What do my opponents bids mean?  Do I want to go first?  Or last? 
 

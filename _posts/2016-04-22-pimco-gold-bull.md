@@ -20,7 +20,7 @@ Have you ever heard of Harley Bassman?  It's not like he is a household name, an
 
 Before I tell you why, let's have a look at Harley's resume:
 
->Prior to joining PIMCO in 2014, he was a senior member of Credit Suisse’s global rates business. Prior to that, he was with Merrill Lynch for 26 years in a variety of senior roles, including creating, marketing and trading a wide range of derivative and structured products. Mr. Bassman helped create the trademarked OPOSSMS and PRESERV mortgage risk management products and helped design the MOVE Index, the benchmark interest rate volatility gauge. 
+>Prior to joining PIMCO in 2014, he was a senior member of Credit Suisse's global rates business. Prior to that, he was with Merrill Lynch for 26 years in a variety of senior roles, including creating, marketing and trading a wide range of derivative and structured products. Mr. Bassman helped create the trademarked OPOSSMS and PRESERV mortgage risk management products and helped design the MOVE Index, the benchmark interest rate volatility gauge. 
 
 <a href="http://themacrotourist.com/images/HarleyApr2216.jpg"><img src="http://themacrotourist.com/images/HarleyApr2216.jpg" alt="http://themacrotourist.com/images/HarleyApr2216.jpg" width="750" height="320" style="margin:30px auto;display:block;"></a>
 
@@ -68,9 +68,9 @@ I have long complained about the insanity of the world's Central Banks monetizin
 
 A couple of years ago Harley would have never dreamed of writing this piece.  Even now, he knows he is treading dangerously close to the *crackpot* line:
 
->So in the context of today’s paralyzed political-fiscal landscape and a hyperventilated election process, how silly is it to suggest the Fed emulate a past success by making a public offer to purchase a significantly large quantity of gold bullion at a substantially greater price than today’s free-market level, perhaps $5,000 an ounce? It would be operationally simple as holders could transact directly at regional Federal offices or via authorized precious metal assayers.
+>So in the context of today's paralyzed political-fiscal landscape and a hyperventilated election process, how silly is it to suggest the Fed emulate a past success by making a public offer to purchase a significantly large quantity of gold bullion at a substantially greater price than today's free-market level, perhaps $5,000 an ounce? It would be operationally simple as holders could transact directly at regional Federal offices or via authorized precious metal assayers.
 
->Admittedly, this suggestion is almost too outrageous to post under the PIMCO logo, but NIRP surely would have elicited a similar reaction a decade ago. But upon reflection, it could be an elegant solution since it flips the boxes on a foreign currency “prisoner’s dilemma” (more on this below). Most critically, a massive gold purchase has the potential to significantly boost inflationary expectations, both domestic and foreign.
+>Admittedly, this suggestion is almost too outrageous to post under the PIMCO logo, but NIRP surely would have elicited a similar reaction a decade ago. But upon reflection, it could be an elegant solution since it flips the boxes on a foreign currency “prisoner's dilemma” (more on this below). Most critically, a massive gold purchase has the potential to significantly boost inflationary expectations, both domestic and foreign.
 
 But he still wrote it.  And this is a big deal.  
 

@@ -31,9 +31,9 @@ It is no surprise that Bridgewater was a big seller during the third quarter. Bu
 > 
 > By Katherine Burton and Ye Xie
       
-> (Bloomberg) &#8212; Bridgewater Associates, once the biggest investor in the world’s two largest emerging-market exchange-traded funds, sold 41 percent of its holdings in the third quarter amid a rout in developing-nation assets.
+> (Bloomberg) &#8212; Bridgewater Associates, once the biggest investor in the world's two largest emerging-market exchange-traded funds, sold 41 percent of its holdings in the third quarter amid a rout in developing-nation assets.
       
-> The firm, led by Ray Dalio, cut its investments in Vanguard Group Inc. and BlackRock Inc.’s ETFs to a combined 104 million shares, from 175 million in the previous three-month period, according to a form 13F filed Thursday. The value of the ETF holdings dropped more than 50 percent to $3.4 billion as a result of share price declines and the divestments.
+> The firm, led by Ray Dalio, cut its investments in Vanguard Group Inc. and BlackRock Inc.'s ETFs to a combined 104 million shares, from 175 million in the previous three-month period, according to a form 13F filed Thursday. The value of the ETF holdings dropped more than 50 percent to $3.4 billion as a result of share price declines and the divestments.
 
 Many market pundits are viewing this as terrible news for emerging market equities. Bridgewater are smart guys, so surely their selling means the average Joe should also be pulling the rip cord.
 

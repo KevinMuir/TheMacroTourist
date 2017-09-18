@@ -53,7 +53,7 @@ However, I think the US economic bulls are kidding themselves if they think that
 Therefore it is no surprise that we are just now starting to see headlines of massive layoffs. It seems like every time you turn around there are more and more US companies taking an axe to their staff count. From ZeroHedge:
 
 <p style="padding-left: 30px;">
-  Here’s the computer industry which includes permanent layoff queen HP; it layered another 5,000 job cuts on top of the 16,000 it had announced earlier in the year, and on top of the tens of thousands it had announced in prior years. The segment also includes Microsoft which is now implementing its own mega job cuts. In October, the segment announced 6,509 job cuts for a total so far this year of 55,511. That’s up 92% from a year ago!
+  Here's the computer industry which includes permanent layoff queen HP; it layered another 5,000 job cuts on top of the 16,000 it had announced earlier in the year, and on top of the tens of thousands it had announced in prior years. The segment also includes Microsoft which is now implementing its own mega job cuts. In October, the segment announced 6,509 job cuts for a total so far this year of 55,511. That's up 92% from a year ago!
 </p>
 
 <p style="padding-left: 30px;">
@@ -69,11 +69,11 @@ Therefore it is no surprise that we are just now starting to see headlines of ma
 </p>
 
 <p style="padding-left: 30px;">
-  That’s more than just the routine tweaking of the work force, where some people get laid off in one area of the company and other people get hired elsewhere. This time it’s serious. And they’re all doing it: Microsoft (18,000), layoff-meister HP (21,000), Cisco (6,000), Intel (5,350), Sprint (2000 on top of the 5,000 by which it already reduced its workforce so far this year), TI (1,100), Dell (1,000), EMC (1,000)…. You keep going like this, and pretty soon you’re talking real numbers.
+  That's more than just the routine tweaking of the work force, where some people get laid off in one area of the company and other people get hired elsewhere. This time it's serious. And they're all doing it: Microsoft (18,000), layoff-meister HP (21,000), Cisco (6,000), Intel (5,350), Sprint (2000 on top of the 5,000 by which it already reduced its workforce so far this year), TI (1,100), Dell (1,000), EMC (1,000)…. You keep going like this, and pretty soon you're talking real numbers.
 </p>
 
 <p style="padding-left: 30px;">
-  Tech’s layoff announcements are likely to blow past 100,000 for the year, on track to be the worst year since 2009, when it announced 174,629 job cuts.
+  Tech's layoff announcements are likely to blow past 100,000 for the year, on track to be the worst year since 2009, when it announced 174,629 job cuts.
 </p>
 
 Or how about last week&#8217;s announcement from Bank of America that they would fire 4,000 more people? And those are examples from the supposedly &#8220;strong&#8221; industries of tech and finance. The bloodshed from the US&#8217;s brightest economic sector over the past few years is going to be epic. The shale energy bubble has created so much over capacity that it will be years before they ever hire again. In the coming quarters, there will be more and more layoffs from this previously growing sector.

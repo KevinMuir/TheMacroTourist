@@ -19,7 +19,7 @@ After many months of fighting all the naysayers predicting the next big stock ma
 
 But when I examine the current environment, I worry the credit expansion wave that has been dragging stocks higher is about to crest.  Before I go into my reasons for switching sides, let's take a moment to remember how we got here.
 
-I’ve been bullish for a while.  Not because I thought things were well in the world.  No, I was bullish for almost the opposite reason.  As I stared at the massive expansion in the ECB, Bank of Japan and Swiss National Bank’s balance sheets, I thought there was no point in standing in front of the monetary expansion freight train.  The amount of printing by these banks was truly staggering.  We have become somewhat numb to these sorts of numbers, but a combined $14.5 trillion dollar Central Bank balance sheet is Johnny Depp crazy.  
+I've been bullish for a while.  Not because I thought things were well in the world.  No, I was bullish for almost the opposite reason.  As I stared at the massive expansion in the ECB, Bank of Japan and Swiss National Bank's balance sheets, I thought there was no point in standing in front of the monetary expansion freight train.  The amount of printing by these banks was truly staggering.  We have become somewhat numb to these sorts of numbers, but a combined $14.5 trillion dollar Central Bank balance sheet is Johnny Depp crazy.  
 
 For a while we had the perfect storm of good news.  A new American President who promised tax cuts, deregulation and fiscal infrastructure spending.  The ECB and the Bank of Japan were filling blue tickets as fast as their clerks received fills.  The Federal Reserve was tightening, but they had not yet pulled out any pink tickets for their inventory, and it appeared the US economy would be able to weather slightly higher rates.
 
@@ -29,7 +29,7 @@ But over the past few months, slowly the story broke down.  The President, once 
 
 Yet stocks kept rising.  Even in the face of troubling political news from President Trump, US stocks pushed to new highs.  Almost makes you think the rally had nothing to do with Trump in the first place.
 
-And maybe it didn’t.  Maybe it is as simple as the ECB and Bank of Japan’s batshit crazy money printing overwhelming the financial markets.  
+And maybe it didn't.  Maybe it is as simple as the ECB and Bank of Japan's batshit crazy money printing overwhelming the financial markets.  
 
 <a href="http://themacrotourist.com/images/2017/06/Big3Jun1517.png"><img src="http://themacrotourist.com/images/2017/06/Big3Jun1517.png" alt="http://themacrotourist.com/images/2017/06/Big3Jun1517.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 

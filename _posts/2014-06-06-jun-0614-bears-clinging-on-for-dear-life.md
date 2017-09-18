@@ -60,11 +60,11 @@ I really like David Tepper. I think he is one of the good guys. But in this envi
 
 For example, the last time David Tepper made headlines was May 15th when he said:
 
-> TEPPER SAYS DON’T TO BE TOO ‘FREAKIN LONG’
+> TEPPER SAYS DON'T TO BE TOO ‘FREAKIN LONG'
   
-> TEPPER SAYS ‘TIME TO PRESERVE MONEY’, HAVE CASH
+> TEPPER SAYS ‘TIME TO PRESERVE MONEY', HAVE CASH
   
-> TEPPER SAYS I AM NERVOUS, IT’S NERVOUS TIME
+> TEPPER SAYS I AM NERVOUS, IT'S NERVOUS TIME
 
 But then yesterday the rally gathered steam when Tepper did an about face and said that his concerns had been alleviated.
 

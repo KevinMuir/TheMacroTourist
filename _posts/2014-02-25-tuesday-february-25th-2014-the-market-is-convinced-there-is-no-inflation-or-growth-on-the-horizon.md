@@ -22,7 +22,7 @@ I am an ardent believer of the trading axiom that “if everyone knows something
 
 Although I struggle with the problem of fading way too many moves, I have always made my really big money putting trades on at points where consensus was firmly against me.
 
-Therefore part of my daily routine is to continually ask myself; what is the market is expecting and where might consensus be wrong? If I can find points where participants are overly confident of an outcome occurring, then I can enter the trade with a favourable risk reward profile. I might still be wrong, but hopefully the fact that the market had largely priced in that outcome, it doesn’t cost me too much.
+Therefore part of my daily routine is to continually ask myself; what is the market is expecting and where might consensus be wrong? If I can find points where participants are overly confident of an outcome occurring, then I can enter the trade with a favourable risk reward profile. I might still be wrong, but hopefully the fact that the market had largely priced in that outcome, it doesn't cost me too much.
 
 I think that we are currently in one of those periods where participants are “sure” of an outcome that is not nearly as certain as they have priced in.
 
@@ -48,7 +48,7 @@ The Yield Curve has flattened. Here is the 5/30 Year US Treasury Spread:
 
 The curve widened quite aggressively last fall, but since then, it has flattened back to levels last seen in the midst of the summer budget crisis debacle.
 
-Yesterday I spoke about the recent move out of Emerging Markets into developed markets, but I didn’t talk about the damage being done to the commodity currencies. These currencies have been beaten up as world economic growth forecasts have been slashed. The best example is the Australian Dollar:
+Yesterday I spoke about the recent move out of Emerging Markets into developed markets, but I didn't talk about the damage being done to the commodity currencies. These currencies have been beaten up as world economic growth forecasts have been slashed. The best example is the Australian Dollar:
 
 
   <img src="http://themacrotourist.com/images/Azure/AUDFeb2514.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="AUDFeb2514.PNG" src="http://themacrotourist.com/images/Azure/AUDFeb2514.PNG" width="600" height="342" />Australian Dollar</a>
@@ -64,7 +64,7 @@ There is no doubt that we have suffered through an economic hiccup of late. Have
   <img src="http://themacrotourist.com/images/Azure/PMIFeb2514.PNG"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="PMIFeb2514.PNG" src="http://themacrotourist.com/images/Azure/PMIFeb2514.PNG" width="600" height="342" />PMI Index takes a dip</a>
 </div>
 
-I know it is fashionable to make fun of the fact that many bullish analysts are blaming shortfalls on the weather. I saw one of the more popular pro-doom financial websites even went as far to claim that January was one of the warmest on record, so therefore all the excuses about weather were bullshit. This is disingenuous logic. The West Coast had one of the hottest January’s on record, so it made the country average much warmer than usual. But the fact that San Francisco was 80 degrees didn’t make up for the fact that Atlanta was below freezing and covered in a sheet of ice. The warmer weather didn’t add very much economic activity, but the colder weather sure did hamper it.
+I know it is fashionable to make fun of the fact that many bullish analysts are blaming shortfalls on the weather. I saw one of the more popular pro-doom financial websites even went as far to claim that January was one of the warmest on record, so therefore all the excuses about weather were bullshit. This is disingenuous logic. The West Coast had one of the hottest January's on record, so it made the country average much warmer than usual. But the fact that San Francisco was 80 degrees didn't make up for the fact that Atlanta was below freezing and covered in a sheet of ice. The warmer weather didn't add very much economic activity, but the colder weather sure did hamper it.
 
 I am by no means claiming that the economy is not stalling. I understand that the odds actually favour that outcome.
 
@@ -78,13 +78,13 @@ At this point you might be willing to concede that the market has priced in a co
 
 Well, I believe that we have finally bottomed in terms of the ever decreasing money velocity and that we are about to see an uptick in inflation.
 
-**Wouldn’t it be perfect irony if at the point where the vast majority of market participants have given up ever worrying about inflation, it actually returns?**
+**Wouldn't it be perfect irony if at the point where the vast majority of market participants have given up ever worrying about inflation, it actually returns?**
 
-During the last year, the inflationists have been completely discredited. Whereas a few years ago the popular wisdom was that the Fed’s massive balance sheet expansion was going to cause runaway inflation, it has now been replaced with a manic belief that the Fed _cannot create inflation._
+During the last year, the inflationists have been completely discredited. Whereas a few years ago the popular wisdom was that the Fed's massive balance sheet expansion was going to cause runaway inflation, it has now been replaced with a manic belief that the Fed _cannot create inflation._
 
-I don’t believe for a second that the Fed cannot create inflation. At the end of the day, if they have a desire to create inflation, they can do it. They simply have to print with enough determination to change expectations.
+I don't believe for a second that the Fed cannot create inflation. At the end of the day, if they have a desire to create inflation, they can do it. They simply have to print with enough determination to change expectations.
 
-We have not had inflation because the private sector’s paying down of credit has outweighed the Fed’s creation of credit. However, that is changing.
+We have not had inflation because the private sector's paying down of credit has outweighed the Fed's creation of credit. However, that is changing.
 
 For the first time in a long time, we actually had households taking out credit! I am not judging whether this is prudent or not &#8211; debating the wisdom of encouraging this behaviour is not going to help you trade. Rightly or wrongly, it is occurring and you need to position accordingly.
 
@@ -96,7 +96,7 @@ Ever since the 2008 credit crisis, households have been steadily paying down cre
 
 However, it has now pushed higher and is finally positive. That means that money velocity should be increasing.
 
-And let’s not forget how much the Fed has pushed onto the banks’ balance sheet over the last few years.
+And let's not forget how much the Fed has pushed onto the banks' balance sheet over the last few years.
 
 
   <img src="http://themacrotourist.com/images/Azure/ExcessReservesFeb2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="ExcessReservesFeb2514.png" src="http://themacrotourist.com/images/Azure/ExcessReservesFeb2514.png" width="600" height="342" />Bank Excess Reserves</a>
@@ -108,7 +108,7 @@ If the velocity of money finally stops going down, then the potential for an exp
   <img src="http://themacrotourist.com/images/Azure/M2VelocityFeb2514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" alt="M2VelocityFeb2514.png" src="http://themacrotourist.com/images/Azure/M2VelocityFeb2514.png" width="600" height="342" />M2 Velocity</a>
 </div>
 
-The Fed has stuffed money into the system for the last five years. It has not created inflation because credit was being destroyed in the private sector, which lowered the velocity of money and the Fed’s stimulus was merely parked into the banking system. But that might be changing.
+The Fed has stuffed money into the system for the last five years. It has not created inflation because credit was being destroyed in the private sector, which lowered the velocity of money and the Fed's stimulus was merely parked into the banking system. But that might be changing.
 
 And if it is, then the surprises in the economy and inflation are going to be dramatic and outsized.
 

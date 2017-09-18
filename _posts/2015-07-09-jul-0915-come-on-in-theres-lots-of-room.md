@@ -20,7 +20,7 @@ tags:
 
   <img src="http://themacrotourist.com/images/Comeonin2Jul0915.png" alt="http://themacrotourist.com/images/Comeonin2Jul0915.png" style="margin:30px auto;display:block;" width="600" height="400">
 
-Things got a little squirrelly yesterday. There was some real fear as investors panicked that China was plunging into the abyss. Investors pitched commodity trades faster than John Travolta heads to the men’s steam room after a workout.
+Things got a little squirrelly yesterday. There was some real fear as investors panicked that China was plunging into the abyss. Investors pitched commodity trades faster than John Travolta heads to the men's steam room after a workout.
 
 The action in copper was typical. It plunged to a new six year low in an emotional “just get me out” puke.
 
@@ -29,12 +29,12 @@ The action in copper was typical. It plunged to a new six year low in an emotion
 
 However, by the end of the day the selling in copper had subsided, and we managed to close back above the lows.
 
-The same can’t be said of the Chinese stocks. There was a big seller in the NY session, and the FXI Chinese ETF closed at the lows of the day.
+The same can't be said of the Chinese stocks. There was a big seller in the NY session, and the FXI Chinese ETF closed at the lows of the day.
 
 
   <img src="http://themacrotourist.com/images/FXIJul0915.png" alt="http://themacrotourist.com/images/FXIJul0915.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-It really felt like there was capitulation yesterday. I have been eyeing the long side of the Chinese stock market, and I dipped my toe in the water into yesterday’s swoon. I didn’t have the courage to really load up the boat, and of course, this morning we have now bounced hard.
+It really felt like there was capitulation yesterday. I have been eyeing the long side of the Chinese stock market, and I dipped my toe in the water into yesterday's swoon. I didn't have the courage to really load up the boat, and of course, this morning we have now bounced hard.
 
 The other trade I have cautiously started nibbling on is long emerging market equities. The dollar rally of the past year has worried me, but emerging markets equities have finally declined enough to justify taking a long stab.
 
@@ -43,7 +43,7 @@ The other trade I have cautiously started nibbling on is long emerging market eq
 
 Yesterday was an emotional day where lots of traders hit the sell button. In this sort of market you need to realize that correlations often break down. Traders are forced to unwind positions, regardless of whether anything has changed in their investing merit.
 
-For example, let’s take the Japanese Yen. There was no real reason why it should have rallied over the past week. Yet it has been continually bid. Why is that?
+For example, let's take the Japanese Yen. There was no real reason why it should have rallied over the past week. Yet it has been continually bid. Why is that?
 
 The answer lies in the hedge fund positioning. The short Japanese Yen carry trade is probably one of the most popular macro hedge fund trades out there. There is serious money that has shorted Yen to buy risk assets. All you need to do is look at the Macro Hedge Index versus the Japanese Yen to realize how much this trade is driving performance.
 
@@ -57,7 +57,7 @@ For traders that are not offside and getting stopped out, this can offer great o
 
   <img src="http://themacrotourist.com/images/JPYJul0915.png" alt="http://themacrotourist.com/images/JPYJul0915.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-I am buying USDJPY (short Yen) at 121.39 and risking down to the yesterday’s lows. I know the trade is crowded, and I hate being stuffed in the same hot tub with all the other hedgies, but I think the past few days has caused some pain that needs to be faded.
+I am buying USDJPY (short Yen) at 121.39 and risking down to the yesterday's lows. I know the trade is crowded, and I hate being stuffed in the same hot tub with all the other hedgies, but I think the past few days has caused some pain that needs to be faded.
 
 Just remember that vol is going up, and to trade accordingly. Catching the end of this risk unwind will be tough. I will leave you with the wise words of one of my hedge fund pals:
 

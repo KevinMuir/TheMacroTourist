@@ -36,7 +36,7 @@ I know it is easy to forget, but it was only a couple of weeks ago that market p
 A couple of research pieces to remind you:
 
 <p style="padding-left: 30px;">
-  March 12/2015 &#8211; Here’s the takeaway from BNP:
+  March 12/2015 &#8211; Here's the takeaway from BNP:
 </p>
 
 <p style="padding-left: 30px;">
@@ -60,7 +60,7 @@ And it&#8217;s not just BNP. This sort of thinking was **pervasive**:
 </p>
 
 <p style="padding-left: 30px;">
-  The ECB’s move to restrict PSPP purchases to sovereign bonds with yields at or above the deposit facility rate has far reaching implications for the German bund curve, Citi notes. Specifically, Citi says bunds will be bought until yields converge on -0.20bps.
+  The ECB's move to restrict PSPP purchases to sovereign bonds with yields at or above the deposit facility rate has far reaching implications for the German bund curve, Citi notes. Specifically, Citi says bunds will be bought until yields converge on -0.20bps.
 </p>
 
 <p style="padding-left: 30px;">
@@ -88,7 +88,7 @@ And it&#8217;s not just BNP. This sort of thinking was **pervasive**:
 </p>
 
 <p style="padding-left: 30px;">
-  In sum, yields on shorter-dated German paper will move up to the deposit facility threshold and with the 10-year yield sitting below 40bps, it won’t be long before the entire curve flattens at -0.20bps.
+  In sum, yields on shorter-dated German paper will move up to the deposit facility threshold and with the 10-year yield sitting below 40bps, it won't be long before the entire curve flattens at -0.20bps.
 </p>
 
 [I have long argued that the ECB&#8217;s QE was inflationary](http://gfbblogs.azurewebsites.net/blog/2015/04/22/apr-2215-bill-dont-goocher-my-trade/) and it should be unfriendly to the long end of the European bond market. But the market interpreted the QE differently. What amounts to one of the biggest head fakes of all time, the hedgies and other fools piled into the German bund in a failed attempt to front run the ECB. In doing so, they drove the German bund to truly asinine levels. Now they are getting their faces ripped off as the QE effects finally kick in.

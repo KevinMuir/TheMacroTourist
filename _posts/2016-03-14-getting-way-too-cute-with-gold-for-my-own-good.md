@@ -72,7 +72,7 @@ In an environment of improving world economic growth, silver should outperform g
 
 One of silver's problems is that it is often a by-product of other mining.  China's desire for copper over the past decade caused far too many mines to be brought on line, causing silver output to skyrocket.  The nuclear winter of the past year for commodity companies has helped diminish this excess supply.  From Bloomberg:
 
->Mine production of silver will probably drop in 2016 for the first time in over a decade and demand is set to outstrip supply for a fourth straight year, says Standard Chartered Plc. Much of the world’s silver is extracted from the ground with other minerals, and output cuts announced by the biggest miners will hurt supplies of the metal as well as others such as copper and zinc.
+>Mine production of silver will probably drop in 2016 for the first time in over a decade and demand is set to outstrip supply for a fourth straight year, says Standard Chartered Plc. Much of the world's silver is extracted from the ground with other minerals, and output cuts announced by the biggest miners will hurt supplies of the metal as well as others such as copper and zinc.
 
 The excess by-product supply helps explain why the GSR ratio went from 32 to 82 over the past five years, but that influence is probably waning.  Yet another reason to expect the ratio to slip back down.
 

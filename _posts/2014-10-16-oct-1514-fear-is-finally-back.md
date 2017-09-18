@@ -19,12 +19,12 @@ tags:
   - Fed
   - stocks
 ---
-After a hiatus of nearly a couple years, fear finally returned to the market. Yesterday there were some real panicky moves &#8211; the likes we haven’t seen in a long, long time. The largest volatility was in the US Treasury market where there was a mad desperate scramble to bring in the shorts. In the morning as all the bad news was hitting the tape, the bond market started moving higher. Suddenly there was a lack of offers. The shorts panicked and grabbed everything they could. Idiots with big short positions, like these guys below, were suddenly gripped by fear.
+After a hiatus of nearly a couple years, fear finally returned to the market. Yesterday there were some real panicky moves &#8211; the likes we haven't seen in a long, long time. The largest volatility was in the US Treasury market where there was a mad desperate scramble to bring in the shorts. In the morning as all the bad news was hitting the tape, the bond market started moving higher. Suddenly there was a lack of offers. The shorts panicked and grabbed everything they could. Idiots with big short positions, like these guys below, were suddenly gripped by fear.
 
 
   <img src="http://themacrotourist.com/images/Azure/UBFillsOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/UBFillsOct1614.png" style="margin:30px auto;display:block;" width="600" height="425">
 
-The market found the weakest hand and exploited it. The chart of yesterday’s trading is pretty awesome.
+The market found the weakest hand and exploited it. The chart of yesterday's trading is pretty awesome.
 
 
   <img src="http://themacrotourist.com/images/Azure/WNGIPOct1514.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/WNGIPOct1514.png" style="margin:30px auto;display:block;" width="600" height="342">
@@ -53,17 +53,17 @@ And this was after a whole week of some pretty aggressive selling already.
 
 Just like that, in the space of two quick weeks, all the equity gains for the year had suddenly disappeared.
 
-Although some of the market commentators have blamed this sell off on the widening ebola problem, those guys don’t really understand what is going on. This has little to do with ebola. Maybe at some point ebola will be enough of a problem to truly scare the market, but we haven’t hit that point yet.
+Although some of the market commentators have blamed this sell off on the widening ebola problem, those guys don't really understand what is going on. This has little to do with ebola. Maybe at some point ebola will be enough of a problem to truly scare the market, but we haven't hit that point yet.
 
-This latest sell off is the direct result of the world’s two largest Central Bank policies.
+This latest sell off is the direct result of the world's two largest Central Bank policies.
 
 <hr size="3" width="85%" />
 
 **The Federal Reserve**
 
-Let’s start with the easiest one to explain &#8211; the Federal Reserve. The Fed has been goosing markets higher for the past 5 years with QE program after QE program. Each time the QE program ended, stocks sagged and bonds rallied. Each time the Fed panicked and quickly instituted another QE program. So it should be no surprise that as the current QE3 program is wound down, the same thing is happening.
+Let's start with the easiest one to explain &#8211; the Federal Reserve. The Fed has been goosing markets higher for the past 5 years with QE program after QE program. Each time the QE program ended, stocks sagged and bonds rallied. Each time the Fed panicked and quickly instituted another QE program. So it should be no surprise that as the current QE3 program is wound down, the same thing is happening.
 
-There are already calls from some market constituents for the Fed to get prepared for another QE program. This is such a stupid idea, I am at a loss to even put into words the absurdity of another QE program. But let’s try anyway. The Fed should not engage in another QE program for the following reasons:
+There are already calls from some market constituents for the Fed to get prepared for another QE program. This is such a stupid idea, I am at a loss to even put into words the absurdity of another QE program. But let's try anyway. The Fed should not engage in another QE program for the following reasons:
 
   * The previous QE programs exacerbated the inequality problem by levitating financial assets while affecting the real economy to a much lesser degree.
   * Stocks are still actually up on the year and although credit spreads have widened, financial conditions are still extremely easy. It is a testament to how addicted some market participants are to QE that this tiny little shakeout has already raised calls for more QE.
@@ -75,13 +75,13 @@ Here is an example of the type of model the Fed uses to set interest rates. I ha
 
   <img src="http://themacrotourist.com/images/Azure/TAYLOROct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/TAYLOROct1614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-If you notice on the graph, the spread between the model and the actual rate has finally gone negative. Due to the fact that the Fed is bound by zero, when the model called for negative rates, the spread was positive. The easing that would have usually been applied through lowering of the Fed Funds was accomplished through Quantitative Easing. At the end of the three previous QE programs (I am including Operation Twist), the models were still calling for negative rates. That is why Bernanke’s last QE program was not a set amount, but instead a promise to continue easing until the economy healed enough for the Fed Funds rate to come off zero.
+If you notice on the graph, the spread between the model and the actual rate has finally gone negative. Due to the fact that the Fed is bound by zero, when the model called for negative rates, the spread was positive. The easing that would have usually been applied through lowering of the Fed Funds was accomplished through Quantitative Easing. At the end of the three previous QE programs (I am including Operation Twist), the models were still calling for negative rates. That is why Bernanke's last QE program was not a set amount, but instead a promise to continue easing until the economy healed enough for the Fed Funds rate to come off zero.
 
-We are well past the point where more Quantitative Easing is required. Market pundits that are calling for more QE don’t understand how the Fed works. Although it might seem like they are there to make Wall Street rich, the Fed sets policy for the economy, not the markets. With the credit crisis of 2008 they drifted much too far into realm of helping out markets instead of the economy, but they argued that markets were about to affect the economy. It was unfortunate that the QE programs pushed up financial assets, helping out Wall Street more than Main Street. Investors have now mistakenly come to the conclusion that the Fed has their back and that the moment things go wrong, they are going to rush to the rescue.
+We are well past the point where more Quantitative Easing is required. Market pundits that are calling for more QE don't understand how the Fed works. Although it might seem like they are there to make Wall Street rich, the Fed sets policy for the economy, not the markets. With the credit crisis of 2008 they drifted much too far into realm of helping out markets instead of the economy, but they argued that markets were about to affect the economy. It was unfortunate that the QE programs pushed up financial assets, helping out Wall Street more than Main Street. Investors have now mistakenly come to the conclusion that the Fed has their back and that the moment things go wrong, they are going to rush to the rescue.
 
-**The Fed does not have investors’ backs. In fact, they are worried investors are taking too much risk and threatening the stability of the financial system.** The Fed is going to welcome a more two sided market. This constant t-bill like appreciation of the stock market is not natural. Don’t forget that a market’s purpose is to efficiently allocate capital. It is hard to argue that the markets have been doing their job lately.
+**The Fed does not have investors' backs. In fact, they are worried investors are taking too much risk and threatening the stability of the financial system.** The Fed is going to welcome a more two sided market. This constant t-bill like appreciation of the stock market is not natural. Don't forget that a market's purpose is to efficiently allocate capital. It is hard to argue that the markets have been doing their job lately.
 
-Therefore when you hear calls for more QE &#8211; ignore them. It isn’t happening. **And here is the real important part &#8211; if they do happen, it won’t be the same sort of program that benefits Wall Street more than Main Street.** Somehow the next round of easing is going to find its way into the Average Joe’s pocket more directly. The days of Wall Street inserting themselves in between the Fed and the Main Street, stuffing their pockets and taking the lion’s share, are over.
+Therefore when you hear calls for more QE &#8211; ignore them. It isn't happening. **And here is the real important part &#8211; if they do happen, it won't be the same sort of program that benefits Wall Street more than Main Street.** Somehow the next round of easing is going to find its way into the Average Joe's pocket more directly. The days of Wall Street inserting themselves in between the Fed and the Main Street, stuffing their pockets and taking the lion's share, are over.
 
 And one last point on the subject of the US economy. Do not equate financial markets with the economy. The economy can do just fine with stocks and bonds going down. Full stop. In fact, I think that is the most likely scenario.
 
@@ -89,14 +89,14 @@ And one last point on the subject of the US economy. Do not equate financial mar
 
 **The ECB**
 
-Although I think the Fed’s winding down of QE was going to affect the markets no matter what, I think the vast majority of this sell off is the result of poor decisions by the ECB.
+Although I think the Fed's winding down of QE was going to affect the markets no matter what, I think the vast majority of this sell off is the result of poor decisions by the ECB.
 
-I have long argued that the ECB was too tight. With the Fed and the Bank of Japan aggressively expanding their balance sheet over the past couple of years, the ECB’s balance sheet has instead been shrinking.
+I have long argued that the ECB was too tight. With the Fed and the Bank of Japan aggressively expanding their balance sheet over the past couple of years, the ECB's balance sheet has instead been shrinking.
 
 
   <img src="http://themacrotourist.com/images/Azure/ECBOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/ECBOct1614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-The conflicting Central Bank policies have resulted in Europe importing all the world’s deflation. And this is having an obvious affect on their economy. Have a look at GDP growth of the US and the UK (which both engaged in aggressive balance sheet expansion) versus Europe since the credit crisis.
+The conflicting Central Bank policies have resulted in Europe importing all the world's deflation. And this is having an obvious affect on their economy. Have a look at GDP growth of the US and the UK (which both engaged in aggressive balance sheet expansion) versus Europe since the credit crisis.
 
 
   <img src="http://themacrotourist.com/images/Azure/GDPOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/GDPOct1614.png" style="margin:30px auto;display:block;" width="500" height="542">
@@ -115,16 +115,16 @@ Hedge fund guru David Tepper summed it up best with his comment:
 
 > “Draghi wants inflation in the Euro zone. He will not stop,” said Tepper.
 
-Tepper even went on to say that Draghi’s comments marked the end of the bond bull market. He was that convinced that Draghi would follow through with his promises.
+Tepper even went on to say that Draghi's comments marked the end of the bond bull market. He was that convinced that Draghi would follow through with his promises.
 
 This optimism led to that final “risk on” push in the final days of summer. But since then it has become more and more clear that Draghi would not be able to follow through with his big promises. As autumn rolled in, the disappointments started.
 
 
   <img src="http://themacrotourist.com/images/Azure/vaderOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/vaderOct1614.png" style="margin:30px auto;display:block;" width="400" height="550">
 
-The dark side quickly enveloped the markets as it became obvious that the ECB’s much hoped for balance sheet expansion was no where as easy as Draghi insinuated.
+The dark side quickly enveloped the markets as it became obvious that the ECB's much hoped for balance sheet expansion was no where as easy as Draghi insinuated.
 
-**This latest rout in equity markets, and the monster rally in the bond market is the direct result of fast money puking out their overly aggressive positions put on due to Draghi’s promises.**
+**This latest rout in equity markets, and the monster rally in the bond market is the direct result of fast money puking out their overly aggressive positions put on due to Draghi's promises.**
 
 <hr size="3" width="85%" />
 
@@ -136,11 +136,11 @@ As for the Americans, I certainly hope that the Fed ignores calls for more QE. T
 
 Although I am no long term bull on equity markets, I continue to expect a tradeable rally from here. In one of my retirement accounts where I have been sitting in 100% cash, I finally put a third of it to work yesterday. I have this strange belief that stocks are a better buy when they are _lower_ instead of _higher._
 
-Maybe we crash from here. Maybe the fact that the Fed is not going to quickly give in with more QE is the recipe for the big one. But I don’t think so.
+Maybe we crash from here. Maybe the fact that the Fed is not going to quickly give in with more QE is the recipe for the big one. But I don't think so.
 
-Everyone thinks that everything has to look like 2008. I am not so sure about that forecast. I think that if Europe can get their act together, and the Fed doesn’t panic and do more QE, we can muddle through the next little bit.
+Everyone thinks that everything has to look like 2008. I am not so sure about that forecast. I think that if Europe can get their act together, and the Fed doesn't panic and do more QE, we can muddle through the next little bit.
 
-But don’t mistake my trading call for a long term belief that stocks are going to rocket higher. In the long run I still think financial assets are priced much too richly to deliver decent returns.
+But don't mistake my trading call for a long term belief that stocks are going to rocket higher. In the long run I still think financial assets are priced much too richly to deliver decent returns.
 
 <hr size="3" width="85%" />
 

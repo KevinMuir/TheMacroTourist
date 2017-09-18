@@ -20,11 +20,11 @@ When I was growing up, my old man was the research director for an independent C
 Yet even I had to do a double take when I read the latest Odey Asset Management results. From the FT:
 
 <p style="padding-left: 30px;">
-  Odey Asset Management founder Crispin Odey’s flagship hedge fund slumped 19.3 per cent last month, after it was caught out when the Australian dollar strengthened against the US dollar.
+  Odey Asset Management founder Crispin Odey's flagship hedge fund slumped 19.3 per cent last month, after it was caught out when the Australian dollar strengthened against the US dollar.
 </p>
 
 <p style="padding-left: 30px;">
-  The large one-month move, from one of London’s best-known hedge fund managers, wiped out Odey European’s small gain in the first three months of the year and took its 2015 performance to -18.2 per cent, according to investor documents.
+  The large one-month move, from one of London's best-known hedge fund managers, wiped out Odey European's small gain in the first three months of the year and took its 2015 performance to -18.2 per cent, according to investor documents.
 </p>
 
 <p style="padding-left: 30px;">

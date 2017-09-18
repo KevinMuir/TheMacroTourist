@@ -18,7 +18,7 @@ A couple of days ago one of the European Union's founders issued a stark assessm
 
 >The European Central Bank is becoming dangerously over-extended and the whole euro project is unworkable in its current form, the founding architect of the monetary union has warned.
 
->“One day, the house of cards will collapse,” said Professor Otmar Issing, the ECB’s first chief economist and a towering figure in the construction of the single currency.
+>“One day, the house of cards will collapse,” said Professor Otmar Issing, the ECB's first chief economist and a towering figure in the construction of the single currency.
 
 >Prof Issing said the euro has been betrayed by politics, lamenting that the experiment went wrong from the beginning and has since degenerated into a fiscal free-for-all that once again masks the festering pathologies.
 

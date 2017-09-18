@@ -23,7 +23,7 @@ Yesterday Yellen testified in front of the Senate in what used to be called the 
 
 It was an interesting session as Yellen showed her dovish tendencies, but also raised some nuanced concerns. As I listened to her testimony I came to the conclusion that although her true colours are indeed dovish, the market was underestimating her willingness to come off ZIRP (zero interest rate policy). She might favour easy money but she is not a complete baffoon. She understands that zero is not the right interest rate for eternity. Not preparing the markets for this move is only going to make the ultimate move all the worse.
 
-Therefore I think that yesterday’s testimony was Yellen’s attempt to gently walk the markets closer to this rate rise inevitability.
+Therefore I think that yesterday's testimony was Yellen's attempt to gently walk the markets closer to this rate rise inevitability.
 
 What makes me feel that way?
 
@@ -45,7 +45,7 @@ According to economist Diane Swonk, yesterday was the 3rd warning in less than 3
 
 Diane speculates that there might be some regulatory changes coming to address this concern.
 
-On the whole Yellen did indeed strike a more balanced tone of a Central Banker that understands that allowing the markets to continue to spiral upward with no regard to the inevitable raising of rates is in no one’s interest. Don’t get me wrong &#8211; she is still extremely dovish and repeatedly emphasized that the Fed’s objectives have not yet been met. **But there was a slight shift towards hawkishness.**
+On the whole Yellen did indeed strike a more balanced tone of a Central Banker that understands that allowing the markets to continue to spiral upward with no regard to the inevitable raising of rates is in no one's interest. Don't get me wrong &#8211; she is still extremely dovish and repeatedly emphasized that the Fed's objectives have not yet been met. **But there was a slight shift towards hawkishness.**
 
 The markets understood this (at least in the morning they did) and stocks and gold sold off, while the US dollar was bid.
 
@@ -64,7 +64,7 @@ And although I have been somewhat disciplined at reducing some of the positions 
 
 One of my favourite stories about George Soros is from earlier in his career. When he found himself in a funk, he would phone up Goldman Sachs on a friday afternoon and fax them over his portfolio. He would then ask for a price to liquidate the whole thing. George would hit the bid, go home flat for the week-end, and start over with fresh thoughts on Monday.
 
-I have done this in the past, but I don’t think that my thinking is yet that polluted that this is called for.
+I have done this in the past, but I don't think that my thinking is yet that polluted that this is called for.
 
 But there is no doubt that it is time for me to focus on reducing risk and focus on my core trades.
 
@@ -72,16 +72,16 @@ But there is no doubt that it is time for me to focus on reducing risk and focus
 
 **Cleaning up the mess**
 
-I believe that the market has completely baked in Yellen’s insane dovishness. Any surprise will be her willingness to actually raise rates. Let’s not forget that by any traditional measure the Fed is already way behind the curve. Have a a look at the Taylor model forecast for proper Fed policy:
+I believe that the market has completely baked in Yellen's insane dovishness. Any surprise will be her willingness to actually raise rates. Let's not forget that by any traditional measure the Fed is already way behind the curve. Have a a look at the Taylor model forecast for proper Fed policy:
 
 
   <img src="http://themacrotourist.com/images/Azure/TAYLORJul1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/TAYLORJul1614.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-The model is indicating that the Fed Funds rate should be 3.63%! Even if you argue that this model is outdated, most other models are also showing that the Fed is _extremely easy._ Don’t forget that the Fed is a committee and that they are slow to make decisions. But at the end of the day, they actually follow these broad macro rules fairly closely. Yes, the Federal Reserve is set up to create a situation prone to easier monetary policy, but the Fed doesn’t **simply ignore rate rise signals.**
+The model is indicating that the Fed Funds rate should be 3.63%! Even if you argue that this model is outdated, most other models are also showing that the Fed is _extremely easy._ Don't forget that the Fed is a committee and that they are slow to make decisions. But at the end of the day, they actually follow these broad macro rules fairly closely. Yes, the Federal Reserve is set up to create a situation prone to easier monetary policy, but the Fed doesn't **simply ignore rate rise signals.**
 
 It feels to me like it has been so long since the Federal Reserve has actually raised rates that the market has forgotten that rates also go up.
 
-**Yesterday’s Yellen testimony has convinced me that she is much more ready to raise rates than the market believes.**
+**Yesterday's Yellen testimony has convinced me that she is much more ready to raise rates than the market believes.**
 
 Therefore I have made the following moves:
 
@@ -97,7 +97,7 @@ Therefore I have made the following moves:
 
 &nbsp;
 
-If I am correct about higher rates in the US I expect that gold will be under pressure. Although I am long term bullish, I expect that a slightly more hawkish Fed will put immediate pressure on precious metals. Maybe I am overthinking this move, but it won’t be until the Fed breaks something with their rate hikes that gold will be a screaming buy again.
+If I am correct about higher rates in the US I expect that gold will be under pressure. Although I am long term bullish, I expect that a slightly more hawkish Fed will put immediate pressure on precious metals. Maybe I am overthinking this move, but it won't be until the Fed breaks something with their rate hikes that gold will be a screaming buy again.
 
 I have sold all of my gold as the chart does not look constructive by any means:
 

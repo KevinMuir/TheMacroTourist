@@ -18,7 +18,7 @@ I am shocked at how many market pundits focus primarily on the demand side of th
 
 This quote from a recent Bloomberg article sums up the situation perfectly:
 
->“The demand for income is bigger than anything I’ve ever seen before,” said Rick Rieder, global chief investment officer of fixed income at BlackRock Inc.
+>“The demand for income is bigger than anything I've ever seen before,” said Rick Rieder, global chief investment officer of fixed income at BlackRock Inc.
 
 But whatever happened to the concept *"the best cure for high prices, is high prices?"*
 

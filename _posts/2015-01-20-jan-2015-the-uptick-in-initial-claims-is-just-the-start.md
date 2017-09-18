@@ -69,7 +69,7 @@ The damage from this energy shale bubble bursting is going to ripple through the
 And don&#8217;t think it is going to be limited to energy companies. 
 
 <p style="padding-left: 30px;">
-  Citing the collapse in global oil prices, U.S. Steel Corp. will idle its plant in Lorain, Ohio, laying off 614 workers, a company spokeswoman said Tuesday. The plant makes steel pipe and tube for oil-and-gas exploration and drilling. With oil prices currently around $50 a barrel, their lowest level since 2009, energy companies have far less incentive to drill for new supply, reducing demand for the plant’s products.
+  Citing the collapse in global oil prices, U.S. Steel Corp. will idle its plant in Lorain, Ohio, laying off 614 workers, a company spokeswoman said Tuesday. The plant makes steel pipe and tube for oil-and-gas exploration and drilling. With oil prices currently around $50 a barrel, their lowest level since 2009, energy companies have far less incentive to drill for new supply, reducing demand for the plant's products.
 </p>
 
 There is no doubt that the lower energy price is going to be a much needed boost for the American consumer. But any increase in spending is going to take a while to make its way through the economy enough to show up in the job figures. Ultimately it might be a positive for the US economy, but over the short to medium run, expect the news from the job front to get worse before it gets better.

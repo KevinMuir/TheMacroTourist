@@ -23,17 +23,17 @@ Who is Kurt Eichenwald and why is he **"*urging* you to sell all your stocks?"**
 
 Kurt is a somewhat famous reporter.  Currently he writes editorial pieces for [NewsWeek](<http://www.newsweek.com/authors/kurt-eichenwald-0>) and Vanity Fair, but he earned his stripes as a financial reporter.  From WikiPedia:
 
->Eichenwald returned to The New York Times later in 1986 as a news clerk for the national desk in New York, participating in the paper’s writing program for aspiring reporters. By 1988, Eichenwald had been named The New York Times’ Wall Street reporter.
+>Eichenwald returned to The New York Times later in 1986 as a news clerk for the national desk in New York, participating in the paper's writing program for aspiring reporters. By 1988, Eichenwald had been named The New York Times' Wall Street reporter.
 
->Eichenwald’s arrival on Wall Street coincided with the explosion of white collar criminal investigations, and his coverage of finance soon began to resemble the crime beat. He wrote about the stock trading scandals involving speculator Ivan Boesky and junk bond king Michael Milken, as well as the Treasury markets scandal at Salomon Brothers. He also covered the excesses of the takeover era, including the biggest deal of the time, the acquisition of RJR Nabisco by Kohlberg Kravis Roberts & Company.
+>Eichenwald's arrival on Wall Street coincided with the explosion of white collar criminal investigations, and his coverage of finance soon began to resemble the crime beat. He wrote about the stock trading scandals involving speculator Ivan Boesky and junk bond king Michael Milken, as well as the Treasury markets scandal at Salomon Brothers. He also covered the excesses of the takeover era, including the biggest deal of the time, the acquisition of RJR Nabisco by Kohlberg Kravis Roberts & Company.
 
->In 1995, Eichenwald began writing about assorted corporate misdeeds. He wrote a multi-part series for The New York Times, exposing significant deficiencies in the American business of providing kidney dialysis treatments. The series led to a review by the Clinton Administration of ways to create financial incentives to improve quality in dialysis treatment, a focus of Eichenwald’s series. The articles were honored in 1996 with a George Polk Award for excellence in journalism, the first of two that Eichenwald would be awarded.
+>In 1995, Eichenwald began writing about assorted corporate misdeeds. He wrote a multi-part series for The New York Times, exposing significant deficiencies in the American business of providing kidney dialysis treatments. The series led to a review by the Clinton Administration of ways to create financial incentives to improve quality in dialysis treatment, a focus of Eichenwald's series. The articles were honored in 1996 with a George Polk Award for excellence in journalism, the first of two that Eichenwald would be awarded.
 
 Kurt should know just enough about to finance to know you never, ever, not in a million years, **"urge everyone to sell all of anything."**
 
 There hasn't been such an asinine comment since February 4th, 2010 when numbskull extraordinary Nassim Taleb said:
 
->It’s “a no brainer” to sell short Treasuries, Taleb, a principal at Universa Investments LP in Santa Monica, California, said at a conference in Moscow today. “Every single human being should have that trade.”
+>It's “a no brainer” to sell short Treasuries, Taleb, a principal at Universa Investments LP in Santa Monica, California, said at a conference in Moscow today. “Every single human being should have that trade.”
 
 <a href="http://themacrotourist.com/images/TalebSep2816.png"><img src="http://themacrotourist.com/images/TalebSep2816.png" alt="http://themacrotourist.com/images/TalebSep2816.png" width="750" height="490" style="margin:30px auto;display:block;"></a>
 

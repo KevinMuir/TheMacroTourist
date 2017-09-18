@@ -27,11 +27,11 @@ Meanwhile, bonds, even at these absurdly low yield levels, continue to attract i
 
 Every time I open my research feed I am confronted with more doom and gloom.  The Reformed Broker Josh Brown sums up this new found pessimism:
 
->I’ve read many books on the history of financial markets (like more than four dozen) over the last 20 years. I eat, sleep and breathe this stuff. One of the common threads of every financial or asset bubble throughout human history is that they all have a repudiation phase – a moment where all the lies that had been built up alongside the excess are aired out in public. Even reputable companies and players get caught up in it.
+>I've read many books on the history of financial markets (like more than four dozen) over the last 20 years. I eat, sleep and breathe this stuff. One of the common threads of every financial or asset bubble throughout human history is that they all have a repudiation phase – a moment where all the lies that had been built up alongside the excess are aired out in public. Even reputable companies and players get caught up in it.
 
 >As Jeff Lebowski said, “New shit has come to light, man.” In the repudiation phase, belief is nowhere to be found. Skepticism becomes the order of the day.
 
->We’re there now. New shit is coming to light every five minutes. Every reputation you thought was untouchable and every omission you’d accepted because it was already accepted by the crowd – all back on the table for discussion (dissection?).
+>We're there now. New shit is coming to light every five minutes. Every reputation you thought was untouchable and every omission you'd accepted because it was already accepted by the crowd – all back on the table for discussion (dissection?).
 
 I will never in a million years claim the end of this huge credit expansion super cycle will return us to some sort of normal balanced economy any time soon.  I expect it to end badly as much as the next guy, the only question is the form the end game takes.  The truth of the matter is that we aren't as rich as we think.  Investors have started to figure it out.  A new skepticism has overwhelmed the market.  I blame the Federal Reserve.  January's swoon scared a lot of investors.  This is the problem with a balance sheet constrained economy.  It doesn't take much to put the fear of a deflationary collapse back into their minds.
 

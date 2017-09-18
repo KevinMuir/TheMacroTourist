@@ -47,7 +47,7 @@ A lot of investors are probably confused by the sudden downdraft &#8211; after a
 
 Here is a great list of the potential reasons for the sudden plunge by FBN Securities:
 
-> **Month End:** It’s the last day for underperforming or performing hedge funds to get names off the books so they don’t show up in quarterly report which equates to selling pressure.  
+> **Month End:** It's the last day for underperforming or performing hedge funds to get names off the books so they don't show up in quarterly report which equates to selling pressure.  
 > **Position Closing:** Chatter that there was and maybe still is a massive asset allocator selling equities and buying bonds to rebalance books as the equity move made them a bit too long equities which again equates to selling pressure.  
 > **Holiday:** There is very little liquidity because of the Jewish holiday making any selling pressure magnified however as of noon the S&P 500 is running +20% vs its 30 day average volume.  
 > **High Yield:** Many High Yield traders have been trying to sell HY and IG bonds today with quarter end upon us, much like they did at the end of the June Qtr. Given the lack of liquidity and participants today, HY sellers have no bids to hit, so they have turned to selling equities and underlying names to hedge their positions or de-risk. Tuesday the slope of the BofA Us High Yield Master II OAS 200 dma turned higher for the first time since May 2012. The changing of trend has forewarned of equity markets largest reversals since inception of this HY index.  

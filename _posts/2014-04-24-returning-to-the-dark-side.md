@@ -41,7 +41,7 @@ This sentiment is echoed by other investing legends &#8211; like PIMCO&#8217;s B
   
 > “Those who expect double digit returns going forwards are going to be severely disappointed,” said Bill Gross, CEO of bond giant, PIMCO.
   
-> “The transition from a levering, asset-inflating secular economy to a post bubble delivering era may be as difficult for one to imagine as our departure into the hereafter,” said PIMCO managing director, Bill Gross, the world’s largest bond manager.
+> “The transition from a levering, asset-inflating secular economy to a post bubble delivering era may be as difficult for one to imagine as our departure into the hereafter,” said PIMCO managing director, Bill Gross, the world's largest bond manager.
 
 But as most things in life &#8211; timing is everything.
 

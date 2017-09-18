@@ -25,7 +25,7 @@ Last week the man who-most-wants Janet Yellen's job stunned the investing commun
 
 >To the extent that low neutral rates are in part the consequence of investors preferring fixed-income assets and steering clear of riskier options, policy makers can combat that by buying risk assets, he said.
 
->Japan has “engaged in that type of transaction to much greater extent than other countries,” Summers said, pointing out among its initiatives the BOJ’s purchases of exchange-traded funds. “It is something that economic logic suggests should be considered in other places where the zero lower bound is a potentially important monetary policy issue,” he said, referring to the perceived lower limit for benchmark rates set by central banks.
+>Japan has “engaged in that type of transaction to much greater extent than other countries,” Summers said, pointing out among its initiatives the BOJ's purchases of exchange-traded funds. “It is something that economic logic suggests should be considered in other places where the zero lower bound is a potentially important monetary policy issue,” he said, referring to the perceived lower limit for benchmark rates set by central banks.
 
 I am not sure where Summers learned his economic logic theory, but Central Banks monetizing their balance sheets through the purchase of equities is not just stupid, but bat shit crazy.  
 

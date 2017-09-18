@@ -27,13 +27,13 @@ A few days ago at the Ira Sohn conference, the legendary (and he really deserves
 
 It was therefore quite unusual to have Paul speak at the Ira Sohn conference. 
 
-In the speech, Paul who has been trading for almost 40 years said, “Macro trading is about as difficult as I’ve ever seen it in my career."
+In the speech, Paul who has been trading for almost 40 years said, “Macro trading is about as difficult as I've ever seen it in my career."
 
 Traders often feel like the current environment is harder than it ever has been, and it is only with hindsight that the trades seem obvious. However, Paul Tudor Jones is not some spring chicken that has seen only a couple of different market cycles. He is one of the most experienced macro traders out there, so if he says that this the hardest environment he has ever seen, then we know that it is difficult.
 
 I have spoken about the preponderance of hedge funds creating an environment that is akin to them standing around in a circle shooting at the target in the middle. The lack of public participation and the sheer number of hedge funds creates a situation where you need to fade the supposed &#8220;smart money.&#8221; Paul spoke about this as he described why the macro environment is so difficult right now:
 
-> Friday last week was one of the greatest days that Paul Tudor Jones can remember in macro trading as economic data (jobs numbers) were very strong , yet bonds closed up. He asks how can anyone possibly think/predict that bonds would close up on that day? This just goes to show that what’s obvious in macro is usually wrong.
+> Friday last week was one of the greatest days that Paul Tudor Jones can remember in macro trading as economic data (jobs numbers) were very strong , yet bonds closed up. He asks how can anyone possibly think/predict that bonds would close up on that day? This just goes to show that what's obvious in macro is usually wrong.
 
 As reported by the ValueWalk website, Paul went on to note:
 

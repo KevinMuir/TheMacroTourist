@@ -52,7 +52,7 @@ I look at stocks, and instead of seeing the start of the next great secular bull
 
 And the really scary thing is that even those that are sympathetic to my argument, like GMO&#8217;s Jeremy Grantham, are counting on the overvaluation to continue to expand. Jeremy is a person that I have a tremendous amount of respect for. Yet Jeremy&#8217;s call for a move up another 10% before &#8220;crashing as it always does&#8221; scares me. Doesn&#8217;t this remind you of Citibank Chairman Chuck Prince&#8217;s famous &#8220;we&#8217;re still dancing speech?&#8221; Look at the entire Prince quote, he knew what was coming, but was foolish enough to think he could somehow get out in time.
 
-> “When the music stops, in terms of liquidity, things will be complicated. But as long as the music is playing, you’ve got to get up and dance. We’re still dancing.” 
+> “When the music stops, in terms of liquidity, things will be complicated. But as long as the music is playing, you've got to get up and dance. We're still dancing.” 
 
 You might acknowledge that my arguments make sense, but these points were just as valid 250 S&P handles lower as they are today. The market is going up, so obviously there must be something that I am missing.
 

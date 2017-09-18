@@ -33,9 +33,9 @@ I am especially concerned about a potential repeat of this pattern because of th
 
 I have been skeptical of the later part of the Trumpflation rally.  I don't think it will be quite as easy as the markets assume.  I have had trouble articulating my worries, but David Rosenberg did such a terrific job, I thought I would just borrow a piece of his recent report:
 
->Now, let’s be charitable and assume that this infrastructure comes through — it would amount to $100 billion annually and add a less than a half-point per year to growth (Obama’s plan in 2009-2010 was far larger, also whipped up excitement at the time, and years later...forgotten). It helps, but is no panacea to the business cycle.
+>Now, let's be charitable and assume that this infrastructure comes through — it would amount to $100 billion annually and add a less than a half-point per year to growth (Obama's plan in 2009-2010 was far larger, also whipped up excitement at the time, and years later...forgotten). It helps, but is no panacea to the business cycle.
 
->And it is likely that these gains will be negated by Trump’s anti-trade policies, and if my assumptions are correct, the tax cuts go into savings and debt pay downs just as the de facto tax relief from the past few
+>And it is likely that these gains will be negated by Trump's anti-trade policies, and if my assumptions are correct, the tax cuts go into savings and debt pay downs just as the de facto tax relief from the past few
 years of gas price reduction did. Deregulation is nice, it will lead to some extra risk-taking at the margin,
 but again, will likely not bring the economy into some nirvana state.  Of course, the implications of the massive runup in government debt in the absence of entitlement reforms will keep a cloud over spending growth in the future — there is no such thing as a free lunch.  While the move to repatriate profits from abroad is beneficial too, the evidence from 2004 shows most of the proceeds go into dividend payouts, stock repurchases, and this time, looking at how stretched corporate balance sheets are, into debt reduction and balance sheet repair.
 
@@ -49,11 +49,11 @@ belt at Goldman Sachs (and his Senior Advisor, Stephen Bannon, was also a partne
 
 >Maybe it is a political revolution, but this is no Reagan era shift for positive change. No doubt avoiding a Democratic win that would have had Elizabeth Warren and Bernie Sanders writing the policy script is good enough.  With Clinton in charge with a hardened GOP in the House and Senate, who needed another four years of gridlock? So all is not horrible, even though we are in a situation where we have a new President who has no idea how to govern and who seems to blow with the wind.
 
->The honeymoon won’t last that much longer.
+>The honeymoon won't last that much longer.
 
->Even with Reagan, the S&P 500 rallied 1% the day after the U.S. election in 1980, the feel-good factor lasted a month and another 8% up for the market — then the current reality of soft growth for the ‘here and now’ knocked the market down more than 20% over the next year-and-change. Once the policy proposals turned to action, the market found a bottom and went into a new bull phase based on reality as opposed to hope.
+>Even with Reagan, the S&P 500 rallied 1% the day after the U.S. election in 1980, the feel-good factor lasted a month and another 8% up for the market — then the current reality of soft growth for the ‘here and now' knocked the market down more than 20% over the next year-and-change. Once the policy proposals turned to action, the market found a bottom and went into a new bull phase based on reality as opposed to hope.
 
->Point is that it’s only easy to talk about the Reagan Rally with the benefit of hindsight. At the beginning, the honeymoon was short-lived.  I think that is the major point — faith-based risk rallies have a shorter shelf life than reality-based bull runs do. There is a lot of speculation going on here — question is how justifiable it is.
+>Point is that it's only easy to talk about the Reagan Rally with the benefit of hindsight. At the beginning, the honeymoon was short-lived.  I think that is the major point — faith-based risk rallies have a shorter shelf life than reality-based bull runs do. There is a lot of speculation going on here — question is how justifiable it is.
 
 >I think Reagan had a far stronger mandate, at the time there was a 70% top marginal rate to slice (not sub-40% as there is now); the price-to earnings multiple was 9x (not 18x); the unemployment rate was near-8% (not 5%); and he had much greater room to ease fiscal policy seeing as the debt-to-GDP ratio was 30% then, versus 75% now.  We also were coming off a 14-year bear market; the first of the boomers were turning 34, not 60; the Fed was embarking on a vast easing cycle.  Finally, Reagan was an optimist, pure and simple, while Trump is adept on tapping negative emotions like anger and fear.
 

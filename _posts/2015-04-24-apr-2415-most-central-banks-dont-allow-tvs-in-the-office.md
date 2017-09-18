@@ -23,7 +23,7 @@ tags:
 This morning the EU finance ministers met in Latvia for another of their ongoing talks about the Greek financial crisis. In a somewhat childish display, the frustration of the European leaders clearly shone through with the leaked reports about the meeting.
 
 <p style="padding-left: 30px;">
-  Greek Finance Minister Yanis Varoufakis was heavily criticized by his euro-area colleagues amid mounting frustration at his refusal to deliver measures to fix his country’s economy and release financial aid, according to three people familiar with the talks. Euro-area finance chiefs said Varoufakis’s handling of the talks was irresponsible and accused him of being a time-waster, a gambler and an amateur, one of the people said.
+  Greek Finance Minister Yanis Varoufakis was heavily criticized by his euro-area colleagues amid mounting frustration at his refusal to deliver measures to fix his country's economy and release financial aid, according to three people familiar with the talks. Euro-area finance chiefs said Varoufakis's handling of the talks was irresponsible and accused him of being a time-waster, a gambler and an amateur, one of the people said.
 </p>
 
 There were unconfirmed reports that the German finance minister also added &#8220;yeah, and you&#8217;re ugly and your mother dresses you funny!&#8221; The search for the perpetrator of the vandalism on Varoufakis&#8217; car (pictured above) is still ongoing, and it is a pure coincidence that German finance minster Wolfgang Schäuble was heard muttering something about &#8220;an Audi made by my people, and paid for with my people&#8217;s money, driven by a Greek who won&#8217;t pay for it&#8221; right before he went for a 15 minute &#8220;bathroom break.&#8221; 

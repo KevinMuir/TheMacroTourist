@@ -21,7 +21,7 @@ When I tell people my theory that inflation is the next big worry, they often co
 
 And maybe they are right.  Maybe all of this monetary madness will forever sit on the Central Banks' balance sheet as inert and useless as a pathetic old Hugh Hefner.  But all I know is these warnings that *"inflation will eventually come, but not just yet,"* sound suspiciously like a Chuck Prince forecast.
 
->“When the music stops, in terms of liquidity, things will be complicated. But as long as the music is playing, you’ve got to get up and dance. We’re still dancing,” he said in an interview with the FT in Japan.
+>“When the music stops, in terms of liquidity, things will be complicated. But as long as the music is playing, you've got to get up and dance. We're still dancing,” he said in an interview with the FT in Japan.
 
 <a href="http://themacrotourist.com/images/CJun0216.png"><img src="http://themacrotourist.com/images/CJun0216.png" alt="http://themacrotourist.com/images/CJun0216.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 

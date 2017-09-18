@@ -48,7 +48,7 @@ From a military point of view, the Americans keep applying pressure on the Russi
 </p>
 
 <p style="padding-left: 30px;">
-  Yemelyanov also noted that in his opinion the US Senate’s decision to arm Ukraine had revealed that Washington wasn’t interested in the de-escalation of the Ukrainian conflict. He then said that US actions gave him the impression they was seeking to turn Ukraine into some sort of an “international militant targeting the Russian Federation.”
+  Yemelyanov also noted that in his opinion the US Senate's decision to arm Ukraine had revealed that Washington wasn't interested in the de-escalation of the Ukrainian conflict. He then said that US actions gave him the impression they was seeking to turn Ukraine into some sort of an “international militant targeting the Russian Federation.”
 </p>
 
 <p style="padding-left: 30px;">

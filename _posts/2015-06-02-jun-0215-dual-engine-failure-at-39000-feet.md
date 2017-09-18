@@ -142,7 +142,7 @@ The FOMC committee members are desperate to temper down any expectations for mon
 </p>
 
 <p style="padding-left: 30px;">
-  “Liftoff says we’re going straight up with the interest rate,” Fischer said during a question-and-answer session after a speech on financial crises. “Well, we’re going up with the interest rate, then along, and then another little jump. That’s not liftoff, that’s crawling.”
+  “Liftoff says we're going straight up with the interest rate,” Fischer said during a question-and-answer session after a speech on financial crises. “Well, we're going up with the interest rate, then along, and then another little jump. That's not liftoff, that's crawling.”
 </p>
 
 <hr size="3" width="85%" />

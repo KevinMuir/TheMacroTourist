@@ -37,9 +37,9 @@ Given all this doom, it's no wonder there is a **record high for bond bullishnes
 
 <a href="http://themacrotourist.com/images/BullishMay1616.jpg"><img src="http://themacrotourist.com/images/BullishMay1616.jpg" alt="http://themacrotourist.com/images/BullishMay1616.jpg" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
->Contrarians in the bond market aren’t simply walking for the exits — they’re sprinting.
+>Contrarians in the bond market aren't simply walking for the exits — they're sprinting.
 
->That’s because bond bullishness today is higher than it’s even been — or at least since the 1980s, when I began monitoring the investment-newsletter industry. To bet on higher bond prices today, you in effect have to bet that this overwhelming consensus will get it right. That’s just the opposite of what contrarian analysis teaches us is most likely.
+>That's because bond bullishness today is higher than it's even been — or at least since the 1980s, when I began monitoring the investment-newsletter industry. To bet on higher bond prices today, you in effect have to bet that this overwhelming consensus will get it right. That's just the opposite of what contrarian analysis teaches us is most likely.
 
 >Consider the average recommended bond-market-exposure level among a subset of short-term bond-market timers (as measured by the Hulbert Bond Newsletter Sentiment Index, or HBNSI). Earlier this week this average soared to 74.7%, a record at least since the mid-1980s, more than 30 years ago.
 
@@ -69,11 +69,11 @@ In fact, I believe this trade also works well from a much longer time perspectiv
 
 >This is a very crowded trade almost by default. If you want to be long momentum stocks and short value stocks, and no one else is doing it, then it can get crowded but this takes some time to happen. Other investors must elect to put on the factor risk the same way as you do.
 
->But the inflation trade doesn’t work that way. When you are born, you are not born with equity risk. But you are born with inflation exposure. Virtually everyone has inflation risk naturally, unless they actively work to reduce their inflation exposure. So, from the day of your birth, you have a default bet on against inflation. If there is no inflation, you’ll do better than if there is inflation.
+>But the inflation trade doesn't work that way. When you are born, you are not born with equity risk. But you are born with inflation exposure. Virtually everyone has inflation risk naturally, unless they actively work to reduce their inflation exposure. So, from the day of your birth, you have a default bet on against inflation. If there is no inflation, you'll do better than if there is inflation.
 
->It’s a consequence of living in a nominal world. And the popularity of this bet at the moment is a consequence of having “won” that bet for more than three decades. Think for a minute. When you find someone who thinks that inflation is headed higher – and let’s cull from our sample all the nut-jobs who think hyperinflation is imminent – what is “higher” to them? When I tell people that our forecast is for 3% median inflation by year-end, they look at me like I’m from Mars, like three percent is so unfathomably exotic that they can’t imagine it. Because, for the most part, they can’t.
+>It's a consequence of living in a nominal world. And the popularity of this bet at the moment is a consequence of having “won” that bet for more than three decades. Think for a minute. When you find someone who thinks that inflation is headed higher – and let's cull from our sample all the nut-jobs who think hyperinflation is imminent – what is “higher” to them? When I tell people that our forecast is for 3% median inflation by year-end, they look at me like I'm from Mars, like three percent is so unfathomably exotic that they can't imagine it. Because, for the most part, they can't.
 
->This month marks a full twenty years since the last time that year/year core inflation exceeded 3%. Sophomores in college right now have never seen 3% core inflation. (Median inflation has gotten somewhat higher, up to 3.34% in 2007, but hasn’t been higher than that since 1992). So truly, for many US investors 3% inflation is exotic, and 4% inflation is virtually hyperinflation as far as they are concerned.
+>This month marks a full twenty years since the last time that year/year core inflation exceeded 3%. Sophomores in college right now have never seen 3% core inflation. (Median inflation has gotten somewhat higher, up to 3.34% in 2007, but hasn't been higher than that since 1992). So truly, for many US investors 3% inflation is exotic, and 4% inflation is virtually hyperinflation as far as they are concerned.
 
 >So this is a very crowded trade.
 

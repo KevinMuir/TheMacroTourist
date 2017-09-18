@@ -56,11 +56,11 @@ Now apart from being a little pissed these millennials seem to be way more, how 
 
 The first came to my attention in a terrific blog by Fred Wilson, a great VC who writes everyday on his site AVC.com. In a recent article titled [&#8220;Negative Gross Margins&#8221;](http://avc.com/2015/10/negative-gross-margins/), he laid it all out on the table:
 
-> There’s been a lot of talk coming out of silicon valley lately about fast growing companies with high valuations that are going to face problems in the coming year(s).
+> There's been a lot of talk coming out of silicon valley lately about fast growing companies with high valuations that are going to face problems in the coming year(s).
 > 
 > Bill Gurley said this recently:
 > 
-> “I do think you’ll see some dead unicorns this year”
+> “I do think you'll see some dead unicorns this year”
 > 
 > Mike Moritz said this recently:
 > 
@@ -80,13 +80,13 @@ Instead of just making a prediction of imminent doom, Fred explains _exactly_ wh
 
 Yet Fred does not think the road to profitability will be smooth:
 
-> The thing that is wrong with this strategy is that taking prices up, or using your volume to drive costs down, in order to get to positive gross margins is a lot harder than most people think. If there are other startups competing with you and offering a similar service, you aren’t going to be able to take prices up without losing customers to a similar competitor, unless your service truly has “lock in.” And most don’t. Using volume to drive costs down can work, but if there are similar services out there, the provider who is being asked to take a cut by you might just move their supply over to another competitor offering a higher price.
+> The thing that is wrong with this strategy is that taking prices up, or using your volume to drive costs down, in order to get to positive gross margins is a lot harder than most people think. If there are other startups competing with you and offering a similar service, you aren't going to be able to take prices up without losing customers to a similar competitor, unless your service truly has “lock in.” And most don't. Using volume to drive costs down can work, but if there are similar services out there, the provider who is being asked to take a cut by you might just move their supply over to another competitor offering a higher price.
 > 
 > The bottom line is the primary way this strategy works is if you obtain a monopoly position in your market and you are the only game in town for your customers and suppliers. But given the massive amount of startup capital that is out there and the endless number of entrepreneurs starting businesses similar to each other these days, I think it will be hard for most companies to achieve monopoly position (which is somewhat in conflict with what I wrote here the other day).
 > 
 > Yes, there will be a few that succeed with this strategy. Getting a huge lead on your competitors, raising a ton of money to operate a scorched earth strategy and force your competitors out of the market, will work for some. But not nearly as many as the capital markets seem to think.
 > 
-> And so most of the companies out there who are growing like weeds using a negative gross margin strategy are going to find that the capital markets will ultimately lose patience with this strategy and force them to get to positive gross margins, which will in turn cut into growth and what we will be left with is a ton of flatlined zero gross margin businesses carrying billion dollar plus valuations. And that is what Gurley and Moritz see when they look out into next year and the year beyond. They aren’t alone.
+> And so most of the companies out there who are growing like weeds using a negative gross margin strategy are going to find that the capital markets will ultimately lose patience with this strategy and force them to get to positive gross margins, which will in turn cut into growth and what we will be left with is a ton of flatlined zero gross margin businesses carrying billion dollar plus valuations. And that is what Gurley and Moritz see when they look out into next year and the year beyond. They aren't alone.
 
 Fred&#8217;s piece on negative gross margins demonstrates the late stage of the current tech cycle. Strong fundamentals are no longer the driving force of this bull run. Instead we are rising because we have been rising&#8230;
 
@@ -113,7 +113,7 @@ From Re/Code:
 
 > Square announced plans on Friday morning to price its IPO at $11 to $13 a share, meaning an IPO in that range would value the company at much less than the valuation it secured in its last round of private financing.
 > 
-> If the company prices at $13, Square would carry a value of about $4.2 billion based on the approximately 323 million shares it says will be outstanding. Square, Jack Dorsey’s payments company, was valued by private investors at about $6 billion in its last round of private financing, according to insiders.
+> If the company prices at $13, Square would carry a value of about $4.2 billion based on the approximately 323 million shares it says will be outstanding. Square, Jack Dorsey's payments company, was valued by private investors at about $6 billion in its last round of private financing, according to insiders.
 
 I am convinced we have now rolled over and are about to enter the distribution phase of this cycle. There will be rallies, but the top is in for these stocks. From here on in, these private company Unicorn stocks will go from strong hands into weak ones.
 

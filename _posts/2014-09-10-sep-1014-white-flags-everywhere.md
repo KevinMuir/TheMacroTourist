@@ -53,7 +53,7 @@ If I had to guess, my bet would be that yesterday&#8217;s intraday euphoric high
 
 Over the past couple of weeks I have noticed a lot of white flags going up by the last remaining bears. Wall Street&#8217;s most bearish strategist, Deutsche Bank&#8217;s David Bianco recently gave up predicting a down market. He raised his S&P targets to levels that suggest the bull market has more room to run on the upside. Even uber bear Bob Janjuah is now qualifying his bearish calls by stating that until the VIX dips below 10, then the risk-on environment has more to go. Although Bob would never get outright bullish, if you think about his call, he is basically shirking away from predicting that the market is going to turn lower anytime soon. 
 
-All the while that the bears are abandoning their positions, the bull market has emboldened market participants even further out the risk curve. In a report that will go down in the annals of disastrously stupid ideas, Citibank produced a report that can be summarized as &#8220;Don’t Hate Credit, Just Use Leverage for 10% Returns.&#8221; 
+All the while that the bears are abandoning their positions, the bull market has emboldened market participants even further out the risk curve. In a report that will go down in the annals of disastrously stupid ideas, Citibank produced a report that can be summarized as &#8220;Don't Hate Credit, Just Use Leverage for 10% Returns.&#8221; 
 
 
   <img src="http://themacrotourist.com/images/Azure/yieldSep1014-1.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/yieldSep1014-1.png" width="600" height="360">

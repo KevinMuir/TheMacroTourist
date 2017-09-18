@@ -60,7 +60,7 @@ It is obvious that Tsipras has come to the same conclusion. I think he is prepar
 The last couple of sentences of Tsipras&#8217; editorial are an ominous warning to the rest of Europe:
 
 <p style="padding-left: 30px;">
-  &#8220;If some, however, think or want to believe that this decision concerns only Greece, they are making a grave mistake. I would suggest that they re-read Hemingway’s masterpiece, “For Whom the Bell Tolls”,&#8221; he said.
+  &#8220;If some, however, think or want to believe that this decision concerns only Greece, they are making a grave mistake. I would suggest that they re-read Hemingway's masterpiece, “For Whom the Bell Tolls”,&#8221; he said.
 </p>
 
 I can think of no better author for Tspiras to quote than Hemingway. Although I am a huge fan, the truth of the matter is Hemingway was an alcoholic who ended his own life at the hands of a shotgun. He was a deeply troubled soul, who lived life with an amazing lack of concern about the future. Just like Greece, he spent wildly with little concern about how the bills would be paid. He had four different wives, and between all the plane accidents and other missteps in remote parts of the world, it is amazing he lasted as long as he did. 

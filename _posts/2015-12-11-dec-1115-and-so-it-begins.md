@@ -31,7 +31,7 @@ From the WSJ:
 > 
 > Third Avenue said poor bond-market trading conditions made it almost impossible to raise sufficient cash to meet redemption demands from investors without resorting to fire sales of assets.
 > 
-> Securities attorneys said Third Avenue’s decision to wind down the mutual fund without giving investors all their cash back could have significant repercussions for both the company and the mutual-fund industry, which for decades has thrived by promising to allow investors to take a long-term view of the markets while retaining the right to cash out shares at any time.
+> Securities attorneys said Third Avenue's decision to wind down the mutual fund without giving investors all their cash back could have significant repercussions for both the company and the mutual-fund industry, which for decades has thrived by promising to allow investors to take a long-term view of the markets while retaining the right to cash out shares at any time.
 > 
 > While hedge-funds have occasionally prevented investors from taking out their money, such a move is uncommon for a mutual fund.
 > 

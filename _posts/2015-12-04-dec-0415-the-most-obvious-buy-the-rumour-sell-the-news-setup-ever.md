@@ -23,7 +23,7 @@ tags:
 
 Mark Twain once opined it is ain&#8217;t what you don&#8217;t know that gets you in trouble, it&#8217;s what you know for sure that just ain&#8217;t so. Yesterday the market _&#8220;knew&#8221;_ the ECB&#8217;s Mario Draghi would once again over promise, yet still over deliver. Goldman Sach&#8217;s FX strategist Robin Brooke&#8217;s recommendation was typical of the extremely bearish sentiment:
 
-> &#8220;it remains the case that downside skew in EUR/$ is modest compared to the run-up to the Jan. 22 meeting. In short, we think risk-reward to short EUR/$ into tomorrow’s meeting remains compelling and we anticipate a 2-3 big figure drop on the day.&#8221;
+> &#8220;it remains the case that downside skew in EUR/$ is modest compared to the run-up to the Jan. 22 meeting. In short, we think risk-reward to short EUR/$ into tomorrow's meeting remains compelling and we anticipate a 2-3 big figure drop on the day.&#8221;
 
 Yet instead of the Euro dropping 2 or 3 big figures, we got a 4 handle face ripper of a short covering rally. 
 

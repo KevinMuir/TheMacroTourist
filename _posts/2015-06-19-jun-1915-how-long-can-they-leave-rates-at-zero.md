@@ -67,25 +67,25 @@ From the article:
 </p>
 
 <p style="padding-left: 30px;">
-  But these are not ordinary times. An overheating economy right now would be welcome: It would help nudge inflation back to more normal levels, restore some of the long-term growth potential lost since the financial crisis, and boost ordinary workers’ wages more effectively than remedies such as big increase in the minimum wage, which can reduce employment for the low-skilled. While low rates may be fueling speculation in financial markets, that threat doesn’t yet outweigh the many benefits.
+  But these are not ordinary times. An overheating economy right now would be welcome: It would help nudge inflation back to more normal levels, restore some of the long-term growth potential lost since the financial crisis, and boost ordinary workers' wages more effectively than remedies such as big increase in the minimum wage, which can reduce employment for the low-skilled. While low rates may be fueling speculation in financial markets, that threat doesn't yet outweigh the many benefits.
 </p>
 
 <p style="padding-left: 30px;">
-  However, millions of Americans who are working part time but want full-time work, and others who aren’t looking for work but want a job, aren’t counted as unemployed. Additionally, structural shifts seem to have weakened workers’ ability to win big wage gains. This suggests it may require unemployment below 5% for an extended period to generate significant wage gains and to eventually get inflation higher.
+  However, millions of Americans who are working part time but want full-time work, and others who aren't looking for work but want a job, aren't counted as unemployed. Additionally, structural shifts seem to have weakened workers' ability to win big wage gains. This suggests it may require unemployment below 5% for an extended period to generate significant wage gains and to eventually get inflation higher.
 </p>
 
 <p style="padding-left: 30px;">
-  The economy’s supply side has weakened, so there is little “slack” to tamp down price pressure. Both the labor force and productivity are growing at well below prerecession rates, which means that much of the disappointing pace of economic growth is due to a weaker supply-side to the economy. If so, then capacity constraints and cost pressures could emerge more quickly when growth picks up.
+  The economy's supply side has weakened, so there is little “slack” to tamp down price pressure. Both the labor force and productivity are growing at well below prerecession rates, which means that much of the disappointing pace of economic growth is due to a weaker supply-side to the economy. If so, then capacity constraints and cost pressures could emerge more quickly when growth picks up.
 </p>
 
 The hawks will argue that leaving rates at zero will do nothing more than fuel more financial asset gains. Yet Greg counters:
 
 <p style="padding-left: 30px;">
-  Easy monetary policy worsens inequality. Low interest rates work in part by boosting the prices of assets such as stocks and property. And since such assets are owned mostly by the rich, this widens the nation’s wealth gap.
+  Easy monetary policy worsens inequality. Low interest rates work in part by boosting the prices of assets such as stocks and property. And since such assets are owned mostly by the rich, this widens the nation's wealth gap.
 </p>
 
 <p style="padding-left: 30px;">
-  But this is a short-sighted objection. Higher asset prices won’t make workers poorer; but higher unemployment will. If the economy overheats and unemployment drops below 5%, this will do more for the average worker, with fewer negative side effects, than interventions such as a higher minimum wage. That’s the lesson of the 1996 to 2000 boom when the Fed let unemployment fall below 4%. Wages grew strongly.
+  But this is a short-sighted objection. Higher asset prices won't make workers poorer; but higher unemployment will. If the economy overheats and unemployment drops below 5%, this will do more for the average worker, with fewer negative side effects, than interventions such as a higher minimum wage. That's the lesson of the 1996 to 2000 boom when the Fed let unemployment fall below 4%. Wages grew strongly.
 </p>
 
 I think Janet & Co. will mouth words about being concerned about the excesses in the financial markets, but they are ready to accept the trade offs. They are just too scared about the consequences of raising rates too early. They are too many Ray Dalio&#8217;s warning about making a 1937 type mistake. The memories of the last deflationary collapse of 2008 are still too fresh.

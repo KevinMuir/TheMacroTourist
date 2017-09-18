@@ -42,23 +42,23 @@ None more so than the Chinese Yuan.  Although most hedgies were all betting on a
 
 This massive strength has forced at least one prominent China bear to throw in the towel.  From Bloomberg:
 
->Mark Hart spent seven years and $240 million waiting on a crash in China’s currency.
+>Mark Hart spent seven years and $240 million waiting on a crash in China's currency.
 
 >He lost sleep. He lost clients. He damn near lost his sanity.
 
->And now he’s lost his conviction: Hart, who called for a more than 50 percent yuan devaluation last year, has turned bullish on China and its currency.
+>And now he's lost his conviction: Hart, who called for a more than 50 percent yuan devaluation last year, has turned bullish on China and its currency.
 
->His reversal hasn’t come easily. From his base in Fort Worth, Texas, the hedge fund manager spent countless nights on the line to Hong Kong, parsing market news and exchange rates. At times, the stress took a toll on Hart personally and left his employees demoralized.
+>His reversal hasn't come easily. From his base in Fort Worth, Texas, the hedge fund manager spent countless nights on the line to Hong Kong, parsing market news and exchange rates. At times, the stress took a toll on Hart personally and left his employees demoralized.
 
 >“I always thought we had a good risk-reward trade on, but we made a number of mistakes, including being way too early,” Hart, who started the yuan bet after predicting both the U.S. subprime mortgage bust and the European debt crisis, said in a telephone interview. “And now the world has changed.”
 
->In cool hindsight, the 45-year-old founder of Corriente Advisors sees last year’s Group of 20 summit in Shanghai as a key turning point. Like many investors, Hart suspects the meeting resulted in a tacit agreement among world leaders to prevent the yuan from tumbling. He calls it China’s “whatever it takes” moment -- when policy makers resolved to prop up the currency at any cost.
+>In cool hindsight, the 45-year-old founder of Corriente Advisors sees last year's Group of 20 summit in Shanghai as a key turning point. Like many investors, Hart suspects the meeting resulted in a tacit agreement among world leaders to prevent the yuan from tumbling. He calls it China's “whatever it takes” moment -- when policy makers resolved to prop up the currency at any cost.
 
->“China now has the breathing room it needs to either temporarily stave off a slowdown with fiscal and monetary stimulus, or reform, grow and upgrade itself into the world’s largest developed economy,” Hart said.
+>“China now has the breathing room it needs to either temporarily stave off a slowdown with fiscal and monetary stimulus, or reform, grow and upgrade itself into the world's largest developed economy,” Hart said.
 
->Whether or not China got help from other G-20 nations, the government has clearly succeeded in stabilizing the exchange rate. The yuan ended a three-year slide in late December and has rallied almost 7 percent in 2017, including a 0.5 percent increase on Thursday. It’s now trading at the strongest level in more than a year versus the greenback.
+>Whether or not China got help from other G-20 nations, the government has clearly succeeded in stabilizing the exchange rate. The yuan ended a three-year slide in late December and has rallied almost 7 percent in 2017, including a 0.5 percent increase on Thursday. It's now trading at the strongest level in more than a year versus the greenback.
 
->Even at its weakest point, the yuan never dropped enough to move the needle on Hart’s wager, which started in 2009. His dedicated China funds, which had fixed lifespans, bought options that were designed to deliver one of two outcomes: a massive payoff in the event of a currency crash, or a near total wipeout if a major devaluation failed to occur.
+>Even at its weakest point, the yuan never dropped enough to move the needle on Hart's wager, which started in 2009. His dedicated China funds, which had fixed lifespans, bought options that were designed to deliver one of two outcomes: a massive payoff in the event of a currency crash, or a near total wipeout if a major devaluation failed to occur.
 
 >The trade went against him almost from the beginning. After holding steady for the first six months of 2010, the yuan strengthened for the next three and a half years. It eventually reversed course, but the sharp devaluation that Hart had anticipated never materialized. His second China fund shut in December. All told, he lost between $240 million and $250 million.
 

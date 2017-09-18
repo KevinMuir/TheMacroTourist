@@ -24,7 +24,7 @@ tags:
 Usually IMF Head Christine Lagarde is too busy hobnobbing with the financial elite to take time out to issue warnings about the financial markets, but yesterday she cautioned US rate increases could trigger instability in emerging markets:
 
 <p style="padding-left: 30px;">
-  The head of the International Monetary Fund warned on Tuesday that emerging markets are set to face a renewed period of economic instability when US interest rates rise this year, forecasting a repeat of 2013’s damaging “taper tantrum” episode of capital flight and rapid currency depreciation.<br /> The IMF chief said she feared that negative “spillover” effects from these increases would lead to a re-run of the crisis that hit developing economies such as India and Turkey nearly two years ago, following hints from then Fed chair Ben Bernanke about an early end to the institution’s bond purchasing programme known as quantitative easing.
+  The head of the International Monetary Fund warned on Tuesday that emerging markets are set to face a renewed period of economic instability when US interest rates rise this year, forecasting a repeat of 2013's damaging “taper tantrum” episode of capital flight and rapid currency depreciation.<br /> The IMF chief said she feared that negative “spillover” effects from these increases would lead to a re-run of the crisis that hit developing economies such as India and Turkey nearly two years ago, following hints from then Fed chair Ben Bernanke about an early end to the institution's bond purchasing programme known as quantitative easing.
 </p>
 
 <p style="padding-left: 30px;">
@@ -60,7 +60,7 @@ Yet here we are; with easy money once again fuelling another boom (in financial 
 </p>
 
 <p style="padding-left: 30px;">
-  Come on baby, say it, do you think I’m going to cry?
+  Come on baby, say it, do you think I'm going to cry?
 </p>
 
 <p style="padding-left: 30px;">
@@ -68,15 +68,15 @@ Yet here we are; with easy money once again fuelling another boom (in financial 
 </p>
 
 <p style="padding-left: 30px;">
-  Why the drama? We don’t have to drag out this situation.”
+  Why the drama? We don't have to drag out this situation.”
 </p>
 
 <p style="padding-left: 30px;">
-  Natalie Maines of the Dixie Chicks was anticipating her boyfriend’s breaking up with her, but she could have been referring to the end of Janet Yellen’s patience. She figured, if it’s going to happen, let’s get it over with. I say, we don’t have to drag out this situation. How many more Fridays like yesterday can we take?
+  Natalie Maines of the Dixie Chicks was anticipating her boyfriend's breaking up with her, but she could have been referring to the end of Janet Yellen's patience. She figured, if it's going to happen, let's get it over with. I say, we don't have to drag out this situation. How many more Fridays like yesterday can we take?
 </p>
 
 <p style="padding-left: 30px;">
-  I don’t know how long ago zero interest rates ceased being a good idea, but I’m sure it was some time in the past. Six years and counting is too long even if some slack does remain in the labor force and inflation is not a clear and present danger. But when 295,000 net new establishment jobs and 5.5 percent unemployment rates are treated as bad news and costs 278.94 Dow points in one day, that’s another reason to just get it over with. What is it they say about a brave man dying only once while cowards die a thousand deaths? It’s time to cowboy up!
+  I don't know how long ago zero interest rates ceased being a good idea, but I'm sure it was some time in the past. Six years and counting is too long even if some slack does remain in the labor force and inflation is not a clear and present danger. But when 295,000 net new establishment jobs and 5.5 percent unemployment rates are treated as bad news and costs 278.94 Dow points in one day, that's another reason to just get it over with. What is it they say about a brave man dying only once while cowards die a thousand deaths? It's time to cowboy up!
 </p>
 
 I really enjoy Bob McTeer&#8217;s blog. Too many writers are busy writing in the most dramatic fashion possible &#8211; but not Bob. He presents his no-nonsense pragmatic Texas views in a straightforward logical manner. When he speaks about his time at the Federal Reserve you get a deep understanding of the issues facing the people assigned with conducting monetary policy. Bob has not been one of those critics that has been hawkish for the past few years. Therefore when he says it is high time to start to raise rates, I view this as indicative of the reasoning for many of the more conservative Federal Reserve Governors.

@@ -20,7 +20,7 @@ In my posts, I try to avoid politics as the last thing the world needs another i
 
 [In the post, the author seems to have some rather aggressive and agitated comments directed towards Canada.](http://www.nakedcapitalism.com/2014/05/america-europe-canadas-willing-chump.html)
 
-> (Post intermission #1: Canadians’ flattering image of themselves as unfailingly reticent and polite is wearing a bit thin lately. The actions above are not those of a reserved and self-effacing people but an aggrandized and obnoxious one. Please own your new identity and stop insulting our intelligence, thanks.)
+> (Post intermission #1: Canadians' flattering image of themselves as unfailingly reticent and polite is wearing a bit thin lately. The actions above are not those of a reserved and self-effacing people but an aggrandized and obnoxious one. Please own your new identity and stop insulting our intelligence, thanks.)
 
 
   <img src="http://themacrotourist.com/images/Azure/SorryMay2214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SorryMay2214.png" width="600" height="420">
@@ -84,7 +84,7 @@ Unlike the NakedCapitalism.com&#8217;s author, I understand that you cannot conv
 
 I fully respect my American friends and have no desire but to wish them all the good fortune in the world. They of course should not be coerced to build the Keystone pipeline if they don&#8217;t want it. And in fact, I believe that this episode has done Canada a huge favour. 
 
-At the risk of being accused of trying to perpetuate NakedCapitalism&#8217;s opinion of &#8220;Canadians’ flattering image of themselves as unfailingly reticent and polite,&#8221; I apologize if we offended you trying to sell you oil. [ Ed note: if you want to read a great report about the whole Keystone controversy, I recommend spending the time to read 
+At the risk of being accused of trying to perpetuate NakedCapitalism&#8217;s opinion of &#8220;Canadians' flattering image of themselves as unfailingly reticent and polite,&#8221; I apologize if we offended you trying to sell you oil. [ Ed note: if you want to read a great report about the whole Keystone controversy, I recommend spending the time to read 
 
 [Bloomberg&#8217;s account of the affair.](http://www.bloomberg.com/news/2014-04-24/how-obama-shocked-harper-as-keystone-frustrator-in-chief.html) ] 
 

@@ -29,9 +29,9 @@ Now four years into one of the ugliest declines in gold&#8217;s history, Paulson
 
 > (Bloomberg) &#8212; Billionaire hedge-fund manager John Paulson, once one of the best known gold bulls, cut his bullion holdings for the first time in two years.
 > 
-> Paulson & Co.. reduced its stake in the SPDR Gold Trust, the world’s biggest bullion exchange-traded product, by almost 10 percent last quarter, a U.S.. government filing showed Friday.. The move came after the firm kept its holdings unchanged for seven straight quarters.
+> Paulson & Co.. reduced its stake in the SPDR Gold Trust, the world's biggest bullion exchange-traded product, by almost 10 percent last quarter, a U.S.. government filing showed Friday.. The move came after the firm kept its holdings unchanged for seven straight quarters.
   
-> The news is another blow to gold bulls as prices languish near a five-year low.. Speculators have stayed bearish on futures after turning net-short in July for the first time in U.S.. government records going back to 2006.. The prospect for higher U.S.. interest rates has prompted most investors to snub precious metals, since they doesn’t pay interest, unlike competing assets.
+> The news is another blow to gold bulls as prices languish near a five-year low.. Speculators have stayed bearish on futures after turning net-short in July for the first time in U.S.. government records going back to 2006.. The prospect for higher U.S.. interest rates has prompted most investors to snub precious metals, since they doesn't pay interest, unlike competing assets.
 > 
 > “Gold will remain out of favor because investors are expecting the rate hike very soon,” Scott Gardner, who helps manage $450 million at Verdmont Capital SA in Panama City, said in a telephone interview.. “It has also become clear that gold has lost its prominence as a safe-haven investment.”
 

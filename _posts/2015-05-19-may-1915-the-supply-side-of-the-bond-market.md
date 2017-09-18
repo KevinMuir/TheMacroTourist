@@ -32,7 +32,7 @@ Market commentators have assigned a whole host of different reasons for the bond
 Although I will acknowledge weak demand has contributed to the recent selloff, I believe an increased supply was a much more important factor. During the past month, corporate issuers have floated new bond issues faster than Lindsay Lohan hoovers up her girlfriend&#8217;s nightly drug stash. Every day has seen a tsunami of issuers come to market. Headlines like this one from Bloomberg constantly scroll across the tape:
 
 <p style="padding-left: 30px;">
-  (Bloomberg) — Apple launched an $8b 7-part debt offering for capital return program and other general corporate purposes; deal ranks as 7th largest U.S. investment-grade offering YTD along with Merck’s sale in Feb. and Exxon’s in March.
+  (Bloomberg) — Apple launched an $8b 7-part debt offering for capital return program and other general corporate purposes; deal ranks as 7th largest U.S. investment-grade offering YTD along with Merck's sale in Feb. and Exxon's in March.
 </p>
 
 Yesterday was typical with something like $18 billion of investment grade debt being floated. 

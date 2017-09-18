@@ -33,7 +33,7 @@ Proving that we all get it wrong (even the great ones), WTI is trading $30 below
 
   <img src="http://themacrotourist.com/images/Azure/CLMar0715.png" alt="http://themacrotourist.com/images/Azure/CLMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-I don’t mean to pick on Mark &#8211; I have had more than enough terrible calls of my own. I just don’t go on National TV and make these sorts of aggressive claims. I almost feel like the whole Crude Oil collapse can be solely pinned on Mark. You just knew the Market Gods would never stand for this sort of arrogance.
+I don't mean to pick on Mark &#8211; I have had more than enough terrible calls of my own. I just don't go on National TV and make these sorts of aggressive claims. I almost feel like the whole Crude Oil collapse can be solely pinned on Mark. You just knew the Market Gods would never stand for this sort of arrogance.
 
 We have gone from extreme confidence that crude would never trade below $80, to a point where no one can imagine anything but it slipping to zero. The worry has gotten especially heavy lately due the high inventory levels. There are tons of smart guys who are genuinely concerned about a further crash towards single digits. Guys as smart as Mark Fisher used to be, are making all sorts of dire predictions.
 
@@ -41,7 +41,7 @@ This sort of article is typical of the bearishness out there: [“Get Ready for 
 
 The ZeroHedge article about the massive explosion in shares outstanding in the USO Crude oil ETF piqued my worries. If there are that many dip buyers in crude oil, there is a potential for a big problem if they are disappointed with the lack of pickup in demand.
 
-So I set about verifying ZH’s charts. Here is the first one with the price of USO versus the shares outstanding:
+So I set about verifying ZH's charts. Here is the first one with the price of USO versus the shares outstanding:
 
 
   <img src="http://themacrotourist.com/images/Azure/USOvsSTMar0715.png" alt="http://themacrotourist.com/images/Azure/USOvsSTMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
@@ -58,7 +58,7 @@ Much to my surprise, during that collapse, the shares outstanding also exploded 
 
 During the last collapse, the dollar value of USO units outstanding was almost 60% higher than where it currently stands.
 
-I don’t have a clue if crude oil is going to plumet due to all the inventories. I just know that anytime everyone is so certain that something will happen, it makes more sense to look for the opposite. Not only that, but we have to get back above $80 soon as I am worried about Mark’s health…
+I don't have a clue if crude oil is going to plumet due to all the inventories. I just know that anytime everyone is so certain that something will happen, it makes more sense to look for the opposite. Not only that, but we have to get back above $80 soon as I am worried about Mark's health…
 
 Thanks for reading,
   

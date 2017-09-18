@@ -73,7 +73,7 @@ Japan has gone from being one of the most expensive places in the world, to one 
 
 One of my favourite bond manager M&G Investments recently made this comment:
 
-> Japan is CHEAP. The yen is 25%+ undervalued. A dry martini in a posh hotel cocktail bar overlooking the Imperial Palace (who’s modest grounds were valued at more than the whole of California’s real estate market back in the day, yadda yadda) was £4. Visit Japan asap.
+> Japan is CHEAP. The yen is 25%+ undervalued. A dry martini in a posh hotel cocktail bar overlooking the Imperial Palace (who's modest grounds were valued at more than the whole of California's real estate market back in the day, yadda yadda) was £4. Visit Japan asap.
 
 I understand why QE can fail to produce inflation. If the decline in the velocity of money is greater than the expansion of the Central Bank&#8217;s balance sheet, then there is no expansion of the money supply.
 

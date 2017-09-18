@@ -62,7 +62,7 @@ The Saudis are still the most important oil producer, and although their influen
 
 Now that oil has dipped sub $50, the Saudis have responded. According to the WSJ:
 
-> RIYADH—The world’s top crude-oil exporter, Saudi Arabia, is planning to pull back from record-high levels of production at the end of the summer when domestic energy demand subsides, according to people with knowledge of the matter.
+> RIYADH—The world's top crude-oil exporter, Saudi Arabia, is planning to pull back from record-high levels of production at the end of the summer when domestic energy demand subsides, according to people with knowledge of the matter.
 
 I am not going to over think this trade. Druck and other smart guys think oil is worth a shot with a blue ticket, sentiment is once again fairly negative, and the Saudis have signalled the price decline will be met with supply cuts. I think it is time to pick away on the long side of the crude oil market.
 

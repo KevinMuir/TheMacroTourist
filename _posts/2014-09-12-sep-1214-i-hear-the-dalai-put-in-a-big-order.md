@@ -68,7 +68,7 @@ I am creating a new section of this journal called &#8220;Complacency Watch.&#82
 
 Today&#8217;s edition features the former Bond King himself &#8211; PIMCO&#8217;s Bill Gross. 
 
-> Sept. 11 (Bloomberg) &#8211; While the idea of using leverage may still invoke memories of the 2008 financial crisis, the billionaire manager of the world’s biggest bond fund says it makes sense now to borrow money to magnify returns in the credit markets. “It’s probably a good time to lever in a mild sort of way,” Bill Gross, who co-founded Pacific Investment Management Co., said in a television interview today. For the next three to five years, investors should expect “the ability to borrow short and to lend long, much like banks do.”
+> Sept. 11 (Bloomberg) &#8211; While the idea of using leverage may still invoke memories of the 2008 financial crisis, the billionaire manager of the world's biggest bond fund says it makes sense now to borrow money to magnify returns in the credit markets. “It's probably a good time to lever in a mild sort of way,” Bill Gross, who co-founded Pacific Investment Management Co., said in a television interview today. For the next three to five years, investors should expect “the ability to borrow short and to lend long, much like banks do.”
 
 Yup, with credit spreads at all time lows and short term rates being at zero for the past five years &#8211; it is &#8220;probably a good time to lever up&#8221; &#8211; albeit in a &#8220;mild sort of way.&#8221; Nothing like suggesting that investors should take their investing acumen from the banks who have been so great at navigating through the previous credit cycles&#8230;
 

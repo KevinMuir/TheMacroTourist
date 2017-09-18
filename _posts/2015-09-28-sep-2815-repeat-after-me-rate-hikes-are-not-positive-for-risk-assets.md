@@ -20,16 +20,16 @@ Last Thursday after the markets closed, Fed Chairwoman Janet Yellen made a speec
 
 > Given the highly uncertain nature of the outlook, one might ask: Why not hold off raising the federal funds rate until the economy has reached full employment and inflation is actually back at 2 percent? The difficulty with this strategy is that monetary policy affects real activity and inflation with a substantial lag. If the FOMC were to delay the start of the policy normalization process for too long, we would likely end up having to tighten policy relatively abruptly to keep the economy from significantly overshooting both of our goals. Such an abrupt tightening would risk disrupting financial markets and perhaps even inadvertently push the economy into recession. In addition, continuing to hold short-term interest rates near zero well after real activity has returned to normal and headwinds have faded could encourage excessive leverage and other forms of inappropriate risk-taking that might undermine financial stability. For these reasons, the more prudent strategy is to begin tightening in a timely fashion and at a gradual pace, adjusting policy as needed in light of incoming data.
 
-This was a much different tone than Yellen struck at the previous week’s September FOMC meeting when the Federal Reserve passed on raising rates. On that day, news the Fed would delay the start of the rate tightening cycle caused the stock market to initially spike higher, but then sold off relentlessly for the next week.
+This was a much different tone than Yellen struck at the previous week's September FOMC meeting when the Federal Reserve passed on raising rates. On that day, news the Fed would delay the start of the rate tightening cycle caused the stock market to initially spike higher, but then sold off relentlessly for the next week.
 
 
   <img src="http://themacrotourist.com/images/SPOOZSep2815.png" alt="http://themacrotourist.com/images/SPOOZSep2815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Monetary hawks interpreted the reaction as a signal the Federal Reserve had “lost control” of the markets. These pundits argued the market actually wants the Fed to raise rates, and that waiting is causing markets to sell off.
 
-**This is why Thursday’s subsequent hawkish Yellen speech caused the S&P 500 to rally 50 handles off the lows.** The perverse trading logic reasoned that if the markets plummeted 110 big figures because the Fed didn’t tighten rates, then surely putting monetary policy back on a tightening path would cause these losses to be regained.
+**This is why Thursday's subsequent hawkish Yellen speech caused the S&P 500 to rally 50 handles off the lows.** The perverse trading logic reasoned that if the markets plummeted 110 big figures because the Fed didn't tighten rates, then surely putting monetary policy back on a tightening path would cause these losses to be regained.
 
-When I saw the rally after Yellen’s speech, I had to rub my eyes. I couldn’t believe the foolishness of chasing stocks on the idea the Fed was turning more hawkish.
+When I saw the rally after Yellen's speech, I had to rub my eyes. I couldn't believe the foolishness of chasing stocks on the idea the Fed was turning more hawkish.
 
 Many smart guys argue the US economy can handle higher rates, and that it might even be good for risk assets. Famed hedge fund manager Leon Cooperman summed up this line of thinking:
 
@@ -46,7 +46,7 @@ This is not the same type of recovery Cooperman has experienced over his long ca
 
 You might argue they should raise rates anyway. I will not defend the overly easy monetary policy. Yet to reason raising rates will somehow be good for risk assets is just naive.
 
-Many hawkish pundits believe the Fed is holding down interest rates at unnaturally low levels. Their line of reasoning is that if the Fed were to allow rates to rise, the economy would be better able to function. But if the Fed were holding rates below the clearing level of rates, wouldn’t inflation be taking off? I stumbled upon this great post from former University of Chicago economics professor John Cochrane:
+Many hawkish pundits believe the Fed is holding down interest rates at unnaturally low levels. Their line of reasoning is that if the Fed were to allow rates to rise, the economy would be better able to function. But if the Fed were holding rates below the clearing level of rates, wouldn't inflation be taking off? I stumbled upon this great post from former University of Chicago economics professor John Cochrane:
 
 > The central point came to me hours later, as it usually does. Is the Fed in fact &#8220;holding down&#8221; interest rates? Is there some sort of natural market equilibrium that features higher rates now, but the Fed is pushing down rates? That&#8217;s the conventional view, clearly expressed in Mary&#8217;s questions.
 > 
@@ -74,11 +74,11 @@ The Federal Reserve has traditionally viewed the global economy as not part of t
 
 Unfortunately the Fed is obsessed with the apparent tightness of the labour market and its potential to spill into inflation. They still believe the Phillips curve will ultimately prove correct. Although the Federal Reserve is nervous about the global economy, they are sticking to the idea it is time to raise rates.
 
-Maybe they are right, I don’t know. But the key point is that no one else knows either. The only thing I am sure of is that in this era, rate rises are **not positive for risk assets.** The idea that you should buy spooz because Yellen is willing to raise rates is just dumb.
+Maybe they are right, I don't know. But the key point is that no one else knows either. The only thing I am sure of is that in this era, rate rises are **not positive for risk assets.** The idea that you should buy spooz because Yellen is willing to raise rates is just dumb.
 
 In previous cycles, the stock market went up during the initial stage of rate hikes, not _because of the hikes_, but in spite of them. The economy was simply so strong that the initial raising of rates was not enough to slow down the economy. This is **not the case today.**
 
-So when they bid up stocks on hawkish Federal Reserve talk, you shouldn’t bother arguing with the hawks, instead simply put your palms out and say SOLD TO YOU.
+So when they bid up stocks on hawkish Federal Reserve talk, you shouldn't bother arguing with the hawks, instead simply put your palms out and say SOLD TO YOU.
 
 Thanks for reading,
   

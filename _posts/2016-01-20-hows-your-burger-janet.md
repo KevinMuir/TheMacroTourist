@@ -44,9 +44,9 @@ Yet it&#8217;s not like Yellen wasn&#8217;t warned. Smart guys like Ray Dalio, J
 
 From Bloomberg:
 
-> Ray Dalio, founder of the world’s largest hedge fund firm, Bridgewater Associates, told investors there’s a risk that the Federal Reserve could create a market rout similar to that of 1937 if it raises interest rates too fast.
+> Ray Dalio, founder of the world's largest hedge fund firm, Bridgewater Associates, told investors there's a risk that the Federal Reserve could create a market rout similar to that of 1937 if it raises interest rates too fast.
 > 
-> “We don’t know &#8212; nor does the Fed know &#8212; exactly how much tightening will knock over the apple cart,” Dalio and Dinner wrote. “We think it would be best for the Fed to err on the side of being later and more delicate than normal.”
+> “We don't know &#8212; nor does the Fed know &#8212; exactly how much tightening will knock over the apple cart,” Dalio and Dinner wrote. “We think it would be best for the Fed to err on the side of being later and more delicate than normal.”
 > 
 > Dalio joins Jeffrey Gundlach in warning that the Fed runs the risk of having to reverse course if it raises interest rates too aggressively. Gundlach, the co-founder of DoubleLine Capital, this month called the Fed “a blockhead” for not learning from errors made by global counterparts, which raised rates too soon and then had to cut them.
 

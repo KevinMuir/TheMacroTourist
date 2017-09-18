@@ -97,7 +97,7 @@ And it&#8217;s not equities only. Have a look at the recent warnings from Goldma
 
 > Feb. 26 (Bloomberg) &#8211; Investors who have been pouring money into funds that purchase leveraged loans need to be wary of a reversal in demand, according to Justin Gmelich, the head of credit trading at Goldman Sachs Group Inc.
    
-> “It’s been a bit of a one-way freight train,” Gmelich said in a question and answer session, posted on the company’s website yesterday. “I would just caution those that are involved in the loan space to be mindful of the fact that they’ve been beneficiaries of inflows for 88 straight weeks and the tide can turn.”
+> “It's been a bit of a one-way freight train,” Gmelich said in a question and answer session, posted on the company's website yesterday. “I would just caution those that are involved in the loan space to be mindful of the fact that they've been beneficiaries of inflows for 88 straight weeks and the tide can turn.”
 
 The exuberant atmosphere is also making overly aggressive corporate raiders like Carl Icahn all the more rabid. Not happy with trying to tell Apple&#8217;s Tim Cook how to run his company, Carl is now taking a nasty run at Ebay. As I have said in the past, I am no Carl Icahn fan and wish the market would take care of dishing this guy a little karma. He is like a real life Gordon Gecko &#8211; only worse because he is continually popping up on my TV and I can&#8217;t simply take out the DVD like I would do to Michael Douglas.
 

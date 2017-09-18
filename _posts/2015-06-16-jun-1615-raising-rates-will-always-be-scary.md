@@ -56,11 +56,11 @@ There is a big contingent on the FOMC committee who believe &#8220;ZIRP was supp
 To better understand what is going through the minds of the FOMC committee members, I often turn to former Texas Fed President Bob McTeer. He writes a great blog that often clarifies their thought process in setting monetary policy.
 
 <p style="padding-left: 30px;">
-  I agree with the consensus view that September 17 is the most likely date for the FOMC to make its first tweak in the Federal Funds rate in a long, long time. I also agree that this week (June 17 to be precise) is probably not on their agenda because of their promise to be “data dependent.” While they no doubt believe the first quarter’s negative GDP number was a one-off affair and that growth will rebound from that beginning in the second quarter, it would still look bad to “tighten” monetary policy while the latest growth measure was negative. I also agree that the September 16-17 meeting is the most likely, my purpose here is to ask “What’s wrong with the July 28-29 meeting?”
+  I agree with the consensus view that September 17 is the most likely date for the FOMC to make its first tweak in the Federal Funds rate in a long, long time. I also agree that this week (June 17 to be precise) is probably not on their agenda because of their promise to be “data dependent.” While they no doubt believe the first quarter's negative GDP number was a one-off affair and that growth will rebound from that beginning in the second quarter, it would still look bad to “tighten” monetary policy while the latest growth measure was negative. I also agree that the September 16-17 meeting is the most likely, my purpose here is to ask “What's wrong with the July 28-29 meeting?”
 </p>
 
 <p style="padding-left: 30px;">
-  I watch more financial TV than I should, and I don’t believe I’ve even heard the FOMC’s July meeting even mentioned as a possibility. The guessing game jumps from June to September as if there was no July meeting. So much so that I just looked it up to make sure it was there.
+  I watch more financial TV than I should, and I don't believe I've even heard the FOMC's July meeting even mentioned as a possibility. The guessing game jumps from June to September as if there was no July meeting. So much so that I just looked it up to make sure it was there.
 </p>
 
 <p style="padding-left: 30px;">
@@ -68,11 +68,11 @@ To better understand what is going through the minds of the FOMC committee membe
 </p>
 
 <p style="padding-left: 30px;">
-  It’s getting harder for me to remember how we got to the point where employment growth averaging over 200,000 net new jobs per month with strong follow-up JOLT surveys, an unemployment rate at 5.5 percent and growth other than first quarters getting more nearly reasonable while we have a near zero Federal Funds rate. I feel like the frog experiencing deadly, but gradual and unnoticeable, increases in water temperature.
+  It's getting harder for me to remember how we got to the point where employment growth averaging over 200,000 net new jobs per month with strong follow-up JOLT surveys, an unemployment rate at 5.5 percent and growth other than first quarters getting more nearly reasonable while we have a near zero Federal Funds rate. I feel like the frog experiencing deadly, but gradual and unnoticeable, increases in water temperature.
 </p>
 
 <p style="padding-left: 30px;">
-  While I don’t think the economy will meet the frog’s fate if we wait until September, I see no reason to wait. It’s not just that the economy needs to normalize and is ready for it; it’s also that we are experiencing unnecessary volatility in financial markets as we play the guessing game. What are we afraid of: A Federal Funds rate of 25 basis points, or even 50 basis points. They’ve already promised to go slow and watch market reaction—baby steps—and maybe even one and done for a while. The fear in the markets seems irrational to me. But, I may be wrong.
+  While I don't think the economy will meet the frog's fate if we wait until September, I see no reason to wait. It's not just that the economy needs to normalize and is ready for it; it's also that we are experiencing unnecessary volatility in financial markets as we play the guessing game. What are we afraid of: A Federal Funds rate of 25 basis points, or even 50 basis points. They've already promised to go slow and watch market reaction—baby steps—and maybe even one and done for a while. The fear in the markets seems irrational to me. But, I may be wrong.
 </p>
 
 Bob&#8217;s arguments sum up the &#8220;let&#8217;s get it over with it&#8221; camp&#8217;s views perfectly. He thinks raising rates is not a big deal. Bob doesn&#8217;t buy the argument that this cycle is different. He makes the case for raising rates at the first possible meeting, which isn&#8217;t September, but could be as early as July. 

@@ -40,7 +40,7 @@ There is good reason for their pessimism. Lately the numbers coming out China ha
 
 > First-quarter growth in almost all Chinese provinces was below their annual targets, according to local media, with the most concerning data from resource-dependent and manufacturing-heavy provinces suffered the sharpest economic slowdown in the first quarter as the government pushed to tackle excessive factory capacity and pollution.
 > 
-> As Reuters reports, the fastest growth regions are Chongqing, Guizhou and Tianjin and all saw growth drop significantly. Specific provinces affected by the government’s reforms include Inner Mongolia, which provides one third of the coal supply in the country, saw GDP growth drop to 7.3% in Q1 from 9.9% a year earlier; Shanxi, a major coal producing province, which saw growth tumble to to only 5.5%; and Hebei province, the nation’s top steel producer, collapsed to only 4.2% in the first quarter of 2014 from 8.2% in the previous quarter. It seems the sum of the parts is anything but the same as the whole.
+> As Reuters reports, the fastest growth regions are Chongqing, Guizhou and Tianjin and all saw growth drop significantly. Specific provinces affected by the government's reforms include Inner Mongolia, which provides one third of the coal supply in the country, saw GDP growth drop to 7.3% in Q1 from 9.9% a year earlier; Shanxi, a major coal producing province, which saw growth tumble to to only 5.5%; and Hebei province, the nation's top steel producer, collapsed to only 4.2% in the first quarter of 2014 from 8.2% in the previous quarter. It seems the sum of the parts is anything but the same as the whole.
 
 The costs of the economic rebalancing are weighing heavily on the Chinese economy. 
 
@@ -72,31 +72,31 @@ The real question is whether the Chinese will blink? Will they abandon their reb
 
 The government understands that their economy is slowing down, but instead of stimulating export led areas of the economy, they are trying to focus their efforts on different areas. From the WSJ:
 
-> BEIJING—China’s central bank said Tuesday that it will reduce the share of deposits that some rural lenders need to set aside as reserves, in a move aimed at giving a lift to economic growth.
+> BEIJING—China's central bank said Tuesday that it will reduce the share of deposits that some rural lenders need to set aside as reserves, in a move aimed at giving a lift to economic growth.
 > 
-> The People’s Bank of China cautioned that the move doesn’t suggest a change in monetary policy but said it would increase lending to the agricultural sector.
+> The People's Bank of China cautioned that the move doesn't suggest a change in monetary policy but said it would increase lending to the agricultural sector.
 > 
 > The reserve-requirement ratio, or the percentage of deposits that must be kept as cash with the central bank, will be cut by 2 percentage points for county level rural commercial banks and trimmed by 0.5 percentage point for rural cooperatives, the PBOC said in a statement on its website.
 > 
-> Beijing said last week it would lower the reserve requirement ratio for some qualified rural banks, but it didn’t provide details.
+> Beijing said last week it would lower the reserve requirement ratio for some qualified rural banks, but it didn't provide details.
 > 
 > After the cut, which takes effect Friday, the ratios will stand at 16% for rural commercial banks and 14% for cooperatives, according to the central bank.
 > 
-> It also added that the reserve requirement for these two types of lenders could be further reduced by another percentage point if a certain proportion of their funds are lent out locally. The central bank didn’t elaborate.
+> It also added that the reserve requirement for these two types of lenders could be further reduced by another percentage point if a certain proportion of their funds are lent out locally. The central bank didn't elaborate.
 > 
-> “This will boost support for agriculture…and strengthen financial assistance to the real economy,” an unnamed spokesman of the central bank said in a separate statement. But the spokesman said this doesn’t mean a change of the bank’s “prudent” monetary policy and the move “will not affect overall liquidity in the banking system.”
+> “This will boost support for agriculture…and strengthen financial assistance to the real economy,” an unnamed spokesman of the central bank said in a separate statement. But the spokesman said this doesn't mean a change of the bank's “prudent” monetary policy and the move “will not affect overall liquidity in the banking system.”
 > 
-> Unlike an across-the-board cut in the bank reserve ratio, which would affect key urban areas, the move won’t have a huge impact on the overall economy.
+> Unlike an across-the-board cut in the bank reserve ratio, which would affect key urban areas, the move won't have a huge impact on the overall economy.
 > 
 > Nomura economist Zhang Zhiwei estimated that the reduction would make 80 to 90 billion yuan ($12.9 billion to $14.5 billion) available for lending, a sum that would be “effectively insignificant given the size of the economy.”
 > 
 > But he said the move is a signal that the government is concerned about slowing economic growth.
 > 
-> China’s economic growth slipped to 7.4% in the first quarter from a year earlier. In the fourth quarter of last year, the economy grew 7.7%. Economists have been cutting their estimates for the nation’s full-year growth, with some predicting the world’s second largest economy won’t reach its target of about 7.5% growth for this year.
+> China's economic growth slipped to 7.4% in the first quarter from a year earlier. In the fourth quarter of last year, the economy grew 7.7%. Economists have been cutting their estimates for the nation's full-year growth, with some predicting the world's second largest economy won't reach its target of about 7.5% growth for this year.
 > 
 > Earlier this month, the government unveiled a series of growth-support measures, including accelerated spending on railways, more funds for slum clearance and tax reductions for smaller businesses, in a bid to help the economy.
 > 
-> Meanwhile, China’s State Council, the country’s cabinet, said Tuesday that it will let qualified rural financial institutions issue preferred shares and other capital instruments to help them replenish capital bases.
+> Meanwhile, China's State Council, the country's cabinet, said Tuesday that it will let qualified rural financial institutions issue preferred shares and other capital instruments to help them replenish capital bases.
 
 It is my belief that China will not let their economy slip much further from here. We are going to see more and more stimulus measures such as this one above in the months to come.
 

@@ -22,7 +22,7 @@ Earlier this week, another high profile macro hedge fund announced it was closin
 > 
 > Michael Novogratz will leave Fortress Investment Group LLC, and the private-equity and hedge-fund firm will close the flagship macro hedge fund he runs after it suffered heavy losses and redemptions, according to people familiar with the matter.
 > 
-> Fortress’s macro fund, launched in 2002 to bet on global macroeconomic shifts by trading equity, debt, commodity and currency markets, is down 17.5% so far this year through September, according to a regulatory filing. The fund has been hurt by investments in Brazil, a market that has come under pressure in recent months, among other areas, an investor said. Macro funds on average have lost 0.6% this year through September, according to research firm HFR.
+> Fortress's macro fund, launched in 2002 to bet on global macroeconomic shifts by trading equity, debt, commodity and currency markets, is down 17.5% so far this year through September, according to a regulatory filing. The fund has been hurt by investments in Brazil, a market that has come under pressure in recent months, among other areas, an investor said. Macro funds on average have lost 0.6% this year through September, according to research firm HFR.
 > 
 > The Fortress fund manages about $1.6 billion today, down from more than $8 billion in 2007.
 > 
@@ -32,17 +32,17 @@ It has been tough slugging for the &#8220;supposedly&#8221; smart money. Guys li
 
 High profile hedge fund group Carlyle Group made similar admissions this summer (again from the WSJ):
 
-> Investors are preparing to pull roughly half their money from Claren Road Asset Management LLC, the latest blow for Carlyle Group LP’s hedge-fund firm.
+> Investors are preparing to pull roughly half their money from Claren Road Asset Management LLC, the latest blow for Carlyle Group LP's hedge-fund firm.
 > 
 > Clients of Claren Road have requested nearly $2 billion of their money back from the New York firm, Carlyle said in a regulatory filing Monday. The money is scheduled to be paid back after Sept. 30, said a person familiar with the matter. The firm managed about $4.1 billion at the end of July.
 > 
-> The turmoil adds to a growing list of troubles for Carlyle’s hedge-fund investments. Carlyle has already split with the founders of another hedge-fund firm it owns, Vermillion Asset Management LLC, after Vermillion’s flagship fund shrank from $2 billion to less than $50 million in assets amid heavy losses and investor redemptions, according to people familiar with the matter. Vermillion, a commodities-trading outfit, was battered by a collapsing market for raw materials.
+> The turmoil adds to a growing list of troubles for Carlyle's hedge-fund investments. Carlyle has already split with the founders of another hedge-fund firm it owns, Vermillion Asset Management LLC, after Vermillion's flagship fund shrank from $2 billion to less than $50 million in assets amid heavy losses and investor redemptions, according to people familiar with the matter. Vermillion, a commodities-trading outfit, was battered by a collapsing market for raw materials.
 
 So what&#8217;s going on? Why are the hedge fund carcasses littering the road like that time in the summer when too many toads insist on trying to make it across the highway? 
 
 Of course they have excuses:
 
-> Some macro funds blame their challenges on an investment environment they say isn’t ripe for their strategy. Central banks in the U.S. and Japan have kept interest rates steady, creating fewer opportunities to profit from moves, they say. Meanwhile, many funds have failed to profit from large selloffs in markets including China and Brazil.
+> Some macro funds blame their challenges on an investment environment they say isn't ripe for their strategy. Central banks in the U.S. and Japan have kept interest rates steady, creating fewer opportunities to profit from moves, they say. Meanwhile, many funds have failed to profit from large selloffs in markets including China and Brazil.
 
 But is that a valid reason for their abysmal performance? 
 

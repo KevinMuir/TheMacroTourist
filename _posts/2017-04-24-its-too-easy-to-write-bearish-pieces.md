@@ -39,11 +39,11 @@ Look at the esteemed company I would be joining.  From a recent Bloomberg articl
 
 >Jones is voicing what many hedge fund and other money managers are privately warning investors: Stocks are trading at unsustainable levels. A few traders are more explicit, predicting a sizable market tumble by the end of the year.
 
->Last week, Guggenheim Partner’s Scott Minerd said he expected a “significant correction” this summer or early fall. Philip Yang, a macro manager who has run Willowbridge Associates since 1988, sees a stock plunge of between 20 and 40 percent, according to people familiar with his thinking.
+>Last week, Guggenheim Partner's Scott Minerd said he expected a “significant correction” this summer or early fall. Philip Yang, a macro manager who has run Willowbridge Associates since 1988, sees a stock plunge of between 20 and 40 percent, according to people familiar with his thinking.
 
 >Even Larry Fink, whose BlackRock Inc. oversees $5.4 trillion mostly betting on rising markets, acknowledged this week that stocks could fall between 5 and 10 percent if corporate earnings disappoint.
 
->Managers expecting the worst each have a pet harbinger of doom. Seth Klarman, who runs the $30 billion Baupost Group, told investors in a letter last week that corporate insiders have been heavy sellers of their company shares. To him, that’s “a sign that those who know their companies the best believe valuations have become full or excessive.”
+>Managers expecting the worst each have a pet harbinger of doom. Seth Klarman, who runs the $30 billion Baupost Group, told investors in a letter last week that corporate insiders have been heavy sellers of their company shares. To him, that's “a sign that those who know their companies the best believe valuations have become full or excessive.”
 
 >Share sales by insiders outstripped purchases by $38 billion in the first quarter, the most since 2013, according to The Washington Service, a provider of data and analysis on insider trading.
 
@@ -51,9 +51,9 @@ Look at the esteemed company I would be joining.  From a recent Bloomberg articl
 
 >Another multi-billion-dollar hedge fund manager, who asked not to be named, said that rising interest rates in the U.S. mean fewer companies will be able to borrow money to pay dividends and buy back shares. About 30 percent of the jump in the S&P 500 between the third quarter of 2009 and the end of last year was fueled by buybacks, according to data compiled by Bloomberg Intelligence. The manager says he has been shorting the market, expecting as much as a 10 percent correction in U.S. equities this year.
 
->Other worried investors, like Guggenheim’s Minerd, cite as potential triggers President Donald Trump’s struggle to enact policies, including a tax overhaul, as well as geopolitical risks.
+>Other worried investors, like Guggenheim's Minerd, cite as potential triggers President Donald Trump's struggle to enact policies, including a tax overhaul, as well as geopolitical risks.
 
->Yang’s prediction of a dive rests on things like a severe slowdown in China or a greater-than-expected rise in inflation that could lead to bigger rate hikes, people said. Yang didn’t return calls and emails seeking a comment.
+>Yang's prediction of a dive rests on things like a severe slowdown in China or a greater-than-expected rise in inflation that could lead to bigger rate hikes, people said. Yang didn't return calls and emails seeking a comment.
 
 >Even billionaire Leon Cooperman -- long a stock bull -- wrote to investors in his Omega Advisors that he thinks U.S. shares might stand still until August or September, in part because of flagging confidence in the so-called Trump reflation trade. 
 

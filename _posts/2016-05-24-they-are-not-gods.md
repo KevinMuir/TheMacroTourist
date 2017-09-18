@@ -76,9 +76,9 @@ I know this is sacrilege to suggest, but I think the pain from the hedge fund un
 
 As I was researching this piece, I stumbled across a report about a CIC (Chinese Investment Corp) executive who lambasted hedge funds for their herd behaviour.  The ironic part is that she did so at the same SALT conference where they were agreeing with each other about the coming apocalypse.  From Bloomberg:
 
->China Investment Corp.’s Roslyn Zhang, a managing director at the nation’s sovereign wealth fund, criticized hedge fund managers for everything from herding into bets against the yuan to lacking skills to make money.
+>China Investment Corp.'s Roslyn Zhang, a managing director at the nation's sovereign wealth fund, criticized hedge fund managers for everything from herding into bets against the yuan to lacking skills to make money.
 
->“Over the last couple years I’m kind of disappointed by the performance,” she said Wednesday at the SkyBridge Alternatives Conference in Las Vegas. Zhang, who oversees fixed-income and absolute-return investments, said CIC is a “sizable” investor in the industry.
+>“Over the last couple years I'm kind of disappointed by the performance,” she said Wednesday at the SkyBridge Alternatives Conference in Las Vegas. Zhang, who oversees fixed-income and absolute-return investments, said CIC is a “sizable” investor in the industry.
 
 >Chinese individual investors have been faulted for crowding into markets and driving up prices, but hedge fund managers are equally to blame for their “herd mentality,” Zhang said. 
 

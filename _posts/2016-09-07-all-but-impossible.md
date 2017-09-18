@@ -33,7 +33,7 @@ It's as if traders came back from the Labour Day long weekend and decided their 
 
 And I think I know the reason for this violent market reaction.  During the last week of August, a handful of influential market strategists, including Goldman Sachs' economist Jan Hatzius, advised of a better than 50/50 chance the Federal Reserve would hike in September.  Even after the mediocre employment report, Goldman Sachs was still pounding the drum on a September hike:
 
->“It was a little below expectations, but for us, it’s just enough to make it a little more likely than not that they do go in September," Hatzius told CNBC.
+>“It was a little below expectations, but for us, it's just enough to make it a little more likely than not that they do go in September," Hatzius told CNBC.
 
 In illiquid late August trading, the front end of the curve backed up as market participants worried about these hawkish forecasts.  
 

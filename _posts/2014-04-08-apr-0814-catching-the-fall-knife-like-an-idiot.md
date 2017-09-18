@@ -33,7 +33,7 @@ Well, yesterday afternoon, I ignored all this wise advice and went ahead to pick
 
 I am not sure if I am thinking straight, or if I am merely talking my book, but I still think that this sell off is the result of hedge fund liquidation that can quickly turn on a dime.
 
-Don’t get me wrong &#8211; I am by no means a long term bull. In fact, you can put me squarely in the bear camp. But as a trader, I think this massive shift in sentiment since Friday’s unemployment number is over done. The viscousness of this sell off is the result of hedge funds and other aggressive portfolio managers/traders’ over exposure to the high flying “beta” stocks. They are in the “just get it off the sheets” mode. And in fact, the more nimble of this group have now convinced themselves that this is the start of the “big one” to the downside.
+Don't get me wrong &#8211; I am by no means a long term bull. In fact, you can put me squarely in the bear camp. But as a trader, I think this massive shift in sentiment since Friday's unemployment number is over done. The viscousness of this sell off is the result of hedge funds and other aggressive portfolio managers/traders' over exposure to the high flying “beta” stocks. They are in the “just get it off the sheets” mode. And in fact, the more nimble of this group have now convinced themselves that this is the start of the “big one” to the downside.
 
 Whereas I thought they were overly bullish a month ago when they were fawning all over Zuck and the other “gifted and talented camps” companies, I think they are now overly bearish.
 
@@ -66,27 +66,27 @@ Last week-end, Bloomberg columnist Barry Ritholz wrote a quick piece regarding t
 
 > April 2: Anyone who thinks stock market sentiment is excessive today should speak to the American people. According to a Gallup poll in the first quarter, half of all Americans think putting money into the stock market is a bad idea.
 > 
-> In the 1999–2000 era, 67% of Americans thought putting money into the stock market was a great idea. Only 28% thought it was foolish. Fast-forward to today—more Americans think putting money into the stock market is a bad idea (50%) than think it’s a good idea (46%). We might be tempted to call this irrational nonexuberance in light of the performance of the market over the past five years.
+> In the 1999–2000 era, 67% of Americans thought putting money into the stock market was a great idea. Only 28% thought it was foolish. Fast-forward to today—more Americans think putting money into the stock market is a bad idea (50%) than think it's a good idea (46%). We might be tempted to call this irrational nonexuberance in light of the performance of the market over the past five years.
 > 
 > When we think of important market tops, we think of widespread euphoria, absurd valuations, and even the dumbest ideas having endless venture-capital dollars thrown at them. There is little euphoria today for the overall market, as this survey makes clear. Valuations are only mildly elevated relative to history. Profitable companies like King Digital Entertainment, the recently public makers of the videogame Candy Crush, have seen their IPOs tank—and this despite the massive amount of revenue their biggest game brings in. Candy Crush is coming up on a billion dollars in revenue.
 > 
-> That’s the sort of metric the Pets.com sock puppet from 1999 could only dream about.
+> That's the sort of metric the Pets.com sock puppet from 1999 could only dream about.
 
-Barry makes some pretty good points, but I think he is probably not aware that a couple of years ago, the Pets.com sock puppet got in on the WhatsApp first round of funding through a connection with Sequoia, and since Zuck’s $19 billion purchase of the company, the Pets.com sock puppet has been living life pretty hard and fast.
+Barry makes some pretty good points, but I think he is probably not aware that a couple of years ago, the Pets.com sock puppet got in on the WhatsApp first round of funding through a connection with Sequoia, and since Zuck's $19 billion purchase of the company, the Pets.com sock puppet has been living life pretty hard and fast.
 
 
   <img src="http://themacrotourist.com/images/Azure/PetsComPuppet.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PetsComPuppet.png" width="640" height="480" />Pets.Com puppet in a typical night of debachery</a>
 </div>
 
-And as for Barry’s point that this market is dramatically different from the stock mania of 1999, I think he is right, but he is missing the real point.
+And as for Barry's point that this market is dramatically different from the stock mania of 1999, I think he is right, but he is missing the real point.
 
 In 1999 the average Joe _had some money_ to invest. Today after Wall Street has bled him dry with the DotCon bubble and then the more insidious Real Estate bubble, the consumer has _no extra money to invest (gamble)._
 
-So when Barry says that there is no public exuberance during this cycle, he is 100% completely correct. However, unless you think that the consumer is miraculously going to stumble on some massive inheritance from a rich uncle, there will _not be any change in the public’s attitude towards stocks._
+So when Barry says that there is no public exuberance during this cycle, he is 100% completely correct. However, unless you think that the consumer is miraculously going to stumble on some massive inheritance from a rich uncle, there will _not be any change in the public's attitude towards stocks._
 
 The public has been burned too many times and is not returning.
 
-Instead what we have is a market filled with thousands of hedge funds all standing around in a circle shooting at each other. The hedge funds are the new “dumb money.” Their over exuberance is what you should worry about, not the public’s.
+Instead what we have is a market filled with thousands of hedge funds all standing around in a circle shooting at each other. The hedge funds are the new “dumb money.” Their over exuberance is what you should worry about, not the public's.
 
 <hr size="2" width="85%" />
 

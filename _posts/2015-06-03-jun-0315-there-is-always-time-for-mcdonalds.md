@@ -25,27 +25,27 @@ Over the past week or so, I have adjusted my expectations for economic strength 
 </p>
 
 <p style="padding-left: 30px;">
-  This is The Wall Street Journal. We’re writing to ask if something is bothering you.
+  This is The Wall Street Journal. We're writing to ask if something is bothering you.
 </p>
 
 <p style="padding-left: 30px;">
-  The sun shined in April and you didn’t spend much money. The Commerce Department here in Washington says your spending didn’t increase at all adjusted for inflation last month compared to March. You appear to have mostly stayed home and watched television in December, January and February as well. We thought you would be out of your winter doldrums by now, but we don’t see much evidence that this is the case.
+  The sun shined in April and you didn't spend much money. The Commerce Department here in Washington says your spending didn't increase at all adjusted for inflation last month compared to March. You appear to have mostly stayed home and watched television in December, January and February as well. We thought you would be out of your winter doldrums by now, but we don't see much evidence that this is the case.
 </p>
 
 <p style="padding-left: 30px;">
-  You have been saving more too. You socked away 5.6% of your income in April after taxes, even more than in March. This saving is not like you. What’s up?
+  You have been saving more too. You socked away 5.6% of your income in April after taxes, even more than in March. This saving is not like you. What's up?
 </p>
 
 <p style="padding-left: 30px;">
-  We know you experienced a terrible shock when Lehman Brothers collapsed in 2008 and your employer responded by firing you. We know stock prices collapsed and that was shocking too. We also know you shouldn’t have taken out that large second mortgage during the housing boom to fix up your kitchen with granite countertops. You’ve been working very hard to pay off this debt and we admire your fortitude. But these shocks seem like a long time ago to us in a newsroom. Is that still what’s holding you back?
+  We know you experienced a terrible shock when Lehman Brothers collapsed in 2008 and your employer responded by firing you. We know stock prices collapsed and that was shocking too. We also know you shouldn't have taken out that large second mortgage during the housing boom to fix up your kitchen with granite countertops. You've been working very hard to pay off this debt and we admire your fortitude. But these shocks seem like a long time ago to us in a newsroom. Is that still what's holding you back?
 </p>
 
 <p style="padding-left: 30px;">
-  Do you know the American economy is counting on you? We can’t count on the rest of the world to spend money on our stuff. The rest of the world is in an even worse mood than you are. You should feel lucky you’re not a Greek consumer. And China, well they’re truly struggling there just to reach the very modest goal of 7% growth.
+  Do you know the American economy is counting on you? We can't count on the rest of the world to spend money on our stuff. The rest of the world is in an even worse mood than you are. You should feel lucky you're not a Greek consumer. And China, well they're truly struggling there just to reach the very modest goal of 7% growth.
 </p>
 
 <p style="padding-left: 30px;">
-  The Federal Reserve is counting on you too. Fed officials want to start raising the cost of your borrowing because they worry they’ve been giving you a free ride for too long with zero interest rates. We listen to Fed officials all of the time here at The Wall Street Journal, and they just can’t figure you out.
+  The Federal Reserve is counting on you too. Fed officials want to start raising the cost of your borrowing because they worry they've been giving you a free ride for too long with zero interest rates. We listen to Fed officials all of the time here at The Wall Street Journal, and they just can't figure you out.
 </p>
 
 <p style="padding-left: 30px;">
@@ -57,7 +57,7 @@ Over the past week or so, I have adjusted my expectations for economic strength 
 </p>
 
 <p style="padding-left: 30px;">
-  The Wall Street Journal’s Central Bank Team
+  The Wall Street Journal's Central Bank Team
 </p>
 
 <p style="padding-left: 30px;">

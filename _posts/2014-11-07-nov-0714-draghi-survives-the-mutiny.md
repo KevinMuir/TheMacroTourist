@@ -69,7 +69,7 @@ I am sure that Draghi was especially pleased with those helpful comments from hi
 
 > And then my second question would be on the comments by Ben Bernanke. He was saying at an event that the euro zone would face legal and political hurdles or problems when implementing QE. So do you share his view, at least until the European Court of Justice comes up with a final ruling on OMT?
 > 
-> On the second point: no. We think that if we act within our mandate we can use a variety of instruments. And the important thing is to always stay within our mandate. We believe that if it’s not monetary financing, it’s in our mandate.
+> On the second point: no. We think that if we act within our mandate we can use a variety of instruments. And the important thing is to always stay within our mandate. We believe that if it's not monetary financing, it's in our mandate.
 
 We know that Draghi is a great poker player, so who knows if he is bluffing or not. But it certainly sounds like he has a plan to push ahead with QE if it is needed, regardless of the legal roadblocks. He is in the process of carving out a framework for executing QE under the guise of it falling under his monetary authority.
 
@@ -85,7 +85,7 @@ I think we have now hit the point where it makes sense to trade with the idea th
 
 Remember this quote from the reformed broker in the midst of the Draghi induced euphoria of September?
 
-> “Here are my best trades, ordered from easiest to hardest,” said one of the top ranked macro CIOs, exchanging ideas. Draghi’s fairy dust had finally settled; he’d been pleasantly surprised, and killed it. “Buy European curve steepeners now, buy European risk assets, buy 5yr/5yr Spain versus short 20yr Germany,” he explained. “Maybe these trades last a few weeks, maybe longer, doesn’t matter – get this right, add some smart convexity, and you could make your year by the end of October.” 
+> “Here are my best trades, ordered from easiest to hardest,” said one of the top ranked macro CIOs, exchanging ideas. Draghi's fairy dust had finally settled; he'd been pleasantly surprised, and killed it. “Buy European curve steepeners now, buy European risk assets, buy 5yr/5yr Spain versus short 20yr Germany,” he explained. “Maybe these trades last a few weeks, maybe longer, doesn't matter – get this right, add some smart convexity, and you could make your year by the end of October.” 
 
 Well, these trades didn&#8217;t work out at all as the hedge funds had gotten way too optimistic about the prospects of Draghi&#8217;s &#8220;fairy dust.&#8221; 
 

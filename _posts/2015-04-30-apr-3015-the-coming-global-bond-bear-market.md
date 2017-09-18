@@ -24,11 +24,11 @@ tags:
 First it was Bill Gross describing German Bunds as the &#8220;short of a lifetime.&#8221; Now we have his arch rival, Doubleline&#8217;s Jeffrey Gundlach recommending levering up another short German fixed income position 100 to 1. To be fair, Gundlach is concentrating on the front end of the curve, while Gross was talking about the ten year bund. But you have to give Gundlach credit, it&#8217;s a bold assertion. From Bloomberg:
 
 <p style="padding-left: 30px;">
-  DoubleLine Capital’s Jeffrey Gundlach said he’s considering making an amplified bet against German bonds to join a growing group of top money managers wagering against the debt after some yields turned negative…
+  DoubleLine Capital's Jeffrey Gundlach said he's considering making an amplified bet against German bonds to join a growing group of top money managers wagering against the debt after some yields turned negative…
 </p>
 
 <p style="padding-left: 30px;">
-  “Let’s say you leverage up the German two-year 100 times, that’s a 20 percent return,” Gundlach said.
+  “Let's say you leverage up the German two-year 100 times, that's a 20 percent return,” Gundlach said.
 </p>
 
 The gist of the argument is that when you short a two year bund with a _negative yield_, even if rates remain unchanged during that period, you still earn the negative yield. The trade has positive carry. 

@@ -28,7 +28,7 @@ When I read Stevie Cohen was having trouble selling his 9,000 square foot Manhat
 
 Given the price tag, I have about as much chance buying Cohen&#8217;s place as I do dating Kate Upton. But even if I could afford it, I wouldn&#8217;t step foot through the doorway even if it were trading for $100 a square foot. And I am not alone. From the Vanity Fair article titled [Is this Billionaire&#8217;s Apartment Jinxed?](http://www.vanityfair.com/news/2015/07/steve-cohen-billionaires-apartment-jinxed?mbid=social_twitter):
 
-> “There’s still a feeling from some big-money guys that the place is still jinxed.” According to another source, “The lack of a buyer might be because some feel the place might have some bad karma or be jinxed because of his SAC troubles.”
+> “There's still a feeling from some big-money guys that the place is still jinxed.” According to another source, “The lack of a buyer might be because some feel the place might have some bad karma or be jinxed because of his SAC troubles.”
 
 Bad trading juju is not something you mess with. Either that, or you start a rumour about Cohen&#8217;s place being cursed to try to pick it up on the cheap&#8230; 
 

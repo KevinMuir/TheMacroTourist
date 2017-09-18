@@ -17,7 +17,7 @@ tags:
   - CAD
   - Canada
 ---
-Last week Bloomberg ran a story titled, [&#8220;Can’t Find Enough 30-Year Treasuries to Buy? Here’s Why.&#8221;](http://www.bloomberg.com/news/2014-05-04/can-t-find-enough-30-year-treasuries-to-buy-here-s-why.html) In the article the author highlighted all the bullish reasons why the long end of the US Treasury curve has been rallying. 
+Last week Bloomberg ran a story titled, [&#8220;Can't Find Enough 30-Year Treasuries to Buy? Here's Why.&#8221;](http://www.bloomberg.com/news/2014-05-04/can-t-find-enough-30-year-treasuries-to-buy-here-s-why.html) In the article the author highlighted all the bullish reasons why the long end of the US Treasury curve has been rallying. 
 
 According to Bloomberg subdued inflation, pension plan buying and competition from the Fed&#8217;s QE programs are some of the reasons for this rally. But the main reason seems to be attributed to a &#8220;potential shortage of supply.&#8221; 
 

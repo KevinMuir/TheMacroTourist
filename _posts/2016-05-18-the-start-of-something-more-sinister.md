@@ -39,7 +39,7 @@ Then Williams followed up with comments suggesting inflation was higher than the
 
 Not to be outdone, Dallas Fed President followed up with:
 
->"Whether that’s June or July, I can’t say right now," Kaplan told reporters after a speech. He said would prefer to pause after that first 2016 rate hike to assess conditions, and while he would "hope" to continue to normalize rates thereafter, the pace of rate hikes will depend on incoming economic data. 
+>"Whether that's June or July, I can't say right now," Kaplan told reporters after a speech. He said would prefer to pause after that first 2016 rate hike to assess conditions, and while he would "hope" to continue to normalize rates thereafter, the pace of rate hikes will depend on incoming economic data. 
 
 But then the real kicker that cemented the Feds' hawks plan to talk short rates back up was WSJ's Jon Hilsenrath's article in WSJ Pro.  This edition of the WSJ costs $2,500 a year and is designed for plugged in money managers.
 

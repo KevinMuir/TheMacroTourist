@@ -35,7 +35,7 @@ In early summer, as the markets were reeling from the unexpected British vote to
 
 Fast forward to today.  Deutsche Bank shares are getting hammered as Merkel maintains a strict "what's good for the goose is good for the gander" policy.  From the FT:
 
->Deutsche Bank’s head of communications, Jörg Eigendorf, has sought to clear up some of the speculation that has put the lender’s shares under renewed pressure today.
+>Deutsche Bank's head of communications, Jörg Eigendorf, has sought to clear up some of the speculation that has put the lender's shares under renewed pressure today.
 
 >To recap: the shares earlier dropped to a low of €10.63, the lowest level since Deutsche started trading on the Xetra exchange in 1992, although it traded below that level in the early eighties.
 

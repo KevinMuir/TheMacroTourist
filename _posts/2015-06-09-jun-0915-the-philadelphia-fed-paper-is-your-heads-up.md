@@ -74,7 +74,7 @@ In an important admission, a recent Philadelphia Fed paper highlighted the growi
 </p>
 
 <p style="padding-left: 30px;">
-  “Monetary policy currently implemented by the Federal Reserve and other major central banks is not intended to benefit one segment of the population at the expense of another by redistributing income and wealth,” writes economist Makoto Nakajima in the second quarter edition of the regional central bank’s Business Review.
+  “Monetary policy currently implemented by the Federal Reserve and other major central banks is not intended to benefit one segment of the population at the expense of another by redistributing income and wealth,” writes economist Makoto Nakajima in the second quarter edition of the regional central bank's Business Review.
 </p>
 
 <p style="padding-left: 30px;">

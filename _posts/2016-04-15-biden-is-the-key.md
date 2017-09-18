@@ -19,20 +19,20 @@ It's amusing to see all the conspiracy theories surface regarding Obama's recent
 
 >Late last night it was revealed that President Obama has summoned Janet Yellen to the White House today.
 
->There’s nothing unusual in itself about the president meeting with the Chair of the Federal Reserve over lunch to discuss policy. Bush 43, for example, frequently met with Alan Greenspan to discuss the economy.
+>There's nothing unusual in itself about the president meeting with the Chair of the Federal Reserve over lunch to discuss policy. Bush 43, for example, frequently met with Alan Greenspan to discuss the economy.
 
 >But this meeting is different…
 
->This isn’t a casual lunch. It’s a high-profile, last-minute meeting Obama orchestrated. The last time something like this happened was in 1951, when Harry Truman summoned the entire Federal Reserve Board of Governors to the White House. Since this is something that hasn’t happened in almost 70 years, today’s meeting is a fairly extraordinary event.
+>This isn't a casual lunch. It's a high-profile, last-minute meeting Obama orchestrated. The last time something like this happened was in 1951, when Harry Truman summoned the entire Federal Reserve Board of Governors to the White House. Since this is something that hasn't happened in almost 70 years, today's meeting is a fairly extraordinary event.
 
->**By bringing her to the White House, Obama is sending Yellen a highly visible public message. Don’t raise rates. You can consider this meeting more like an implied threat.**
+>**By bringing her to the White House, Obama is sending Yellen a highly visible public message. Don't raise rates. You can consider this meeting more like an implied threat.**
 
 Rickards was actually pretty tame compared to ZeroHedge's dredging up Johnson era Federal Reserve intimidation comparisons:
 
 >... in 1965, President Lyndon B. Johnson, who wanted cheap credit to finance the Vietnam War and his Great Society, summoned Fed chairman William McChesney Martin to his Texas ranch. There, after asking other officials to leave the room, Johnson reportedly shoved Martin against the wall as he demanding that the Fed once again hold down interest rates. Martin caved, the Fed printed money, and inflation kept climbing until the early 1980s.
 
 
->“I hope you have examined your conscience and you’re convinced you’re on the right track.” Lady Bird Johnson said to William McChesney Martin, on his arrival at the LBJ ranch.
+>“I hope you have examined your conscience and you're convinced you're on the right track.” Lady Bird Johnson said to William McChesney Martin, on his arrival at the LBJ ranch.
 
 Call me naive, but I give Obama much more credit.  If his goal was to get Yellen to keep rates low, do you really think such a public display would be the most efficient method of achieving this?  I don't buy that for one second.  If anything it makes it *more difficult* for Yellen to err on being easy.  The Federal Reserve has to maintain the illusion of being independent, so by threatening that concept with such a public display makes no sense.  Far more effective would be a secret message delivered by someone close to the President.
 
@@ -52,7 +52,7 @@ Obama has already taken the first step in this direction (from MarketWatch):
 
 >Hundreds of thousands of student loan borrowers will now have an easier path to getting their loans discharged, the Obama administration announced Tuesday.
 
->The Department of Education will send letters to 387,000 people they’ve identified as being eligible for a total and permanent disability discharge, a designation that allows federal student loan borrowers who can’t work because of a disability to have their loans forgiven. The borrowers identified by the Department won’t have to go through the typical application process for receiving a disability discharge, which requires sending in documented proof of their disability. Instead, the borrower will simply have to sign and return the completed application enclosed in the letter.
+>The Department of Education will send letters to 387,000 people they've identified as being eligible for a total and permanent disability discharge, a designation that allows federal student loan borrowers who can't work because of a disability to have their loans forgiven. The borrowers identified by the Department won't have to go through the typical application process for receiving a disability discharge, which requires sending in documented proof of their disability. Instead, the borrower will simply have to sign and return the completed application enclosed in the letter.
 
 >If every borrower identified by the Department decides to have his or her debt forgiven, the government will end up discharging more than $7.7 billion in debt, according to the Department.
 

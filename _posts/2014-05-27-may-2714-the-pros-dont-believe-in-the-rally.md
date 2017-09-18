@@ -29,7 +29,7 @@ What is interesting is that stocks are rallying in the midst of many market &#82
 
 > David Tepper: I&#8217;m nervous about the market
   
-> “We’re witnessing our second tech bubble in 15 years,” warned Greenlight Capital’s David Einhorn 
+> “We're witnessing our second tech bubble in 15 years,” warned Greenlight Capital's David Einhorn 
   
 > "On almost any metric, the US equity market is historically quite expensive. A sceptic would have to be blind not to see bubbles inflating in junk bond issuance, credit quality, and yields, not to mention the nosebleed stock market valuations of fashionable companies like Netflix and Tesla Motors,” &#8211; Baupost Group&#8217;s Seth Klarman
 
@@ -84,7 +84,7 @@ So far my long precious metals call has done nothing but cost me money. But I co
 
 Although buying physical metals and storing it somewhere secure is probably the best option, the next best alternative is to own closed end funds that are specifically designed to offer a physical ownership substitute. 
 
-For example there is the [PHYS Sprott Physical Gold Trust](http://sprottphysicalbullion.com/sprott-physical-gold-trust/) that is designed to &#8220;Without exception, the Trust&#8217;s physical gold bullion is fully allocated and stored at a secure third party storage location in Canada. The physical gold bullion is subject to periodic inspection and audits. Unlike other bullion funds, the Trust does not have an unallocated account that is used to facilitate transfers of gold between financial institutions that act as authorized participants.&#8221; It is a particularly good idea for US investors as &#8220;For U.S. non-corporate investors who hold units for more than one year and make a timely Qualified Election Form (QEF) election, gains realized on the sale of the Trust’s units are currently taxed at the long-term capital gains rate of 15% (20% for higher income taxpayers), versus the maximum of 28% applied against most precious metals ETFs and physical gold coins.&#8221; 
+For example there is the [PHYS Sprott Physical Gold Trust](http://sprottphysicalbullion.com/sprott-physical-gold-trust/) that is designed to &#8220;Without exception, the Trust&#8217;s physical gold bullion is fully allocated and stored at a secure third party storage location in Canada. The physical gold bullion is subject to periodic inspection and audits. Unlike other bullion funds, the Trust does not have an unallocated account that is used to facilitate transfers of gold between financial institutions that act as authorized participants.&#8221; It is a particularly good idea for US investors as &#8220;For U.S. non-corporate investors who hold units for more than one year and make a timely Qualified Election Form (QEF) election, gains realized on the sale of the Trust's units are currently taxed at the long-term capital gains rate of 15% (20% for higher income taxpayers), versus the maximum of 28% applied against most precious metals ETFs and physical gold coins.&#8221; 
 
 During the height of the gold bull market, this product was red hot and traded at a large premium to NAV. However, since gold has become an investment pariah, the premium has actually shrunk to a discount. Here is the chart of the premium/discount to NAV:
 

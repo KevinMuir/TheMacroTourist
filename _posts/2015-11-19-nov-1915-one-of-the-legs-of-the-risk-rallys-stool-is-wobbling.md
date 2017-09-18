@@ -44,15 +44,15 @@ Even though equities are rallying, corporate credit is not joining the party. Ov
 
 The Federal Reserve&#8217;s unwillingness to add liquidity has caused a crunch in the credit markets. One of the more sensitive areas is the leveraged loan market. In the last few months this asset class has experienced a dramatic drop. This morning&#8217;s announcement that banks are willing to sell loans of retailer Belk Inc. at a loss is typical of the action (from Bloomeberg):
 
-> Banks led by Morgan Stanley are offering investors a deep discount to buy debt backing Sycamore Partners’ acquisition of retailer Belk Inc. after struggling to attract interest in the loan, according to a person with knowledge of the matter.
+> Banks led by Morgan Stanley are offering investors a deep discount to buy debt backing Sycamore Partners' acquisition of retailer Belk Inc. after struggling to attract interest in the loan, according to a person with knowledge of the matter.
       
 > The $1.5 billion loan is being offered at 89 cents on the dollar, compared with an initial proposed price of 98 cents to 98.5 cents, said the person, asking not to be identified because the information is private. The discount, one of the biggest of the year, is being offered one week after investor commitments were due.
 
 On Tuesday the largest leveraged buyout of the year was shelved because of trouble floating the loans (again from Bloomberg):
 
-> The turnabout has caught Wall Street’s biggest banks off guard and is increasingly leaving them on the hook for funding takeovers that investors want little part of. On Tuesday, Bank of America Corp. and Morgan Stanley were forced to shelve the debt package backing the year’s largest leveraged buyout &#8212; $5.5 billion meant to fund Carlyle Group LP’s purchase of Veritas, Symantec Corp.’s data-storage business, according to two people familiar with the matter.
+> The turnabout has caught Wall Street's biggest banks off guard and is increasingly leaving them on the hook for funding takeovers that investors want little part of. On Tuesday, Bank of America Corp. and Morgan Stanley were forced to shelve the debt package backing the year's largest leveraged buyout &#8212; $5.5 billion meant to fund Carlyle Group LP's purchase of Veritas, Symantec Corp.'s data-storage business, according to two people familiar with the matter.
       
-> “It’s very much a whipsaw market,” said Martin Fridson, chief investment officer at Lehmann Livian Fridson Advisors LLC. “Outside of a recessionary period, this has been pretty brutal.”
+> “It's very much a whipsaw market,” said Martin Fridson, chief investment officer at Lehmann Livian Fridson Advisors LLC. “Outside of a recessionary period, this has been pretty brutal.”
 
 This whole rally in risk assets has been fuelled by cheap money. Leveraged loans were one of the more reliable sources of liquidity for companies looking to leverage up their balance sheet.
 

@@ -56,41 +56,41 @@ Don&#8217;t believe me about the Market Gods&#8217; cruel nature? How about this
 Bloomberg writer David Papadopoulos wrote a terrific piece titled the [&#8220;The Breathtaking Foolishness of Triple Crown Bettors&#8221;](http://www.bloomberg.com/news/articles/2015-06-03/gamblers-dumb-99-97-triple-crown-guarantee-david-papadopoulos). 
 
 <p style="padding-left: 30px;">
-  When the great Spectacular Bid entered the starting gate for the 1979 Belmont Stakes, the gambling public was convinced he’d romp to victory and become horseracing’s 12th Triple Crown winner.
+  When the great Spectacular Bid entered the starting gate for the 1979 Belmont Stakes, the gambling public was convinced he'd romp to victory and become horseracing's 12th Triple Crown winner.
 </p>
 
 <p style="padding-left: 30px;">
-  This horse couldn’t lose. No way.
+  This horse couldn't lose. No way.
 </p>
 
 <p style="padding-left: 30px;">
-  The jubilant crowd bet him down to odds of 1-to-5 that day, and in so doing, effectively assigned him a stunning 66 percent chance of winning (after factoring in the track’s cut). He would finish a well-beaten third. Two years later, Belmont bettors liked Pleasant Colony’s chances of pulling off the feat too: 47 percent. Funny Cide was given a 43 percent shot in 2003. Smarty Jones the following year: 64 percent. Big Brown? Oh he was going to be an easy winner as well &#8212; 65 percent.
+  The jubilant crowd bet him down to odds of 1-to-5 that day, and in so doing, effectively assigned him a stunning 66 percent chance of winning (after factoring in the track's cut). He would finish a well-beaten third. Two years later, Belmont bettors liked Pleasant Colony's chances of pulling off the feat too: 47 percent. Funny Cide was given a 43 percent shot in 2003. Smarty Jones the following year: 64 percent. Big Brown? Oh he was going to be an easy winner as well &#8212; 65 percent.
 </p>
 
 <p style="padding-left: 30px;">
-  When all of the failed Triple Crown bids during this 37-year drought are examined together &#8212; 12 of them to be exact &#8212; the magnitude of the gambling public’s foolishness is breathtaking. Add up the percentages and they show that, in the crowd’s estimate, the probability that at least one of those 12 horses would win the Belmont was 99.97 percent. Or expressed differently, the chances that none of them would pull it off were just 0.03 percent. That’s 1 in 3,333.
+  When all of the failed Triple Crown bids during this 37-year drought are examined together &#8212; 12 of them to be exact &#8212; the magnitude of the gambling public's foolishness is breathtaking. Add up the percentages and they show that, in the crowd's estimate, the probability that at least one of those 12 horses would win the Belmont was 99.97 percent. Or expressed differently, the chances that none of them would pull it off were just 0.03 percent. That's 1 in 3,333.
 </p>
 
 <p style="padding-left: 30px;">
-  So either we’ve witnessed one of the greatest series of random outcomes in the history of sporting events or the crowd is really stupid when it comes to wagering on the Belmont Stakes.
+  So either we've witnessed one of the greatest series of random outcomes in the history of sporting events or the crowd is really stupid when it comes to wagering on the Belmont Stakes.
 </p>
 
 <p style="padding-left: 30px;">
-  I’ll sign up for the second of those two theories. Caught up in the hype and emotion of the moment, gamblers wildly overbet their hero. As they do, they disregard all the challenges that the horse has to overcome: a marathon distance (1 1/2 miles) that he has never tried before and never will again; a grueling Triple Crown campaign of three races in just five weeks; and a field of fresh and rested rivals at Belmont.
+  I'll sign up for the second of those two theories. Caught up in the hype and emotion of the moment, gamblers wildly overbet their hero. As they do, they disregard all the challenges that the horse has to overcome: a marathon distance (1 1/2 miles) that he has never tried before and never will again; a grueling Triple Crown campaign of three races in just five weeks; and a field of fresh and rested rivals at Belmont.
 </p>
 
 This article was a terrific piece that did an excellent job of showing the market&#8217;s glaring mis-pricing of this horse race. Every bit was bang on correct. David&#8217;s conclusion made perfect sense:
 
 <p style="padding-left: 30px;">
-  But before you plunk down $1,000 to win on Pharoah at odds of about 1-to-2, remember that the math is working against you. Remember that you’re buying an overvalued asset.
+  But before you plunk down $1,000 to win on Pharoah at odds of about 1-to-2, remember that the math is working against you. Remember that you're buying an overvalued asset.
 </p>
 
 <p style="padding-left: 30px;">
-  Rather than bet on our hero at that price, I’ll be putting down a few bucks on one or two of his rivals. Colts like Materiality, Frosted and Mubtaahij all loom as upset threats (more on them and the rest of the would-be spoilers on Friday).
+  Rather than bet on our hero at that price, I'll be putting down a few bucks on one or two of his rivals. Colts like Materiality, Frosted and Mubtaahij all loom as upset threats (more on them and the rest of the would-be spoilers on Friday).
 </p>
 
 <p style="padding-left: 30px;">
-  If the big horse is wildly overvalued in the race, then these others will be undervalued. That’s how parimutuel wagering works. Don’t be sucked in by Triple Crown mania. Use it to your advantage instead.
+  If the big horse is wildly overvalued in the race, then these others will be undervalued. That's how parimutuel wagering works. Don't be sucked in by Triple Crown mania. Use it to your advantage instead.
 </p>
 
 And of course, just when a pricing inconsistency is noticed, the Market Gods decide it is time to send everybody back the other way. For the first time in 37 years, there was a Triple Crown winner this week-end. 
@@ -107,11 +107,11 @@ Next year, David&#8217;s article will be replaced with all sorts of accounts of 
 Last week, I came across this funny report about the Philadelphia Pension Board&#8217;s recent investment decision. From Bloomberg:
 
 <p style="padding-left: 30px;">
-  Philadelphia’s pension board voted to pull its money from Jim Chanos’s Kynikos Associates after losses in April that prompted a finance director to ask “what went wrong.”
+  Philadelphia's pension board voted to pull its money from Jim Chanos's Kynikos Associates after losses in April that prompted a finance director to ask “what went wrong.”
 </p>
 
 <p style="padding-left: 30px;">
-  The board voted unanimously to pull the pension’s $25 million investment in the Kynikos Opportunity Fund after the fund lost about 4.7 percent in April, according to the minutes of a pension board meeting. Kynikos lost money betting on declines in China and shorting companies it viewed as having accounting problems or financial distress, the minutes show.
+  The board voted unanimously to pull the pension's $25 million investment in the Kynikos Opportunity Fund after the fund lost about 4.7 percent in April, according to the minutes of a pension board meeting. Kynikos lost money betting on declines in China and shorting companies it viewed as having accounting problems or financial distress, the minutes show.
 </p>
 
 Kynikos Associates is a money management firm specializing in _short selling_. Chanos is the first one to warn they will have losses as equities rally. The fact that the Philadelphia Pension Board is pulling money from Kynikos should send a chill deep into the bones of every long term equity bull out there. **This is the sort of stuff you see at market tops.** The board will probably be having a meeting in a couple of years to discuss why they were over exposed to equities. How could their long managers not protect them against the decline? What went wrong? Well, I can tell them right now what went wrong. They are boneheads. 

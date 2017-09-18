@@ -27,7 +27,7 @@ Most importantly, the speculators have dramatically reduced their long US dollar
 
   <img src="http://themacrotourist.com/images/Azure/FOREXSPXMay2015.png" alt="http://themacrotourist.com/images/Azure/FOREXSPXMay2015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-It’s funny that chatter about the long US dollar trade has disappeared. Nothing has really changed in the fundamental story. The American economy is still nudging towards entering a monetary tightening cycle, while the rest of the world is solidly stuck in easing mode. It just goes to show how prices make the headlines and not the other way round.
+It's funny that chatter about the long US dollar trade has disappeared. Nothing has really changed in the fundamental story. The American economy is still nudging towards entering a monetary tightening cycle, while the rest of the world is solidly stuck in easing mode. It just goes to show how prices make the headlines and not the other way round.
 
 This correction in the US dollar bull run might be the pause that refreshes. We have worked off the massively overbought technical picture with the small correction in both time and price. And the sentiment is much more healthy with all the tourists having moved on to other trades.
 
@@ -36,7 +36,7 @@ I am starting to establish some US dollar long positions into this dip. I especi
 
   <img src="http://themacrotourist.com/images/Azure/YenBOJMay2015.png" alt="http://themacrotourist.com/images/Azure/YenBOJMay2015.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-As a percentage of their economy the Bank of Japan balance sheet expansion is mind boggling large. And the most important aspect of their monetary expansion is the government’s determination to achieve their economic goals. The Japanese are not plagued with a slew of a different governments with varying opinions about proper monetary policy like the Europeans. No, the Japanese are united behind their leader and committed to breaking the back of the deflationary morass their country has been mired in during the past couple of decades. They are going down the road of “balance sheet expansion until inflation or bust” whole heartedly.
+As a percentage of their economy the Bank of Japan balance sheet expansion is mind boggling large. And the most important aspect of their monetary expansion is the government's determination to achieve their economic goals. The Japanese are not plagued with a slew of a different governments with varying opinions about proper monetary policy like the Europeans. No, the Japanese are united behind their leader and committed to breaking the back of the deflationary morass their country has been mired in during the past couple of decades. They are going down the road of “balance sheet expansion until inflation or bust” whole heartedly.
 
 They might well get both, inflation and bust, at the same time, but of all the countries, I have the most confidence in the Japanese sticking to the plan. And it seems like the market is confirming that thesis.
 
@@ -53,11 +53,11 @@ If we enter into a another US dollar rally, I am hopeful the Yen will lead to th
 
 I continue to be amazed at the sheer number of market pundits who steadfastly refuse to believe the Fed will hike rates anytime during 2015, with many being so bold to proclaim that due to the coming elections, even 2016 is off the table!
 
-Back when the Fed was tapering their QE programs the market threw a tantrum, worrying the end of QE meant the start of a stair step move higher in rates at every Fed meeting. This is how Greenspan did it during the last tightening cycle, and (as usual) the market couldn’t imagine anything different. The Fed had to engage in a massive campaign to stress that **tapering was not tightening.** The end of QE did not mean rates were headed straight up.
+Back when the Fed was tapering their QE programs the market threw a tantrum, worrying the end of QE meant the start of a stair step move higher in rates at every Fed meeting. This is how Greenspan did it during the last tightening cycle, and (as usual) the market couldn't imagine anything different. The Fed had to engage in a massive campaign to stress that **tapering was not tightening.** The end of QE did not mean rates were headed straight up.
 
 It appears to me the Fed did too good a job convincing the market that rates were not headed higher. The Fed has pulled away the football of monetary tightening so often, the market does not believe they will ever follow through.
 
-This has created a dangerous situation for the Fed. They have begun to lose credibility, so the Fed’s signalling has lost effectiveness. This will make the first hike more violent than it has to be.
+This has created a dangerous situation for the Fed. They have begun to lose credibility, so the Fed's signalling has lost effectiveness. This will make the first hike more violent than it has to be.
 
 The market will not believe the hike until the Fed actually follows through. **The most anticipated rate hike in decades will be a surprise for many market participants.**
 
@@ -81,9 +81,9 @@ But then when asked a question from a reporter, Evans responded with:
 
 Although Evans would probably not want to raise rates anytime soon, he realizes (or was told) the Federal Reserve committee is leaning towards a rate hike sooner rather than later. Evans took the opportunity to explicitly set expectations counter to his speech.
 
-Today we will get the release of the Fed minutes from their previous meeting. I suspect the market will once again be surprised at how close the Fed is to raising rates. They have their finger on the trigger. It won’t take much to push them over the edge.
+Today we will get the release of the Fed minutes from their previous meeting. I suspect the market will once again be surprised at how close the Fed is to raising rates. They have their finger on the trigger. It won't take much to push them over the edge.
 
-The US dollar rally that scared the Fed last quarter has subsided, the Greece situation will be resolved one way or another shortly, oil has stopped plummeting helping to stabilize many of the countries reliant on that commodity, and the economic weakness from the brutal winter seems to be working its way through the economy. All of these factors add up to a Fed that will hike sooner than the market realizes. That rate rise will be beneficial for the US dollar and it won’t be long before everyone is once again talking about the long US dollar trade.
+The US dollar rally that scared the Fed last quarter has subsided, the Greece situation will be resolved one way or another shortly, oil has stopped plummeting helping to stabilize many of the countries reliant on that commodity, and the economic weakness from the brutal winter seems to be working its way through the economy. All of these factors add up to a Fed that will hike sooner than the market realizes. That rate rise will be beneficial for the US dollar and it won't be long before everyone is once again talking about the long US dollar trade.
 
 Thanks for reading,
   

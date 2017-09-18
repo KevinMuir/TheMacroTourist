@@ -23,7 +23,7 @@ I can&#8217;t take credit for this next hypothesis, it was actually one of my bu
 
 From the NY Times:
 
-> Turing’s price increase is not an isolated example. While most of the attention on pharmaceutical prices has been on new drugs for diseases like cancer, hepatitis C and high cholesterol, there is also growing concern about huge price increases on older drugs, some of them generic, that have long been mainstays of treatment.
+> Turing's price increase is not an isolated example. While most of the attention on pharmaceutical prices has been on new drugs for diseases like cancer, hepatitis C and high cholesterol, there is also growing concern about huge price increases on older drugs, some of them generic, that have long been mainstays of treatment.
 > 
 > Although some price increases have been caused by shortages, others have resulted from a business strategy of buying old neglected drugs and turning them into high-priced “specialty drugs.” 
 

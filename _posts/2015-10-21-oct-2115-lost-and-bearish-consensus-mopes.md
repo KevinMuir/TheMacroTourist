@@ -21,7 +21,7 @@ Last week Credit Suisse released a report titled [“Client perspectives: lost a
 
 Institutional clients, whether they be real money or hedge funds, are no different than the rest of us. They are prone to groupthink and the same herding behaviour. When they all agree, you should almost always be on the other side of their trade.
 
-Let’s have a look at the what they all agree is the next big problem lurking out there:
+Let's have a look at the what they all agree is the next big problem lurking out there:
 
 > 1. Global growth decelerating
 > 
@@ -32,17 +32,17 @@ Their number one concern is a slowdown on global growth. Not only that, the clie
 
   <img src="http://themacrotourist.com/images/MeetingOct2115.png" alt="http://themacrotourist.com/images/MeetingOct2115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-I don’t know much, but I know enough that when the crowd is leaning so hard one way, the correct bet is to take the other side. I firmly believe that somehow, some way, global growth will outperform these low expectations.
+I don't know much, but I know enough that when the crowd is leaning so hard one way, the correct bet is to take the other side. I firmly believe that somehow, some way, global growth will outperform these low expectations.
 
-And I guess if there was something that might ignite this growth, it would a non-consensus surprise of the institutional clients’ next biggest worry:
+And I guess if there was something that might ignite this growth, it would a non-consensus surprise of the institutional clients' next biggest worry:
 
 > 2. China facing the risk of a hard landing
 > 
 > &#8220;Unsurprisingly, this was the number one topic of discussion in every meeting. China accounts for 15% of global GDP, a third of GDP growth and 30% of global capex (which it exports as it slows) and thus it has never been so important for the global macro outlook.&#8221; The focus was essentially in the following areas: 1) Weakness in the real estate sector; 2) The degree of &#8216;zombie capital&#8217;; 3) Chinese policymakers losing their credibility; 4) Growth weakness extending beyond investment/manufacturing related variables; 5) Chinese wage growth not as sustainable as clients believe; 6) The Renminbi (Most clients believe that the currency will eventually fall significantly); 7) The lack of unwinding of foreign debt.
 
-I still laugh at investors’ attitude about China. Half a dozen years ago when the US was stumbling with their various QE programs and desperately trying to restart growth, investors were uniformly bearish on the US and super bullish on China. At the time China was putting through massive fiscal stimulus measures which made their economy seem invincible. We all know now the stimulus was poorly spent and the mal-investment will leave a terrible hangover. However back then, in investors’ minds China could do no wrong, and the US could do no right. Fast forward to today. The transformation to a more balanced economy has been especially painful for China, and with the crackdown on corruption and a few poor economic policy missteps, investors are _convinced China is an unfixable basket case._ Just like in 2010 when they thought the US policies would never work…
+I still laugh at investors' attitude about China. Half a dozen years ago when the US was stumbling with their various QE programs and desperately trying to restart growth, investors were uniformly bearish on the US and super bullish on China. At the time China was putting through massive fiscal stimulus measures which made their economy seem invincible. We all know now the stimulus was poorly spent and the mal-investment will leave a terrible hangover. However back then, in investors' minds China could do no wrong, and the US could do no right. Fast forward to today. The transformation to a more balanced economy has been especially painful for China, and with the crackdown on corruption and a few poor economic policy missteps, investors are _convinced China is an unfixable basket case._ Just like in 2010 when they thought the US policies would never work…
 
-Client Suisse’s report’s next worry is one I share. I don’t know if this a remnant of the previous 2008 financial crisis, or just shows my inherent biases, but to me, this is a real concern:
+Client Suisse's report's next worry is one I share. I don't know if this a remnant of the previous 2008 financial crisis, or just shows my inherent biases, but to me, this is a real concern:
 
 > 3. Credit blowing out
 > 
@@ -67,9 +67,9 @@ Here are the next three points from the CS report:
 > 
 > &#8220;Global FX reserves have fallen by c$0.5trn since their peak (although after valuationadjustments they have fallen by only c$100bn, according to our FX strategists). Many clients claim that this is a bear signal and is, in effect, monetary tightening. We worry that this is an asymmetric argument, as it was never used as a bull signal when global FX reserves were rising.&#8221; ZH: Actually considering stock markets hit all time highs when FX reserves were rising, it most certainly was a bullish signal, it was just that nobody put two and two together.
 
-The fifth one is especially amusing. I will take the other side of that trade any day of the week. Don’t ever underestimate the ability of any Central Bank to print money. Ever. It’s like saying that a cornered wild wolf will not fight to the death. Central Bankers will dream up new policies &#8211; mark my words. In fact, I think you should count on the next round of monetary stimulus being different. Too much of the previous stimulus went straight to the 0.01% instead of the people. So I fully expect them to somehow get the next stimulus into the hands of Main Street. But they are in no way running out of weapons…
+The fifth one is especially amusing. I will take the other side of that trade any day of the week. Don't ever underestimate the ability of any Central Bank to print money. Ever. It's like saying that a cornered wild wolf will not fight to the death. Central Bankers will dream up new policies &#8211; mark my words. In fact, I think you should count on the next round of monetary stimulus being different. Too much of the previous stimulus went straight to the 0.01% instead of the people. So I fully expect them to somehow get the next stimulus into the hands of Main Street. But they are in no way running out of weapons…
 
-There you go &#8211; Credit Suisse’s institutional clients top six worries. I will leave it up to you to decide which side of the trade you want to be on…
+There you go &#8211; Credit Suisse's institutional clients top six worries. I will leave it up to you to decide which side of the trade you want to be on…
 
 Thanks for reading,
   

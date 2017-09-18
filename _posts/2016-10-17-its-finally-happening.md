@@ -29,7 +29,7 @@ The WSJ's Jon Hilsenrath summed it up best:
 
 >Yellen Cites Benefits to Running Economy Hot for Some Time
 
->Federal Reserve Chairwoman Janet Yellen offered an argument for running the U.S. economy hot for a period to ensure moribund growth doesn’t become an entrenched feature of the business landscape.
+>Federal Reserve Chairwoman Janet Yellen offered an argument for running the U.S. economy hot for a period to ensure moribund growth doesn't become an entrenched feature of the business landscape.
 
 >That would mean letting unemployment fall lower and spurring faster growth to boost consumer spending and business investment.
 
@@ -39,9 +39,9 @@ The WSJ's Jon Hilsenrath summed it up best:
 
 >Still, her speech at a conference held by the Federal Reserve Bank of Boston offered a window into her mind-set and how policy might evolve in the months ahead. She effectively expressed sympathy for the idea of keeping short-term interest rates low to let the economy gather steam and reverse some of the long-run debilitating effects of the slow recovery, such as low labor-force participation and business investment. That implied very gradual rate increases in the months ahead.
 
->Economic theory holds that weak demand can become a self-perpetuating problem for an economy. When businesses don’t invest and consumers don’t spend, it drives down the productive capacity of the economy and the pool of available labor, begetting still-slower growth. The idea is called hysteresis in economic circles. Weak demand begets weak supply, something Ms. Yellen said—with some careful hedges—might be reversed if demand is boosted.
+>Economic theory holds that weak demand can become a self-perpetuating problem for an economy. When businesses don't invest and consumers don't spend, it drives down the productive capacity of the economy and the pool of available labor, begetting still-slower growth. The idea is called hysteresis in economic circles. Weak demand begets weak supply, something Ms. Yellen said—with some careful hedges—might be reversed if demand is boosted.
 
->“If we assume that hysteresis is in fact present to some degree after deep recessions, the natural next question is to ask whether it might be possible to reverse these adverse supply-side effects by temporarily running a ‘high-pressure economy,’ with robust aggregate demand and a tight labor market,” Ms. Yellen. “One can certainly identify plausible ways in which this might occur.”
+>“If we assume that hysteresis is in fact present to some degree after deep recessions, the natural next question is to ask whether it might be possible to reverse these adverse supply-side effects by temporarily running a ‘high-pressure economy,' with robust aggregate demand and a tight labor market,” Ms. Yellen. “One can certainly identify plausible ways in which this might occur.”
 
 >A hot economy would boost sales, which in turn would prompt managers to invest more in their businesses, she said. “In addition, a tight labor market might draw in potential workers who would otherwise sit on the sidelines.”
 

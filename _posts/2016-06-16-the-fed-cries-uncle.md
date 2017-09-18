@@ -26,15 +26,15 @@ And in case you don't believe the message the yield curve is sending, last week 
 
 The gist of Hyun's argument is that there is an acute shortage of US dollar liquidity.  In fact, the FT deduces the situation is as dire as 2008:
 
->We’re inclined to suggest it’s one of the most important charts in the world right now. And that’s not widely appreciated.  What it shows is how dollar strength and the availability of dollars via the FX swap market go hand-in-hand in the market atm. What it implies is that the global “dollar shortage” is matching if not surpassing 2008 levels.
+>We're inclined to suggest it's one of the most important charts in the world right now. And that's not widely appreciated.  What it shows is how dollar strength and the availability of dollars via the FX swap market go hand-in-hand in the market atm. What it implies is that the global “dollar shortage” is matching if not surpassing 2008 levels.
 
 The Federal Reserve has thoroughly failed to realize how their hawkish actions and rhetoric has sapped the global economy of much needed liquidity.  Like it or not, the US dollar is the world's reserve currency, and the global economy has not able to handle Yellen's tightening cycle. 
 
 Even the WSJ has figured it out.  In article titled the "World isn't ready for a Fed increase" Greg Ip outlines the problems with the hawkish Fed policy:
 
->But it’s not just the trajectory of the U.S. economy that should guide their decision. While the Fed is the U.S. central bank, the dollar’s central role in the international financial system means it also is the world’s central bank and the world may not be ready for another rate increase.
+>But it's not just the trajectory of the U.S. economy that should guide their decision. While the Fed is the U.S. central bank, the dollar's central role in the international financial system means it also is the world's central bank and the world may not be ready for another rate increase.
 
->In theory, the influence of the Fed on the world economy should be receding, not growing. The U.S.’s share of global output has shrunk, as has the number of countries pegging their currencies to the dollar (China is a notable exception).
+>In theory, the influence of the Fed on the world economy should be receding, not growing. The U.S.'s share of global output has shrunk, as has the number of countries pegging their currencies to the dollar (China is a notable exception).
 
 >Yet the dollar is now more influential than ever. It accounts for 87% of currency transactions, 60% of global reserves and 62% of cross-border debts, according to Ruchir Sharma, chief global strategist at Morgan Stanley Investment Management. Oil prices are supposed to respond to supply and demand but nowadays they also respond to the dollar, he says, because trading of oil far exceeds actual consumption, and trading is conducted in dollars.
 

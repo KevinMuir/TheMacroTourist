@@ -56,7 +56,7 @@ In the post [&#8220;Are bond investors crying wolf?&#8221;](https://www.creditwr
 </p>
 
 <p style="padding-left: 30px;">
-  Having said that, the EU economy did perform somewhat better than expected in Q1 and, as a result, deflation fears abated. In the months leading up to the rout being long bonds had become pretty much one-way traffic. So convinced were investors that the ECB would prolong the 35 year bull market in bonds that it had become the trade du jour. We don’t know yet who lost the most, as few have announced results for the month of May, but it wouldn’t surprise me if parts of the hedge fund community ended up with a fair amount of egg on their face.
+  Having said that, the EU economy did perform somewhat better than expected in Q1 and, as a result, deflation fears abated. In the months leading up to the rout being long bonds had become pretty much one-way traffic. So convinced were investors that the ECB would prolong the 35 year bull market in bonds that it had become the trade du jour. We don't know yet who lost the most, as few have announced results for the month of May, but it wouldn't surprise me if parts of the hedge fund community ended up with a fair amount of egg on their face.
 </p>
 
 And it&#8217;s not just Niels that has come to this conclusion. From Bloomberg:
@@ -66,11 +66,11 @@ And it&#8217;s not just Niels that has come to this conclusion. From Bloomberg:
 </p>
 
 <p style="padding-left: 30px;">
-  The Bank of America Merrill Lynch Global Government Index is down 2.9 percent since the end of March. If it holds, it’ll be the biggest quarterly loss since the third quarter of 1987. The selloff started in Europe as investors balked at record-low yields in Germany, where they were barely above zero for 10-year securities. It spread amid rising speculation the Federal Reserve was preparing to increase borrowing costs this year as the world’s biggest economy improved.
+  The Bank of America Merrill Lynch Global Government Index is down 2.9 percent since the end of March. If it holds, it'll be the biggest quarterly loss since the third quarter of 1987. The selloff started in Europe as investors balked at record-low yields in Germany, where they were barely above zero for 10-year securities. It spread amid rising speculation the Federal Reserve was preparing to increase borrowing costs this year as the world's biggest economy improved.
 </p>
 
 <p style="padding-left: 30px;">
-  “It seems very much as if it was extreme positioning being unwound,” Simon Smiles, chief investment officer for ultra-high-net-worth individuals at UBS Group AG in London, said in an interview on Bloomberg Television’s “Countdown” with Anna Edwards.
+  “It seems very much as if it was extreme positioning being unwound,” Simon Smiles, chief investment officer for ultra-high-net-worth individuals at UBS Group AG in London, said in an interview on Bloomberg Television's “Countdown” with Anna Edwards.
 </p>
 
 The deflationary scramble into European debt drove bond yields to asinine stupid low levels. Don&#8217;t forget about the crazy research calls that were littering the street during this period. This gem from Citi summed it up perfectly:
@@ -90,7 +90,7 @@ So the real question is whether this unwind is the start of a new bear market in
 Niels wisely observed in a previous piece:
 
 <p style="padding-left: 30px;">
-  “I don’t expect interest rates to make a dramatic move upwards for many years to come. However, lessons from Japan have taught me that, even if rates stay comparatively low, they can easily move 0.5-1.0% over a relatively short period of time, and a 1% move in the wrong direction can do a lot of damage to the P&L.”
+  “I don't expect interest rates to make a dramatic move upwards for many years to come. However, lessons from Japan have taught me that, even if rates stay comparatively low, they can easily move 0.5-1.0% over a relatively short period of time, and a 1% move in the wrong direction can do a lot of damage to the P&L.”
 </p>
 
 I don&#8217;t know if I agree with him about the long term safety of rates staying low, but I definitely agree that it doesn&#8217;t take much for some real damage to be done to the P&L. This bond decline has started to feed on itself, and the backup in yields is not the result of improving fundamental economic conditions, but simply a correction in the extreme positioning.

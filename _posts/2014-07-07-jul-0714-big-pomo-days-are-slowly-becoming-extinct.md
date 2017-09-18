@@ -25,7 +25,7 @@ Contrary to the doomsday predictions, the market has not collapsed as the Fed ha
 
 And even more importantly, it does not appear that the tapering of the QE has had any noticeable affect on the economy.
 
-The US economy continues to chug along, with Thursday’s great unemployment report highlighting the continuing economic improvement.
+The US economy continues to chug along, with Thursday's great unemployment report highlighting the continuing economic improvement.
 
 The previous two times that the Fed withdrew its QE stimulus, the economy had not reached the point where the economic recovery had become self sustaining. As soon as the QE was stopped, the economy (and the market) immediately rolled over.
 
@@ -45,7 +45,7 @@ They are determined to not make the same mistake again.
 
 **But the point that I want to stress is to realize that market participant are no longer debating whether the withdrawal of QE3 will cause the economy to roll over. Now most of the debate is centred around whether the Fed is allowing inflation to burn too brightly before raising rates.**
 
-This is a dramatic shift in market participants’ thinking. There is basically no one predicting that the end of QE3 will cause the same sort of economic and market sag that we experienced at the end of the two previous QE programs.
+This is a dramatic shift in market participants' thinking. There is basically no one predicting that the end of QE3 will cause the same sort of economic and market sag that we experienced at the end of the two previous QE programs.
 
 The tapering is no longer some super scary event that causes market participants to sit up all night worrying about the frightening prospects of life without QE.
 
@@ -67,9 +67,9 @@ Over the past few years, I have watched the trading in the stock market be propp
   <img src="http://themacrotourist.com/images/Azure/SPXFARBASTJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/SPXFARBASTJul0714.png" style="margin:30px auto;display:block;" width="600" height="342" />S&P 500 (yellow line) vs Fed Balance Sheet (white line)</a>
 </div>
 
-The expansion of the Fed’s balance sheet does not mirror the trading of the S&P 500 because of dumb luck. QE injections have a direct effect on the stock market.
+The expansion of the Fed's balance sheet does not mirror the trading of the S&P 500 because of dumb luck. QE injections have a direct effect on the stock market.
 
-Here at the MacroTourist, we track the daily returns of the stock market versus the Fed’s QE operations. We categorize the Fed days into days where they purchase less than $1 billion, more than $1 billion and no operation. Recently the no operation days have been somewhat limited, and the Fed often schedules big economic releases or Fed meeting days for non-operation days, so these days tend to be quite volatile.
+Here at the MacroTourist, we track the daily returns of the stock market versus the Fed's QE operations. We categorize the Fed days into days where they purchase less than $1 billion, more than $1 billion and no operation. Recently the no operation days have been somewhat limited, and the Fed often schedules big economic releases or Fed meeting days for non-operation days, so these days tend to be quite volatile.
 
 But when we compare the daily returns of the S&P 500 on days where the Fed purchases less than $1 billion days versus the more than $1 billion days a clear pattern emerges.
 
@@ -169,22 +169,22 @@ The more the Fed injects, the more the stock market rises. It is as simple as th
 
 And given that the Fed is methodically reducing the amount of QE should give the stock market bulls pause.
 
-Have a look at the schedule for this month’s QE purchases:
+Have a look at the schedule for this month's QE purchases:
 
 
   <img src="http://themacrotourist.com/images/Azure/POMOJul0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/POMOJul0714.png" style="margin:30px auto;display:block;" width="600" height="900">
 
 Given that the Fed keeps reducing the amount of QE, there are less and less days where the Fed buys more than $1 billion.
 
-In fact, after today’s $2.5 billion purchase, we don’t get another big POMO until July 23rd.
+In fact, after today's $2.5 billion purchase, we don't get another big POMO until July 23rd.
 
-Although I do not expect the economy to roll over from the Fed’s tapering, I am not nearly as sanguine about the market’s ability to stay levitated without the Fed’s constant injections. I believe the Fed’s policies have pushed the stock market higher, and as they reduce the amount of stimulus, the stock market will at the margin suffer.
+Although I do not expect the economy to roll over from the Fed's tapering, I am not nearly as sanguine about the market's ability to stay levitated without the Fed's constant injections. I believe the Fed's policies have pushed the stock market higher, and as they reduce the amount of stimulus, the stock market will at the margin suffer.
 
-The fact that very few are worried about the Fed’s tapering does not bring me solace, and in fact, only reinforces my belief that the risk reward is still skewed towards favouring the short side.
+The fact that very few are worried about the Fed's tapering does not bring me solace, and in fact, only reinforces my belief that the risk reward is still skewed towards favouring the short side.
 
-Right now, I am short and wrong, but I am sticking with my position. We have only one more big POMO day before a two week break from the Fed’s injections.
+Right now, I am short and wrong, but I am sticking with my position. We have only one more big POMO day before a two week break from the Fed's injections.
 
-I am going to leave you with the words from George S. Patton &#8211; “If everyone is thinking alike, then somebody isn’t thinking.” I am pretty sure if George were around, he would join me on the short side…
+I am going to leave you with the words from George S. Patton &#8211; “If everyone is thinking alike, then somebody isn't thinking.” I am pretty sure if George were around, he would join me on the short side…
 
 <hr size="3" width="85%" />
 

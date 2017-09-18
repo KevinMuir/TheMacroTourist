@@ -25,9 +25,9 @@ Case in point - have a look at the comments from the most dovish member of the F
 
 >“The case to tighten policy preemptively is less compelling” in an environment where declining unemployment has been slow to spur faster inflation, Brainard said Monday, according to the text of her prepared remarks in Chicago. She made no reference to a specific meeting of the policy-setting Federal Open Market Committee.
 
->Brainard’s comments are the last before the Fed enters its quiet period, during which officials abstain from publicly speaking about monetary policy in the run-up to an FOMC meeting. Policy makers will gather in Washington Sept. 20-21 to discuss their monetary policy stance. Recent comments from the committee’s voters have not projected a cohesive signal about whether they will lift interest rates or stay on hold.
+>Brainard's comments are the last before the Fed enters its quiet period, during which officials abstain from publicly speaking about monetary policy in the run-up to an FOMC meeting. Policy makers will gather in Washington Sept. 20-21 to discuss their monetary policy stance. Recent comments from the committee's voters have not projected a cohesive signal about whether they will lift interest rates or stay on hold.
 
->“Asymmetry in risk management in today’s new normal counsels prudence in the removal of policy accommodation,” Brainard said, arguing that with interest rates near zero, it’s easier for the Fed to react to faster-than-expected demand than to a negative surprise that upsets the economy. “I believe this approach has served us well in recent months.”
+>“Asymmetry in risk management in today's new normal counsels prudence in the removal of policy accommodation,” Brainard said, arguing that with interest rates near zero, it's easier for the Fed to react to faster-than-expected demand than to a negative surprise that upsets the economy. “I believe this approach has served us well in recent months.”
 
 **January 17th, 2017**
 

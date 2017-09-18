@@ -20,10 +20,10 @@ A few days ago I started hearing rumours about a big hedge fund that was short o
 And sure enough, yesterday we learned that Citadel's Ken Griffin had laid off almost a dozen staff members from his internal "Surveyor" fund.  What had previously just been rumours was confirmed by the WSJ:
 
 >Hedge-fund giant Citadel cut more than a dozen members of its investment staff this week in the wake of early losses for the firm in 2016.
->The Chicago-based firm, led by billionaire  Kenneth Griffin, parted ways with analysts, associates and portfolio managers in its multibillion dollar Surveyor Capital arm. Surveyor is one of Citadel’s three internal units that bet on and against stocks worldwide.
+>The Chicago-based firm, led by billionaire  Kenneth Griffin, parted ways with analysts, associates and portfolio managers in its multibillion dollar Surveyor Capital arm. Surveyor is one of Citadel's three internal units that bet on and against stocks worldwide.
 >Last month, the firm replaced the longtime head of Surveyor, Jon Venetos. The unit recently had about 200 employees, with a majority considered investment staff. 
->The moves come as Mr. Griffin grapples with a money-losing stretch unusual for one of the hedge-fund world’s marquee names. As the Wall Street Journal reported in a Page One story last year, Citadel has been in an aggressive and profitable expansion mode since suffering heavy losses during the financial crisis.
->Through the second week of February, Citadel’s main fund is down 6.5% this year, a person familiar with the matter said.
+>The moves come as Mr. Griffin grapples with a money-losing stretch unusual for one of the hedge-fund world's marquee names. As the Wall Street Journal reported in a Page One story last year, Citadel has been in an aggressive and profitable expansion mode since suffering heavy losses during the financial crisis.
+>Through the second week of February, Citadel's main fund is down 6.5% this year, a person familiar with the matter said.
 
 We obviously have no way of knowing whether Citadel's Surveyor fund was the big buyer of gold.  Although I think they might have *contributed* to the rise, I doubt their buying *caused it.*  
 

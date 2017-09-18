@@ -18,21 +18,21 @@ tags:
 
 The market was sent for a spin yesterday afternoon after President Trump told the Wall Street Journal the U.S. dollar "is getting too strong" and he would prefer the Federal Reserve keep interest rates low.  From the WSJ:
 
->Mr. Trump also said his administration won’t label China a currency manipulator in a report due this week.
+>Mr. Trump also said his administration won't label China a currency manipulator in a report due this week.
 
 >He left open the possibility of renominating Federal Reserve Chairwoman Janet Yellen once her tenure is up next year, a shift from his position during the campaign that he would “most likely” not appoint her to another term.
 
 >“I do like a low-interest rate policy, I must be honest with you,” Mr. Trump said at the White House, when asked about Ms. Yellen.
 
->“I think our dollar is getting too strong, and partially that’s my fault because people have confidence in me. But that’s hurting—that will hurt ultimately,” he added. “Look, there’s some very good things about a strong dollar, but usually speaking the best thing about it is that it sounds good.”
+>“I think our dollar is getting too strong, and partially that's my fault because people have confidence in me. But that's hurting—that will hurt ultimately,” he added. “Look, there's some very good things about a strong dollar, but usually speaking the best thing about it is that it sounds good.”
 
->He continued, “It’s very, very hard to compete when you have a strong dollar and other countries are devaluing their currency.”
+>He continued, “It's very, very hard to compete when you have a strong dollar and other countries are devaluing their currency.”
 
->Mr. Trump said the reason he has changed his mind on one of his signature campaign promises is that China hasn’t been manipulating its currency for months and because taking the step now could jeopardize his talks with Beijing on confronting the threat of North Korea.
+>Mr. Trump said the reason he has changed his mind on one of his signature campaign promises is that China hasn't been manipulating its currency for months and because taking the step now could jeopardize his talks with Beijing on confronting the threat of North Korea.
 
->“They’re not currency manipulators,” Mr. Trump said.
+>“They're not currency manipulators,” Mr. Trump said.
 
->Ms. Yellen was a frequent target of Mr. Trump’s during the campaign, when he criticized her for keeping interest rates low.
+>Ms. Yellen was a frequent target of Mr. Trump's during the campaign, when he criticized her for keeping interest rates low.
 
 >Asked if Ms. Yellen was “toast” when her term ends in 2018, Mr. Trump said, “No, not toast.”
 

@@ -65,7 +65,7 @@ And it&#8217;s not just sell side CEOs trying to scare Congress into loosening t
   </p>
   
   <p style="padding-left: 30px;">
-    “The biggest worry of the buy side around the world is that there has been a dramatic decline in liquidity from the sell side for many fixed income products,” said Hunt, 53, who heads Prudential Financial Inc.’s investment management unit, which had $934 billion in assets at the end of 2014. “I think it’s a big risk and is one of the unintended consequences” of regulators trying to prevent another financial crisis, he said.
+    “The biggest worry of the buy side around the world is that there has been a dramatic decline in liquidity from the sell side for many fixed income products,” said Hunt, 53, who heads Prudential Financial Inc.'s investment management unit, which had $934 billion in assets at the end of 2014. “I think it's a big risk and is one of the unintended consequences” of regulators trying to prevent another financial crisis, he said.
   </p>
   
   <p style="padding-left: 30px;">

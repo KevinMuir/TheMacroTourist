@@ -50,15 +50,15 @@ For the short term, the only thing that will matter is whether the ECB will cont
 When it comes to the longer term, although it feels like the Greeks all want to reject the deal, the first polls are reporting the majority of Greeks _will vote in favour_ of accepting the Europeans&#8217; offer. 
 
 <p style="padding-left: 30px;">
-  Although Prime Minister Alexis Tsipras urged Greeks to not approve the creditor’s bailout agreement terms, the first polls in Greece find that most Greeks favor the deal even if it includes a new memorandum.
+  Although Prime Minister Alexis Tsipras urged Greeks to not approve the creditor's bailout agreement terms, the first polls in Greece find that most Greeks favor the deal even if it includes a new memorandum.
 </p>
 
 <p style="padding-left: 30px;">
-  In a poll conducted by Alco for the Greek newspaper ‘Proto Thema’, 57% of the participants said they would vote yes in the upcoming referendum, favoring a deal.
+  In a poll conducted by Alco for the Greek newspaper ‘Proto Thema', 57% of the participants said they would vote yes in the upcoming referendum, favoring a deal.
 </p>
 
 <p style="padding-left: 30px;">
-  Another poll conducted by Kapa Research for ‘To Vima’ found that 47% of the population will vote yes approving the agreement, while 33% will vote ‘NO.’
+  Another poll conducted by Kapa Research for ‘To Vima' found that 47% of the population will vote yes approving the agreement, while 33% will vote ‘NO.'
 </p>
 
 Obviously it is still early, but it is interesting. It is not what I would have expected. 
@@ -78,11 +78,11 @@ Although the risks of the Greek situation devolving are quite high, I think El-E
 Everyone is focused on the Greek news, but over the week-end there was also some big news out of China. From the FT:
 
 <p style="padding-left: 30px;">
-  China’s central bank has cut benchmark interest rates to a record low and lowered the amount of reserves certain banks are required to hold, in apparent response to Friday’s Chinese stock market slump and continuing economic weakness.
+  China's central bank has cut benchmark interest rates to a record low and lowered the amount of reserves certain banks are required to hold, in apparent response to Friday's Chinese stock market slump and continuing economic weakness.
 </p>
 
 <p style="padding-left: 30px;">
-  It was the fourth time the People’s Bank of China had cut interest rates since November. The PBOC said on its website on Saturday that the one-year lending rate will be reduced by 25 basis points to 4.85 per cent effective June 28 and the one-year deposit rate will fall by 25 basis points to 2 per cent. Reserve ratios for some lenders will be cut by 50 basis points.
+  It was the fourth time the People's Bank of China had cut interest rates since November. The PBOC said on its website on Saturday that the one-year lending rate will be reduced by 25 basis points to 4.85 per cent effective June 28 and the one-year deposit rate will fall by 25 basis points to 2 per cent. Reserve ratios for some lenders will be cut by 50 basis points.
 </p>
 
 Many financial pundits are claiming the cut was in response to the recent drubbing in the Chinese stock market.
@@ -97,7 +97,7 @@ Over the past two weeks Chinese stocks are down 25%! That is ugly. No couching t
 </p>
 
 <p style="padding-left: 30px;">
-  “It’s a signal that the government does not want to see a collapse in the stock market”, he said, adding that real interest rates in China remained very high and investment continued to decline but the PBOC could not move before this because of the stock market bubble.
+  “It's a signal that the government does not want to see a collapse in the stock market”, he said, adding that real interest rates in China remained very high and investment continued to decline but the PBOC could not move before this because of the stock market bubble.
 </p>
 
 <p style="padding-left: 30px;">

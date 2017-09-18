@@ -21,12 +21,12 @@ tags:
 
   <img src="http://themacrotourist.com/images/YellenSep2115.png" alt="http://themacrotourist.com/images/YellenSep2115.png" style="margin:30px auto;display:block;" width="600" height="400">
 
-I wouldn’t want Yellen’s job for all the money on the Fed’s balance sheet. She can’t win no matter what she does. Given the Federal Reserve’s mandate, Thursday’s decision to leave rates unchanged was the correct course of action. To start a tightening campaign with inflation running below target and the global economy imploding would be foolishness of the tallest order. Yet due to the ensuing stock market sell off, everyone is pissed at Yellen’s decision.
+I wouldn't want Yellen's job for all the money on the Fed's balance sheet. She can't win no matter what she does. Given the Federal Reserve's mandate, Thursday's decision to leave rates unchanged was the correct course of action. To start a tightening campaign with inflation running below target and the global economy imploding would be foolishness of the tallest order. Yet due to the ensuing stock market sell off, everyone is pissed at Yellen's decision.
 
 
   <img src="http://themacrotourist.com/images/ESZ5Sep2215.png" alt="http://themacrotourist.com/images/ESZ5Sep2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-The monetary hawks are screaming blue murder that the market is selling off because the Fed is irresponsible (which is complete horse shit, but that doesn’t stop them). The doves are scared that Yellen can no longer engineer their reliable consistent steady climb higher. Somehow they think that constant 10% positive returns are their God given right.
+The monetary hawks are screaming blue murder that the market is selling off because the Fed is irresponsible (which is complete horse shit, but that doesn't stop them). The doves are scared that Yellen can no longer engineer their reliable consistent steady climb higher. Somehow they think that constant 10% positive returns are their God given right.
 
 Everyone is a critic of the Federal Reserve. Although I am sympathetic to the complaints about the seemingly never ending zero interest rate policy, to blame Yellen is giving her way too much ability to control things.
 
@@ -65,9 +65,9 @@ In the mean time, the longer Central Bankers refuse to accept this reality, the 
 
 In a balance sheet recession, if every time inflation perks its head up you know the Central Bank will stop the credit expansion, a deflationary mindset takes root.
 
-Although it pains me to say this, Yellen’s attempt to normalize rates was a huge policy error. She cannot normalize rates. She needs to be _responsibly irresponsible._ Otherwise a deflationary vicious cycle will take root. Even talking about a potential rate hike was enough to usher in a worldwide global economic downturn.
+Although it pains me to say this, Yellen's attempt to normalize rates was a huge policy error. She cannot normalize rates. She needs to be _responsibly irresponsible._ Otherwise a deflationary vicious cycle will take root. Even talking about a potential rate hike was enough to usher in a worldwide global economic downturn.
 
-It is obviously way more complicated than that, but don’t listen to the hawks who argue the market is imploding because _the Fed wasn’t hawkish enough._ The market is collapsing because a contractionary cycle has already taken hold. The knee jerk rally after the FOMC pause was the result of traders buying because they _hoped_ the pause would be enough to arrest the vicious cycle.
+It is obviously way more complicated than that, but don't listen to the hawks who argue the market is imploding because _the Fed wasn't hawkish enough._ The market is collapsing because a contractionary cycle has already taken hold. The knee jerk rally after the FOMC pause was the result of traders buying because they _hoped_ the pause would be enough to arrest the vicious cycle.
 
 Once this liquidation mindset takes hold, it is _extremely difficult_ to stop. A simple delaying of rate tightening is not going to be nearly enough. Things will get a lot worse before they get better.
 

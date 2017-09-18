@@ -32,15 +32,15 @@ It turns out that the US and European sanctions on Russia are having interesting
 
 According to Bloomberg:
 
-> OAO MegaFon (MFON), billionaire Alisher Usmanov’s wireless operator, said it has been shifting cash holdings into Hong Kong dollars, a move people say metals producer OAO GMK Norilsk Nickel (GMKN) is also undertaking, as the U.S. and Europe ratchet up sanctions against Russia.
+> OAO MegaFon (MFON), billionaire Alisher Usmanov's wireless operator, said it has been shifting cash holdings into Hong Kong dollars, a move people say metals producer OAO GMK Norilsk Nickel (GMKN) is also undertaking, as the U.S. and Europe ratchet up sanctions against Russia.
   
 > MegaFon decided to keep about 40 percent of its cash in Hong Kong dollars given the global markets disturbances, Chief Financial Officer Gevork Vermishyan said in a phone interview. The Moscow-based carrier has traditionally kept its foreign cash in U.S. dollars and euros, according to the company.
   
-> Norilsk Nickel, the world’s largest producer of nickel and palladium, is also keeping some of its cash in Hong Kong dollars now, two people with knowledge of situation said, asking not to be identified as information isn’t public.
+> Norilsk Nickel, the world's largest producer of nickel and palladium, is also keeping some of its cash in Hong Kong dollars now, two people with knowledge of situation said, asking not to be identified as information isn't public.
 
 This makes perfect sense. The Hong Kong dollar is pegged to the US dollar so the Russians are able to maintain exposure to the world&#8217;s largest currency without the direct threat of confiscation. 
 
-> “Keeping money in Hong Kong dollars is essentially equivalent to keeping it in U.S. dollars because of the currency peg,” said Vladimir Osakovskiy, chief economist of Bank of America Corp.’s Russian unit. “Still, for Russian companies it’s much safer from the standpoint of sanctions.”
+> “Keeping money in Hong Kong dollars is essentially equivalent to keeping it in U.S. dollars because of the currency peg,” said Vladimir Osakovskiy, chief economist of Bank of America Corp.'s Russian unit. “Still, for Russian companies it's much safer from the standpoint of sanctions.”
 
 From a Russian point of view the Hong Kong dollar is a perfect escape mechanism for their capital. 
 

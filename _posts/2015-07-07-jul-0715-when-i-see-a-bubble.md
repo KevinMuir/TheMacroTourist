@@ -70,7 +70,7 @@ The always insightful Martin Enlund from Nordea has recently been highlighting t
 </p>
 
 <p style="padding-left: 30px;">
-  Leaked transcripts of discussions of Tim Geithner, the former US treasury secretary, published in the FT’s Brussels blog reveal that EU leaders were obsessed with punishing Greece at the height of the Eurozone crisis in 2010.
+  Leaked transcripts of discussions of Tim Geithner, the former US treasury secretary, published in the FT's Brussels blog reveal that EU leaders were obsessed with punishing Greece at the height of the Eurozone crisis in 2010.
 </p>
 
 <p style="padding-left: 30px;">
@@ -82,7 +82,7 @@ The always insightful Martin Enlund from Nordea has recently been highlighting t
 </p>
 
 <p style="padding-left: 30px;">
-  “The Europeans came into that meeting basically saying: ‘We’re going to teach the Greeks a lesson. They are really terrible. They lied to us. They suck and they were profligate and took advantage of the whole basic thing and we’re going to crush them’”.
+  “The Europeans came into that meeting basically saying: ‘We're going to teach the Greeks a lesson. They are really terrible. They lied to us. They suck and they were profligate and took advantage of the whole basic thing and we're going to crush them'”.
 </p>
 
 No wonder the Greeks are so hostile towards the Germans. Some of you might argue the Greeks got what they deserved. I don&#8217;t really care who is at fault. I am only interested in what will happen. 
@@ -122,7 +122,7 @@ The shit has yet to hit the fan. Don&#8217;t assume that because the markets are
 Bill Fleckenstein summed it up perfectly:
 
 <p style="padding-left: 30px;">
-  &#8220;And that is actually a bad thing: for the less contagion we and [the ECB and EU ministers] see on our screens due to the ECB or other sand-bagging markets, the more time European creditor nations, the troika and so forth, may feel they have to negotiate with [Greece’s left-wing party] Syriza. They are wrong, there is no time left, and if Greece falls out of the euro, then why would anybody want to keep money in a Spanish, Portuguese, or Italian bank.&#8221;
+  &#8220;And that is actually a bad thing: for the less contagion we and [the ECB and EU ministers] see on our screens due to the ECB or other sand-bagging markets, the more time European creditor nations, the troika and so forth, may feel they have to negotiate with [Greece's left-wing party] Syriza. They are wrong, there is no time left, and if Greece falls out of the euro, then why would anybody want to keep money in a Spanish, Portuguese, or Italian bank.&#8221;
 </p>
 
 It is quite fitting that outside the ECB they recently had to make repairs to the Euro statue:

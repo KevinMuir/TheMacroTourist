@@ -62,7 +62,7 @@ A key component of the Apple Watch made by one of two suppliers was found to be 
 </p>
 
 <p style="padding-left: 30px;">
-  Apple last week told some watch suppliers to slow production until June, without explaining why, according to people familiar with Apple’s supply chain. Suppliers were surprised because Apple recently said that Watch inventory was insufficient, these people said.
+  Apple last week told some watch suppliers to slow production until June, without explaining why, according to people familiar with Apple's supply chain. Suppliers were surprised because Apple recently said that Watch inventory was insufficient, these people said.
 </p>
 
 The design is also sorely lacking. In a blow that strikes Apple hard, it was recently reported that the watch does not work if the user has tattoos. Do you know how many millennials have tattoos? I am pretty sure that getting a &#8220;sleeve&#8221; is something they automatically do when they turn eighteen. This &#8220;tattoogate&#8221; is going to make it tough for anyone under the age of 31 to ever wear an Apple Watch. From CNET:
@@ -91,15 +91,15 @@ So we have the first non-Steve Jobs product launch, which the market will soon r
 This is at a time when risks are increasing. Recently Apple made a filing about the recent developments in the EU regarding their Irish tax shelter strategy. From the FT:
 
 <p style="padding-left: 30px;">
-  Apple has warned investors that it could face “material” financial penalties from the European Commission’s investigation into its tax deals with Ireland — the first time it has disclosed the potential consequences of the probe.
+  Apple has warned investors that it could face “material” financial penalties from the European Commission's investigation into its tax deals with Ireland — the first time it has disclosed the potential consequences of the probe.
 </p>
 
 <p style="padding-left: 30px;">
-  Under US securities rules, a material event is usually defined as 5 per cent of a company’s average pre-tax earnings for the past three years. For Apple, which reported the highest quarterly profit ever for a US company in January, that could exceed $2.5bn, according to FT calculations.
+  Under US securities rules, a material event is usually defined as 5 per cent of a company's average pre-tax earnings for the past three years. For Apple, which reported the highest quarterly profit ever for a US company in January, that could exceed $2.5bn, according to FT calculations.
 </p>
 
 <p style="padding-left: 30px;">
-  The warning came in Apple’s regular 10-Q filing to the Securities and Exchange Commission on Tuesday, a day after it reported first-quarter revenues of $58bn and net income of $13.6bn.
+  The warning came in Apple's regular 10-Q filing to the Securities and Exchange Commission on Tuesday, a day after it reported first-quarter revenues of $58bn and net income of $13.6bn.
 </p>
 
 <p style="padding-left: 30px;">
@@ -119,15 +119,15 @@ The market quickly glossed over this development, but when the authorities start
 And it&#8217;s not just the authorities that have woken up to Apple&#8217;s aggressive tactics. In an interesting shift in tone, I have notice more articles like Andrew Zaitlin&#8217;s [&#8220;When will Apple stop screwing the US economy?&#8221;](http://www.moneyballeconomics.com/when-will-apple-stop-screwing-the-us-economy/)
 
 <p style="padding-left: 30px;">
-  There’s a story I heard about electronics company Sharp. The company was about to go bankrupt and default on some major debt. This put Apple at risk, since Sharp was a major source of Apple’s LCD screens. The story goes that rather than come to Sharp’s aid, Apple instead approached the bankers and offered to buy the factory assets after bankruptcy – for pennies on the dollar of course. Talk about kicking someone when they’re down! True or not, when I share that story with others who have dealt with Apple, they shrug their shoulders and say that they aren’t surprised. That’s the Apple way.
+  There's a story I heard about electronics company Sharp. The company was about to go bankrupt and default on some major debt. This put Apple at risk, since Sharp was a major source of Apple's LCD screens. The story goes that rather than come to Sharp's aid, Apple instead approached the bankers and offered to buy the factory assets after bankruptcy – for pennies on the dollar of course. Talk about kicking someone when they're down! True or not, when I share that story with others who have dealt with Apple, they shrug their shoulders and say that they aren't surprised. That's the Apple way.
 </p>
 
 <p style="padding-left: 30px;">
-  Business is not a popularity contest, but when the winner-take-all, cripple-the-other-guy approach goes too far and begins to damage the economy, it’s time to rein things in.
+  Business is not a popularity contest, but when the winner-take-all, cripple-the-other-guy approach goes too far and begins to damage the economy, it's time to rein things in.
 </p>
 
 <p style="padding-left: 30px;">
-  The issue at hand is the way Apple’s relentless greed has undermined the US economy and damaged its future industrial competitiveness. All so Apple can make $5 more per phone.
+  The issue at hand is the way Apple's relentless greed has undermined the US economy and damaged its future industrial competitiveness. All so Apple can make $5 more per phone.
 </p>
 
 <p style="padding-left: 30px;">
@@ -135,7 +135,7 @@ And it&#8217;s not just the authorities that have woken up to Apple&#8217;s aggr
 </p>
 
 <p style="padding-left: 30px;">
-  I have no issue with corporate greed per se; more often than not there’s a balance with the public good (lower prices, better products and services). When things become imbalanced, it falls on us, as a society, to re-align things. We need to step in here.
+  I have no issue with corporate greed per se; more often than not there's a balance with the public good (lower prices, better products and services). When things become imbalanced, it falls on us, as a society, to re-align things. We need to step in here.
 </p>
 
 It used to be that everyone rooted for Apple&#8217;s success. Apple was viewed as the American under dog. No longer. They have become the big huge oppressive corporate machine. 

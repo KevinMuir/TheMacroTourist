@@ -28,7 +28,7 @@ In September the great European Central Banking maestro startled the market with
 
 Most hedge funds were quite optimistic about Draghi&#8217;s ability to fulfill his promises:
 
-> “Here are my best trades, ordered from easiest to hardest,” said one of the top ranked macro CIOs, exchanging ideas. Draghi’s fairy dust had finally settled; he’d been pleasantly surprised, and killed it. “Buy European curve steepeners now, buy European risk assets, buy 5yr/5yr Spain versus short 20yr Germany,” he explained. “Maybe these trades last a few weeks, maybe longer, doesn’t matter – get this right, add some smart convexity, and you could make your year by the end of October.” 
+> “Here are my best trades, ordered from easiest to hardest,” said one of the top ranked macro CIOs, exchanging ideas. Draghi's fairy dust had finally settled; he'd been pleasantly surprised, and killed it. “Buy European curve steepeners now, buy European risk assets, buy 5yr/5yr Spain versus short 20yr Germany,” he explained. “Maybe these trades last a few weeks, maybe longer, doesn't matter – get this right, add some smart convexity, and you could make your year by the end of October.” 
 
 In a mad scramble to put on risk, hedge funds poured into trades that would benefit from the new European growth strategy. And in case you don&#8217;t think that his comments and actions had an effect on the market, have a look at the trading of the Eurostoxx 50 index over the last few months.
 

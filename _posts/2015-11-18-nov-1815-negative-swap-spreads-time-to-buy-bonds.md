@@ -15,29 +15,29 @@ tags:
 
   <img src="http://themacrotourist.com/images/SpreadsNov1815.png" alt="http://themacrotourist.com/images/SpreadsNov1815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-Last week I wrote about the perplexing move in US swap spreads ([Nov 10/15 &#8211; How many other “could never happen’s” are out there)](http://themacrotourist.com/blog/2015/11/10/nov-1015-how-many-other-could-never-happens-are-out-there/). Since then, there has been an awful lot of ink spilled in the main stream financial press questioning the illogical negative pricing of US swap spreads.
+Last week I wrote about the perplexing move in US swap spreads ([Nov 10/15 &#8211; How many other “could never happen's” are out there)](http://themacrotourist.com/blog/2015/11/10/nov-1015-how-many-other-could-never-happens-are-out-there/). Since then, there has been an awful lot of ink spilled in the main stream financial press questioning the illogical negative pricing of US swap spreads.
 
 
   <img src="http://themacrotourist.com/images/US10SPNov1815.png" alt="http://themacrotourist.com/images/US10SPNov1815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 Although many have theories, there is no definite answer about the cause, nor the potential consequences of this peculiar anomaly. Most market pundits conclude with some vague uneasiness about the baffling pricing distortion. This Bloomberg conclusion is typical:
 
-> The role of the bond market is to provide funding at the right rates for the real economy,” Major said. “That’s why the bond market exists &#8212; to help efficiently finance projects, businesses etcetera. If that efficiency is undermined, it’s not going to be a positive thing for the economy.”
+> The role of the bond market is to provide funding at the right rates for the real economy,” Major said. “That's why the bond market exists &#8212; to help efficiently finance projects, businesses etcetera. If that efficiency is undermined, it's not going to be a positive thing for the economy.”
 > 
 > Whatever the reason, the severity of the distortions is unnerving many investors.
 > 
-> “What there doesn’t appear to be is any single smoking gun that says why swap spread changes have been so dramatic,” said Thomas Urano, a money manager at Sage Advisory Services Ltd., which oversees $11 billion. The big question remains whether there is “something bigger brewing under the surface that so far hasn’t been pinpointed yet.”
+> “What there doesn't appear to be is any single smoking gun that says why swap spread changes have been so dramatic,” said Thomas Urano, a money manager at Sage Advisory Services Ltd., which oversees $11 billion. The big question remains whether there is “something bigger brewing under the surface that so far hasn't been pinpointed yet.”
 
 Even though the news about negative swap spreads is all over the mainstream financial press, the decline is not abating. As I write this the US 10 Year swap spread is trading at –14. At this level it would be an **all time closing low.**
 
-I continue to believe this strange anomaly is signalling something very wrong with the financial system’s plumbing. However, since this is a new phenomenon, I don’t have any previous examples to prove my point. Until now…
+I continue to believe this strange anomaly is signalling something very wrong with the financial system's plumbing. However, since this is a new phenomenon, I don't have any previous examples to prove my point. Until now…
 
 Yesterday the former macro hedge fund manger for the massive GLG group, Raoul Pal tweeted a chart of Japanese swap spreads along with the yield on the Japanese government bond.
 
 
   <img src="http://themacrotourist.com/images/PalNov1815.png" alt="http://themacrotourist.com/images/PalNov1815.png" style="margin:30px auto;display:block;" width="600" height="600">
 
-I am going to reproduce the chart with a better resolution, but I wanted to show the twitter post to include Raoul Pal’s comments.
+I am going to reproduce the chart with a better resolution, but I wanted to show the twitter post to include Raoul Pal's comments.
 
 He is asserting the two previous big moves lower in Japanese swap spreads into negative territory was an **early indication of recession, which also followed with a logical move lower in yield for the JGBs.**
 

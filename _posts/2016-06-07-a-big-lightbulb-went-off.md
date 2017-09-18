@@ -44,7 +44,7 @@ When I read his piece, a big light bulb went off.  Two&Twenty explained much bet
 
 >So, you will need $50,000/r.  
 
->OK, what the hell is r?  (I’m simplifying here, bear with me…)
+>OK, what the hell is r?  (I'm simplifying here, bear with me…)
 
 >-In 1980, r was around 20%…for both stocks and bonds.  
 >-In 2000, r was around 5%…for both stocks and bonds.  
@@ -54,11 +54,11 @@ When I read his piece, a big light bulb went off.  Two&Twenty explained much bet
 >-If you did this exercise in 2000, you needed $1.0MM ($50,000/.05)  
 >-If you did this exercise in 2015, you needed $2.5MM ($50,000/.02)  
 
->See, what’s happening?
+>See, what's happening?
 
->The way the math works, the lower the yield goes, the more money we need.  Halve returns again and the liability goes up to $5m…  The more time goes by, the more you need.  The more you need, the higher the price of the assets you are buying and hence the lower the expected return.  And hence the more you need.  If you are unfunded, your “hole” just gets bigger and bigger…You are in a trap you may never get out of.  No wonder you don’t feel great about your situation.
+>The way the math works, the lower the yield goes, the more money we need.  Halve returns again and the liability goes up to $5m…  The more time goes by, the more you need.  The more you need, the higher the price of the assets you are buying and hence the lower the expected return.  And hence the more you need.  If you are unfunded, your “hole” just gets bigger and bigger…You are in a trap you may never get out of.  No wonder you don't feel great about your situation.
 
->Now, imagine if you were going through this same exercise along with millions of other people in your exact same situation in developed markets around the world….All chasing basically the same financial assets.  They are all in a massive prisoner’s dilemna with each other.  The more they bid, the more they need.
+>Now, imagine if you were going through this same exercise along with millions of other people in your exact same situation in developed markets around the world….All chasing basically the same financial assets.  They are all in a massive prisoner's dilemna with each other.  The more they bid, the more they need.
 
 >This is what is happening right now.  All the DMs are aging.  This is a global phenomenon.  Insurance companies, pension funds and others trying to store assets for the next 30 years are screaming for returns.  And we are thus seeing correlation amongst DM financial assets skyrocket.
 
@@ -73,31 +73,31 @@ Two&Twenty lays out the math that accompanies an aging population that has not s
 >-This is why Hussman just gets wronger and wronger.  
 >-This also explains volatility in the back end of the yield curve.  Pensions dominate this space; when yields go down, their unfunded liability shoots up and they chase yields lower.  When yields back up their unfunded liability goes down massively and we get liquidity holes in the back end like we just saw in Euro 30yr rates.  They are effectively very short gamma in the back end.  (Which means also that all boomers are short gamma on their liability…)
 
->The boomers are in a hole and chasing a carrot that just gets farther and farther away….Don’t bet any time soon that financial assets are going lower.  The boomers aren’t going away.
+>The boomers are in a hole and chasing a carrot that just gets farther and farther away….Don't bet any time soon that financial assets are going lower.  The boomers aren't going away.
 
 >This is why it is quite painful being a Gen Xer.  The boomers have literally drained all value out of financial assets in their desperation to fund their unfunded liability.
 
 >This is a demographic shift we have NEVER seen.  That is why CAPE has NEVER been this high for this long.
 
->Shiller doesn’t understand the valuation and thinks it may crash.  It won’t crash until all the boomers are funded….Sure, there may be temporary selloffs, particularly in risk assets.  But any sell-off is a boon to these guys.  They are effectively short them.
+>Shiller doesn't understand the valuation and thinks it may crash.  It won't crash until all the boomers are funded….Sure, there may be temporary selloffs, particularly in risk assets.  But any sell-off is a boon to these guys.  They are effectively short them.
 
->**Shiller needs to walk into a Financial Advisor’s office and spend a day and he will immediately understand what is happening.  It’s not lack of confidence in the future.  On the contrary, it’s confidence in a LONG future for boomers.**
+>**Shiller needs to walk into a Financial Advisor's office and spend a day and he will immediately understand what is happening.  It's not lack of confidence in the future.  On the contrary, it's confidence in a LONG future for boomers.**
 
->Shiller gets so close in that interview to hitting on this….without going there.  He keeps saying people need to save more because returns will be lower.  He doesn’t make the connection to the circular loop of what this does to asset prices; i.e., more funds chase limited assets, driving the expect returns on those assets still lower.   I found myself screaming when I read the interview.  As an options trader, I understand this negative gamma intuitively.
+>Shiller gets so close in that interview to hitting on this….without going there.  He keeps saying people need to save more because returns will be lower.  He doesn't make the connection to the circular loop of what this does to asset prices; i.e., more funds chase limited assets, driving the expect returns on those assets still lower.   I found myself screaming when I read the interview.  As an options trader, I understand this negative gamma intuitively.
 
->In many ways, the boomer’s have given us a free put on financial assets: they basically have to buy them at lower prices.  When we see panic sell-offs, we should literally all start front-running the boomers.
+>In many ways, the boomer's have given us a free put on financial assets: they basically have to buy them at lower prices.  When we see panic sell-offs, we should literally all start front-running the boomers.
 
->What will solve this?  Increasing the retirement age.  This will have a massive effect on the perceived unfunded liability.  Social security in theory could help, but there aren’t enough young workers to pay for the boomer’s retirement.  
+>What will solve this?  Increasing the retirement age.  This will have a massive effect on the perceived unfunded liability.  Social security in theory could help, but there aren't enough young workers to pay for the boomer's retirement.  
 
->We as a global society need to wake up to the fact that a life expectancy of 100 is not consistent with a retirement age of 65-70 (or for government/military, 45, but don’t get me started on that…).
+>We as a global society need to wake up to the fact that a life expectancy of 100 is not consistent with a retirement age of 65-70 (or for government/military, 45, but don't get me started on that…).
 
->The other thing that this opens up which I won’t go into is this: is the Central Bank rate repression effectively increasing the angst among the boomers with regard to their unfunded liability?
+>The other thing that this opens up which I won't go into is this: is the Central Bank rate repression effectively increasing the angst among the boomers with regard to their unfunded liability?
 
 >Many have this view and I am sympathetic.  After all, if CDs yielded 5-10% like they did 10-20 years ago, a potential retiree would feel less pressure to save for retirement.  If you are 70 and rolling CDs at zero, you are hating life.  [Imagine how you would feel if you were a Swiss 70 year old who is very close to PAYING interest on his/her bank deposits? ]
 
->So, yes, Mr. Shiller, people don’t feel confident about the future.  But it is because the financial asset prices are telling them they can’t fund it…
+>So, yes, Mr. Shiller, people don't feel confident about the future.  But it is because the financial asset prices are telling them they can't fund it…
 
->And it will end badly, but not because asset prices crash.  If anything, this is what Boomers are rooting for so they can buy them cheaper!  From everything I’ve read and understand there are trillions really upset they missed the bargains of 2008/2009 and desperately hoping it happens again.
+>And it will end badly, but not because asset prices crash.  If anything, this is what Boomers are rooting for so they can buy them cheaper!  From everything I've read and understand there are trillions really upset they missed the bargains of 2008/2009 and desperately hoping it happens again.
 
 Two&Twenty's view is definitely non-consensus.  And although most hedge fund managers would probably laugh in his face, I am extremely sympathetic to his analysis.  
 

@@ -58,13 +58,13 @@ Two year swap spreads are exploding higher.  When you step back and look at the 
 
 It's not getting much press, but late last week the People's Bank of China made some emergency liquidity injections to quieten the disarray in money markets.  From the WSJ:
 
->China’s central bank extended hundreds of billions of yuan in emergency loans to financial firms on Friday and ordered some of the country’s biggest lenders to extend credit as well, as it moved to ease a liquidity crunch and continuing debt selloff.
+>China's central bank extended hundreds of billions of yuan in emergency loans to financial firms on Friday and ordered some of the country's biggest lenders to extend credit as well, as it moved to ease a liquidity crunch and continuing debt selloff.
 
->The moves marked a second day in which the People’s Bank of China pumped money into the financial system and markets, after the U.S. Federal Reserve signaled it might quicken the pace of its rate increases. That in turn spooked Chinese investors who were already worried about government attempts to let the air out of a highly leveraged and overheated bond market by tightening credit.
+>The moves marked a second day in which the People's Bank of China pumped money into the financial system and markets, after the U.S. Federal Reserve signaled it might quicken the pace of its rate increases. That in turn spooked Chinese investors who were already worried about government attempts to let the air out of a highly leveraged and overheated bond market by tightening credit.
 
 >On Friday, the PBOC tapped an emergency lending facility it created in 2014 to extend 394 billion yuan ($56.7 billion) in six-month and one-year loans to 19 banks. That pushes the net amount extended through the facility to 721.5 billion yuan so far in December, a monthly record, according to Beijing-based research firm NSBO.
 
->The PBOC also ordered a few large banks to extend longer-term loans to nonbank financial institutions, while China’s securities regulator asked brokers tasked with making a market in bonds to continue trading and not shut any companies out of the market, according to Mr. Zheng of Dongxing Securities.
+>The PBOC also ordered a few large banks to extend longer-term loans to nonbank financial institutions, while China's securities regulator asked brokers tasked with making a market in bonds to continue trading and not shut any companies out of the market, according to Mr. Zheng of Dongxing Securities.
 
 >The central bank also injected a net 45 billion yuan into the money market on Friday, following a net 145 billion yuan cash infusion on Thursday.
 

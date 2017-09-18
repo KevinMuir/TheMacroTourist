@@ -79,7 +79,7 @@ When you combine this secular trend with the near perfect growing weather of the
 
 From a Bloomberg article last summer:
 
->Global grain stockpiles are set to swell to the largest in almost three decades, further boosting supply that’s led to a slump in prices.
+>Global grain stockpiles are set to swell to the largest in almost three decades, further boosting supply that's led to a slump in prices.
 >World inventories of wheat, corn and other grains will reach 447 million metric tons by the end of the current marketing year, the highest since the 1986-87 season, according to the International Grains Council in London. The agency on Thursday raised its forecast by 2.8 percent from an estimate in July, when it had predicted inventories would fall from last year, citing better wheat crops in Europe and the former Soviet Union.
 
 Not much to be bullish about, eh?  Well although I understand the bear argument, the problem is that so does everyone else.  

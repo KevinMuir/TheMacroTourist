@@ -29,7 +29,7 @@ I am lucky to have my pal for many reasons, but lately the fact that he is selli
 But what is especially helpful is my pal&#8217;s reports about the state of the actual business on the ground. About a month ago, when the Ruble was around 47 to the US dollar, he sent me an update about his Russian business: 
 
 > They had bad sales this summer (partially due to the weather) and now have extra stock over the winter. When I visited in August, they signalled that 2015 purchases would be lower than 2014 (first down year in 7 or 8 year history with us). Here&#8217;s the forecast for 2015 now:  
-> &#8220;I would like to confirm the Dmitry&#8217; comments made in August. Our today’s stock is enough for the 2015 season. And I think that we won’t need the additional purchasing from USA. So we purchase none. The $ and euro rating increased in 15% for last 3 days. People stopped to buy anything. We do not understand what to wait. May be everything will be ok for our country, for our business, may be not. We hope for the best!&#8221;
+> &#8220;I would like to confirm the Dmitry&#8217; comments made in August. Our today's stock is enough for the 2015 season. And I think that we won't need the additional purchasing from USA. So we purchase none. The $ and euro rating increased in 15% for last 3 days. People stopped to buy anything. We do not understand what to wait. May be everything will be ok for our country, for our business, may be not. We hope for the best!&#8221;
 
 Since my buddy has sent that email, the Ruble has fallen another 15% and the price of crude oil has collapsed!
 
@@ -60,7 +60,7 @@ I think it is best summed up by Eurasia Group&#8217;s Ian Bremner who tweeted th
 
 Lately the Russians seem to be testing our limits militarily. Every day it seems to be there is another report of somewhat aggressive Russian military maneuvers. Earlier this week the WSJ reported that a Russian MiG&#8211;31 recently made contact with a Norwegian F&#8211;16 plane.
 
-> Norwegian Armed Forces spokesman Brynjar Stordal declined to say when the incident occurred, but said close calls such as this are rare. “We could have had a collision between the aircraft,” he said. “The pilot has a spontaneous reaction in the video, and both his comment and the evasive maneuver indicate that this is unwanted … We don’t know if this was a mistake by the Russian pilot, or a sign of a more aggressive behavior by the Russians.”
+> Norwegian Armed Forces spokesman Brynjar Stordal declined to say when the incident occurred, but said close calls such as this are rare. “We could have had a collision between the aircraft,” he said. “The pilot has a spontaneous reaction in the video, and both his comment and the evasive maneuver indicate that this is unwanted … We don't know if this was a mistake by the Russian pilot, or a sign of a more aggressive behavior by the Russians.”
 
 Well, this was no mistake as it is happening with increasing frequency. Whether it is Russian submarines straying into sovereign waters, or planes constantly testing the Western countries&#8217; response, the Russians are purposely escalating the situation. 
 

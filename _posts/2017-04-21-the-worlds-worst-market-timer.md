@@ -42,7 +42,7 @@ The market would have taken care of this on its own.  We were already seeing ton
 
 Instead of letting high prices be the incentive for market forces to fix the problem, the government chose to get involved.  I can't say all their initiatives were terrible, but a few of them were beyond brain dead (even for the Wynne government - and that's saying a lot!).  Here's prominent outspoken critic Garth Turner's assessment of the situation:
 
->At first blush, it looks like the condo market was the big loser in Thursday’s political assault on the free market. Rent controls on new units will virtually guarantee consistent long-term negative cash-flow for investor-owned apartments. Ouch. And since half of recent condo sales have gone to investors, you can imagine the impact.
+>At first blush, it looks like the condo market was the big loser in Thursday's political assault on the free market. Rent controls on new units will virtually guarantee consistent long-term negative cash-flow for investor-owned apartments. Ouch. And since half of recent condo sales have gone to investors, you can imagine the impact.
 
 >The condo trade also relies heavily on assignment clauses – allowing buyers to sell their interest in a unit prior to closing. Given the fact it can be three or four years between making a deposit on an unbuilt unit and actually seeing it registered, assignments make sense. There are whole brokerages dealing in nothing but. So now with intense scrutiny and the CRA involved, any gains are likely to end up being taxed as income. Double ouch.
 
