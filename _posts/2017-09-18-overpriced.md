@@ -45,7 +45,7 @@ But just because something is asinine, doesn't mean that shorting it is wise.
 
 When I first started writing this piece, I expected to find that Hendry had picked the wrong maturity German bund to short.  I thought the 2-year Schatz was trading at levels that simply reflected expectations for an "on hold" ECB for the next two years.  Much to my surprise, I was wrong.  
 
-The German overnight deposit rate is trading at negative 40 basis points.  That means an investor can earn an extra 29 basis points by rolling their funds at the extreme front of the curve versus the two year schatz, *as long as the ECB does not lower that rate even further.*  The front end of the German yield curve has a peculiar inversion.
+The German overnight deposit rate is trading at negative 40 basis points.  That means an investor can earn an extra 29 basis points by rolling their funds at the extreme front of the curve (depositing with the ECB) versus the two year schatz, *as long as the ECB does not lower that rate even further.*  The front end of the German yield curve has a peculiar inversion.
 
 Hendry is right that investors are paying for the safety of investing in German Schatz, but he took liberties when he claimed the entire negative rate represented a reach for safety.  It's really the extra negative yield versus the negative 40 overnight rate that represents the richness of the two-year.  
 
