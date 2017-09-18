@@ -40,7 +40,7 @@ A couple of research pieces to remind you:
 </p>
 
 <p style="padding-left: 30px;">
-  Despite the fall in German yields which cause more short-term bonds to become ineligible, when we take into account both the face value adjusted purchases by the ECB and the upcoming bond supply over the next 18 months, the 25% maximum ownership per issue will not necessarily be exceeded. However, for this to be the case, purchases of longer-dated bonds will need to be higher than implied by the simple "weighting by nominal outstanding amounts” of the eligible 2-31y range. This explains the strong flattening of the German curve that we are witnessing this week&#8230;
+  Despite the fall in German yields which cause more short-term bonds to become ineligible, when we take into account both the face value adjusted purchases by the ECB and the upcoming bond supply over the next 18 months, the 25% maximum ownership per issue will not necessarily be exceeded. However, for this to be the case, purchases of longer-dated bonds will need to be higher than implied by the simple "weighting by nominal outstanding amounts" of the eligible 2-31y range. This explains the strong flattening of the German curve that we are witnessing this week&#8230;
 </p>
 
 <p style="padding-left: 30px;">

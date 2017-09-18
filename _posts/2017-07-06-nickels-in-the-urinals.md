@@ -47,7 +47,7 @@ I want to point out that this move in wheat was actually led by the Minneapolis 
 
 Tough to find a chart more beautiful than that.  A huge base with a clean break that runs in a controlled steady fashion straight up.  A technician's wet dream.
 
-I realize this is a weather driven bull market.  Yet these are the sort of bullish moves you get when the entire agriculture community is so bearish on grain prospects.  After years of a continual drip lower, there are few long term grain bulls.  Remember what Donald Coxe used to say, *""The most exciting returns are to be had from an asset class where those who know it best, love it least because they have been burnt the worst”*
+I realize this is a weather driven bull market.  Yet these are the sort of bullish moves you get when the entire agriculture community is so bearish on grain prospects.  After years of a continual drip lower, there are few long term grain bulls.  Remember what Donald Coxe used to say, *""The most exciting returns are to be had from an asset class where those who know it best, love it least because they have been burnt the worst"*
 
 And proving once again that in this day and age of limited alpha, nothing is so toxic as crowded trades, the speculative community that was record net short wheat at the end of April, had their face ripped off once again.
 

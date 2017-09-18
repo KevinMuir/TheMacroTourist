@@ -40,7 +40,7 @@ At this point my skeptics will say, so what?  We have seen this movie before, an
 
 While many believe this has solely resulted from of a lack of demand for credit, I take the opposing view.  After the 2008 crisis, regulators cracked down on banks.  Determined to never let it happen again, government officials introduced an array of rules designed to limit banks' ability to lend too aggressively.  Whether it was stricter BIS Basel III rules or US regulatory crack downs, banks were under pressure everywhere to limit lending.  Recall JP Morgan's Jamie Dimon's 2015 comments:
 
->"Banks are under assault. We have five or six regulators coming at us on every issue… you have to ask how American that is.”
+>"Banks are under assault. We have five or six regulators coming at us on every issue… you have to ask how American that is."
 
 Although Jamie was complaining about the "American-ness" of this regulatory assault, it was by no means limited to the United States.  Throughout the world, the mantra of "never again" limited the effectiveness of easier monetary policy.
 
@@ -74,11 +74,11 @@ The other day, one of my readers, Mehul Daya from Nedbank CIB in South Africa, s
 
 >The prize for Industrial & Commercial Bank of China Ltd. isn't stocks, bonds or currencies. It's the grease in the wheels of all those markets: repurchase agreements.
 
->By exploiting a loophole in rules intended to keep U.S. banks from getting "too big to fail,” the state-owned ICBC has become a go-to dealer in repos in just a few short years, alongside longtime powerhouses like Goldman Sachs Group Inc. The short-term loans allow investors to borrow money by lending securities, serving a vital role in day-to-day trading on Wall Street.
+>By exploiting a loophole in rules intended to keep U.S. banks from getting "too big to fail," the state-owned ICBC has become a go-to dealer in repos in just a few short years, alongside longtime powerhouses like Goldman Sachs Group Inc. The short-term loans allow investors to borrow money by lending securities, serving a vital role in day-to-day trading on Wall Street.
 
 >ICBC's rise reflects not only China's global ambitions in high finance, but also how post-crisis rules have let a whole host of new players profit from the murky world of shadow banking, largely beyond the reach of bank regulators. As big banks face tougher standards, they're being replaced by brokers, asset managers and foreign firms like ICBC, which can use more leverage and take greater risks. That has some regulators worried non-bank lenders are once again emerging as a threat to financial stability, less than a decade after panic in the repo market wiped out Lehman Brothers.
 
->"The concern is that non-bank dealers are becoming a larger part of the repo market,” said Benjamin Munyan, who specializes in shadow banking and regulation at Vanderbilt University's Owen Graduate School of Management. "These intermediaries are outside the scope of our traditional Federal Reserve safety net.”
+>"The concern is that non-bank dealers are becoming a larger part of the repo market," said Benjamin Munyan, who specializes in shadow banking and regulation at Vanderbilt University's Owen Graduate School of Management. "These intermediaries are outside the scope of our traditional Federal Reserve safety net."
 
 I am not suggesting that Chinese banks will fuel the next inflationary boom through a burgeoning repo book.  I don't know if they will or they won't. 
 

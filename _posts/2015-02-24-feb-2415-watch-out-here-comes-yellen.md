@@ -55,15 +55,15 @@ The social media stocks have stopped rising. At least the publicly listed ones h
 The market for Silicon Valley startups is still so hot that wise venture capitalists are issuing their own Yellen style warnings. From the WSJ:
 
 <p style="padding-left: 30px;">
-  After speaking about the risks of "cramming” too much money in startups at the Goldman Sachs technology conference last week, venture capitalist Bill Gurley exited the stage.
+  After speaking about the risks of "cramming" too much money in startups at the Goldman Sachs technology conference last week, venture capitalist Bill Gurley exited the stage.
 </p>
 
 <p style="padding-left: 30px;">
-  More than a dozen investors swarmed the lanky partner of Benchmark, eager to speak with him— but few were planning to heed the venture capitalist's advice. According to Gurley, one man, who represented a large mutual fund, asked, "You don't want us to invest in this but the big tech stocks are not delivering enough growth and my competitors are getting into these startups, so what are we supposed to do?”
+  More than a dozen investors swarmed the lanky partner of Benchmark, eager to speak with him— but few were planning to heed the venture capitalist's advice. According to Gurley, one man, who represented a large mutual fund, asked, "You don't want us to invest in this but the big tech stocks are not delivering enough growth and my competitors are getting into these startups, so what are we supposed to do?"
 </p>
 
 <p style="padding-left: 30px;">
-  Gurley says he didn't have a good answer but he wasn't surprised by the sentiment, which he describes as FOMO, a slang popular among millennials that stands for "fear of missing out.”
+  Gurley says he didn't have a good answer but he wasn't surprised by the sentiment, which he describes as FOMO, a slang popular among millennials that stands for "fear of missing out."
 </p>
 
 <p style="padding-left: 30px;">
@@ -75,7 +75,7 @@ The market for Silicon Valley startups is still so hot that wise venture capital
 </p>
 
 <p style="padding-left: 30px;">
-  "This is the most crowded party that's ever been thrown,” he said.
+  "This is the most crowded party that's ever been thrown," he said.
 </p>
 
 Although the easily tracked publicly traded social media valuations have not risen since Yellen&#8217;s comments last summer, the bubble has become even bigger &#8211; the party just moved to a new location.

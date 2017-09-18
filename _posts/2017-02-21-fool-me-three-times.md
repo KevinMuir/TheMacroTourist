@@ -25,7 +25,7 @@ Then came Trump.  Again the market was *confident* Hillary would prevail.  When 
 
 We are all familiar with the ancient Italian proverb about fooling me once and then twice, but most of us are unaware of Stephen King's adaptation:
 
->"Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, shame on both of us.”
+>"Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, shame on both of us."
 
 After underestimating the potential for populist wins, the market is now determined to not make the same mistake a third time.  
 

@@ -71,15 +71,15 @@ From the Globe and Mail:
 </p>
 
 <p style="padding-left: 30px;">
-  The opportunity in India is greater than our ability to invest alone so we decided to create a separate company to allow other investors to participate,” Mr. Watsa said when reached by phone in Toronto. The company will be listed on the Toronto Stock Exchange.
+  The opportunity in India is greater than our ability to invest alone so we decided to create a separate company to allow other investors to participate," Mr. Watsa said when reached by phone in Toronto. The company will be listed on the Toronto Stock Exchange.
 </p>
 
 <p style="padding-left: 30px;">
-  Joining Fairfax are three cornerstone investors: Markel Corp., West Street Capital Corp. and certain funds and accounts of FMR LLC. They will contribute a total of $200-million, and receive 20 million shares. "We'll raise another $500-million in the marketplace. And it'll be from long-term investors,” Mr. Watsa added.
+  Joining Fairfax are three cornerstone investors: Markel Corp., West Street Capital Corp. and certain funds and accounts of FMR LLC. They will contribute a total of $200-million, and receive 20 million shares. "We'll raise another $500-million in the marketplace. And it'll be from long-term investors," Mr. Watsa added.
 </p>
 
 <p style="padding-left: 30px;">
-  Mr. Watsa said Fairfax has confidence in the "business-friendly government” of Indian Prime Minister Narendra Modi, who was elected in May. He has pledged to improve the lives of the 1.2 billion Indian people through urbanization, transport and technology investments. India's relatively young population with rising consumption and savings rates makes the country's demographics attractive to Fairfax.
+  Mr. Watsa said Fairfax has confidence in the "business-friendly government" of Indian Prime Minister Narendra Modi, who was elected in May. He has pledged to improve the lives of the 1.2 billion Indian people through urbanization, transport and technology investments. India's relatively young population with rising consumption and savings rates makes the country's demographics attractive to Fairfax.
 </p>
 
 <p style="padding-left: 30px;">
@@ -87,7 +87,7 @@ From the Globe and Mail:
 </p>
 
 <p style="padding-left: 30px;">
-  The focus of the new firm will be investing in India across major sectors including consumer goods, energy and financial services. The firm said it will target public and private businesses with strong management teams that have a lengthy track record – a model similar to Fairfax's own. And Fairfax India plans to take either controlling stakes in the businesses, or positions of "significant influence.”
+  The focus of the new firm will be investing in India across major sectors including consumer goods, energy and financial services. The firm said it will target public and private businesses with strong management teams that have a lengthy track record – a model similar to Fairfax's own. And Fairfax India plans to take either controlling stakes in the businesses, or positions of "significant influence."
 </p>
 
 I am a big Prem Watsa fan. Although he has a much different style of investing, I have always been hugely impressed by his ability to take an out of consensus view that really pays off. 

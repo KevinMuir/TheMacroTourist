@@ -57,7 +57,7 @@ The real question that needs to be asked is what is going on in Putin&#8217;s he
 I have long been skeptical about the notion that Russia will back down. Putin&#8217;s aggression is much more calculated than the West gives him credit for. Although American analysts talk about how Russia is now bankrupt and susceptible to collapsing, I believe that Putin is convinced that it is America who is weak and unable to protect other countries.
 
 <p style="padding-left: 30px;">
-  Russian President Vladimir Putin struck a defiant tone a day after talks in Moscow with the leaders of Germany and France failed to achieve a breakthrough in resolving the Ukraine crisis.<br /> Russia won't tolerate the post-Cold War global system dominated by a single leader, Putin said Saturday at a meeting with the Federation of Independent Trade Unions in Sochi.<br /> "That type of world order has never been acceptable for Russia,” Putin said. "Maybe someone likes it and wants to live under a pseudo-occupation, but we won't put up with it.”
+  Russian President Vladimir Putin struck a defiant tone a day after talks in Moscow with the leaders of Germany and France failed to achieve a breakthrough in resolving the Ukraine crisis.<br /> Russia won't tolerate the post-Cold War global system dominated by a single leader, Putin said Saturday at a meeting with the Federation of Independent Trade Unions in Sochi.<br /> "That type of world order has never been acceptable for Russia," Putin said. "Maybe someone likes it and wants to live under a pseudo-occupation, but we won't put up with it."
 </p>
 
 Putin will keep pushing until he is stopped. Obama hoped that economic sanctions would be enough to stop him, but it is now obvious that sanctions will not be enough.

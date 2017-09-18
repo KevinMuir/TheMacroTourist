@@ -21,14 +21,14 @@ Before I do, let me declare the following; I actually love gold down here. I am 
 
   <img src="http://themacrotourist.com/images/MorganJul1515.png" alt="http://themacrotourist.com/images/MorganJul1515.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-But if there is one thing I cannot stand, it is this terrible narrative "paper gold” is declining in price, but "real gold” is maintaining its value. Let's make one thing clear &#8211; for the time being, **they are one and the same.**
+But if there is one thing I cannot stand, it is this terrible narrative "paper gold" is declining in price, but "real gold" is maintaining its value. Let's make one thing clear &#8211; for the time being, **they are one and the same.**
 
-Yesterday Zero Hedge wrote a post where he stated that "paper gold” was hitting new 5 year lows.
+Yesterday Zero Hedge wrote a post where he stated that "paper gold" was hitting new 5 year lows.
 
 
   <img src="http://themacrotourist.com/images/PaperGoldJul1515.png" alt="http://themacrotourist.com/images/PaperGoldJul1515.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-Really? "Paper gold” hitting five year lows? As opposed to "physical gold” that is rocketing higher? Last I checked, Sprott Money physical gold was moving lower in lock step with the "paper gold.”
+Really? "Paper gold" hitting five year lows? As opposed to "physical gold" that is rocketing higher? Last I checked, Sprott Money physical gold was moving lower in lock step with the "paper gold."
 
 
   <img src="http://themacrotourist.com/images/SprottJul1515.png" alt="http://themacrotourist.com/images/SprottJul1515.png" style="margin:30px auto;display:block;" width="600" height="500">

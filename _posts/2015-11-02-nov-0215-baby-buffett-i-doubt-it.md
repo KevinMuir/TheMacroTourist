@@ -18,13 +18,13 @@ tags:
 
   <img src="http://themacrotourist.com/images/BathroomNov0215.png" alt="http://themacrotourist.com/images/BathroomNov0215.png" style="margin:30px auto;display:block;" width="500" height="600">
 
-"What the hell are you doing?” my boss asked me. "Yesterday you lost fifty, and now today almost a hundred… What's going on?”
+"What the hell are you doing?" my boss asked me. "Yesterday you lost fifty, and now today almost a hundred… What's going on?"
 
 I had been working in my new role as the institutional index proprietary trader for under a year, and although it had been going well, these last two days had been hell. My partner on the futures floor and I had been overwhelmed with a tsunami of buy orders. They just kept coming and coming. At first we gently leaned into the wave, but eventually it reached a point where we thought it was stupid.
 
 So we shorted it. And then watched it rise, and rise, and rise. Our brains stopped working. All we could think about was the stupidity of the buyers. Of course I was scared, but we were convinced we were right.
 
-"You dumb twits,” my boss responded as I explained what was going on. "Stop fighting the market. Get your head out of your ass. Cover half right now before the market closes, and by tomorrow at lunch, be flat. And don't make me have this conversation ever again.”
+"You dumb twits," my boss responded as I explained what was going on. "Stop fighting the market. Get your head out of your ass. Cover half right now before the market closes, and by tomorrow at lunch, be flat. And don't make me have this conversation ever again."
 
 All the traders reading this piece understand this feeling. There can be a point where you are so attached to a trade, instead of covering, all you can do is come up with reasons why it will work.
 
@@ -44,9 +44,9 @@ I know CNBC loves Ackman and most of the hedge fund cronies they trot out on a r
 
 And Ackman is a doozy, even by elevated hedge fund standards. The story recounted to Vanity Fair by Dan Loeb sums up the hedgies' attitude about Bill:
 
-> It happened last summer when Ackman decided to join a group of a half-dozen dedicated cyclists, including Loeb, who take long bike rides together in the Hamptons. The plan was for Loeb, who is extremely serious about fitness and has done sprint triathlons, a half-Ironman, and a New York City Marathon, to pick up Ackman at Ackman's $22 million mansion, in Bridgehampton. (Ackman also owns an estate in upstate New York and lives in the Beresford, a historic co-op on Manhattan's Central Park West.) The two would cycle the 20 or so miles to Montauk, where they would meet up with the rest of the group and ride out the additional 6 miles to the lighthouse, at the tip of the island. "I had done no biking all summer,” Ackman now admits. Still, he went out at a very fast clip, his hypercompetitive instincts kicking in. As he and Loeb approached Montauk, Loeb texted his friends, who rode out to meet them from the opposite direction. The etiquette would have been for Ackman and Loeb to slow down and greet the other riders, but Ackman just blew by at top speed. The others fell in behind, at first struggling to keep up with the alpha leader. But soon enough Ackman faltered—at Mile 32, Ackman recalls—and fell way behind the others. He was clearly "bonking,” as they say in the cycling world, which is what happens when a rider is dehydrated and his energy stores are depleted.
+> It happened last summer when Ackman decided to join a group of a half-dozen dedicated cyclists, including Loeb, who take long bike rides together in the Hamptons. The plan was for Loeb, who is extremely serious about fitness and has done sprint triathlons, a half-Ironman, and a New York City Marathon, to pick up Ackman at Ackman's $22 million mansion, in Bridgehampton. (Ackman also owns an estate in upstate New York and lives in the Beresford, a historic co-op on Manhattan's Central Park West.) The two would cycle the 20 or so miles to Montauk, where they would meet up with the rest of the group and ride out the additional 6 miles to the lighthouse, at the tip of the island. "I had done no biking all summer," Ackman now admits. Still, he went out at a very fast clip, his hypercompetitive instincts kicking in. As he and Loeb approached Montauk, Loeb texted his friends, who rode out to meet them from the opposite direction. The etiquette would have been for Ackman and Loeb to slow down and greet the other riders, but Ackman just blew by at top speed. The others fell in behind, at first struggling to keep up with the alpha leader. But soon enough Ackman faltered—at Mile 32, Ackman recalls—and fell way behind the others. He was clearly "bonking," as they say in the cycling world, which is what happens when a rider is dehydrated and his energy stores are depleted.
 > 
-> While everyone else rode back to Loeb's East Hampton mansion, one of Loeb's friends, David "Tiger” Williams, a respected cyclist and trader, painstakingly guided Ackman, who by then could barely pedal and was letting out primal screams of pain from the cramps in his legs, back to Bridgehampton. "I was in unbelievable pain,” Ackman recalls. As the other riders noted, it was really rather ridiculous for him to have gone out so fast, trying to lead the pack, considering his lack of training. Why not acknowledge your limits and set a pace you could maintain? As one rider notes, "I've never had an experience where someone has gone from being so aggressive on a bike to being so hopelessly unable to even turn the pedals…. His mind wrote a check that his body couldn't cash.”
+> While everyone else rode back to Loeb's East Hampton mansion, one of Loeb's friends, David "Tiger" Williams, a respected cyclist and trader, painstakingly guided Ackman, who by then could barely pedal and was letting out primal screams of pain from the cramps in his legs, back to Bridgehampton. "I was in unbelievable pain," Ackman recalls. As the other riders noted, it was really rather ridiculous for him to have gone out so fast, trying to lead the pack, considering his lack of training. Why not acknowledge your limits and set a pace you could maintain? As one rider notes, "I've never had an experience where someone has gone from being so aggressive on a bike to being so hopelessly unable to even turn the pedals…. His mind wrote a check that his body couldn't cash."
 > 
 > Nor was Ackman particularly gracious about the incident afterward, not bothering to answer e-mails of concern and support from others in the group until months later.
 > 
@@ -70,7 +70,7 @@ Ackman managed to escape that mess without blowing up, but I am not so confident
 
 Regardless of whether there is fraud at VRX, there is no doubt the increased scrutiny will make the previous business model highly suspect. For Bill to ignore this fact and argue the future is all rosy for VRX shows he is wearing big huge blinders.
 
-As the Citron Research guy said on Bloomberg TV &#8211; "don't trust me, do your own homework and make your own decision.”
+As the Citron Research guy said on Bloomberg TV &#8211; "don't trust me, do your own homework and make your own decision."
 
 I couldn't agree more.
 

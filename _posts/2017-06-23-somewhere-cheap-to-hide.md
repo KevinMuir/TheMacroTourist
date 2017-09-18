@@ -34,9 +34,9 @@ It has now become common place, but this was my first taste of being run over by
 
 According to the Guardian, Trump went on to warn about a new age of nuclear proliferation:
 
->"Let it be an arms race,” the president in waiting was reported to have told Mika Brzezinski, co-host of MSNBC's Morning Joe programme, in an early phone call on Friday.
+>"Let it be an arms race," the president in waiting was reported to have told Mika Brzezinski, co-host of MSNBC's Morning Joe programme, in an early phone call on Friday.
 
->According to Brzezinski he went on to say: "We will outmatch them at every pass and outlast them all.”
+>According to Brzezinski he went on to say: "We will outmatch them at every pass and outlast them all."
 
 And just like that, the spark the uranium market was waiting for ignited the simmering bull market.
 

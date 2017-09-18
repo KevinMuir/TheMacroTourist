@@ -93,15 +93,15 @@ Many financial pundits are claiming the cut was in response to the recent drubbi
 Over the past two weeks Chinese stocks are down 25%! That is ugly. No couching that in a positive light. 
 
 <p style="padding-left: 30px;">
-  "This is the best time for them to cut interest rates and the reserve requirement ratios,” said Shen Jianguang, chief Asia economist at Mizuho Securities. "If they had not acted, on Monday there would have been real panic in the stock market.
+  "This is the best time for them to cut interest rates and the reserve requirement ratios," said Shen Jianguang, chief Asia economist at Mizuho Securities. "If they had not acted, on Monday there would have been real panic in the stock market.
 </p>
 
 <p style="padding-left: 30px;">
-  "It's a signal that the government does not want to see a collapse in the stock market”, he said, adding that real interest rates in China remained very high and investment continued to decline but the PBOC could not move before this because of the stock market bubble.
+  "It's a signal that the government does not want to see a collapse in the stock market", he said, adding that real interest rates in China remained very high and investment continued to decline but the PBOC could not move before this because of the stock market bubble.
 </p>
 
 <p style="padding-left: 30px;">
-  "The rate cut is a necessary step in the right direction,” said Wang Tao, China chief economist at UBS. "Real lending rates are still significantly higher than a year ago. High real rates [coupled with] a weak economy with deflationary pressures means a heavy debt service burden on the real economy, both the corporate sector and local governments.”
+  "The rate cut is a necessary step in the right direction," said Wang Tao, China chief economist at UBS. "Real lending rates are still significantly higher than a year ago. High real rates [coupled with] a weak economy with deflationary pressures means a heavy debt service burden on the real economy, both the corporate sector and local governments."
 </p>
 
 I don&#8217;t know if a collapsing stock market was the _reason_ for the cut, or whether it was a symptom of the struggling economy. But I would be hard pressed to believe the Chinese authorities are tuning their monetary policy for every squiggle in their volatile equity market. Stock prices are most likely reflecting the monetary conditions as opposed to dictating them.

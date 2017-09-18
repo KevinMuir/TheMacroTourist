@@ -36,7 +36,7 @@ At one moment you have James Bullard telling the markets:
 
 Then you have Charlie Evans saying:
 
-> "History has not looked kindly on attempts to prematurely remove monetary accommodation from economies that are in or near a liquidity trap,” 
+> "History has not looked kindly on attempts to prematurely remove monetary accommodation from economies that are in or near a liquidity trap," 
 
 The markets are rightfully confused about the path of monetary policy as there are many different messages coming out the Fed. Are they, or aren&#8217;t they going to delay tightening due to the US dollar strength and the global economic slowdown?
 

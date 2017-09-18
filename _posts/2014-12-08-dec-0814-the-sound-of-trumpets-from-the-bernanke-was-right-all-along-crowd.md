@@ -18,7 +18,7 @@ tags:
   - stocks
   - US dollar
 ---
-Friday's terrific US employment report sure has brought out the victory laps by all the neo-classical economists who have for the past half dozen years steadfastly stood by Bernanke & Co.'s policies. Their jubilant attitude can best be summed up by Matt Busigin's terrific piece titled ["Only Bernanke knew Oil is not inflation”](http://www.macrofugue.com/only-bernanke-knew-oil-is-not-inflation/). It is actually a good article, and even if you are the ZeroHedge "I only want to hear bad news” type, you should do yourself a favour and read it.
+Friday's terrific US employment report sure has brought out the victory laps by all the neo-classical economists who have for the past half dozen years steadfastly stood by Bernanke & Co.'s policies. Their jubilant attitude can best be summed up by Matt Busigin's terrific piece titled ["Only Bernanke knew Oil is not inflation"](http://www.macrofugue.com/only-bernanke-knew-oil-is-not-inflation/). It is actually a good article, and even if you are the ZeroHedge "I only want to hear bad news" type, you should do yourself a favour and read it.
 
 
   <img src="http://themacrotourist.com/images/Azure/BernankeDec0814.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/BernankeDec0814.png" style="margin:30px auto;display:block;" width="500" height="400">
@@ -26,7 +26,7 @@ Friday's terrific US employment report sure has brought out the victory laps by 
 The crux of the article is that Bernanke was justified to not worry about aggressively expanding the balance sheet during the past few years.
 
 <p style="padding-left: 30px;">
-  In April of 2011, Ben Bernanke was universally lambasted and lampooned for claiming that inflation, which was accelerating and running above 3%, was "transitory”. He used this view to justify loosening monetary policy. The next few months of CPI were not favourable to the Fed chairman's views: it peaked at 3.8% (nearly double the implicit target at that point) in September of 2011, sparking a feverishly pitched cacophony of criticism that the Fed chair was out of touch, and tone-deaf in his theoretical ivory tower to the practical realities on the ground.
+  In April of 2011, Ben Bernanke was universally lambasted and lampooned for claiming that inflation, which was accelerating and running above 3%, was "transitory". He used this view to justify loosening monetary policy. The next few months of CPI were not favourable to the Fed chairman's views: it peaked at 3.8% (nearly double the implicit target at that point) in September of 2011, sparking a feverishly pitched cacophony of criticism that the Fed chair was out of touch, and tone-deaf in his theoretical ivory tower to the practical realities on the ground.
 </p>
 
 <p style="padding-left: 30px;">
@@ -37,13 +37,13 @@ The crux of the article is that Bernanke was justified to not worry about aggres
   Bernanke was right. Holding the line with Zero Interest Rate Policy in the face of 3.8% CPI is now indefeasible. His decision spared the United States from a new recession, and the unnecessary excess economic suffering of millions that the Eurozone has experienced.
 </p>
 
-Now I think it is way too early to proclaim Bernanke's policies a success. In the mid 2000s there was universal adulation about Alan "Maestro” Greenspan's deft handling of the DotCom bubbling popping. We now know that we were simply building a bigger, and ultimately more harmful bubble, right on top of the smouldering ashes of the Nasdaq crash.
+Now I think it is way too early to proclaim Bernanke's policies a success. In the mid 2000s there was universal adulation about Alan "Maestro" Greenspan's deft handling of the DotCom bubbling popping. We now know that we were simply building a bigger, and ultimately more harmful bubble, right on top of the smouldering ashes of the Nasdaq crash.
 
 The fact that Fed has managed to engineer another bubble on top of the 2007/8 credit crisis should not give economists (nor anyone for that matter) reason to proclaim victory. I don't dispute Busigin's argument that had Bernanke not been excessively easy in 2011, the US would now be slipping (or already in the midst) of another recession.
 
 But wasn't this whole crisis brought on by a Fed that wasn't willing to let the natural business cycle work its magic? Are we not fooling ourselves into thinking that the Federal Reserve can somehow repeal the business cycle?
 
-And right now, I know everyone is all bulled up about pretty well all financial assets. Anyone who suggests caution is simply an old fuddy duddy who doesn't "get it.” But look around and have a look at the wise old "fools” who don't get it. Jeremy Grantham, Sam Zell, Bill Gross, even that crazy old jerk Carl Icahn thinks that we are sowing the seeds of a big disaster.
+And right now, I know everyone is all bulled up about pretty well all financial assets. Anyone who suggests caution is simply an old fuddy duddy who doesn't "get it." But look around and have a look at the wise old "fools" who don't get it. Jeremy Grantham, Sam Zell, Bill Gross, even that crazy old jerk Carl Icahn thinks that we are sowing the seeds of a big disaster.
 
 In direct contrast to Matt Busigin's fawning piece about Ben's policies, I present to you the best few paragraphs of warning that I have read in a long, long time.
 
@@ -79,17 +79,17 @@ These eloquent words were spoken by none other than the famed Jim Grant at a rec
 
 I know that today it is easy to make fun of Jim. He sure seems to have gotten a lot wrong lately. The other day on my twitter feed I saw a trader ridiculing Grant's recent portfolio choices of gold and Russian stocks. I am sure it got lots of yucks from the [BTFATH](http://www.urbandictionary.com/define.php?term=BTFATH) crowd.
 
-But the fact that it is so easy to make fun of Jim Grant should give you pause. The fact that almost all market participants believe that financial assets are a "can't lose” game should worry you… The fact that even the pundits who believe we are inevitably going to crash, still think you have time to ride this bull higher (Jeremy Grantham), should cause you concern. The fact that right now you are saying to yourself that I just don't get it, and that stocks are gong to keep going up for X,Y and Z reasons, should make you think about who is left to buy if this thing turns.
+But the fact that it is so easy to make fun of Jim Grant should give you pause. The fact that almost all market participants believe that financial assets are a "can't lose" game should worry you… The fact that even the pundits who believe we are inevitably going to crash, still think you have time to ride this bull higher (Jeremy Grantham), should cause you concern. The fact that right now you are saying to yourself that I just don't get it, and that stocks are gong to keep going up for X,Y and Z reasons, should make you think about who is left to buy if this thing turns.
 
 I know right now the upward momentum is massive. I know that it seems like it will never end. I know that from a trader's point of view, it only makes sense to be long in the face of this tidal wave of buying. But for goodness sake, from a long term investor's point of view, make some sales up here… And whatever you do, don't start chasing it now.
 
-**The sounds of trumpets from the "Bernanke was right all along” crowd should be your sign to head for the exit, or at least get yourself closer to the door.**
+**The sounds of trumpets from the "Bernanke was right all along" crowd should be your sign to head for the exit, or at least get yourself closer to the door.**
 
 <hr size="3" width="85%" />
 
 **US Dollar update**
 
-Lately I have been worried that the global slowdown would spill over into the US. Friday's employment report showed that my concerns seem to be misplaced. There is no way to put any sort of bad spin on this report. It was terrific news. The revisions higher for the two previous months were especially encouraging. The US economy is better than the "cleanest shirt in the dirty laundry pile.” The US economy is the shirt that was just returned from the dry cleaner while the rest of them sit on a ball on the floor with the dog using them as a bed.
+Lately I have been worried that the global slowdown would spill over into the US. Friday's employment report showed that my concerns seem to be misplaced. There is no way to put any sort of bad spin on this report. It was terrific news. The revisions higher for the two previous months were especially encouraging. The US economy is better than the "cleanest shirt in the dirty laundry pile." The US economy is the shirt that was just returned from the dry cleaner while the rest of them sit on a ball on the floor with the dog using them as a bed.
 
 It is no wonder that US short term yields are breaking out to new highs.
 
@@ -105,7 +105,7 @@ Here was the action in the US dollar index on that day.
 
   <img src="http://themacrotourist.com/images/Azure/DXYOct0714.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/DXYOct0714.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-It ended up being an "all baked in” situation, and [I learned the hard way about covering on a Friday afternoon.](http://gfbblogs.azurewebsites.net/blog/2014/10/07/oct-0714-the-mopes-chased-the-us-dollar-higher-on-friday-me-included/)
+It ended up being an "all baked in" situation, and [I learned the hard way about covering on a Friday afternoon.](http://gfbblogs.azurewebsites.net/blog/2014/10/07/oct-0714-the-mopes-chased-the-us-dollar-higher-on-friday-me-included/)
 
 This got me thinking &#8211; maybe this pattern is more common than most realize. So I made up a chart of the US dollar index and included the employment reports.
 

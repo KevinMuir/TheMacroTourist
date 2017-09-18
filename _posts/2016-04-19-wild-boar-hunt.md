@@ -39,7 +39,7 @@ After giving you this long winded diatribe why the stock market is a mugs game j
 
 This morning one of the most dovish Fed officials returned to the late 2015 playbook of trying tighten monetary conditions through hawkish rhetoric (from the WSJ): 
 
->Fed's Rosengren: When it comes to rate outlook, "I don't think the financial markets have it right,” are underestimating path of hikes.
+>Fed's Rosengren: When it comes to rate outlook, "I don't think the financial markets have it right," are underestimating path of hikes.
 
 Stocks are massively overbought, pushing up at resistance, and now the Fed might be once again applying the brakes.  
 

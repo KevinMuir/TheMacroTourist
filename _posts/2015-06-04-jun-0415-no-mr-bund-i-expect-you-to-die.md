@@ -30,7 +30,7 @@ During the past couple of decades, there has only been one other 3 day decline t
 There has been no real obvious catalyst for the move. Yes, there was some hotter than expected inflation numbers out of Europe earlier in the week, but the bund was already declining before they were released. Some pundits are blaming Draghi's comments from yesterday's ECB meeting as the reason for the sell off. Draghi said the markets should expect some more volatility. I don't see how that can be construed as a reason to beat the bund like a red headed step child. If anything, his commitment to staying the course was more bund unfriendly:
 
 <p style="padding-left: 30px;">
-  "Exit strategies are really a high-class problem, and we're really far from that,” Mr. Draghi said after the ECB decided to keep interest rates at record lows as expected. "We've still got a long way to go.”
+  "Exit strategies are really a high-class problem, and we're really far from that," Mr. Draghi said after the ECB decided to keep interest rates at record lows as expected. "We've still got a long way to go."
 </p>
 
 Remember, QE programs are not bond positive. They create inflation, and ultimately cause the long end to sell off. If I were to pick a reason for the bund carnage, I would say Draghi's renewed commitment to following through with his QE program was the single most bearish factor in yesterday's portion of the sell off.
@@ -72,7 +72,7 @@ For those who are short and contemplating covering, I offer you the following _v
   Fair value for Bund yield is 1.45%, says Morgan Stanley, citing money market rates, expected path for those rates, growth and inflation.
 </p>
 
-The sell side analysts who all _loved the bund_ at 0.05% because the ECB was "running out of supply” to purchase now think fair value is considerably lower in price.
+The sell side analysts who all _loved the bund_ at 0.05% because the ECB was "running out of supply" to purchase now think fair value is considerably lower in price.
 
 The bund forecasts from these mopes have been about as wrong as you can be. As Gordon Gecko would say, if these guys owned a funeral parlour, no one would die. Their new bearishness is a clear signal the near term decline is almost over.
 

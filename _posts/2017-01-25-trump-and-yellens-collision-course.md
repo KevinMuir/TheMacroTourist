@@ -23,17 +23,17 @@ Case in point - have a look at the comments from the most dovish member of the F
 
 **September 16, 2016**
 
->"The case to tighten policy preemptively is less compelling” in an environment where declining unemployment has been slow to spur faster inflation, Brainard said Monday, according to the text of her prepared remarks in Chicago. She made no reference to a specific meeting of the policy-setting Federal Open Market Committee.
+>"The case to tighten policy preemptively is less compelling" in an environment where declining unemployment has been slow to spur faster inflation, Brainard said Monday, according to the text of her prepared remarks in Chicago. She made no reference to a specific meeting of the policy-setting Federal Open Market Committee.
 
 >Brainard's comments are the last before the Fed enters its quiet period, during which officials abstain from publicly speaking about monetary policy in the run-up to an FOMC meeting. Policy makers will gather in Washington Sept. 20-21 to discuss their monetary policy stance. Recent comments from the committee's voters have not projected a cohesive signal about whether they will lift interest rates or stay on hold.
 
->"Asymmetry in risk management in today's new normal counsels prudence in the removal of policy accommodation,” Brainard said, arguing that with interest rates near zero, it's easier for the Fed to react to faster-than-expected demand than to a negative surprise that upsets the economy. "I believe this approach has served us well in recent months.”
+>"Asymmetry in risk management in today's new normal counsels prudence in the removal of policy accommodation," Brainard said, arguing that with interest rates near zero, it's easier for the Fed to react to faster-than-expected demand than to a negative surprise that upsets the economy. "I believe this approach has served us well in recent months."
 
 **January 17th, 2017**
 
 >Federal Reserve Governor Lael Brainard said the U.S. central bank may accelerate interest-rate increases and measures to shrink its balance sheet if Congress approves a sustained, material increase in fiscal stimulus that pressures inflation without lifting productivity.
 
->"Based on recent spending indicators, we might expect progress to continue to be gradual and steady,” Brainard said Tuesday in Washington. "However, if fiscal policy changes lead to a more rapid elimination of slack, policy adjustment would, all else being equal, likely be more rapid than otherwise.”
+>"Based on recent spending indicators, we might expect progress to continue to be gradual and steady," Brainard said Tuesday in Washington. "However, if fiscal policy changes lead to a more rapid elimination of slack, policy adjustment would, all else being equal, likely be more rapid than otherwise."
 
 Brainard is the most dovish member of the Federal Open Market Committee, yet she is openly warning about higher rates.  Other FOMC members are even going so far as to signal upcoming balance sheet reductions and even higher rates than the market has currently priced in.  
 
@@ -45,7 +45,7 @@ Chair Yellen is also making some hawkish chirping noises.  Have a look at the fi
 
 Make no mistake - rates are going higher.  Probably a lot higher than the market realizes.  Just look at this comment buried in Yellen's speech:
 
->That said, I think that allowing the economy to run markedly and persistently "hot” would be risky and unwise. Waiting too long to remove accommodation could cause inflation expectations to begin ratcheting up, driving actual inflation higher and making it harder to control. The combination of persistently low interest rates and strong labor market conditions could lead to undesirable increases in leverage and other financial imbalances, although such risks would likely take time to emerge.  Finally waiting too long to tighten policy could require the FOMC to eventually raise interest rates rapidly, which could risk disrupting financial markets and pushing the economy into recession. For these reasons, I consider it prudent to adjust the stance of monetary policy gradually over time--a strategy that should improve the prospects that the economy will achieve sustainable growth with the labor market operating at full employment and inflation running at about 2 percent. 
+>That said, I think that allowing the economy to run markedly and persistently "hot" would be risky and unwise. Waiting too long to remove accommodation could cause inflation expectations to begin ratcheting up, driving actual inflation higher and making it harder to control. The combination of persistently low interest rates and strong labor market conditions could lead to undesirable increases in leverage and other financial imbalances, although such risks would likely take time to emerge.  Finally waiting too long to tighten policy could require the FOMC to eventually raise interest rates rapidly, which could risk disrupting financial markets and pushing the economy into recession. For these reasons, I consider it prudent to adjust the stance of monetary policy gradually over time--a strategy that should improve the prospects that the economy will achieve sustainable growth with the labor market operating at full employment and inflation running at about 2 percent. 
 
 
 In the coming quarters, the Federal Reserve will march rates higher.  But more importantly, *the more Trump pushes on the fiscal accelerator, **the harder the Fed will lean on the brake.***

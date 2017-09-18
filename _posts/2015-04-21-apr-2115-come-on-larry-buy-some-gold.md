@@ -40,7 +40,7 @@ Although I think the Fed will be slow at raising rates, the market has gone from
 Yesterday the head of the world&#8217;s largest money managers commented on the demise of gold as a store of wealth. 
 
 <p style="padding-left: 30px;">
-  "Historically gold was a great instrument for storing of wealth,” the chairman of BlackRock Inc. said at a conference in Singapore on Tuesday. "Gold has lost its luster and there's other mechanisms in which you can store wealth that are inflation-adjusted.”
+  "Historically gold was a great instrument for storing of wealth," the chairman of BlackRock Inc. said at a conference in Singapore on Tuesday. "Gold has lost its luster and there's other mechanisms in which you can store wealth that are inflation-adjusted."
 </p>
 
 <p style="padding-left: 30px;">
@@ -48,11 +48,11 @@ Yesterday the head of the world&#8217;s largest money managers commented on the 
 </p>
 
 <p style="padding-left: 30px;">
-  "The two greatest stores of wealth internationally today is contemporary art….. and I don't mean that as a joke, I mean that as a serious asset class,” said Fink. "And two, the other store of wealth today is apartments in Manhattan, apartments in Vancouver, in London.”
+  "The two greatest stores of wealth internationally today is contemporary art….. and I don't mean that as a joke, I mean that as a serious asset class," said Fink. "And two, the other store of wealth today is apartments in Manhattan, apartments in Vancouver, in London."
 </p>
 
 <p style="padding-left: 30px;">
-  "It's become much more accessible for global families worldwide to store wealth outside their country,” said Fink. "And they don't have to own gold.”
+  "It's become much more accessible for global families worldwide to store wealth outside their country," said Fink. "And they don't have to own gold."
 </p>
 
 I don&#8217;t know about you, but I am not so keen on chasing some art bubble fad as a long term method of preserving wealth. Even smart guys like Jim Chanos who love to collect art think the current prices are nuts:

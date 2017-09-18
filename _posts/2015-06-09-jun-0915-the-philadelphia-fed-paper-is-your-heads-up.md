@@ -74,15 +74,15 @@ In an important admission, a recent Philadelphia Fed paper highlighted the growi
 </p>
 
 <p style="padding-left: 30px;">
-  "Monetary policy currently implemented by the Federal Reserve and other major central banks is not intended to benefit one segment of the population at the expense of another by redistributing income and wealth,” writes economist Makoto Nakajima in the second quarter edition of the regional central bank's Business Review.
+  "Monetary policy currently implemented by the Federal Reserve and other major central banks is not intended to benefit one segment of the population at the expense of another by redistributing income and wealth," writes economist Makoto Nakajima in the second quarter edition of the regional central bank's Business Review.
 </p>
 
 <p style="padding-left: 30px;">
-  "However, it is probably impossible to avoid the redistributive consequences of monetary policy,” the paper says.
+  "However, it is probably impossible to avoid the redistributive consequences of monetary policy," the paper says.
 </p>
 
 <p style="padding-left: 30px;">
-  "Research focusing on the redistributive effects of unconventional monetary policy is virtually nonexistent, because policymakers started using forward guidance and quantitative easing only recently,” Mr. Nakajima says.
+  "Research focusing on the redistributive effects of unconventional monetary policy is virtually nonexistent, because policymakers started using forward guidance and quantitative easing only recently," Mr. Nakajima says.
 </p>
 
 <p style="padding-left: 30px;">
@@ -94,7 +94,7 @@ In an important admission, a recent Philadelphia Fed paper highlighted the growi
 </p>
 
 <p style="padding-left: 30px;">
-  "Whether and how much a wealthy household gains or loses from monetary policy depends on the relative strength of these different effects on the composition of its portfolio of assets and debt,” the Philadelphia Fed report says.
+  "Whether and how much a wealthy household gains or loses from monetary policy depends on the relative strength of these different effects on the composition of its portfolio of assets and debt," the Philadelphia Fed report says.
 </p>
 
 You might say to yourself; so what? The Fed just figured this out now? We have known this for years. 

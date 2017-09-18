@@ -26,7 +26,7 @@ I love finding trades that are flying below the radar with very little &#8220;bu
 
 Right now there is little worry about inflation creeping back up. In fact it is just the opposite. Most government officials are publicly fretting about deflation. When Central Banks and IMF officials are more worried about deflation than inflation, you know the time to protect yourself against inflation is near. 
 
-> "With inflation running below many central banks' targets, we see rising risks of deflation, which could prove disastrous for the recovery,” said Ms Lagarde, in a speech at the National Press Club in Washington. "If inflation is the genie, then deflation is the ogre that must be fought decisively.”
+> "With inflation running below many central banks' targets, we see rising risks of deflation, which could prove disastrous for the recovery," said Ms Lagarde, in a speech at the National Press Club in Washington. "If inflation is the genie, then deflation is the ogre that must be fought decisively."
 
 Government officials never correctly predict the next crisis. If they are worried about deflation, then I am worried about inflation!
 

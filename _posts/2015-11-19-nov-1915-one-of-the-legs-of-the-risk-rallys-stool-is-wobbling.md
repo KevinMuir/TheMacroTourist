@@ -52,7 +52,7 @@ On Tuesday the largest leveraged buyout of the year was shelved because of troub
 
 > The turnabout has caught Wall Street's biggest banks off guard and is increasingly leaving them on the hook for funding takeovers that investors want little part of. On Tuesday, Bank of America Corp. and Morgan Stanley were forced to shelve the debt package backing the year's largest leveraged buyout &#8212; $5.5 billion meant to fund Carlyle Group LP's purchase of Veritas, Symantec Corp.'s data-storage business, according to two people familiar with the matter.
       
-> "It's very much a whipsaw market,” said Martin Fridson, chief investment officer at Lehmann Livian Fridson Advisors LLC. "Outside of a recessionary period, this has been pretty brutal.”
+> "It's very much a whipsaw market," said Martin Fridson, chief investment officer at Lehmann Livian Fridson Advisors LLC. "Outside of a recessionary period, this has been pretty brutal."
 
 This whole rally in risk assets has been fuelled by cheap money. Leveraged loans were one of the more reliable sources of liquidity for companies looking to leverage up their balance sheet.
 

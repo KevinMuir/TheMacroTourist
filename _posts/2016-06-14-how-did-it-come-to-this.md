@@ -19,7 +19,7 @@ tags:
 
 This morning I awoke to the most miserable, pessimistic, sad bunch of headlines about the European Union and Brexit that I can recall in quite some time.  This Bloomberg quote sums up the mood perfectly: 
 
->EU President Donald Tusk goes so far as to say that [Brexit] could spell the end of "western political civilization itself.”
+>EU President Donald Tusk goes so far as to say that [Brexit] could spell the end of "western political civilization itself."
 
 Oh F' me.  The end of western political civilization itself?  Because Britain has decided not to be ruled by a bunch of bureaucrats in Brussels?  You have to be shitting me.  The scare tactics employed by the *remain* camp have gone too far.  And if their union is so fragile that a country leaving, one that does not even share a common currency, can bring it all crashing down, then it probably wasn't destined to survive anyway.  
 

@@ -35,15 +35,15 @@ Look at the esteemed company I would be joining.  From a recent Bloomberg articl
 
 >Billionaire investor Paul Tudor Jones has a message for Janet Yellen and investors: Be very afraid.
 
->The legendary macro trader says that years of low interest rates have bloated stock valuations to a level not seen since 2000, right before the Nasdaq tumbled 75 percent over two-plus years. That measure -- the value of the stock market relative to the size of the economy -- should be "terrifying” to a central banker, Jones said earlier this month at a closed-door Goldman Sachs Asset Management conference, according to people who heard him.
+>The legendary macro trader says that years of low interest rates have bloated stock valuations to a level not seen since 2000, right before the Nasdaq tumbled 75 percent over two-plus years. That measure -- the value of the stock market relative to the size of the economy -- should be "terrifying" to a central banker, Jones said earlier this month at a closed-door Goldman Sachs Asset Management conference, according to people who heard him.
 
 >Jones is voicing what many hedge fund and other money managers are privately warning investors: Stocks are trading at unsustainable levels. A few traders are more explicit, predicting a sizable market tumble by the end of the year.
 
->Last week, Guggenheim Partner's Scott Minerd said he expected a "significant correction” this summer or early fall. Philip Yang, a macro manager who has run Willowbridge Associates since 1988, sees a stock plunge of between 20 and 40 percent, according to people familiar with his thinking.
+>Last week, Guggenheim Partner's Scott Minerd said he expected a "significant correction" this summer or early fall. Philip Yang, a macro manager who has run Willowbridge Associates since 1988, sees a stock plunge of between 20 and 40 percent, according to people familiar with his thinking.
 
 >Even Larry Fink, whose BlackRock Inc. oversees $5.4 trillion mostly betting on rising markets, acknowledged this week that stocks could fall between 5 and 10 percent if corporate earnings disappoint.
 
->Managers expecting the worst each have a pet harbinger of doom. Seth Klarman, who runs the $30 billion Baupost Group, told investors in a letter last week that corporate insiders have been heavy sellers of their company shares. To him, that's "a sign that those who know their companies the best believe valuations have become full or excessive.”
+>Managers expecting the worst each have a pet harbinger of doom. Seth Klarman, who runs the $30 billion Baupost Group, told investors in a letter last week that corporate insiders have been heavy sellers of their company shares. To him, that's "a sign that those who know their companies the best believe valuations have become full or excessive."
 
 >Share sales by insiders outstripped purchases by $38 billion in the first quarter, the most since 2013, according to The Washington Service, a provider of data and analysis on insider trading.
 

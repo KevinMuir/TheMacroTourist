@@ -53,7 +53,7 @@ Although I think Yellen was prepared to sit through massive carnage in non-finan
 
 This morning Germany's Finance minister said:
 
->"No, I have no concerns about Deutsche Bank,” Schaeuble says
+>"No, I have no concerns about Deutsche Bank," Schaeuble says
 
 As a government official, once you have to defend a financial institution in the press to maintain confidence, *it is already too late.*  Governments (and not just Germany or the ECB) need to nip this bank run in the bud.
 

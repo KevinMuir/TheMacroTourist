@@ -24,11 +24,11 @@ For example, in November 2010 he forecasted (as reported by Business Insider):
 
 > Nassim Nicholas Taleb, speaking at a conference in Moscow earlier today, said that shorting Treasuries is a &#8220;no brainer.&#8221;
 > 
-> Due to the policies of the Obama administration and Fed Chair Ben Bernanke, "every single human being” should bet U.S. Treasury bonds will decline.
+> Due to the policies of the Obama administration and Fed Chair Ben Bernanke, "every single human being" should bet U.S. Treasury bonds will decline.
 > 
 > &#8220;Every single human being should have that trade,&#8221; Taleb said.
 
-Stop and think about the arrogance of the last statement. **"Every single human being should have that trade [short US treasuries]…”**
+Stop and think about the arrogance of the last statement. **"Every single human being should have that trade [short US treasuries]…"**
 
 When a true market wizard like Stanley Druckenmiller speaks, he is filled with humility and merely suggests a forecast is no more than the way he is betting. He knows that he can be wrong at any time, so he doesn't rule out having to switch sides.
 
@@ -37,26 +37,26 @@ This is completely opposite of Nassim Taleb's pontifications. Suggesting that ev
 
   <img src="http://themacrotourist.com/images/USNov1615.png" alt="http://themacrotourist.com/images/USNov1615.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-I don't fault Taleb for a bad call. Lord knows I have my share of bad calls. Even Druck has bad calls. But neither of us belittle anyone who doesn't agree with us and proclaim trades to be "no brainers.”
+I don't fault Taleb for a bad call. Lord knows I have my share of bad calls. Even Druck has bad calls. But neither of us belittle anyone who doesn't agree with us and proclaim trades to be "no brainers."
 
 
   <img src="http://themacrotourist.com/images/NoBrainerNov1615.png" alt="http://themacrotourist.com/images/NoBrainerNov1615.png" style="margin:30px auto;display:block;" width="360" height="342">
 
 And I don't know how Taleb does it, but the media conveniently forgets about these transgressions. I guess if you say something with enough arrogance, no one will want to contradict you.
 
-When I was researching this piece, I stumbled across an exchange Janet Tavakoli had with Taleb &#8211; [Nassim "Black Swan” Taleb Busted For Exaggerating Returns](http://www.businessinsider.com/wait-before-you-invest-in-nassim-talebs-new-fund-2009-6). I am actually amazed that I missed this previously (but it just goes to show how the negative articles about Taleb have little traction in the media). The controversy had to do with a GQ quote from Nassim:
+When I was researching this piece, I stumbled across an exchange Janet Tavakoli had with Taleb &#8211; [Nassim "Black Swan" Taleb Busted For Exaggerating Returns](http://www.businessinsider.com/wait-before-you-invest-in-nassim-talebs-new-fund-2009-6). I am actually amazed that I missed this previously (but it just goes to show how the negative articles about Taleb have little traction in the media). The controversy had to do with a GQ quote from Nassim:
 
 > "I went for the jugular—we went for the max. I was interested in screwing these people—I'm not interested in money, but I wanted to teach them a lesson, and the only way you can do it is by trying to take it away from them. We didn't short the banks—there's not much to be gained there, these were all these complex instruments, options and so forth. We'd been building our positions for a while…when they went to the wall we made $20 bln for our clients, half a billion for the Black Swan&#8221;
 
 Tavakoli followed up directly with Nassim about this claim, and surprise surprise, Nassim had a different answer:
 
-> I checked with Nassim Taleb regarding the $20 billion in gains and asked if he were misquoted. He responded via email: "The quote is inaccurate. THe [sic] 20 billion might correspond to the face value of positions.” This response is both vague and different in character from the mythical $20 billion in gains inaccurately quoted in GQ's article. The total gains could be a tiny fraction of what Taleb loosely describes as "face value.” 2
+> I checked with Nassim Taleb regarding the $20 billion in gains and asked if he were misquoted. He responded via email: "The quote is inaccurate. THe [sic] 20 billion might correspond to the face value of positions." This response is both vague and different in character from the mythical $20 billion in gains inaccurately quoted in GQ's article. The total gains could be a tiny fraction of what Taleb loosely describes as "face value." 2
 > 
 > Why is GQ's mistake important? In my opinion, public claims of enormous private hedge fund gains require credible back up, and one would think that GQ would have known that before it inaccurately quoted Taleb as having made a bell ringing gain of $20 billion for clients. Presumably, the error referred to outside clients, not the black swan fund itself, but it could have the side effect of attracting investors to the black swan fund, similar to advertising or salesmanship.
 
-Don't confuse my criticism about Taleb's calls with the ideas in his books. They are two very different animals. In fact given his views about the inability for anyone to produce alpha, you would think Nassim would be hesitant to ever make predictions. Yet it doesn't seem to stop him. His books are based on "our blindness with respect to randomness, particularly large deviations,” but some how he can suggest every human being put a trade on in one direction. Shouldn't that trade also be just as likely to have a large deviation to the upside?
+Don't confuse my criticism about Taleb's calls with the ideas in his books. They are two very different animals. In fact given his views about the inability for anyone to produce alpha, you would think Nassim would be hesitant to ever make predictions. Yet it doesn't seem to stop him. His books are based on "our blindness with respect to randomness, particularly large deviations," but some how he can suggest every human being put a trade on in one direction. Shouldn't that trade also be just as likely to have a large deviation to the upside?
 
-I was particularly interested when I stumbled upon a forecast Taleb made last week-end at the Kilkenomics Festival. I had never heard of this festival, but after a little digging, it is going on my **_must attend_** list (it doesn't hurt that it is in my favourite country to visit). But before I tell you about Nassim's "brilliant” call, let me show you his bio from the Kilkenomics website:
+I was particularly interested when I stumbled upon a forecast Taleb made last week-end at the Kilkenomics Festival. I had never heard of this festival, but after a little digging, it is going on my **_must attend_** list (it doesn't hurt that it is in my favourite country to visit). But before I tell you about Nassim's "brilliant" call, let me show you his bio from the Kilkenomics website:
 
 > A massive coup for Kilkenomics, we&#8217;re delighted to present the very brilliant Nassim Taleb in the unique setting of Kilkenny&#8217;s 13th Century cathedral. If you have read Nassim's work, you'll know what we are talking about. If not, prepare to be dazzled.
 > 
@@ -93,9 +93,9 @@ But I know that at $4 oil the global economy would be coming apart. Smart guys l
 > 
 > Gundlach: Oil is incredibly important right now. If oil falls to around $40 a barrel then I think the yield on ten year treasury note is going to 1%. I hope it does not go to $40 because then something is very, very wrong with the world, not just the economy. The geopolitical consequences could be – to put it bluntly – terrifying.
 
-Over the past couple of years, oil has surprised many market pundits (including me) to the downside. Whereas calls of $4 oil would have previously seemed like absolute lunacy, they are now being trotted out by "intellectuals” like Nassim Taleb. It shows how much sentiment has shifted.
+Over the past couple of years, oil has surprised many market pundits (including me) to the downside. Whereas calls of $4 oil would have previously seemed like absolute lunacy, they are now being trotted out by "intellectuals" like Nassim Taleb. It shows how much sentiment has shifted.
 
-I don't know for sure, but I wonder if Nassim told everyone that selling oil was a _"no brainer”_ and that _every human being on the planet should be short._ For us oil bulls, I can only hope so…
+I don't know for sure, but I wonder if Nassim told everyone that selling oil was a _"no brainer"_ and that _every human being on the planet should be short._ For us oil bulls, I can only hope so…
 
 Thanks for reading,
   

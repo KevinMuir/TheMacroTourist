@@ -22,11 +22,11 @@ Recently the Federal Reserve committee members have been sending signals rates w
 
 > The date of lift off is still a matter of contention. Recently, the IMF has argued that it should be delayed until next year, and Paul Krugman has said that the costs of wrongly acting too soon are much smaller than the costs of making the opposite mistake.
 > 
-> For a long while, Janet Yellen seemed sympathetic to this asymmetry of risks, but lately she seems to have shifted her stance. Her recent message has been clearly tilted towards a path for rate increases that is "early and gradual” rather than one that is "later and steep”.
+> For a long while, Janet Yellen seemed sympathetic to this asymmetry of risks, but lately she seems to have shifted her stance. Her recent message has been clearly tilted towards a path for rate increases that is "early and gradual" rather than one that is "later and steep".
 > 
-> Last week, she went as far as to say that "the economy cannot only tolerate but needs higher rates”. That is an unusually hawkish choice of words for a Fed Chairman who is usually viewed as a dove.
+> Last week, she went as far as to say that "the economy cannot only tolerate but needs higher rates". That is an unusually hawkish choice of words for a Fed Chairman who is usually viewed as a dove.
 > 
-> Ms Yellen has been supported in this shift by her main lieutenants, including Stanley Fischer, William Dudley and John Williams. Paul Krugman says that the reasons for this shift are "mysterious”, and certainly they were not fully spelled out in last week's Congressional testimony, which focused on the usual debates about the labour market and inflation.
+> Ms Yellen has been supported in this shift by her main lieutenants, including Stanley Fischer, William Dudley and John Williams. Paul Krugman says that the reasons for this shift are "mysterious", and certainly they were not fully spelled out in last week's Congressional testimony, which focused on the usual debates about the labour market and inflation.
 
 If the FOMC is intent on staying the course of their recent slight hawkish tilt, then today&#8217;s meeting will be an important opportunity to lay the ground work for a September hike. Yellen & Co. _do not want_ the first rate hike in almost a decade to be a surprise for the market. Therefore it will be _crucially_ important for the Fed to clearly prepare the markets for a September hike.
 

@@ -45,7 +45,7 @@ Next Wednesday we will get the Fed&#8217;s rate hike. Higher rates are getting f
 
 However, many investors are thinking past this move and speculating that higher US dollar rates will force China to devalue. This line of thinking is exemplified by Passport Capital&#8217;s John Burbank&#8217;s recent comments at the Ira Sohn conference. John was pitching the idea of owning CF Industries, which is a fertilizer company. But he is bearish on commodities and most importantly;
 
-> Burbank thinks that China will devalue. "If China devalues everything in the World will go down in value.” CF's earnings will get hit too by about 7%. Passport has bought CF against a basket of commodity shorts. 
+> Burbank thinks that China will devalue. "If China devalues everything in the World will go down in value." CF's earnings will get hit too by about 7%. Passport has bought CF against a basket of commodity shorts. 
 
 &#8220;If China devalues, everything in the world will go down in value&#8221; is the typical line of thinking amongst investors. 
 

@@ -24,7 +24,7 @@ It looks as if the Fed has taken this idea to heart.  From Business Insider:
 
 >Today it was New York Fed President William Dudley's job to hammer home the message. He's one of the most influential members on the policy-setting Federal Open Market Committee. His New York Fed deals with the securities that are on the Fed's balance sheet as a result of QE. And he said the Fed might start reversing QE this year.
 
->With this call to shrink the Fed's balance sheet, he is following in the footsteps of other Fed heads, including Cleveland Fed President Loretta Mester, San Francisco Fed President John Williams, and most notably Boston Fed President Eric Rosengren – a former "dove” who has been publicly fretting about bubbles in commercial real estate and housing and the risks they pose to "financial stability.”
+>With this call to shrink the Fed's balance sheet, he is following in the footsteps of other Fed heads, including Cleveland Fed President Loretta Mester, San Francisco Fed President John Williams, and most notably Boston Fed President Eric Rosengren – a former "dove" who has been publicly fretting about bubbles in commercial real estate and housing and the risks they pose to "financial stability."
 
 >So this theme unraveling QE, not in the foggy future but this year, is picking up momentum.
 
@@ -32,11 +32,11 @@ I disagree with Business Insider that the theme is picking up momentum.  The Fed
 
 **The Federal Reserve is signaling that although they are not retracting the guidance for 3 hikes this year (meaning two more as we have already done one), any further tightening will be done from the unwinding of the Fed's balance sheet.**  We had QE.  Now we are going to have reverse QE.  From Business Insider again - quoting NY Fed President Bill Dudley:
 
->"It wouldn't surprise me if sometime later this year or sometime in 2018, should the economy perform in line with our expectations, that we'll start to gradually let securities mature rather than reinvesting them.”
+>"It wouldn't surprise me if sometime later this year or sometime in 2018, should the economy perform in line with our expectations, that we'll start to gradually let securities mature rather than reinvesting them."
 
->"If we start to normalize the balance sheet, that's a substitute for short-term rate hikes because it would also work in the direction of tightening financial conditions.”
+>"If we start to normalize the balance sheet, that's a substitute for short-term rate hikes because it would also work in the direction of tightening financial conditions."
 
->"If and when we decide to begin to normalize the balance sheet we might actually decide at the same time to take a little pause in terms of raising short-term interest rates.”
+>"If and when we decide to begin to normalize the balance sheet we might actually decide at the same time to take a little pause in terms of raising short-term interest rates."
 
 <a href="http://themacrotourist.com/images/2017/04/DudleyApr0417.png"><img src="http://themacrotourist.com/images/2017/04/DudleyApr0417.png" alt="http://themacrotourist.com/images/2017/04/DudleyApr0417.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
@@ -44,7 +44,7 @@ BAM!  There it is.  The Fed will stop raising rates, and will instead start usin
 
 I can't say I disagree with anything good old Bill has said so far, but then he trotted out this gem:
 
->And he is "not that worried that the markets are going to react to the changes in our balance sheet in a violent way because it's already factored in.”
+>And he is "not that worried that the markets are going to react to the changes in our balance sheet in a violent way because it's already factored in."
 
 Bullshit.  This policy is not factored in at all.  Not even close.  This whole Fed communication push is the first attempt to have the market understand the policy shift.
 

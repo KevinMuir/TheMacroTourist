@@ -61,11 +61,11 @@ According to Rickards, Bernanke gave some useful guidance when it came to future
 </p>
 
 <p style="padding-left: 30px;">
-  Yellen gave a speech just prior to my meeting with Bernanke in which she said, "I think it will be appropriate at some point this year to take the initial step to raise the federal funds rate.”
+  Yellen gave a speech just prior to my meeting with Bernanke in which she said, "I think it will be appropriate at some point this year to take the initial step to raise the federal funds rate."
 </p>
 
 <p style="padding-left: 30px;">
-  In contrast, Bernanke told me, "The interest rate increase, when it comes, is good news, because it means the U.S. economy is growing strongly enough to bear the costs of higher rates without slowing growth.” Unlike Yellen, Bernanke did not tie himself to a particular month or year. He explicitly said the rate hike would come in an environment of strong growth.
+  In contrast, Bernanke told me, "The interest rate increase, when it comes, is good news, because it means the U.S. economy is growing strongly enough to bear the costs of higher rates without slowing growth." Unlike Yellen, Bernanke did not tie himself to a particular month or year. He explicitly said the rate hike would come in an environment of strong growth.
 </p>
 
 <p style="padding-left: 30px;">
@@ -73,11 +73,11 @@ According to Rickards, Bernanke gave some useful guidance when it came to future
 </p>
 
 <p style="padding-left: 30px;">
-  Bernanke also warned that the rate increase had to be clearly communicated and anticipated by the markets. He said, "Markets are not as deep and liquid as they were before the crisis.”
+  Bernanke also warned that the rate increase had to be clearly communicated and anticipated by the markets. He said, "Markets are not as deep and liquid as they were before the crisis."
 </p>
 
 <p style="padding-left: 30px;">
-  The suggestion was that market expectations and Fed actions need to be aligned in order to raise rates without a market crash. He expressed the hope that "The rate increase may be an anticlimax because the markets anticipate it.”
+  The suggestion was that market expectations and Fed actions need to be aligned in order to raise rates without a market crash. He expressed the hope that "The rate increase may be an anticlimax because the markets anticipate it."
 </p>
 
 <p style="padding-left: 30px;">
@@ -91,27 +91,27 @@ In the past I have highlighted the fact no Fed tightening cycle has started with
 But the really interesting part of Rickards' discussion with Bernanke was still to come…
 
 <p style="padding-left: 30px;">
-  Turning to the international monetary system, Bernanke was also candid and said, "The international monetary system is not coherent.” He explained that the current combination of floating exchange rates, fixed exchange rates and moving pegs means that trading partners have no confidence in their relative terms of trade and this acts as a drag on trade, foreign direct investment and capital expenditures.
+  Turning to the international monetary system, Bernanke was also candid and said, "The international monetary system is not coherent." He explained that the current combination of floating exchange rates, fixed exchange rates and moving pegs means that trading partners have no confidence in their relative terms of trade and this acts as a drag on trade, foreign direct investment and capital expenditures.
 </p>
 
 <p style="padding-left: 30px;">
-  He said, "Over time, it would be important for the countries of the world to talk more about how to avoid the mixture of fixed and floating exchange rates. We need new ‘rules of the game.'”
+  He said, "Over time, it would be important for the countries of the world to talk more about how to avoid the mixture of fixed and floating exchange rates. We need new ‘rules of the game.'"
 </p>
 
 <p style="padding-left: 30px;">
-  Of course, international monetary experts know that the phrase "rules of the game” is code for a reformation of the international monetary system, or what some call a global reset. Bernanke was explicit that this reset is needed to end the dysfunction of the current system.
+  Of course, international monetary experts know that the phrase "rules of the game" is code for a reformation of the international monetary system, or what some call a global reset. Bernanke was explicit that this reset is needed to end the dysfunction of the current system.
 </p>
 
-Stop and think about that for a second. The former Fed Chairman says we need _"new rules of the game.”_ This is a huge admission. Clearly Bernanke understands the extent of the instability of the current global financial system. It does not take a rocket scientist to realize when the world's second largest bond market goes to 0.05% for a 10 year bond yield, things are not functioning correctly. Yet so far most government officials have mouthed soothing words and simply tried to apply bandaids to the most pressing problem. Bernanke's frank talk about needing _"new rules of the game”_ is a sign that behind the scenes, officials might be readying for something more dramatic. We all know the current situation is untenable. QE seems to solve some short term problems, but only at a cost of exacerbating wealth inequality and providing little actual economic growth. Not only that, with different countries doing quantitative easing in varying amounts at different times, the moves in exchange rates are being exaggerated.
+Stop and think about that for a second. The former Fed Chairman says we need _"new rules of the game."_ This is a huge admission. Clearly Bernanke understands the extent of the instability of the current global financial system. It does not take a rocket scientist to realize when the world's second largest bond market goes to 0.05% for a 10 year bond yield, things are not functioning correctly. Yet so far most government officials have mouthed soothing words and simply tried to apply bandaids to the most pressing problem. Bernanke's frank talk about needing _"new rules of the game"_ is a sign that behind the scenes, officials might be readying for something more dramatic. We all know the current situation is untenable. QE seems to solve some short term problems, but only at a cost of exacerbating wealth inequality and providing little actual economic growth. Not only that, with different countries doing quantitative easing in varying amounts at different times, the moves in exchange rates are being exaggerated.
 
 Which brings me to Rickards' last insight from his Bernanke talk. Above all else, the Fed needs to continue to try new things as we are in uncharted territory.
 
 <p style="padding-left: 30px;">
-  He said the three lessons of the Great Depression were that the Federal Reserve needed to perform as a lender of last resort, increase the money supply when needed and be willing to "experiment” in the style of FDR.
+  He said the three lessons of the Great Depression were that the Federal Reserve needed to perform as a lender of last resort, increase the money supply when needed and be willing to "experiment" in the style of FDR.
 </p>
 
 <p style="padding-left: 30px;">
-  Bernanke defined "experiment” as being willing to do "whatever it takes” to head off deflation and depression. In summing up his own performance, he said, "We tried to do whatever it took. We don't know yet what the long-term implications are.” His forecast was that "the Fed will be more proactive in the future.”
+  Bernanke defined "experiment" as being willing to do "whatever it takes" to head off deflation and depression. In summing up his own performance, he said, "We tried to do whatever it took. We don't know yet what the long-term implications are." His forecast was that "the Fed will be more proactive in the future."
 </p>
 
 <p style="padding-left: 30px;">
@@ -123,7 +123,7 @@ Which brings me to Rickards' last insight from his Bernanke talk. Above all else
 </p>
 
 <p style="padding-left: 30px;">
-  But QE2 and QE3 were not in response to any liquidity crisis. They were in the category of "experiments,” as Bernanke defined them. Experiments are fine in the laboratory but much riskier in the real world. Experiments are a good way to advance science, but every scientist knows that most experiments fail to produce expected results.
+  But QE2 and QE3 were not in response to any liquidity crisis. They were in the category of "experiments," as Bernanke defined them. Experiments are fine in the laboratory but much riskier in the real world. Experiments are a good way to advance science, but every scientist knows that most experiments fail to produce expected results.
 </p>
 
 <p style="padding-left: 30px;">

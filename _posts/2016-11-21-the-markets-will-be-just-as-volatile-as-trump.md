@@ -88,15 +88,15 @@ Whether you think the cast of Hamilton was correct to single out Pence, Trump's 
 
 Even Pence himself showed considerably more maturity in dealing with the situation.  From Fox news:
 
->Vice President-elect Mike Pence spoke publicly Sunday for the first time about the mixed reception he received while attending a performance of the musical "Hamilton,” saying he doesn't want an apology from the Broadway cast and that the audience's boos and cheers "is what freedom sounds like.”
+>Vice President-elect Mike Pence spoke publicly Sunday for the first time about the mixed reception he received while attending a performance of the musical "Hamilton," saying he doesn't want an apology from the Broadway cast and that the audience's boos and cheers "is what freedom sounds like."
 
 >Pence, a Republican, attended the show Friday night. Actor Brandon Dixon afterward delivered a statement on behalf of the cast that in part said, "We truly hope this show has inspired you to uphold our American values and to work on behalf of all of us. All of us."
 
->Pence on Sunday said he, his daughter and her cousins "enjoyed the show” and that he "reminded them this is what freedom sounds like.”
+>Pence on Sunday said he, his daughter and her cousins "enjoyed the show" and that he "reminded them this is what freedom sounds like."
 
 >Pence said he wasn't offended and that he didn't want an apology.
 
->"I'll leave it to others to decide if [the stage] was the appropriate venue,” he said
+>"I'll leave it to others to decide if [the stage] was the appropriate venue," he said
 
 Regardless of what you think about Pence's politics, it is difficult to argue that he didn't handle it as a grown up.  Unfortunately the same cannot be said of Trump.
 

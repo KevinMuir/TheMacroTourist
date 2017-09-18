@@ -80,7 +80,7 @@ My guess is that there are still a lot of hedge funds using the Yen as a funding
 
 Don&#8217;t forget the Wall Street axiom:
 
-> "Liquidity is a coward; when you need her most she runs away and hides!”
+> "Liquidity is a coward; when you need her most she runs away and hides!"
 
 I think this sort of vacuum move is a precursor of moves to come. There are a slew of assets that are precariously balanced. Once they start to unwind, there are going to be more moves out of the blue like this one. This sort of unexplained unwind is going to increase in the future. The fun has just begun.
 

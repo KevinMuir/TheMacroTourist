@@ -41,7 +41,7 @@ I am glad that he has a sense of humour about this fairly serious geopolitical e
 
 When I read in the NY Times about Merkel&#8217;s conversation with Putin, it just gets me more concerned:
 
-> Chancellor Angela Merkel of Germany told Mr. Obama by telephone on Sunday that after speaking with Mr. Putin she was not sure he was in touch with reality, people briefed on the call said. "In another world,” she said.
+> Chancellor Angela Merkel of Germany told Mr. Obama by telephone on Sunday that after speaking with Mr. Putin she was not sure he was in touch with reality, people briefed on the call said. "In another world," she said.
 
 And then when you combine the fact that this morning the S&P&#8217;s are down only 19 handles, but have rallied more than 300 over the course of the last year, I worry that the market is definitely a little over confident.
 

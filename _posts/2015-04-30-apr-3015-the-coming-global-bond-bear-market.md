@@ -28,7 +28,7 @@ First it was Bill Gross describing German Bunds as the &#8220;short of a lifetim
 </p>
 
 <p style="padding-left: 30px;">
-  "Let's say you leverage up the German two-year 100 times, that's a 20 percent return,” Gundlach said.
+  "Let's say you leverage up the German two-year 100 times, that's a 20 percent return," Gundlach said.
 </p>
 
 The gist of the argument is that when you short a two year bund with a _negative yield_, even if rates remain unchanged during that period, you still earn the negative yield. The trade has positive carry. 

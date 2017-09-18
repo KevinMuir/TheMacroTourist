@@ -28,7 +28,7 @@ August was bad, and it doesn't look like September was any better. Hedge funds c
 
 The HFR Global Hedge Fund index is also down for the year with the index slipping below unchanged during August, and hitting new lows into the end of the quarter.
 
-Some of the biggest supposed "superstar” hedge fund managers are having troubles navigating the Federal Reserve induced liquidity withdrawal:
+Some of the biggest supposed "superstar" hedge fund managers are having troubles navigating the Federal Reserve induced liquidity withdrawal:
 
 > After starting off the year with an AUM of $18.3 billion following a solid 2014 in which Pershing Square returned 40% mostly on the back of Ackman&#8217;s aggressive &#8211; and questionably illegal &#8211; activism involving Valeant, payback arrived with a levered vengeance, and after rising 10.1% through the end of July, pushing Ackman&#8217;s AUM to $20.2 billion, the past two months have been absolutely brutal for the last remaining &#8220;prominent&#8221; hedge fund manager.
 > 
@@ -37,7 +37,7 @@ Some of the biggest supposed "superstar” hedge fund managers are having troubl
 
   <img src="http://themacrotourist.com/images/AckOct0215.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/AckOct0215.png" width="600" height="342">
 
-I have long held the view too many hedge funds are simply beta masquerading as alpha. It is no surprise the recent risk off environment has shown most of these hedge funds have not engaged in that much "hedging.”
+I have long held the view too many hedge funds are simply beta masquerading as alpha. It is no surprise the recent risk off environment has shown most of these hedge funds have not engaged in that much "hedging."
 
 Yet there are funds whose managers are truly exceptional. Usually they are not the ones you see regularly on CNBC &#8211; they are too busy taking care of their clients money to worry about having their mugs up on the screen. My favourite hedge fund manager of all time &#8211; Stanley Druckenmiller gave something like one interview during the whole time he was actively managing client money. Since his retirement Druck has become more willing to appear on TV, but he was virtually unknown to the general public in his heyday.
 
@@ -94,7 +94,7 @@ The unemployment numbers were released this morning, and much to the Fed's surpr
 
 Economists are surprised, but they shouldn't be. It is quite simple. The US economy can't handle higher rates (or even talk about higher rates) and everything that comes along with that (higher US dollar for example).
 
-Too many market forecasters are using old play books to navigate this new environment. This morning on Bloomberg news I heard market pundit Michael Holland blame the crummy employment numbers on the uncertainty created by the Fed _failing to raise rates._ Holy crap. What a load of horse shit. Do you know how ugly it would be if the Fed had raised rates last month and then we got this employment number? Remember &#8211; ["Sep 28/15 &#8211; Repeat after me &#8211; rate hikes are not positive for risk assets.”](http://themacrotourist.com/blog/2015/09/28/sep-2815-repeat-after-me-rate-hikes-are-not-positive-for-risk-assets/)
+Too many market forecasters are using old play books to navigate this new environment. This morning on Bloomberg news I heard market pundit Michael Holland blame the crummy employment numbers on the uncertainty created by the Fed _failing to raise rates._ Holy crap. What a load of horse shit. Do you know how ugly it would be if the Fed had raised rates last month and then we got this employment number? Remember &#8211; ["Sep 28/15 &#8211; Repeat after me &#8211; rate hikes are not positive for risk assets."](http://themacrotourist.com/blog/2015/09/28/sep-2815-repeat-after-me-rate-hikes-are-not-positive-for-risk-assets/)
 
 Thanks for reading and have a great wk-end,
   

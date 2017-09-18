@@ -19,14 +19,14 @@ tags:
 
   <img src="http://themacrotourist.com/images/Azure/CrabClawsMay2215.png" alt="http://themacrotourist.com/images/Azure/CrabClawsMay2215.png" style="margin:30px auto;display:block;" width="400" height="500">
 
-Recently BlackStone's Steve Schwarzman gave $150 million to his alma mater, Yale University. Proving that billionaires are no less insecure than the rest of us, he took the opportunity to strike out against the university that rejected him a few decades back. Although it was hard to hear, during the interview with Bloomberg news, I could definitely make out some sniffles as Steve recounted the story about being turned down by Harvard Business school. As tears welled up, Schwarzman recounted how he even phoned the Dean from his high school pay phone, begging for him to change his mind. He said it was like phoning "God” (which Schwarzman said we now know is just silly, as God works at Goldman Sachs). At this stage in the interview, Steve needed to take a break. After pulling himself together, Steve told how he got the last laugh. The Dean of Harvard reached out to him last year to say, "Boy we sure got that one wrong.”
+Recently BlackStone's Steve Schwarzman gave $150 million to his alma mater, Yale University. Proving that billionaires are no less insecure than the rest of us, he took the opportunity to strike out against the university that rejected him a few decades back. Although it was hard to hear, during the interview with Bloomberg news, I could definitely make out some sniffles as Steve recounted the story about being turned down by Harvard Business school. As tears welled up, Schwarzman recounted how he even phoned the Dean from his high school pay phone, begging for him to change his mind. He said it was like phoning "God" (which Schwarzman said we now know is just silly, as God works at Goldman Sachs). At this stage in the interview, Steve needed to take a break. After pulling himself together, Steve told how he got the last laugh. The Dean of Harvard reached out to him last year to say, "Boy we sure got that one wrong."
 
 Then the interview took a surprising turn as Schwarzman went on to recount how:
 
   * A few years back at his 30th high school reunion, Marnie Ransby admitted that she was desperately unhappy with her life, and she should have never said no when Steve asked her to the High School prom.
   * His former university chess club president was recently looking for a job and told Schwarzman they should have never kicked him out of the club. Steve really wasn't as obnoxious as was claimed in the letter signed by all club members.
   * The other day, Steve's kids' high school calculus teacher paid him a visit at work (he even took time off during school hours!) to apologize for yelling at him for double parking and leaving his Mercedes truck idling in the main school thoroughfare as traffic backed up behind him for ten minutes during school pick up time.
-  * When Steve went into his favourite restaurant last week-end, the owner came out to tell him they had fired the server from Steve's previous visit who said, "I don't care who you are, you are still a douche bag in my books.”
+  * When Steve went into his favourite restaurant last week-end, the owner came out to tell him they had fired the server from Steve's previous visit who said, "I don't care who you are, you are still a douche bag in my books."
 
 Come' on Steve. You are one of America's wealthiest business leaders. Do you really think the Dean of the University who turned you down as a kid thirty years ago is going to say anything different? Of course they are going to say they made a mistake. Certainly you can't be so insecure that you still need to tell everyone about it…
 
@@ -34,7 +34,7 @@ Come' on Steve. You are one of America's wealthiest business leaders. Do you rea
 
 **No, I am probably wrong about that…**
 
-Actually I take that back, you probably are that insecure. Don't forget this is the guy who, when Obama threatened to remove the special 15% tax rate that Schwarzman and his private equity cronies enjoy for carried interest, said the following; &#8220;It's war. It's like when Hitler invaded Poland in 1939.” Wow, the nerve of a President to suggest that Schwarzman pay the same rate on his labours as everyone else. Well, that proposal died a quiet death as Obama was given marching orders by the elite 0.01%'s who control the political process.
+Actually I take that back, you probably are that insecure. Don't forget this is the guy who, when Obama threatened to remove the special 15% tax rate that Schwarzman and his private equity cronies enjoy for carried interest, said the following; &#8220;It's war. It's like when Hitler invaded Poland in 1939." Wow, the nerve of a President to suggest that Schwarzman pay the same rate on his labours as everyone else. Well, that proposal died a quiet death as Obama was given marching orders by the elite 0.01%'s who control the political process.
 
 And the Hitler comment is by no means a one off affair for Steve. From the Daily Beast:
 
@@ -42,13 +42,13 @@ And the Hitler comment is by no means a one off affair for Steve. From the Daily
   Especially Steve Schwarzman, the poster child for greed in the decade I call The Zeroes. On Feb. 13, 2007, he gained infamy by throwing himself a $3 million 60th birthday party, transforming the giant Park Avenue Armory into a replica of his 35-room Park Avenue palace in the sky, down to the replica paintings, and buying himself serenades from Patti LaBelle and Rod Stewart. &#8220;Steve, you&#8217;re more than a friend to me,&#8221; joked emcee Martin Short, &#8220;you&#8217;re a business associate.&#8221; Even in an age of excess, giving a $3 million birthday party prompted a huge backlash, one that he has since tried to distance himself from. (The following year, as if in penance he announced a $100 million gift to the New York Library, though a fight broke out over how many times his name would be chiseled onto the main branch&#8217;s facade.)
 </p>
 
-And it's not just the Daily Beast that has chronicled Steve's moronic moves. Slate had a wonderful article titled "The Golden Ass”:
+And it's not just the Daily Beast that has chronicled Steve's moronic moves. Slate had a wonderful article titled "The Golden Ass":
 
 <p style="padding-left: 30px;">
-  Schwarzman, for the record, is so wealthy that his personal chef "often spends $3,000 for a weekend of food for Mr. Schwarzman and his wife, including stone crabs that cost $400, or $40 per claw.” Yet he has vociferously fought against equalizing the tax treatment of investors like himself and the working Americans whose income is taxed at normal income tax rates.
+  Schwarzman, for the record, is so wealthy that his personal chef "often spends $3,000 for a weekend of food for Mr. Schwarzman and his wife, including stone crabs that cost $400, or $40 per claw." Yet he has vociferously fought against equalizing the tax treatment of investors like himself and the working Americans whose income is taxed at normal income tax rates.
 </p>
 
-Schwarzman's stupidity in telling everyone how much his lunch costs is why DealBreaker affectionately refers to him as "CrabClaw” and created the great picture of Steve with crab hands.
+Schwarzman's stupidity in telling everyone how much his lunch costs is why DealBreaker affectionately refers to him as "CrabClaw" and created the great picture of Steve with crab hands.
 
 <hr size="3" width="85%" />
 
@@ -62,7 +62,7 @@ But I shouldn't pick only on Steve. The list of idiot billionaires is as long as
 Recently at Davos, he made the following humble suggestion:
 
 <p style="padding-left: 30px;">
-  "America's lifestyle expectations are far too high and need to be adjusted so we have less things and a smaller, better existence,” Coral Gables founder Greene told Bloomberg News at the World Economic Forum, adding, "We need to reinvent our whole system of life.”
+  "America's lifestyle expectations are far too high and need to be adjusted so we have less things and a smaller, better existence," Coral Gables founder Greene told Bloomberg News at the World Economic Forum, adding, "We need to reinvent our whole system of life."
 </p>
 
 He made this comment after arriving in his private jet with his wife, kid and two nannies. Of course he needs two nannies. Who doesn't have two nannies? He actually had to leave the other six full time house staff back in his Beverly Hills 53,000 square foot $195 million mansion. To be fair to Greene, the house doesn't get much use as he spends most of his time on his yacht, the Summerwind, where he has hosted such notable philanthropists as Paris Hilton and Lindsay Lohan.
@@ -133,7 +133,7 @@ Recently hedge fund manager Paul Tudor Jones gave a speech about the obvious unf
   <img src="http://themacrotourist.com/images/Azure/tudorMay2215.png" alt="http://themacrotourist.com/images/Azure/tudorMay2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
 <p style="padding-left: 30px;">
-  "This gap between the 1 percent and the rest of America, and between the US and the rest of the world, cannot and will not persist,” says the investor. "Historically, these kinds of gaps get closed in one of three ways: by revolution, higher taxes or wars. None are on my bucket list.”
+  "This gap between the 1 percent and the rest of America, and between the US and the rest of the world, cannot and will not persist," says the investor. "Historically, these kinds of gaps get closed in one of three ways: by revolution, higher taxes or wars. None are on my bucket list."
 </p>
 
 Other, wise individual billionaires, are also trying to attract less attention. It was four years ago that the WSJ reported:

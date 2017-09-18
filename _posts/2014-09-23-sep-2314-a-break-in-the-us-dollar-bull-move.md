@@ -77,7 +77,7 @@ But we need to remember that he wasn&#8217;t going to get a vote for the next co
 
 A couple of weeks back when Draghi made his pledge to expand the ECB&#8217;s balance sheet to summer of 2012 levels, there was much optimism that Europe finally &#8220;got it.&#8221; Smart traders like David Tepper were convinced that Draghi was going to be able to stop the deflationary self reinforcing spiral:
 
-> "Draghi wants inflation in the Euro zone. He will not stop,” said Tepper
+> "Draghi wants inflation in the Euro zone. He will not stop," said Tepper
 
 But I wonder if we aren&#8217;t over estimating Draghi&#8217;s ability to get things done. This is after all Europe. And if there is one thing that we should have learned from the European sovereign debt crisis it&#8217;s that it is extremely difficult to get all the different EU members to agree on anything unless the dissolution of their union is staring them in the face. 
 

@@ -48,7 +48,7 @@ I hold a dramatically out of consensus view that the US yield curve will steepen
 Given the gargantuan amount of debt in the system, the economy has become especially sensitive to rate increases. The slightest increase in rates will cause the economy to quickly grind to a halt. The past few months is the perfect example. Even the _threat_ of higher rates has sent the US dollar soaring to the point where the economy has stalled enough to cause the Federal Reserve to put on hold their tightening plans. NY Fed President William Dudley admitted as much yesterday:
 
 <p style="padding-left: 30px;">
-  In a New Jersey speech, Dudley cited staff analysis of the dollar's effect: "[A]n appreciation of this magnitude [nearly 15 percent since mid-2014] would, all else equal, reduce real GDP growth by about 0.6 percentage point over this year.” Such an impact is likely to reduce the Fed&#8217;s confidence that the economy is ready to endure raising interest rates as early as June.
+  In a New Jersey speech, Dudley cited staff analysis of the dollar's effect: "[A]n appreciation of this magnitude [nearly 15 percent since mid-2014] would, all else equal, reduce real GDP growth by about 0.6 percentage point over this year." Such an impact is likely to reduce the Fed&#8217;s confidence that the economy is ready to endure raising interest rates as early as June.
 </p>
 
 The Federal Reserve (and most other Central Banks) are trapped. They have encouraged so much debt to be created that they cannot afford to allow that debt to be destroyed otherwise the economy will quickly fall into a vicious self reinforcing negative feedback loop. They must therefore above all else leave real rates at negative levels. 

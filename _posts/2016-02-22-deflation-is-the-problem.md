@@ -24,19 +24,19 @@ Although I understand why the market is freaking out about deflation, **the worr
 
 In fact, it might be already happening.  Over the past week there has been increasing dovish coos coming the Federal Reserve Open Market Committee members.  Notable hawk James Bullard exemplifies the change in tone (from Reuters):
 
->It would be "unwise” for the U.S. Federal Reserve to continue hiking interest rates given declining inflation expectations and recent equity market volatility, St. Louis Fed President James Bullard said on Wednesday in comments that mark a stark change of direction for one of the Fed's more hawkish inflation foes.
+>It would be "unwise" for the U.S. Federal Reserve to continue hiking interest rates given declining inflation expectations and recent equity market volatility, St. Louis Fed President James Bullard said on Wednesday in comments that mark a stark change of direction for one of the Fed's more hawkish inflation foes.
 
 >Bullard for much of last year argued for an earlier rate hike, but said he now feels key assumptions supporting higher rates have been undermined.
 
->Inflation expectations have fallen "too far for comfort,” making it more probable inflation itself will fall and continue to miss the Fed's 2 percent target, Bullard said in remarks prepared for delivery to a gathering of financial analysts.
+>Inflation expectations have fallen "too far for comfort," making it more probable inflation itself will fall and continue to miss the Fed's 2 percent target, Bullard said in remarks prepared for delivery to a gathering of financial analysts.
 
->"I regard it as unwise to continue a normalization strategy in an environment of declining market-based inflation expectations,” Bullard said. In addition, declining equity prices and other tightened financial conditions have made dangerous asset bubbles "less of a concern over the medium term.”
+>"I regard it as unwise to continue a normalization strategy in an environment of declining market-based inflation expectations," Bullard said. In addition, declining equity prices and other tightened financial conditions have made dangerous asset bubbles "less of a concern over the medium term."
 
->Taken together, Bullard said he sees them likely giving the policy-setting Federal Open Market Committee "more leeway in its normalization program.”
+>Taken together, Bullard said he sees them likely giving the policy-setting Federal Open Market Committee "more leeway in its normalization program."
 
->Recent comments by Fed officials already made it seem unlikely the U.S. central bank would raise rates when it next meets in March, but Bullard's comments indicate broad concern over the conditions facing the Fed. Bullard, who votes on the rate-setting committee this year, has been among the stronger advocates of higher rates, but feels the case has grown weaker since the Fed's "liftoff” rate hike in December.
+>Recent comments by Fed officials already made it seem unlikely the U.S. central bank would raise rates when it next meets in March, but Bullard's comments indicate broad concern over the conditions facing the Fed. Bullard, who votes on the rate-setting committee this year, has been among the stronger advocates of higher rates, but feels the case has grown weaker since the Fed's "liftoff" rate hike in December.
 
->"Two important pillars of the 2015 case for U.S. monetary policy normalization have changed,” Bullard said.
+>"Two important pillars of the 2015 case for U.S. monetary policy normalization have changed," Bullard said.
 
 The market is already showing signs of the deflation trade being "fully baked in."  While investors were busy proclaiming the end of all growth and inflation, look at what gold, iron ore and the CRB industrials have done recently:
 

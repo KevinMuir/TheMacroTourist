@@ -80,7 +80,7 @@ But at the same time, regardless of the cause, we have hit a point where it can'
 
 I don't know what the right ratio of inequality is. I haven't bothered to read Piketty's book yet, but I bet he thinks it is more equal than I do. Yet neither do I agree with the staunch free market hypocrites who claim that the market is going to sort it all out.
 
-I have seen markets at work, I know they get it wrong all time. You can't count on the market getting it right. Sometimes you need to say, "hey I know you are a private banking institution, but I don't think giving $3MM loans to a waitress making $22k so she can flip McMansions is a good idea.” As a society, we also should be able to say, "it is ridiculous that CEOs are making 475 times the average worker pay.” Again, I am not sure about what is the right ratio, but I agree with the judge that says he knows pornography when he sees it. I know unjust inequality when I see it &#8211; and it is everywhere.
+I have seen markets at work, I know they get it wrong all time. You can't count on the market getting it right. Sometimes you need to say, "hey I know you are a private banking institution, but I don't think giving $3MM loans to a waitress making $22k so she can flip McMansions is a good idea." As a society, we also should be able to say, "it is ridiculous that CEOs are making 475 times the average worker pay." Again, I am not sure about what is the right ratio, but I agree with the judge that says he knows pornography when he sees it. I know unjust inequality when I see it &#8211; and it is everywhere.
 
 I am already veering too much into my opinion about policy instead of my opinion about the market. But in this case, they kind of go hand in hand.
 
@@ -108,25 +108,25 @@ Have a look at this [great article](http://www.nytimes.com/2014/06/26/business/i
 > 
 > Gap said its new policy would raise pay for more than two-thirds of its 90,000 American employees, including those at Banana Republic and Old Navy, while Ikea said its new policy would raise the pay of about half of its 13,120 United States employees.
 > 
-> "This stems back to Ikea's decision to create a better everyday life for our people,” said Rob Olson, Ikea's acting president for the United States and its chief financial officer.
+> "This stems back to Ikea's decision to create a better everyday life for our people," said Rob Olson, Ikea's acting president for the United States and its chief financial officer.
 > 
-> "We are of course investing in our co-workers. We believe they will invest in our customers, and they will invest in Ikea's stores. We believe that it will be a win-win-win for our co-workers, our customers and our stores,” he said.
+> "We are of course investing in our co-workers. We believe they will invest in our customers, and they will invest in Ikea's stores. We believe that it will be a win-win-win for our co-workers, our customers and our stores," he said.
 > 
 > Ikea officials said its hourly wage will vary based on the cost of living in each location, using the M.I.T. Living Wage Calculator, which takes housing, food, transportation costs and taxes into consideration.
 > 
-> "The new minimum hourly wage structure will be a significant investment, but it will not increase Ikea prices,” the company said.
+> "The new minimum hourly wage structure will be a significant investment, but it will not increase Ikea prices," the company said.
 > 
 > The retailer said its policy was a departure from determining wages based on local competitive conditions and was instead focusing on the needs of its workers.
 > 
 > Mr. Olson said that Ikea had been known for having benefits well above the competition, while having competitive wages. He noted that Ikea had a 100 percent match for the first 4 percent of pay contributed to 401(k)'s and then a 50 percent match for the next 2 percent. Separate from that, it has a bonus program for all employees and makes contributions to a new retirement fund.
 > 
-> Zeynep Ton, a professor at the M.I.T. Sloan School of Management, said, "Ikea is probably realizing that it's hard to get the best out of their employees if their employees don't earn enough to live on.”
+> Zeynep Ton, a professor at the M.I.T. Sloan School of Management, said, "Ikea is probably realizing that it's hard to get the best out of their employees if their employees don't earn enough to live on."
 
 The trend has clearly turned. It just hasn't shown up in the data yet.
 
 Everywhere I look, the minimum wage is being raised. Bit by bit, labour's share of the pie is increasing.
 
-As Herb Stein's Dad famously said, "that which cannot go on forever &#8211; doesn't.”
+As Herb Stein's Dad famously said, "that which cannot go on forever &#8211; doesn't."
 
 The trend towards labour taking less and less, with the elite few taking more and more has peaked.
 

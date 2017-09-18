@@ -26,7 +26,7 @@ And in case you don't believe the message the yield curve is sending, last week 
 
 The gist of Hyun's argument is that there is an acute shortage of US dollar liquidity.  In fact, the FT deduces the situation is as dire as 2008:
 
->We're inclined to suggest it's one of the most important charts in the world right now. And that's not widely appreciated.  What it shows is how dollar strength and the availability of dollars via the FX swap market go hand-in-hand in the market atm. What it implies is that the global "dollar shortage” is matching if not surpassing 2008 levels.
+>We're inclined to suggest it's one of the most important charts in the world right now. And that's not widely appreciated.  What it shows is how dollar strength and the availability of dollars via the FX swap market go hand-in-hand in the market atm. What it implies is that the global "dollar shortage" is matching if not surpassing 2008 levels.
 
 The Federal Reserve has thoroughly failed to realize how their hawkish actions and rhetoric has sapped the global economy of much needed liquidity.  Like it or not, the US dollar is the world's reserve currency, and the global economy has not able to handle Yellen's tightening cycle. 
 

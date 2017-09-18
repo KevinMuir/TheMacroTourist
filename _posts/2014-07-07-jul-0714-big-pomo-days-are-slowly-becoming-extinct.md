@@ -19,7 +19,7 @@ tags:
 ---
 How quickly everyone forgets. It was less than half a year ago that the market had a fit over the prospect of Fed tapering. At the time, many market participants argued that the economy could not stand on its own two feet without the constant Fed injections of copious amounts of quantitative easing. The idea that the Fed was going to taper this stimulus caused the market to throw a mini-tantrum out of fear of life without QE.
 
-Although the Fed has worked hard to communicate the message that "tapering was not tightening,” the Fed has refused to deviate from its set course of reducing the QE program by $10 billion per FOMC meeting.
+Although the Fed has worked hard to communicate the message that "tapering was not tightening," the Fed has refused to deviate from its set course of reducing the QE program by $10 billion per FOMC meeting.
 
 Contrary to the doomsday predictions, the market has not collapsed as the Fed has reduced the stimulus. In fact, just the opposite has occurred as the stock market has exploded to all time highs during the midst of the tapering.
 
@@ -184,7 +184,7 @@ The fact that very few are worried about the Fed's tapering does not bring me so
 
 Right now, I am short and wrong, but I am sticking with my position. We have only one more big POMO day before a two week break from the Fed's injections.
 
-I am going to leave you with the words from George S. Patton &#8211; "If everyone is thinking alike, then somebody isn't thinking.” I am pretty sure if George were around, he would join me on the short side…
+I am going to leave you with the words from George S. Patton &#8211; "If everyone is thinking alike, then somebody isn't thinking." I am pretty sure if George were around, he would join me on the short side…
 
 <hr size="3" width="85%" />
 

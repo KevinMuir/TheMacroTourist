@@ -67,7 +67,7 @@ I am aware of all the bad news emanating out of Japan regarding their lack of ag
 
 A couple of weeks ago I highlighted the popularity that the Parti Quebecois was experiencing in the polls. I argued that the market was not ready for a PQ victory and that if they were to somehow win, the CAD would get hammered.
 
-I guess the reason that the market was "not ready” for the PQ victory was because it knew that their chances were quite slim. The PQ completely blew their lead, and not only failed to win, but got completely trounced by the Liberals.
+I guess the reason that the market was "not ready" for the PQ victory was because it knew that their chances were quite slim. The PQ completely blew their lead, and not only failed to win, but got completely trounced by the Liberals.
 
 In hindsight the addition of Karl Peledeau to the PQ lineup was a complete disaster. He brought attention to the fact that at its heart, the PQ party is a separatist party. And the Quebec people have almost zero appetite to go down that road again.
 

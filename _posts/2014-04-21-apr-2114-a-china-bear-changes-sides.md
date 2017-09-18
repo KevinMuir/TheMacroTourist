@@ -16,13 +16,13 @@ tags:
   - Chanos
   - China
 ---
-Over the past few months I have found myself in the unusual position of coming to the defence of the Chinese economy. I say it is unusual because I used to be the biggest China bear out there. During the past decade, when the market pundits were falling all over themselves with adoration for the Chinese "economic miracle,” I was firmly in the skeptic's camp. I took solace with other China bears like famed short seller James Chanos, and refused to believe that it was as rosy as the China bulls claimed.
+Over the past few months I have found myself in the unusual position of coming to the defence of the Chinese economy. I say it is unusual because I used to be the biggest China bear out there. During the past decade, when the market pundits were falling all over themselves with adoration for the Chinese "economic miracle," I was firmly in the skeptic's camp. I took solace with other China bears like famed short seller James Chanos, and refused to believe that it was as rosy as the China bulls claimed.
 
 But even I am amazed at how the quickly the tide has turned against the Chinese. Today it is as fashionable to be bearish on China as it was to be bullish a few years ago.
 
-One of my co-workers recently challenged me about my statement that "everyone is bearish on China.” He didn't believe that the consensus was as negative as I claimed. So I started keeping a record of the "bearish China” research pieces. Here are just a few:
+One of my co-workers recently challenged me about my statement that "everyone is bearish on China." He didn't believe that the consensus was as negative as I claimed. So I started keeping a record of the "bearish China" research pieces. Here are just a few:
 
-[China's "Minsky Moment” is Here, Morgan Stanley Finds](http://www.zerohedge.com/news/2014-03-19/chinas-minsky-moment-here-morgan-stanley-finds)
+[China's "Minsky Moment" is Here, Morgan Stanley Finds](http://www.zerohedge.com/news/2014-03-19/chinas-minsky-moment-here-morgan-stanley-finds)
 
 [China's Real Estate Bubble Could Burst at Any Moment: Watsa](http://www.valuewalk.com/2014/03/watsa-on-china-real-estate-bubble/)
 
@@ -34,13 +34,13 @@ One of my co-workers recently challenged me about my statement that "everyone is
 
 [The Richest Man In Asia is Selling Everything in China](http://www.zerohedge.com/news/2014-04-16/richest-man-asia-selling-everything-china)
 
-You get the idea… The overwhelming consensus is that China is screwed from all the mal-investment of the past decade. The bears now claim that we had been fooled into thinking that China was "different this time.”
+You get the idea… The overwhelming consensus is that China is screwed from all the mal-investment of the past decade. The bears now claim that we had been fooled into thinking that China was "different this time."
 
 Of course China was never different. It was never as miraculous as the bulls claimed, but on the flip side, neither is it as bad the bears now believe.
 
 Today it seems to be taken as a given that China has checkmated itself into a situation where they cannot grow without inflation, and if they cannot grow, their massive debt will overwhelm their economy.
 
-I am part of the consensus that believes that the China "economic miracle” of the past decade has to a large extent being fuelled by a massive credit bubble that has resulted in some incredible examples of epic misallocations of capital.
+I am part of the consensus that believes that the China "economic miracle" of the past decade has to a large extent being fuelled by a massive credit bubble that has resulted in some incredible examples of epic misallocations of capital.
 
 But where I now part ways with all my new found bearish friends is in their belief &#8211; no… their certainty… that this credit bubble has to come to a crashing end starting this quarter.
 
@@ -52,9 +52,9 @@ Have a look at this reporting from Reuters:
 
 > Li stressed on Thursday that job creation was the government' policy priority, telling an investment forum on the southern island of Hainan that it did not matter if growth came in a little below the official target of 7.5 percent.
 > 
-> "We will not take, in response to momentary fluctuations in economic growth, short-term and forceful stimulus measures,” Li said in a speech.
+> "We will not take, in response to momentary fluctuations in economic growth, short-term and forceful stimulus measures," Li said in a speech.
 > 
-> "We will instead focus more on medium- to long-term healthy development.”
+> "We will instead focus more on medium- to long-term healthy development."
 > 
 > His comments are among the clearest yet on the government's plans for the economy, which has rattled global investors this year with a surprisingly lackluster performance.
 > 
@@ -84,7 +84,7 @@ There is of course the occasional financial analyst that is not part of the bear
 > 
 > Why should we expect more from them when we are doing nothing for ourselves?
 
-Is it such a "certainty” that the Chinese rebalancing won't work? Let's not forget what has been happening with "real savings” over the past decade. On the government level, China has been accumulating savings and the US has been accumulating debt.
+Is it such a "certainty" that the Chinese rebalancing won't work? Let's not forget what has been happening with "real savings" over the past decade. On the government level, China has been accumulating savings and the US has been accumulating debt.
 
 
   <img src="http://themacrotourist.com/images/Azure/ChinaCurrencyWars.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/ChinaCurrencyWars.png" width="750" height="624">
@@ -97,7 +97,7 @@ Has there been mal-investment in China? For sure &#8211; without a doubt.
 
 Does that mean that it is doomed to fail? No &#8211; the skeptics are now too bearish.
 
-Whereas a few years ago, China and all the associated China plays were priced for perfection, it has now swung too far the other way. Too many trades are priced for the "certainty” that China is doomed.
+Whereas a few years ago, China and all the associated China plays were priced for perfection, it has now swung too far the other way. Too many trades are priced for the "certainty" that China is doomed.
 
 
   <img src="http://themacrotourist.com/images/Azure/SHCOMPApr2114.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SHCOMPApr2114.png" width="600" height="342" />China SCHOMP Index vs S&P 500</a>
@@ -111,7 +111,7 @@ And in a fit of brilliant timing, these same brokerage firms that were all bulle
 
 For me, there couldn't be any better bull signal than Wall Street giving up on commodities by closing their operations.
 
-Although I am not nearly as "certain” about the direction of the Chinese economy as the analysts who are now convinced about the imminent Chinese collapse, I think that the risk reward now favours the bulls.
+Although I am not nearly as "certain" about the direction of the Chinese economy as the analysts who are now convinced about the imminent Chinese collapse, I think that the risk reward now favours the bulls.
 
 Could the bears be correct and the China bubble unwind only begun? Of course. You always need to be cognizant of the fact that these cycles move to extremes in both directions.
 

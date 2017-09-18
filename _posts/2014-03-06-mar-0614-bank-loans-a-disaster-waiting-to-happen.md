@@ -24,7 +24,7 @@ I have often wondered where the excesses were going to be this cycle. A lot of i
 
 Markets that become bubbles always start as solid sound fundamental investments. It is when this investment no longer becomes grounded by attractive pricing, but continues rising because players are attracted to the price action that they become bubbles. As Soros says;
 
-> "&#8230;market bubbles don&#8217;t grow out of thin air. They have a solid basis in reality, but reality as distorted by a misconception.”
+> "&#8230;market bubbles don&#8217;t grow out of thin air. They have a solid basis in reality, but reality as distorted by a misconception."
 
 As the Fed lowered rates to zero, it made sense for investors to invest in floating rate securities to protect themselves against future upward moves in interest rates. However this &#8220;theme&#8221; has become more of a mania. There is such a demand that Wall Street is once again off loading their crappiest floating rate notes.
 

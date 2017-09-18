@@ -21,7 +21,7 @@ I am not one of those guys who takes a chart from 1929 and sticks it over the cu
 
 I firmly believe the future direction of markets is undetermined. There are outcomes which are more likely, but _no one_ knows for sure which way the markets are headed.
 
-Take for example the 2008 credit crisis. If Bernanke had been of a different philosophical bent, then he might not have come riding in with Quantitative Easing programs. If there had no been no QE, we probably would have crashed much further, and rebounded much less. The direction of the market was therefore very much up in the air. The actions of one individual greatly affected the outcome of the whole market. How could you make a prediction on that? Or take 9/11. You could have the greatest "chart analogy” in the world, but how could you forecast the actions of a small group of deranged terrorists? The answer is you can't, and anyone who tells you they know where the market is headed with certainty is lying.
+Take for example the 2008 credit crisis. If Bernanke had been of a different philosophical bent, then he might not have come riding in with Quantitative Easing programs. If there had no been no QE, we probably would have crashed much further, and rebounded much less. The direction of the market was therefore very much up in the air. The actions of one individual greatly affected the outcome of the whole market. How could you make a prediction on that? Or take 9/11. You could have the greatest "chart analogy" in the world, but how could you forecast the actions of a small group of deranged terrorists? The answer is you can't, and anyone who tells you they know where the market is headed with certainty is lying.
 
 Yet even though the future direction of the market is uncertain, there are moments in history that resemble one another. The details are slightly different, but the bigger picture is more similar than would be the case in a truly random sample.
 
@@ -74,7 +74,7 @@ It would make sense that if we were to have a market dislocation, it would occur
 
 Yet there is still hope. If the Federal Reserve eases up on the hawkish rhetoric, and China puts the pedal down to the metal, I could easily envision the markets (and economy) blasting higher during Obama's final year. But so far that is wishful thinking.
 
-Even in the face of Friday's terrible employment number, the Fed continues on with their "zero was an emergency low rate and the emergency is long past” rhetoric. They are so desperate to normalize rates, even in the face of the poor employment report, Fed Presidents see nothing but clear skies ahead:
+Even in the face of Friday's terrible employment number, the Fed continues on with their "zero was an emergency low rate and the emergency is long past" rhetoric. They are so desperate to normalize rates, even in the face of the poor employment report, Fed Presidents see nothing but clear skies ahead:
 
 > BULLARD SAYS EXPECTS STRONGER JOBS REPORTS TO COME.
 
@@ -90,7 +90,7 @@ No one, including the Federal Reserve, knows in advance the correct amount of QE
 
 As the Federal Reserve has finished expanding its balance sheet, and now started to prepare the markets for higher rates, the global economy has slowed. They seem to be oblivious to this fact. The economy needs more US dollar liquidity from the Central Bank than they wish to be the case. It is sad, but it is the truth. Instead of just accepting this reality and dealing with the economy they _have_, the Federal Reserve is making policy for the economy they _want._ That's their prerogative, but don't think it's harmless. The longer they continue down this path, the higher the likelihood of a big financial accident.
 
-Reagan and Bush both thought their final days in office would be clear sailing on the economic front. But instead they were both tested with two of history's biggest market crashes. Will it be the same for Obama? No one knows for sure, but the longer the Federal Reserve committee keeps their fingers in their ears shouting "LALALALA -CAN'T HEAR YOU” while real damage is being done to the economy, the greater the chance that Obama's last year will look like Bush's or Reagan's…
+Reagan and Bush both thought their final days in office would be clear sailing on the economic front. But instead they were both tested with two of history's biggest market crashes. Will it be the same for Obama? No one knows for sure, but the longer the Federal Reserve committee keeps their fingers in their ears shouting "LALALALA -CAN'T HEAR YOU" while real damage is being done to the economy, the greater the chance that Obama's last year will look like Bush's or Reagan's…
 
 
   <img src="http://themacrotourist.com/images/GollumOct0515.png" alt="http://themacrotourist.com/images/GollumOct0515.png" style="margin:30px auto;display:block;" width="500" height="250">

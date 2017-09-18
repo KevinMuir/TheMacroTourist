@@ -29,7 +29,7 @@ Therefore I read the following piece from the very thoughtful Jim Bianco with so
   
 > Still, the fact that every single survey participant is bearish is striking. The last time the survey had that result was in May 2012, when benchmark yields were well below 2%.
   
-> "Literally there is maybe one economist in the United States straddling the bullish/bearish divide on interest rates. The rest are bearish,” Bianco writes.
+> "Literally there is maybe one economist in the United States straddling the bullish/bearish divide on interest rates. The rest are bearish," Bianco writes.
   
 > He adds that a J.P. Morgan client survey shows that the percentage of money manager respondents who said they are underweight Treasurys is the second highest in seven years.
   
@@ -39,7 +39,7 @@ Therefore I read the following piece from the very thoughtful Jim Bianco with so
   
 > But when the entire market thinks one thing is about to happen, the opposite outcome is often in store, notes James Camp, managing director of fixed income at Eagle Asset Management. So don't count out that result with Treasurys, he advises.
   
-> "It's the most hated asset class,” says Camp, but Treasurys are some of the best performers year-to-date.”
+> "It's the most hated asset class," says Camp, but Treasurys are some of the best performers year-to-date."
 
 This unanimous agreement that interest rates are headed higher is concerning. Economists&#8217; ability to correctly forecast the economy has about the same success rate as Lindsay Lohan&#8217;s rehab attempts.
 
@@ -79,7 +79,7 @@ Robertson thought rates could easily go to 7% and maybe even as high as 18%?
 
 And he wasn&#8217;t alone. Famed asshat Nassim Taleb said the following:
 
-> It's "a no brainer” to sell short Treasuries, Taleb, a principal at Universa Investments LP in Santa Monica, California, said at a conference in Moscow today. "Every single human being should have that trade.”
+> It's "a no brainer" to sell short Treasuries, Taleb, a principal at Universa Investments LP in Santa Monica, California, said at a conference in Moscow today. "Every single human being should have that trade."
 
 The date for that trade that &#8220;every human being&#8221; should have on? February 4th, 2010. 
 

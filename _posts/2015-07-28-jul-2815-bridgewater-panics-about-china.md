@@ -49,7 +49,7 @@ Don&#8217;t get me wrong &#8211; I think the Chinese economy is worse than most 
 
 Herein lies the real problem with the recent Chinese stock market rally (and collapse). Many astute investors took the recent rise in the Chinese stock market as **a signal the Chinese economy was about to take off.** Legendary trader Stanley Druckenmiller gave a lengthy interview with Bloomberg news where he outlined his belief of a coming global economic uptick that was in large part, simply a recognition that the Chinese stock market was reflecting what he believed to be an massive liquidity injection into the Chinese economy [(Apr 27/15 &#8211; Druckenmiller says &#8220;Don&#8217;t fade the banana stand guy&#8221;)](http://themacrotourist.com/blog/2015/04/27/apr-2715-druckenmiller-says-dont-fade-the-banana-stand-guy/)
 
-> "no, it's not the data, I am watching the markets. And whenever I have seen a stock market explode with record volume and record breadth, and move to that degree, like \*\*day follows night,\*\* six to twelve months down the road you are out of that recession and into a full blown recovery. ”
+> "no, it's not the data, I am watching the markets. And whenever I have seen a stock market explode with record volume and record breadth, and move to that degree, like \*\*day follows night,\*\* six to twelve months down the road you are out of that recession and into a full blown recovery. "
 
 
   <img src="http://themacrotourist.com/images/Azure/DruckApr2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/DruckApr2715.png" width="600" height="400">

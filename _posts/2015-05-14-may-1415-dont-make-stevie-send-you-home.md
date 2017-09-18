@@ -22,7 +22,7 @@ Can you remember back to the last financial crisis? As the 2007/8 credit swoon d
 
 The S&P 500 hit 1,600 in the summer of 2007, and by the end of that year had given up 300 points. After a brief rally in the spring of 2008, the stock market once again started sinking. By summertime it was hitting new lows. Once autumn arrived, the selling really picked up. The S&P 500 began falling 50 points a week. Finally, 17 months after first rolling over, the selling climaxed with the 666 devil's tick in the S&P 500.
 
-Today it is easy to look at the chart and "know” you shouldn't buy too early. But think back to that period. Did you start bidding when it was down 20%? How about 30%? Maybe 40%? Any of those levels were terrible points to get long. Yet, at the time the selling seemed so panicky, every decline felt like it had to be the bottom.
+Today it is easy to look at the chart and "know" you shouldn't buy too early. But think back to that period. Did you start bidding when it was down 20%? How about 30%? Maybe 40%? Any of those levels were terrible points to get long. Yet, at the time the selling seemed so panicky, every decline felt like it had to be the bottom.
 
 I was not immune. I had been bearish in 2007, and after nailing the trade, I covered mid 2008. In the fall, I decided that the selling was over done, and I started nibbling on some long positions. I figured I was buying from the weak hands. Well, I was reminded first hand how stupid it is to catch falling knives.
 
@@ -33,22 +33,22 @@ There is one story from this period I will never forget. Into this cascading fre
 
   <img src="http://themacrotourist.com/images/Azure/CohenMay1415.png" alt="http://themacrotourist.com/images/Azure/CohenMay1415.png" style="margin:30px auto;display:block;" width="600" height="400">
 
-I am well aware of Cohen's reputation. My buddies have to cover his account so I know first hand about all the "allegedly” dubious trades. You need not tell me how close he plays <del>over</del> to the line. But at the same time, at least he never goes on CNBC and spews his bullshit on us. He never speaks out of both sides of his mouth, or gets into screaming matches with other hedge fund managers on national TV. Cohen is an old school tough guy, settle it after school in the field, hedge fund manager. For that, hats off to him.
+I am well aware of Cohen's reputation. My buddies have to cover his account so I know first hand about all the "allegedly" dubious trades. You need not tell me how close he plays <del>over</del> to the line. But at the same time, at least he never goes on CNBC and spews his bullshit on us. He never speaks out of both sides of his mouth, or gets into screaming matches with other hedge fund managers on national TV. Cohen is an old school tough guy, settle it after school in the field, hedge fund manager. For that, hats off to him.
 
-But the important lesson was his recognition the trend would overwhelm all other metrics. He understood equities were being liquidated and the selling could last longer than traditional "fundamentals” would dictate.
+But the important lesson was his recognition the trend would overwhelm all other metrics. He understood equities were being liquidated and the selling could last longer than traditional "fundamentals" would dictate.
 
 <hr size="3" width="85%" />
 
 **The top tick**
 
-I believe the 0.05% tick in the German bund was the top tick in the global bond bull market. At that point the financial community had suspended all hope Central Banks could ever create inflation. The inevitability of deflation was firmly entrenched in the mindset of investors. We had also passed well into a period of what can only be described as Ponzi fixed income "investing.” When bond fund managers justify purchasing negative yielding 10 year bonds because they are confident they will be able to sell them even higher, it is time to take a breath and sell with both fists.
+I believe the 0.05% tick in the German bund was the top tick in the global bond bull market. At that point the financial community had suspended all hope Central Banks could ever create inflation. The inevitability of deflation was firmly entrenched in the mindset of investors. We had also passed well into a period of what can only be described as Ponzi fixed income "investing." When bond fund managers justify purchasing negative yielding 10 year bonds because they are confident they will be able to sell them even higher, it is time to take a breath and sell with both fists.
 
 Remember this Bloomberg article from earlier in the year?
 
 
   <img src="http://themacrotourist.com/images/Azure/NoFoolsMay1415.png" alt="http://themacrotourist.com/images/Azure/NoFoolsMay1415.png" style="margin:30px auto;display:block;" width="600" height="600">
 
-This sort of ponzi rationale is symptomatic of a long term top. This was the [Jim Cramer "winners of the new world” 2000 speech at the top of the DotCom bubble moment.](http://gfbblogs.azurewebsites.net/blog/2013/10/03/the-winners-of-the-new-world-2013-edition/)
+This sort of ponzi rationale is symptomatic of a long term top. This was the [Jim Cramer "winners of the new world" 2000 speech at the top of the DotCom bubble moment.](http://gfbblogs.azurewebsites.net/blog/2013/10/03/the-winners-of-the-new-world-2013-edition/)
 
 [The €1.5 billion of Mexican 100 year bonds issued with a 4% yield](http://gfbblogs.azurewebsites.net/blog/2015/04/15/apr-1515-it-was-my-understanding-there-would-be-no-math/) might have also been a clue things were getting a little frothy.
 
@@ -82,11 +82,11 @@ Eventually this monetary expansion is going to kick in. The Central Banks have b
 Remember back in 2009 when the inflationistas warned the Fed's aggressive monetary policy would cause inflation? There were some really smart people warning about the consequences from overly aggressive quantitative easing. In November 2010 some of the brightest minds in finance wrote an open letter to Ben Bernanke in the Wall Street Journal:
 
 <p style="padding-left: 30px;">
-  We believe the Federal Reserve's large-scale asset purchase plan (so-called "quantitative easing”) should be reconsidered and discontinued. We do not believe such a plan is necessary or advisable under current circumstances. The planned asset purchases risk currency debasement and inflation, and we do not think they will achieve the Fed's objective of promoting employment.
+  We believe the Federal Reserve's large-scale asset purchase plan (so-called "quantitative easing") should be reconsidered and discontinued. We do not believe such a plan is necessary or advisable under current circumstances. The planned asset purchases risk currency debasement and inflation, and we do not think they will achieve the Fed's objective of promoting employment.
 </p>
 
 <p style="padding-left: 30px;">
-  We subscribe to your statement in the Washington Post on November 4 that "the Federal Reserve cannot solve all the economy's problems on its own.” In this case, we think improvements in tax, spending and regulatory policies must take precedence in a national growth program, not further monetary stimulus.
+  We subscribe to your statement in the Washington Post on November 4 that "the Federal Reserve cannot solve all the economy's problems on its own." In this case, we think improvements in tax, spending and regulatory policies must take precedence in a national growth program, not further monetary stimulus.
 </p>
 
 <p style="padding-left: 30px;">

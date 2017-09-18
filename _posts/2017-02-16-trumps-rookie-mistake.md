@@ -23,9 +23,9 @@ Zerohedge did a great job highlighting Trump's "*talking up*" of the upcoming ta
 
 >Trump did it again: one week after he promised to unveil "phenomenal" tax cuts, moments ago in his meeting with retail CEOs, who are meeting with the president to get him to kill the border adjustment tax idea, he pulled another OPEC, using the precise word the algos were looking for, and this time said that "tax reform is one of the best opportunities to really impact our economy," Trump said. "So we're doing a massive tax plan that's coming along really well."
 
->He also said that there will be a "much, much simpler tax code” that will lower rates for everybody in every bracket. He added that "other than H & R Block, people are going to love it.”
+>He also said that there will be a "much, much simpler tax code" that will lower rates for everybody in every bracket. He added that "other than H & R Block, people are going to love it."
 
->Of course, people would love to know when it is coming, to which Trump had no explicit answer, instead saying the "tax plan will be submitted in not so distant future”
+>Of course, people would love to know when it is coming, to which Trump had no explicit answer, instead saying the "tax plan will be submitted in not so distant future"
 
 Trump's rhetoric about "phenomenal" tax cuts is like throwing raw meat into a cage full of starving lions.  Stock market investors see nothing but dollar signs and quickly put away the pink tickets for fistful of blues.
 

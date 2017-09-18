@@ -43,25 +43,25 @@ Chanos is also very negative on the frackers, and believes the North American oi
 
 > North American oil and gas exploration and production companies are in trouble, he said, and the pain isn't going to stop with their shareholders. Their debtholders are going to start feeling it too.
 > 
-> "It's one of the few industries that senior creditors may be facing significant impairments,” he said. "The industry will continue to need capital… and money is not coming back out.”
+> "It's one of the few industries that senior creditors may be facing significant impairments," he said. "The industry will continue to need capital… and money is not coming back out."
 > 
 > The founder of hedge fund Kynikos Associates LP has been arguing that the business model for the industry is broken.
 > 
 > In September, the Journal noted that Mr. Chanos has large bets against the energy industry. Previously, he had been widely known as a China bear, but his bets against the energy industry have actually been a larger part of his portfolio.
 > 
-> On Tuesday, Mr. Chanos walked through the reasons why he believes the business model for "the revolutionary technology” of fracking that underpins the U.S. shale revolution will crumble. The high cost of pulling oil from the ground, he argued, means that it would take far more than a modest recovery in prices for the business to make economic sense.
+> On Tuesday, Mr. Chanos walked through the reasons why he believes the business model for "the revolutionary technology" of fracking that underpins the U.S. shale revolution will crumble. The high cost of pulling oil from the ground, he argued, means that it would take far more than a modest recovery in prices for the business to make economic sense.
 > 
-> "With depletion rates so high, maintenance capital costs to keep production constant are pretty much much larger than people think,” Mr. Chanos said.
+> "With depletion rates so high, maintenance capital costs to keep production constant are pretty much much larger than people think," Mr. Chanos said.
 > 
 > Some fracking companies like Devon Energy Corp. have disclosed how much they need to spend to maintain production levels, Mr. Chanos said. That information, Mr. Chanos said, has helped him and his team of analysts model the potential costs for other fracking companies.
 > 
-> Additionally, Mr. Chanos said the accounting method used by most of these E&P companies obscures their actual earnings. Most E&P companies, he said, use so-called "full-cost accounting” — an accounting method designed to encourage exploration for new types of gas. Using that method, he said, many E&P companies "capitalize everything” or book the expenses over a longer period of time. He said he's seen these companies put items including a secretary's salary into that bucket.
+> Additionally, Mr. Chanos said the accounting method used by most of these E&P companies obscures their actual earnings. Most E&P companies, he said, use so-called "full-cost accounting" — an accounting method designed to encourage exploration for new types of gas. Using that method, he said, many E&P companies "capitalize everything" or book the expenses over a longer period of time. He said he's seen these companies put items including a secretary's salary into that bucket.
 > 
-> Those accounting maneuvers alter the way companies report their closely watched EBITDA figures, or earnings before interest, taxes, depreciation and amortization. "Real levels of EBITDA may be lower – significantly lower,” he said. In turn, investors may be paying much higher multiples than they understand for these stocks.
+> Those accounting maneuvers alter the way companies report their closely watched EBITDA figures, or earnings before interest, taxes, depreciation and amortization. "Real levels of EBITDA may be lower – significantly lower," he said. In turn, investors may be paying much higher multiples than they understand for these stocks.
 
 I think Chanos is bang on with his analysis. I suspect many of these companies are toast. But herein lies the problem. This is by no means a new idea. This summer Greenlight Capital&#8217;s David Einhorn presented at the Sohn Investment conference and summed up his short call in the following manner (from Fortune):
 
-> In closing, Einhorn summed up his outlook by alluding to another f-word that sounds similar to "frack” but would not be appropriate to say in public. No matter what the oil price does, "the frackers are—,” Einhorn said, then pursed his lips and smiled mischievously before walking off stage.
+> In closing, Einhorn summed up his outlook by alluding to another f-word that sounds similar to "frack" but would not be appropriate to say in public. No matter what the oil price does, "the frackers are—," Einhorn said, then pursed his lips and smiled mischievously before walking off stage.
 
 If there is something I have learned over the years, it is that hedge funds travel in packs. Too often they are all doing the same &#8220;supposedly&#8221; brilliant trade. My guess is many of these hedge funds are short frackers and other oil names out the wazoo. I worry the recent rally is more a function of short covering than improving fundamentals.
 
@@ -81,7 +81,7 @@ As the price of their equity rallies, oil companies will issue stock into the de
 
 > The mountain of debt advanced to drillers in recent years is estimated to be in the neighborhood of $500 billion — some $300 billion in leveraged loans and another $200 billion in high yield debt. That's about 16% of the U.S. high yield debt market, quadruple its share a decade ago. That's a lot, even when weighed against the roughly $1.6 trillion in annual investment required to provide the people of the world with energy.
 > 
-> As analyst Ed Westlake at Credit Suisse summed up the trouble in a recent note: "in four years of $100/bbl oil, the global oil and gas industry has taken on a quarter of a trillion dollars in debt, has delivered zero production growth outside of North America and is facing a $1 trillion+ reduction in global revenues.”
+> As analyst Ed Westlake at Credit Suisse summed up the trouble in a recent note: "in four years of $100/bbl oil, the global oil and gas industry has taken on a quarter of a trillion dollars in debt, has delivered zero production growth outside of North America and is facing a $1 trillion+ reduction in global revenues."
 
 Although the energy stocks are rallying, the price of this debt has fallen and doesn&#8217;t look like it can get up. Here is the chart of the iBoxx USD Liquid High Yield Oil & Gas Index:
 
@@ -97,7 +97,7 @@ Yet over the past three years, an investor in the XLE index ETF has broken even,
 
 Smart investors like Oaktree&#8217;s Howard Marks and Omega Advisor&#8217;s Leon Cooperman are buying oil & gas debt. From Fortune:
 
-> Already, distressed debt investors like Oaktree Capital's billionaire Chairman Howard Marks are swooping down to start picking at the still warm carcasses. As Marks said in a letter to investors this week: "This cycle of easy issuance followed by defrocking has been behind the three debt crises that delivered the best buying opportunities in our 26 years in distressed debt.” He's reportedly raising billions to build funds to buy the debt of solid but overleveraged operators. 
+> Already, distressed debt investors like Oaktree Capital's billionaire Chairman Howard Marks are swooping down to start picking at the still warm carcasses. As Marks said in a letter to investors this week: "This cycle of easy issuance followed by defrocking has been behind the three debt crises that delivered the best buying opportunities in our 26 years in distressed debt." He's reportedly raising billions to build funds to buy the debt of solid but overleveraged operators. 
 
 I think this trade makes so much more sense than chasing oil & gas equities. Although I am bullish on oil, I think there is a lot more pain ahead for the industry. Buying the debt with a big yield seems like such a better risk reward than trying to see through the next up cycle with the equities. I suspect the rallies are going to be more a function of short covering than any real solid change in business. They will be sold into by the energy companies desperate for liquidity.
 

@@ -60,11 +60,11 @@ The first came to my attention in a terrific blog by Fred Wilson, a great VC who
 > 
 > Bill Gurley said this recently:
 > 
-> "I do think you'll see some dead unicorns this year”
+> "I do think you'll see some dead unicorns this year"
 > 
 > Mike Moritz said this recently:
 > 
-> "There are a considerable number of unicorns that will become extinct.”
+> "There are a considerable number of unicorns that will become extinct."
 
 Instead of just making a prediction of imminent doom, Fred explains _exactly_ why the boom is unsustainable.
 
@@ -74,13 +74,13 @@ Instead of just making a prediction of imminent doom, Fred explains _exactly_ wh
 > 
 > We have seen a tremendous number of high growth companies raising money this year with negative gross margins. Which means they sell something for less than it costs them to make it.
 > 
-> It can be an "on-demand” service provider that subsidizes the cost of the workers on its platform so that the service seems like it costs less than it actually does. Why would an on-demand startup take this approach? To build demand for the service, of course. The idea is get users hooked on a home cleaning service, a ridesharing service, a food delivery service, or a gym roaming service by bringing it to market at a price point that is highly attractive and then, once the users are truly hooked, take the price up.
+> It can be an "on-demand" service provider that subsidizes the cost of the workers on its platform so that the service seems like it costs less than it actually does. Why would an on-demand startup take this approach? To build demand for the service, of course. The idea is get users hooked on a home cleaning service, a ridesharing service, a food delivery service, or a gym roaming service by bringing it to market at a price point that is highly attractive and then, once the users are truly hooked, take the price up.
 > 
-> It can be a service provided to startups, like the ability to ship via an API, or the ability to process payments via an API, or the ability to pay your employees or give them benefits. All of these examples have a real cost component to them. They are not pure software. And there are providers in the market who are not passing through the true cost, in effect subsidizing the cost of the service, to gain market share. This results in fast growth but negative gross margins. Again, the companies that are doing this are hoping that once they get to scale and users are "locked in”, they can raise prices.
+> It can be a service provided to startups, like the ability to ship via an API, or the ability to process payments via an API, or the ability to pay your employees or give them benefits. All of these examples have a real cost component to them. They are not pure software. And there are providers in the market who are not passing through the true cost, in effect subsidizing the cost of the service, to gain market share. This results in fast growth but negative gross margins. Again, the companies that are doing this are hoping that once they get to scale and users are "locked in", they can raise prices.
 
 Yet Fred does not think the road to profitability will be smooth:
 
-> The thing that is wrong with this strategy is that taking prices up, or using your volume to drive costs down, in order to get to positive gross margins is a lot harder than most people think. If there are other startups competing with you and offering a similar service, you aren't going to be able to take prices up without losing customers to a similar competitor, unless your service truly has "lock in.” And most don't. Using volume to drive costs down can work, but if there are similar services out there, the provider who is being asked to take a cut by you might just move their supply over to another competitor offering a higher price.
+> The thing that is wrong with this strategy is that taking prices up, or using your volume to drive costs down, in order to get to positive gross margins is a lot harder than most people think. If there are other startups competing with you and offering a similar service, you aren't going to be able to take prices up without losing customers to a similar competitor, unless your service truly has "lock in." And most don't. Using volume to drive costs down can work, but if there are similar services out there, the provider who is being asked to take a cut by you might just move their supply over to another competitor offering a higher price.
 > 
 > The bottom line is the primary way this strategy works is if you obtain a monopoly position in your market and you are the only game in town for your customers and suppliers. But given the massive amount of startup capital that is out there and the endless number of entrepreneurs starting businesses similar to each other these days, I think it will be hard for most companies to achieve monopoly position (which is somewhat in conflict with what I wrote here the other day).
 > 

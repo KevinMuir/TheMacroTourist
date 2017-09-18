@@ -75,7 +75,7 @@ From the article:
 </p>
 
 <p style="padding-left: 30px;">
-  The economy's supply side has weakened, so there is little "slack” to tamp down price pressure. Both the labor force and productivity are growing at well below prerecession rates, which means that much of the disappointing pace of economic growth is due to a weaker supply-side to the economy. If so, then capacity constraints and cost pressures could emerge more quickly when growth picks up.
+  The economy's supply side has weakened, so there is little "slack" to tamp down price pressure. Both the labor force and productivity are growing at well below prerecession rates, which means that much of the disappointing pace of economic growth is due to a weaker supply-side to the economy. If so, then capacity constraints and cost pressures could emerge more quickly when growth picks up.
 </p>
 
 The hawks will argue that leaving rates at zero will do nothing more than fuel more financial asset gains. Yet Greg counters:

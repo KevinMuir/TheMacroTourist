@@ -28,7 +28,7 @@ I therefore missed yesterday's kerfuffle on CNBC between the Rick Santelli and S
 
 Watching the shouting match reaffirmed my desire to never tune into CNBC again, but I did find the vehemence of the bulls quite enlightening. The in-house economist Steve Liesman's confidence in which he dismissed Rick's concerns about the long run implications of the current monetary policy was evident throughout the clip:
 
-> "Your call for inflation, the destruction of the dollar, the failure of the US economy to rebound &#8211; Rick it is impossible for you to be more wrong. The higher interest rates never came, the inability of US to sell bonds never happened, the dollar never crashed. Their isn't a single prediction that has worked for you.”
+> "Your call for inflation, the destruction of the dollar, the failure of the US economy to rebound &#8211; Rick it is impossible for you to be more wrong. The higher interest rates never came, the inability of US to sell bonds never happened, the dollar never crashed. Their isn't a single prediction that has worked for you."
 
 I think this exchange can best be summed up by Tsachy Mishal's terrific tweet:
 
@@ -41,7 +41,7 @@ This sort of bear bashing only happens when the bulls are feeling confident… o
 
 Although I will admit that at times I have been a little too much in Santelli's camp in my worries about inflation, I am not sure that anybody should be taking victory laps about recent economic policies.
 
-Greenspan's easy monetary policy following the dotcom crash and the Bush tax cuts in the midst of two wars, delayed the disastrous economic consequences from the terrible policies of the early 2000s until 2007. I still remember Cheney saying in late 2002, "You know, Paul, Reagan proved deficits don't matter.” This arrogance from Cheney set the tone for a series of policies that for the longest time seemed to fly in the face of the economic worry warts. But of course everyone with half a brain knew that deficits do matter, and that you cannot simply print and spend your way to prosperity.
+Greenspan's easy monetary policy following the dotcom crash and the Bush tax cuts in the midst of two wars, delayed the disastrous economic consequences from the terrible policies of the early 2000s until 2007. I still remember Cheney saying in late 2002, "You know, Paul, Reagan proved deficits don't matter." This arrogance from Cheney set the tone for a series of policies that for the longest time seemed to fly in the face of the economic worry warts. But of course everyone with half a brain knew that deficits do matter, and that you cannot simply print and spend your way to prosperity.
 
 Economic consequences take a long time to reveal themselves. Yes, you can fake it for a while, but eventually math is math, and the numbers don't lie.
 
@@ -57,7 +57,7 @@ A week or so ago I aggressively shorted equity futures, adding a S&P 500 and Nas
 
 The bid in the US equity market has been relentless. Although I am not getting less bearish by any means, I am going to play a little defence with my portfolio.
 
-I might not agree with the US market's resilience, but there is no reason arguing with it. There is a trading axiom that goes something like this &#8211; "a good trader would rather make money than be right.” Well, let's hope this is a step in the direction of being a good trader and not simply flailing around making more of a mess of my position. Yesterday I covered the futures portion of my US stock market short (I left my long put position intact) and replaced it with a short European stock index short.
+I might not agree with the US market's resilience, but there is no reason arguing with it. There is a trading axiom that goes something like this &#8211; "a good trader would rather make money than be right." Well, let's hope this is a step in the direction of being a good trader and not simply flailing around making more of a mess of my position. Yesterday I covered the futures portion of my US stock market short (I left my long put position intact) and replaced it with a short European stock index short.
 
 The US stock market refuses to show any signs of weakness, but across the Atlantic stocks are definitely weighing heavily.
 
@@ -69,7 +69,7 @@ I have long been a European stock market bear, and in fact I am already short. W
 
 Dennis Gartman has a line that he uses all the time in his newsletter about throwing bricks into the wettest paper bag. Although I find that Dennis too often chases markets and ends up buying false breakouts or selling holes, I agree in principle that you are better off being short the weakest market.
 
-So I hope I am not pulling a "Gartman” and selling the hole of the recent European stock market weakness. I feel that the US stock market strength is simply too hard work being short and would rather move it over to the "easier” market. For those that are bearish on US stocks and have been waiting for the sign to add, my giving up on the short futures portion of my position might be the all clear sign. Go ahead and add to your short &#8211; when mopes like me are giving up fighting it, you know you are getting
+So I hope I am not pulling a "Gartman" and selling the hole of the recent European stock market weakness. I feel that the US stock market strength is simply too hard work being short and would rather move it over to the "easier" market. For those that are bearish on US stocks and have been waiting for the sign to add, my giving up on the short futures portion of my position might be the all clear sign. Go ahead and add to your short &#8211; when mopes like me are giving up fighting it, you know you are getting
   
 close to the top.
 
@@ -100,7 +100,7 @@ After being burned by her reluctance to even acknowledge the risks from her easy
 
 At this point, I think the markets' are fully aware of the full extent of Yellen irresponsible dovishness. In the recent New Yorker profile the money quote from Yellen was;
 
-> "And so even when the headwinds have diminished to the point where the economy is finally back on track and it's where we want it to be, it's still going to require an unusually accommodative monetary policy.”
+> "And so even when the headwinds have diminished to the point where the economy is finally back on track and it's where we want it to be, it's still going to require an unusually accommodative monetary policy."
 
 There is no excuse for the market to make the same mistake this time. There is _no way they can be expecting Yellen to be anything but extremely easy._
 
@@ -108,7 +108,7 @@ Therefore you need to ask yourself where today's surprise will come from. I gues
 
 But there is also a chance that her continuation of refusing to acknowledge the risks to the upside actually backfires and worries investors.
 
-I think we are hitting a point where the market might realize the true cluelessness of the Fed. Don't forget [David Einhorn's $250,000 lunch with Bernanke](http://gfbblogs.azurewebsites.net/blog/2014/05/08/may-0814-einhorn-easily-frightened-not-a-chance/) where he was frightened by the lack of a plan from the former head of the Fed. Investors are mistakenly assuming that the Fed knows what they are doing. This massive expansion of their balance sheet is one huge giant science experiment that could easily go wrong. The lack of hubris from the head of the FOMC about this possibility is indeed frightening. At a certain point the refusal to acknowledge these risks will be market negative. We have seen small signs of this sort of reaction, but so far it has been muted. I expect "the Fed has no clue what they are doing” sell reaction to pick up in the coming months.
+I think we are hitting a point where the market might realize the true cluelessness of the Fed. Don't forget [David Einhorn's $250,000 lunch with Bernanke](http://gfbblogs.azurewebsites.net/blog/2014/05/08/may-0814-einhorn-easily-frightened-not-a-chance/) where he was frightened by the lack of a plan from the former head of the Fed. Investors are mistakenly assuming that the Fed knows what they are doing. This massive expansion of their balance sheet is one huge giant science experiment that could easily go wrong. The lack of hubris from the head of the FOMC about this possibility is indeed frightening. At a certain point the refusal to acknowledge these risks will be market negative. We have seen small signs of this sort of reaction, but so far it has been muted. I expect "the Fed has no clue what they are doing" sell reaction to pick up in the coming months.
 
 <hr size="3" width="85%" />
 

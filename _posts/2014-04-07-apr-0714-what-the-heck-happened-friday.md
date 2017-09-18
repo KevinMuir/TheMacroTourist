@@ -28,7 +28,7 @@ For the first hour the stock market was relatively well behaved. The stock marke
 
 It was quickly clear was that the Nasdaq was leading the move lower. Many times during the morning it looked like the S&P 500 was going to stabilize and attempt to move higher, but then the large selling in the Nasdaq returned and overwhelmed any hope of a rally in the rest of the market.
 
-There is only one reason for this terrible action &#8211; the hedge funds and other aggressive portfolio managers were way more over levered to the high flying momentum stocks than I thought. I have previously spoken about this over exposure and I even started selling naked calls on these stocks, but I was wrong in assuming they would simply trade "on the heavy side” for the next few months.
+There is only one reason for this terrible action &#8211; the hedge funds and other aggressive portfolio managers were way more over levered to the high flying momentum stocks than I thought. I have previously spoken about this over exposure and I even started selling naked calls on these stocks, but I was wrong in assuming they would simply trade "on the heavy side" for the next few months.
 
 I underestimated how much speculation was occurring in these names, and therefore did not discount correctly the possibility of a large hedge fund liquidation.
 
@@ -50,7 +50,7 @@ However, over the last month the two indexes have _gone in completely opposite d
 
 No one knows what to make of this sort of action because it has never happened.
 
-Whereas a month ago, these hedge funds were falling all over themselves with bullish prognostications (one newsletter I read summed it up as you needed to be long anything that was a "gifted and talented” camp as the sky was the limit for these type of people), my research and twitter feed are now filled with these aggressive traders leaning quite hard on the short side. I am not one known for being slow to switch sides, but even I find it amazing how quickly they have all jumped to the other side of the boat.
+Whereas a month ago, these hedge funds were falling all over themselves with bullish prognostications (one newsletter I read summed it up as you needed to be long anything that was a "gifted and talented" camp as the sky was the limit for these type of people), my research and twitter feed are now filled with these aggressive traders leaning quite hard on the short side. I am not one known for being slow to switch sides, but even I find it amazing how quickly they have all jumped to the other side of the boat.
 
 And herein lies the real question that you need to ask yourself. Is this decline in the last month the start of something more ominous, or is it simply a much needed correction in the high flying names that were bid up too high?
 
@@ -62,11 +62,11 @@ This morning, I am leaning long &#8211; for a trade only and I am not going to p
 
 I am always cognizant to the fact that the Monday morning of the 1987 crash we opened down, which many professionals bought. However, the selling only intensified and anyone who dug their heels in was crushed. The current stock market environment is like the final stages of musical chairs. At the beginning of the game, your chances of getting a chair was fairly high, but now that we are approaching the end, and the removal of a chair means an increasingly higher percentage chance of not finding a chair to sit down on.
 
-My only salvation is that this morning, I see that many aggressive traders are puking, with even the "legendary” Dennis Gartman reporting that he reduced his stock market exposure to neutral given the fact that "risk happens quickly” and now Gartman sees the need for safety.
+My only salvation is that this morning, I see that many aggressive traders are puking, with even the "legendary" Dennis Gartman reporting that he reduced his stock market exposure to neutral given the fact that "risk happens quickly" and now Gartman sees the need for safety.
 
-Gee, wasn't this the same "legendary” Gartman who was just a week ago advocating "aggressive” long positions in equities? Thanks for that insight about risk happening quickly. It happens especially quickly today when all you hedge funds take the same side of every trade.
+Gee, wasn't this the same "legendary" Gartman who was just a week ago advocating "aggressive" long positions in equities? Thanks for that insight about risk happening quickly. It happens especially quickly today when all you hedge funds take the same side of every trade.
 
-I am not nearly as smart (or "legendary”) as Gartman, but I think that he is a perfect barometer for the hedge fund community.
+I am not nearly as smart (or "legendary") as Gartman, but I think that he is a perfect barometer for the hedge fund community.
 
 And although I am not suggesting that you should aggressively get long equities, I think there is a good chance that this latest correction is not nearly as ominous as they all now think, and is instead just a cleansing of their over leveraged positions. Remember &#8211; the current environment is akin to a bunch of hedge funds sitting around in a circle shooting at the market. If they are now hugely bearish, at the very least you want to avoid climbing aboard their crowded train.
 

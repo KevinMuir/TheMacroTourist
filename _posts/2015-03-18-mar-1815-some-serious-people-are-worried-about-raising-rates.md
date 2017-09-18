@@ -24,11 +24,11 @@ tags:
 Usually IMF Head Christine Lagarde is too busy hobnobbing with the financial elite to take time out to issue warnings about the financial markets, but yesterday she cautioned US rate increases could trigger instability in emerging markets:
 
 <p style="padding-left: 30px;">
-  The head of the International Monetary Fund warned on Tuesday that emerging markets are set to face a renewed period of economic instability when US interest rates rise this year, forecasting a repeat of 2013's damaging "taper tantrum” episode of capital flight and rapid currency depreciation.<br /> The IMF chief said she feared that negative "spillover” effects from these increases would lead to a re-run of the crisis that hit developing economies such as India and Turkey nearly two years ago, following hints from then Fed chair Ben Bernanke about an early end to the institution's bond purchasing programme known as quantitative easing.
+  The head of the International Monetary Fund warned on Tuesday that emerging markets are set to face a renewed period of economic instability when US interest rates rise this year, forecasting a repeat of 2013's damaging "taper tantrum" episode of capital flight and rapid currency depreciation.<br /> The IMF chief said she feared that negative "spillover" effects from these increases would lead to a re-run of the crisis that hit developing economies such as India and Turkey nearly two years ago, following hints from then Fed chair Ben Bernanke about an early end to the institution's bond purchasing programme known as quantitative easing.
 </p>
 
 <p style="padding-left: 30px;">
-  "I am afraid this may not be a one-off episode,” Ms Lagarde said. "The timing of interest rate lift-off and the pace of subsequent rate increases can still surprise markets. The danger is that vulnerabilities that build up during a period of very accommodative monetary policy can unwind suddenly when such policy is reversed, creating substantial market volatility.”
+  "I am afraid this may not be a one-off episode," Ms Lagarde said. "The timing of interest rate lift-off and the pace of subsequent rate increases can still surprise markets. The danger is that vulnerabilities that build up during a period of very accommodative monetary policy can unwind suddenly when such policy is reversed, creating substantial market volatility."
 </p>
 
 I am not one to worry about government officials&#8217; concerns as by the time they have admitted there is a problem, it is often almost over. 
@@ -68,7 +68,7 @@ Yet here we are; with easy money once again fuelling another boom (in financial 
 </p>
 
 <p style="padding-left: 30px;">
-  Why the drama? We don't have to drag out this situation.”
+  Why the drama? We don't have to drag out this situation."
 </p>
 
 <p style="padding-left: 30px;">

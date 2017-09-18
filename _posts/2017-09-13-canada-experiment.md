@@ -82,7 +82,7 @@ Bernanke and the other academics believe this makes for better monetary policy. 
 
 Well, Bank of Canada Governor Poloz is willing to take the other side of this view.  Arguing that in normal times, there is no need for such guidance;
 
->"Offering instead full transparency on the risks that the central bank is weighing causes the market to assess new information more or less as the central bank does; and because every data point can give rise to a debate between economists, the market remains two-way and less vulnerable to unusual leveraging and volatile shifts in sentiment,”
+>"Offering instead full transparency on the risks that the central bank is weighing causes the market to assess new information more or less as the central bank does; and because every data point can give rise to a debate between economists, the market remains two-way and less vulnerable to unusual leveraging and volatile shifts in sentiment,"
 
 Bingo!  Knowing monetary policy in advance encourages excessive leveraging.  **The system needs risk, and Poloz understands this.**
 
@@ -98,7 +98,7 @@ Bloomberg reporter Luke Kawa wrote a **[terrific article](https://www.bloomberg.
 
 >It's a throwback to the way central bankers used to operate in the 1980s and 1990s, when policy shifts could be made on any business day, without warning. The Bank of Canada didn't adopt fixed announcement dates until the new millennium.
 
->"It's bringing monetary policy back to what it was 20 years ago -- no bells and whistles, just a decision and a statement,” said Christopher Ragan, associate professor of economics at McGill University and former special adviser at the bank.
+>"It's bringing monetary policy back to what it was 20 years ago -- no bells and whistles, just a decision and a statement," said Christopher Ragan, associate professor of economics at McGill University and former special adviser at the bank.
 
 >Nicholas Rowe, associate professor of economics at Carleton University, agrees. "If it weren't for the fact that interest rates are quite a bit lower than they were 15 years ago, everything about this does look quite normal," said Rowe, who's also a member of the C.D. Howe Monetary Policy Shadow Council.
 
@@ -112,25 +112,25 @@ Bloomberg reporter Luke Kawa wrote a **[terrific article](https://www.bloomberg.
 
 >"He genuinely prefers central banks to not provide forward guidance and for markets not to expect moves only at Monetary Policy Reports," said Frances Donald, senior economist at Manulife Asset Management Ltd.
 
->In a 2014 discussion paper announcing the end of formal forward guidance by the Bank, Poloz outlined the benefits of moving away from such an approach "in normal times,” echoing a 2010 argument advanced by former Deputy Governor David Longworth.
+>In a 2014 discussion paper announcing the end of formal forward guidance by the Bank, Poloz outlined the benefits of moving away from such an approach "in normal times," echoing a 2010 argument advanced by former Deputy Governor David Longworth.
 
->"Offering instead full transparency on the risks that the central bank is weighing causes the market to assess new information more or less as the central bank does; and because every data point can give rise to a debate between economists, the market remains two-way and less vulnerable to unusual leveraging and volatile shifts in sentiment,” he wrote.
+>"Offering instead full transparency on the risks that the central bank is weighing causes the market to assess new information more or less as the central bank does; and because every data point can give rise to a debate between economists, the market remains two-way and less vulnerable to unusual leveraging and volatile shifts in sentiment," he wrote.
 
 >The jury's still out on whether the era of enhanced transparency and increased communication on the part of central bankers since the financial crisis has sufficiently improved economic outcomes or reduced uncertainty.
 
->"I'm not sure that telegraphing everything to the nth degree is appropriate when the data's changing all the time,” said James Price, director of capital markets products at Richardson GMP Ltd., who recalls cutting his teeth in the industry during the late 1990s when the Bank of Canada delivered a surprise 100 basis point hike amid the Russian financial crisis.
+>"I'm not sure that telegraphing everything to the nth degree is appropriate when the data's changing all the time," said James Price, director of capital markets products at Richardson GMP Ltd., who recalls cutting his teeth in the industry during the late 1990s when the Bank of Canada delivered a surprise 100 basis point hike amid the Russian financial crisis.
 
 >In stark contrast to Canadian monetary officials -- who speak with one voice -- members of the Federal Reserve Open Market Committee often chart courses that do more to confound than inform market-watchers.
 
->"In one day, Bill Dudley and Esther George are telling us they're happy to raise rates again, then Lael Brainard's out the next saying no -- and you're telling me that the Fed communication strategy should be a model for everyone else?” said David Rosenberg, chief economist and strategist at Gluskin Sheff + Associates. "Give me a break!”
+>"In one day, Bill Dudley and Esther George are telling us they're happy to raise rates again, then Lael Brainard's out the next saying no -- and you're telling me that the Fed communication strategy should be a model for everyone else?" said David Rosenberg, chief economist and strategist at Gluskin Sheff + Associates. "Give me a break!"
 
 >In any case, too much certainty about the future of monetary policy may sow the seeds for financial instability. Tobias Adrian and Hyun Song Shin, in a paper presented at the 2008 Jackson Hole Symposium, made the case forward guidance could prove counterproductive for a central bank that's looking to smooth the business cycle.
 
->"If central bank communication compresses the uncertainty around the path of future short rates, the risk of taking on long-lived assets financed by short-term debt is compressed,” they wrote, warning that this could potentially increase the odds of a "disorderly unwinding” at the end of the cycle.
+>"If central bank communication compresses the uncertainty around the path of future short rates, the risk of taking on long-lived assets financed by short-term debt is compressed," they wrote, warning that this could potentially increase the odds of a "disorderly unwinding" at the end of the cycle.
 
 >To be sure, Poloz's team simply doesn't have as much to talk about as their counterparts in the U.S. or Europe, who made extensive use of asset purchases as well as rate cuts to provide monetary stimulus in the wake of the financial and sovereign debt crises. And in this case, the complete lack of communication between hikes may have been a product of the fact that the central bank was in a blackout period when the blockbuster growth numbers landed.
 
->"All central bankers would like to get back to a time when monetary policy was normal," said Ragan. "And monetary policy is normal when it's boring.”
+>"All central bankers would like to get back to a time when monetary policy was normal," said Ragan. "And monetary policy is normal when it's boring."
 
 The recent Bank of Canada rate hike was nowhere near priced into the market.  Have a look at the chart of the Canadian short term interest rate future for December 2017, along with the USDCAD rate.
 

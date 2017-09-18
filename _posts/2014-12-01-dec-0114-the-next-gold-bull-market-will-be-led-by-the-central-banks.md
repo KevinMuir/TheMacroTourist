@@ -35,7 +35,7 @@ The Germans have already set in motion a program of bringing a portion of their 
 
 And the leader of the French right wing National Party, who is currently polling more favourably than the current President, wrote a letter to the Central Bank of France that demanded the French gold be repatriated back to France. Here is some translated highlights according to Forbes:
 
-> [The monetary institution that you lead has historically served as the reserve central bank for France's monetary and gold reserves. In our strategic and sovereign vision, these do not belong to the state, nor the Bank of France, but to the French people, which serve as the ultimate guarantee of public debt and our money],” she wrote.  
+> [The monetary institution that you lead has historically served as the reserve central bank for France's monetary and gold reserves. In our strategic and sovereign vision, these do not belong to the state, nor the Bank of France, but to the French people, which serve as the ultimate guarantee of public debt and our money]," she wrote.  
 > Not only does Le Pen want to see the gold back in France but she also recommended that the central bank take advantage of the recent price drop and buy more gold, boosting reserves by another 20%. She also recommends that the central bank never sell its gold reserves.</p> 
 Although I understand why my twitter feed of traders is all beared on gold, it has after all been going down for the past three years pretty consistently, it is quite a different story out of the world&#8217;s Central Banks. They claim that gold doesn&#8217;t matter, yet they continue to hold it. They say that the system is stable and they all trust one another, yet they are asking for their gold to be sent home. 
 

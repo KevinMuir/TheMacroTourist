@@ -16,13 +16,13 @@ featured: true
 
 The other day, fabled hedge fund manager Paul Tudor Jones made headlines when he issued a bold warning to Janet Yellen & Co. (from Bloomberg):
 
->The legendary macro trader says that years of low interest rates have bloated stock valuations to a level not seen since 2000, right before the Nasdaq tumbled 75 percent over two-plus years. That measure -- the value of the stock market relative to the size of the economy -- should be "terrifying” to a central banker, Jones said earlier this month at a closed-door Goldman Sachs Asset Management conference, according to people who heard him.
+>The legendary macro trader says that years of low interest rates have bloated stock valuations to a level not seen since 2000, right before the Nasdaq tumbled 75 percent over two-plus years. That measure -- the value of the stock market relative to the size of the economy -- should be "terrifying" to a central banker, Jones said earlier this month at a closed-door Goldman Sachs Asset Management conference, according to people who heard him.
 
 >Jones is voicing what many hedge fund and other money managers are privately warning investors: Stocks are trading at unsustainable levels. A few traders are more explicit, predicting a sizable market tumble by the end of the year.
 
 Nothing really new there.  A bunch of smart hedgies have recently been ringing the alarm bell.  What was interesting is ***how*** Jones thought a crash would manifest itself (from Dealbreaker):
 
->While the billionaire didn't say when a market turn might come, or what the magnitude of the fall might be, he did pinpoint a likely culprit.  Just as portfolio insurance caused the 1987 rout, he says, the new danger zone is the half-trillion dollars in risk parity funds. These funds aim to systematically spread risk equally across different asset classes by putting more money in lower volatility securities and less in those whose prices move more dramatically.  Because risk-parity funds have been scooping up equities of late as volatility hit historic lows, some market participants, Jones included, believe they'll be forced to dump them quickly in a stock tumble, exacerbating any decline.  Risk parity,” Jones told the Goldman audience, "will be the hammer on the downside.”
+>While the billionaire didn't say when a market turn might come, or what the magnitude of the fall might be, he did pinpoint a likely culprit.  Just as portfolio insurance caused the 1987 rout, he says, the new danger zone is the half-trillion dollars in risk parity funds. These funds aim to systematically spread risk equally across different asset classes by putting more money in lower volatility securities and less in those whose prices move more dramatically.  Because risk-parity funds have been scooping up equities of late as volatility hit historic lows, some market participants, Jones included, believe they'll be forced to dump them quickly in a stock tumble, exacerbating any decline.  Risk parity," Jones told the Goldman audience, "will be the hammer on the downside."
 
 <a href="http://themacrotourist.com/images/2017/05/JonesMay0217.png"><img src="http://themacrotourist.com/images/2017/05/JonesMay0217.png" alt="http://themacrotourist.com/images/2017/05/JonesMay0217.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
@@ -30,9 +30,9 @@ Whoa!  That's a pretty big indictment of risk parity.  Them' sounds like fight'n
 
 Of course the risk parity folks rushed to refute Jones' forecast, assuring us there was no way risk parity would cause the next crash (from Bloomberg):
 
->For AQR Capital Management LLC, a giant in the risk parity field, the concerns are overblown, with any selling forced by the strategy having an "utterly trivial” impact on the $23 trillion U.S. equity market.
+>For AQR Capital Management LLC, a giant in the risk parity field, the concerns are overblown, with any selling forced by the strategy having an "utterly trivial" impact on the $23 trillion U.S. equity market.
 
->"There are scenarios in which risk parity funds sell equities, but the possible magnitude of that is very small,” said Michael Mendelson, a risk-parity portfolio manager at AQR."Some reports have grossly exaggerated the potential impact.”
+>"There are scenarios in which risk parity funds sell equities, but the possible magnitude of that is very small," said Michael Mendelson, a risk-parity portfolio manager at AQR."Some reports have grossly exaggerated the potential impact."
 
 Far be it from me to get in between these hedge fund heavyweights, but I respectfully suspect they might both be wrong.  
 

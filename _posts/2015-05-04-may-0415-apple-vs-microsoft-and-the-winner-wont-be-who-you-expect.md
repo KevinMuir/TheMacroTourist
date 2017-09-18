@@ -91,7 +91,7 @@ So we have the first non-Steve Jobs product launch, which the market will soon r
 This is at a time when risks are increasing. Recently Apple made a filing about the recent developments in the EU regarding their Irish tax shelter strategy. From the FT:
 
 <p style="padding-left: 30px;">
-  Apple has warned investors that it could face "material” financial penalties from the European Commission's investigation into its tax deals with Ireland — the first time it has disclosed the potential consequences of the probe.
+  Apple has warned investors that it could face "material" financial penalties from the European Commission's investigation into its tax deals with Ireland — the first time it has disclosed the potential consequences of the probe.
 </p>
 
 <p style="padding-left: 30px;">
@@ -111,7 +111,7 @@ This is at a time when risks are increasing. Recently Apple made a filing about 
 </p>
 
 <p style="padding-left: 30px;">
-  Apple said in the filing: "If the European Commission were to conclude against Ireland, it could require Ireland to recover from the company past taxes covering a period of up to 10 years reflective of the disallowed state aid, and such amount could be material.”
+  Apple said in the filing: "If the European Commission were to conclude against Ireland, it could require Ireland to recover from the company past taxes covering a period of up to 10 years reflective of the disallowed state aid, and such amount could be material."
 </p>
 
 The market quickly glossed over this development, but when the authorities start going after you, it is the beginning of the end.

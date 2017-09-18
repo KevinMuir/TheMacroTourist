@@ -18,13 +18,13 @@ tags:
   - economics
   - inflation
 ---
-I am an ardent believer of the trading axiom that "if everyone knows something, then no one knows anything.” Too many times I have seen the market do the exact opposite of what everyone believed "had to happen.”
+I am an ardent believer of the trading axiom that "if everyone knows something, then no one knows anything." Too many times I have seen the market do the exact opposite of what everyone believed "had to happen."
 
 Although I struggle with the problem of fading way too many moves, I have always made my really big money putting trades on at points where consensus was firmly against me.
 
 Therefore part of my daily routine is to continually ask myself; what is the market is expecting and where might consensus be wrong? If I can find points where participants are overly confident of an outcome occurring, then I can enter the trade with a favourable risk reward profile. I might still be wrong, but hopefully the fact that the market had largely priced in that outcome, it doesn't cost me too much.
 
-I think that we are currently in one of those periods where participants are "sure” of an outcome that is not nearly as certain as they have priced in.
+I think that we are currently in one of those periods where participants are "sure" of an outcome that is not nearly as certain as they have priced in.
 
 The investing community is convinced that the global economy is rolling over and that there is very little chance that economic growth or inflation will meaningfully pick up in the coming quarters. We see this manifest itself in the form of lower bond market yields, flatter yield curves, a move from emerging markets to developed markets and a selling of commodity currencies.
 
@@ -74,7 +74,7 @@ The possibility that the weather did indeed greatly affect the economy over the 
 
 If over the next couple of months the economy revives, many market participants are going to be caught extremely flat footed and the moves in financial markets are going to be outsized.
 
-At this point you might be willing to concede that the market has priced in a continued economic deterioration, but you will say that this is for good reason &#8211; there has been no signs anywhere of a significant economic uptick. This has been one of the slowest recoveries on record and it indeed appears that the developed economies have hit the dreaded "pushing on a string” point. The authorities are unable to create demand and the money they push into the system just sits idly by as excess reserves in the banking system.
+At this point you might be willing to concede that the market has priced in a continued economic deterioration, but you will say that this is for good reason &#8211; there has been no signs anywhere of a significant economic uptick. This has been one of the slowest recoveries on record and it indeed appears that the developed economies have hit the dreaded "pushing on a string" point. The authorities are unable to create demand and the money they push into the system just sits idly by as excess reserves in the banking system.
 
 Well, I believe that we have finally bottomed in terms of the ever decreasing money velocity and that we are about to see an uptick in inflation.
 

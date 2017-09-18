@@ -98,7 +98,7 @@ Remember the US sequestration cuts? They were part of the reason that Bernanke f
 </p>
 
 <p style="padding-left: 30px;">
-  "Get to work Mr. Chairman,” he said to Bernanke.
+  "Get to work Mr. Chairman," he said to Bernanke.
 </p>
 
 Fiscal policy has been working against monetary policy for some time now. 

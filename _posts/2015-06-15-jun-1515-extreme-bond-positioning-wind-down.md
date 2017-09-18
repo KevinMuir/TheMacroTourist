@@ -70,7 +70,7 @@ And it&#8217;s not just Niels that has come to this conclusion. From Bloomberg:
 </p>
 
 <p style="padding-left: 30px;">
-  "It seems very much as if it was extreme positioning being unwound,” Simon Smiles, chief investment officer for ultra-high-net-worth individuals at UBS Group AG in London, said in an interview on Bloomberg Television's "Countdown” with Anna Edwards.
+  "It seems very much as if it was extreme positioning being unwound," Simon Smiles, chief investment officer for ultra-high-net-worth individuals at UBS Group AG in London, said in an interview on Bloomberg Television's "Countdown" with Anna Edwards.
 </p>
 
 The deflationary scramble into European debt drove bond yields to asinine stupid low levels. Don&#8217;t forget about the crazy research calls that were littering the street during this period. This gem from Citi summed it up perfectly:
@@ -90,7 +90,7 @@ So the real question is whether this unwind is the start of a new bear market in
 Niels wisely observed in a previous piece:
 
 <p style="padding-left: 30px;">
-  "I don't expect interest rates to make a dramatic move upwards for many years to come. However, lessons from Japan have taught me that, even if rates stay comparatively low, they can easily move 0.5-1.0% over a relatively short period of time, and a 1% move in the wrong direction can do a lot of damage to the P&L.”
+  "I don't expect interest rates to make a dramatic move upwards for many years to come. However, lessons from Japan have taught me that, even if rates stay comparatively low, they can easily move 0.5-1.0% over a relatively short period of time, and a 1% move in the wrong direction can do a lot of damage to the P&L."
 </p>
 
 I don&#8217;t know if I agree with him about the long term safety of rates staying low, but I definitely agree that it doesn&#8217;t take much for some real damage to be done to the P&L. This bond decline has started to feed on itself, and the backup in yields is not the result of improving fundamental economic conditions, but simply a correction in the extreme positioning.

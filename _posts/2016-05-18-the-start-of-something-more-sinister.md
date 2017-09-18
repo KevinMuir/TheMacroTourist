@@ -31,7 +31,7 @@ First there was Lockhart.  From an interview in the FT:
 
 >Financial markets are being overly pessimistic about the US outlook and may underestimate the chances of an interest-rate increase as soon as June, according to a senior Federal Reserve official.
 
->Dennis Lockhart, the president of the Atlanta Fed, said recent inflation readings had been "encouraging” while early signs pointed to growth rebounding from a soft first quarter, meaning that June should be a possibility for a move.
+>Dennis Lockhart, the president of the Atlanta Fed, said recent inflation readings had been "encouraging" while early signs pointed to growth rebounding from a soft first quarter, meaning that June should be a possibility for a move.
 
 Then Williams followed up with comments suggesting inflation was higher than the economic releases suggested:
 
@@ -51,7 +51,7 @@ Finally, if that wasn't enough, rumours of a think tank report circulated throug
 
 >"Hearing a think tank report is out there concerning the Fed and a messaging offensive to brace the market for a June move. Makes a certain amount of sense. Heard there is a piece out by Hilsenrath also talking about the disconnect between what Fed officials are saying and what market expects. Seems the market is being warned." (IFR)
 
->"NY Think Tank..suggesting the FEDs messaging offensive is underway, culminating with Yellen's speaking engagement scheduled for 5/27 and 6/6 which is intended to move the markets pricing for a June hike. " (MNI, but they emphasize "do NOT know source here. handle with care”
+>"NY Think Tank..suggesting the FEDs messaging offensive is underway, culminating with Yellen's speaking engagement scheduled for 5/27 and 6/6 which is intended to move the markets pricing for a June hike. " (MNI, but they emphasize "do NOT know source here. handle with care"
 
 That's all it took.  With visions of January in their heads, investors hit the sell button.  And I don't blame them.
 

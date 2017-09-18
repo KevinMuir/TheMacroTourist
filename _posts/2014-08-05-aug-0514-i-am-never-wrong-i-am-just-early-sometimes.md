@@ -40,7 +40,7 @@ According to Bloomberg:
 
 This makes perfect sense. The Hong Kong dollar is pegged to the US dollar so the Russians are able to maintain exposure to the world&#8217;s largest currency without the direct threat of confiscation. 
 
-> "Keeping money in Hong Kong dollars is essentially equivalent to keeping it in U.S. dollars because of the currency peg,” said Vladimir Osakovskiy, chief economist of Bank of America Corp.'s Russian unit. "Still, for Russian companies it's much safer from the standpoint of sanctions.”
+> "Keeping money in Hong Kong dollars is essentially equivalent to keeping it in U.S. dollars because of the currency peg," said Vladimir Osakovskiy, chief economist of Bank of America Corp.'s Russian unit. "Still, for Russian companies it's much safer from the standpoint of sanctions."
 
 From a Russian point of view the Hong Kong dollar is a perfect escape mechanism for their capital. 
 

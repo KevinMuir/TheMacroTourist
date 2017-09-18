@@ -51,7 +51,7 @@ But that's not including the TLTRO program which has been labelled TLTRO II.  Th
 
 The ECB has countered this by making this second TLTRO even more attractive.  The Economist had a great article highlighting the differences with the new program:
 
->Amid the volley of tricks Mario Draghi, the president of the European Central Bank (ECB), deployed earlier this month to revive the sluggish euro-zone economy, "targeted longer-term refinancing operations”, or TLTROs, received little attention. For one thing, the ECB has been trying TLTROs (extending cheap credit to banks that boost lending to businesses) since 2014. Moreover, next to ever-more-negative interest rates and ever-bigger bond purchases, TLTROs seemed mundane. But if you look at the fine print, the ECB is offering to pay banks to lend.
+>Amid the volley of tricks Mario Draghi, the president of the European Central Bank (ECB), deployed earlier this month to revive the sluggish euro-zone economy, "targeted longer-term refinancing operations", or TLTROs, received little attention. For one thing, the ECB has been trying TLTROs (extending cheap credit to banks that boost lending to businesses) since 2014. Moreover, next to ever-more-negative interest rates and ever-bigger bond purchases, TLTROs seemed mundane. But if you look at the fine print, the ECB is offering to pay banks to lend.
 
 >To encourage credit growth, the ECB has been charging banks for parking excess reserves with it (those negative interest rates). The new TLTRO II scheme is supposed to increase the incentive to lend, by returning some of the money the ECB is making in this way to banks that increase their stock of corporate loans. Those that raise their lending above a certain target will be paid as much as 0.4% to borrow from the ECB, with the precise rate depending on how liberally they splash the ECB's money around.
 
@@ -61,7 +61,7 @@ The ECB has countered this by making this second TLTRO even more attractive.  Th
 
 >Mr Draghi is taking few chances with the new, beefed up, TLTRO II. Whereas TLTRO I loans have to be repaid by September 2018, irrespective of when they were made, TLTRO II loans will last four years from the date of issuance. TLTRO I loans can also be called in if the borrower fails to meet its lending target; TLTRO II loans will not be recalled, and the interest on them will not rise above 0%, even if lending targets are not met. And banks will be eligible to borrow far more: TLTRO I limits the loans on offer to 7% of a bank's outstanding corporate credit; under TLTRO II the cap will be raised to 30%.
 
->Marco Stringa of Deutsche Bank notes that TLTRO II even offers banks protection against speculative attack, as they will be able to use the cash to buy back their own bonds if necessary. Credit Suisse summarised the scheme's conditions as "extremely favourable”, and added: "We expect markets to notice, eventually.”
+>Marco Stringa of Deutsche Bank notes that TLTRO II even offers banks protection against speculative attack, as they will be able to use the cash to buy back their own bonds if necessary. Credit Suisse summarised the scheme's conditions as "extremely favourable", and added: "We expect markets to notice, eventually."
 
 Stop and think about this for a second.  The ECB *already has in place a QE program slightly larger than the biggest US program*, and on top of that, they are lending money to banks on locked in basis for 4 years at a negative rate!  The banks are literally being paid to expand credit!
 
@@ -73,7 +73,7 @@ The US had a similar program in the depths of the 2008 credit crisis, albeit it 
 
 >ST OMO is the last known Fed crisis lending program to have its details made public. The central bank resisted previous FOIA requests on emergency lending for more than two years, disclosing details in March of its oldest loan facility, the discount window, only after the U.S. Supreme Court ruled it had to. When Congress mandated the December 2010 release of data on special initiatives the Fed created in its unprecedented $3.5 trillion response to the 2007-2009 collapse in credit markets, ST OMO -- an expansion of a longstanding program -- wasn't included.
 
->"The Fed has come a long way over a long period of time as far as transparency,” said Raymond W. Stone, managing director and economist with Stone & McCarthy Research Associates in Princeton, New Jersey. "They thought counterparties might be harmed, but now so much time has passed that the information is not as sensitive anymore.”
+>"The Fed has come a long way over a long period of time as far as transparency," said Raymond W. Stone, managing director and economist with Stone & McCarthy Research Associates in Princeton, New Jersey. "They thought counterparties might be harmed, but now so much time has passed that the information is not as sensitive anymore."
 
 Although I am as critical of Goldman's hypocrispy as the next guy (they are definitely not doing God's work), I harbor no ill will for their use of this program.  The Fed *wanted banks to take the money.*  The fact everyone else was too chicken shit to strap it on like Goldman was their own fault.  
 

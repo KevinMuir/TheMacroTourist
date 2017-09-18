@@ -64,17 +64,17 @@ In late August, Draghi's Jackson Hole speech stopped the decline. He seemed to u
 
 And this is when Draghi over played his hand. He convinced the market that the turn was right around the corner.
 
-With visions of an American style QE balance sheet expansion in their heads, the hedge funds piled into "risk on” trades. Josh Brown's Reformed Broker summed it up best with [this September 7th post](http://thereformedbroker.com/2014/09/07/here-are-my-best-trades/):
+With visions of an American style QE balance sheet expansion in their heads, the hedge funds piled into "risk on" trades. Josh Brown's Reformed Broker summed it up best with [this September 7th post](http://thereformedbroker.com/2014/09/07/here-are-my-best-trades/):
 
-> "Here are my best trades, ordered from easiest to hardest,” said one of the top ranked macro CIOs, exchanging ideas. Draghi's fairy dust had finally settled; he'd been pleasantly surprised, and killed it. "Buy European curve steepeners now, buy European risk assets, buy 5yr/5yr Spain versus short 20yr Germany,” he explained. "Maybe these trades last a few weeks, maybe longer, doesn't matter – get this right, add some smart convexity, and you could make your year by the end of October.”
+> "Here are my best trades, ordered from easiest to hardest," said one of the top ranked macro CIOs, exchanging ideas. Draghi's fairy dust had finally settled; he'd been pleasantly surprised, and killed it. "Buy European curve steepeners now, buy European risk assets, buy 5yr/5yr Spain versus short 20yr Germany," he explained. "Maybe these trades last a few weeks, maybe longer, doesn't matter – get this right, add some smart convexity, and you could make your year by the end of October."
 
 These are all trades betting that Draghi would follow through. This sort of positions were rife in the hedge fund community. Famed hedge fund trader David Tepper's comments echoed this sentiment:
 
-> "Draghi wants inflation in the Euro zone. He will not stop,” said Tepper.
+> "Draghi wants inflation in the Euro zone. He will not stop," said Tepper.
 
 The problems arose when Draghi was not able to back up his words with deeds. His TLTRO program came in well below expectations, and then continuing conflict with the Germans has made expanding the ECB's balance sheet problematic.
 
-As these difficulties became clear, hedge funds started bailing out of their positions. Their "Draghi has our backs” trades were suddenly causing a lot of pain. It didn't help that the Fed was winding down QE, and that risk assets were severely overbought. Before long it started feeding on itself and the selling became scary.
+As these difficulties became clear, hedge funds started bailing out of their positions. Their "Draghi has our backs" trades were suddenly causing a lot of pain. It didn't help that the Fed was winding down QE, and that risk assets were severely overbought. Before long it started feeding on itself and the selling became scary.
 
 <hr size="3" width="85%" />
 
@@ -93,7 +93,7 @@ This morning, I am going to increase the position.
 
   <img src="http://themacrotourist.com/images/Azure/GDBR10Oct2014.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/GDBR10Oct2014.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-German 10 year yields hit 75 basis points in the panic buying. If Draghi follows through with promises, then this will prove a truly "stupid” price.
+German 10 year yields hit 75 basis points in the panic buying. If Draghi follows through with promises, then this will prove a truly "stupid" price.
 
 I don't think the hedge funds were wrong when they all piled into their European trades in September. Their predictions could still prove bang on correct. It would be just like the Market Gods to first shake them all off before the real move starts.
 

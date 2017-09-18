@@ -84,11 +84,11 @@ The government understands that their economy is slowing down, but instead of st
 > 
 > It also added that the reserve requirement for these two types of lenders could be further reduced by another percentage point if a certain proportion of their funds are lent out locally. The central bank didn't elaborate.
 > 
-> "This will boost support for agriculture…and strengthen financial assistance to the real economy,” an unnamed spokesman of the central bank said in a separate statement. But the spokesman said this doesn't mean a change of the bank's "prudent” monetary policy and the move "will not affect overall liquidity in the banking system.”
+> "This will boost support for agriculture…and strengthen financial assistance to the real economy," an unnamed spokesman of the central bank said in a separate statement. But the spokesman said this doesn't mean a change of the bank's "prudent" monetary policy and the move "will not affect overall liquidity in the banking system."
 > 
 > Unlike an across-the-board cut in the bank reserve ratio, which would affect key urban areas, the move won't have a huge impact on the overall economy.
 > 
-> Nomura economist Zhang Zhiwei estimated that the reduction would make 80 to 90 billion yuan ($12.9 billion to $14.5 billion) available for lending, a sum that would be "effectively insignificant given the size of the economy.”
+> Nomura economist Zhang Zhiwei estimated that the reduction would make 80 to 90 billion yuan ($12.9 billion to $14.5 billion) available for lending, a sum that would be "effectively insignificant given the size of the economy."
 > 
 > But he said the move is a signal that the government is concerned about slowing economic growth.
 > 

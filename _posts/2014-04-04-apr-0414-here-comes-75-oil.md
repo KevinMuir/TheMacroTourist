@@ -15,7 +15,7 @@ categories:
 tags:
   - oil
 ---
-Last week-end the Barron's cover story was an article titled "Here comes $75 oil.”
+Last week-end the Barron's cover story was an article titled "Here comes $75 oil."
 
 
   <img src="http://themacrotourist.com/images/Azure/BarronsApr0414.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BarronsApr0414.png" width="600" height="700">
@@ -62,7 +62,7 @@ Let's ignore for a moment that the move to natural gas in vehicles seems to be h
 
 But what is going to happen to demand in China and other developing nations?
 
-If you examine that energy use per person as a nation develops, there is a definite "hockey stick” pattern. As a nation develops and becomes wealthier, the energy use per person rises. It rises slowly at first until they hit a critical mass where there is enough wealth for the middle class to start buying cars, refrigertors, etc… At that point, the energy use per capital quickly rises.
+If you examine that energy use per person as a nation develops, there is a definite "hockey stick" pattern. As a nation develops and becomes wealthier, the energy use per person rises. It rises slowly at first until they hit a critical mass where there is enough wealth for the middle class to start buying cars, refrigertors, etc… At that point, the energy use per capital quickly rises.
 
 Here is the chart over the last half dozen decades of the energy use of the Japan, Korea and China:
 

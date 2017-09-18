@@ -93,7 +93,7 @@ I think we are approaching a period where the veil is lifted. The markets are ab
 Remember the conversation with the recently retired Bernanke that David Einhorn paid $250,000 for?
 
 <p style="padding-left: 30px;">
-  "I got to ask him all these questions that had been on my mind for a long time,” Einhorn said in an interview today with Erik Schatzker and Stephanie Ruhle on Bloomberg Television, referring to a March 26 dinner with Bernanke. "It was sort of frightening because the answers were not better than I thought they would be.”
+  "I got to ask him all these questions that had been on my mind for a long time," Einhorn said in an interview today with Erik Schatzker and Stephanie Ruhle on Bloomberg Television, referring to a March 26 dinner with Bernanke. "It was sort of frightening because the answers were not better than I thought they would be."
 </p>
 
 Einhorn&#8217;s key takeaway from the meeting was that the Fed had much less of a plan than he ever would have imagined.

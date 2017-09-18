@@ -50,11 +50,11 @@ This massive strength has forced at least one prominent China bear to throw in t
 
 >His reversal hasn't come easily. From his base in Fort Worth, Texas, the hedge fund manager spent countless nights on the line to Hong Kong, parsing market news and exchange rates. At times, the stress took a toll on Hart personally and left his employees demoralized.
 
->"I always thought we had a good risk-reward trade on, but we made a number of mistakes, including being way too early,” Hart, who started the yuan bet after predicting both the U.S. subprime mortgage bust and the European debt crisis, said in a telephone interview. "And now the world has changed.”
+>"I always thought we had a good risk-reward trade on, but we made a number of mistakes, including being way too early," Hart, who started the yuan bet after predicting both the U.S. subprime mortgage bust and the European debt crisis, said in a telephone interview. "And now the world has changed."
 
->In cool hindsight, the 45-year-old founder of Corriente Advisors sees last year's Group of 20 summit in Shanghai as a key turning point. Like many investors, Hart suspects the meeting resulted in a tacit agreement among world leaders to prevent the yuan from tumbling. He calls it China's "whatever it takes” moment -- when policy makers resolved to prop up the currency at any cost.
+>In cool hindsight, the 45-year-old founder of Corriente Advisors sees last year's Group of 20 summit in Shanghai as a key turning point. Like many investors, Hart suspects the meeting resulted in a tacit agreement among world leaders to prevent the yuan from tumbling. He calls it China's "whatever it takes" moment -- when policy makers resolved to prop up the currency at any cost.
 
->"China now has the breathing room it needs to either temporarily stave off a slowdown with fiscal and monetary stimulus, or reform, grow and upgrade itself into the world's largest developed economy,” Hart said.
+>"China now has the breathing room it needs to either temporarily stave off a slowdown with fiscal and monetary stimulus, or reform, grow and upgrade itself into the world's largest developed economy," Hart said.
 
 >Whether or not China got help from other G-20 nations, the government has clearly succeeded in stabilizing the exchange rate. The yuan ended a three-year slide in late December and has rallied almost 7 percent in 2017, including a 0.5 percent increase on Thursday. It's now trading at the strongest level in more than a year versus the greenback.
 

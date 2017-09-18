@@ -68,7 +68,7 @@ It's not getting much press, but late last week the People's Bank of China made 
 
 >The central bank also injected a net 45 billion yuan into the money market on Friday, following a net 145 billion yuan cash infusion on Thursday.
 
->"The whole market is scrambling for liquidity and the PBOC is ready to do more to calm the market,” said Arthur Lau, head of Asia ex-Japan fixed income at PineBridge Investments in Hong Kong.
+>"The whole market is scrambling for liquidity and the PBOC is ready to do more to calm the market," said Arthur Lau, head of Asia ex-Japan fixed income at PineBridge Investments in Hong Kong.
 
 Right now everyone is all bulled up with Trumphoria, but these developments in China deserve some caution.  As the Federal Reserve tightens, something will break.  Maybe it won't be in the US.  Maybe it will be the world's second biggest economy.  Either way, keep your eye on Chinese money markets.  They are way more important than the market realizes.
 

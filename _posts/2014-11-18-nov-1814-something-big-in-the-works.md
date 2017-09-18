@@ -57,8 +57,8 @@ From the Wall Street Journal:
 
 Then the UK Prime Minister followed right behind with the same message:
 
-> "Six years on from the financial crash that brought the world to its knees, red warning lights are once again flashing on the dashboard of the global economy,” Mr. Cameron wrote in an op-ed Monday in The Guardian. He reiterated the ominous theme in speech to parliament later Monday.  
-> The world's woes "were plain to see” at the leaders' summit of the Group of 20 largest economies over the weekend, Mr. Cameron warned.
+> "Six years on from the financial crash that brought the world to its knees, red warning lights are once again flashing on the dashboard of the global economy," Mr. Cameron wrote in an op-ed Monday in The Guardian. He reiterated the ominous theme in speech to parliament later Monday.  
+> The world's woes "were plain to see" at the leaders' summit of the Group of 20 largest economies over the weekend, Mr. Cameron warned.
 
 Today the markets are feeling no pain due to the Japanese induced QE stimulus. Everyone is all bulled up and not really listening to the warnings from these government officials. It hasn&#8217;t seemed to matter that the fundamentals are heading in the absolute opposite direction of the market. As long as Japan keeps the liquidity flowing, we can keep partying and sending markets perpetually higher. 
 

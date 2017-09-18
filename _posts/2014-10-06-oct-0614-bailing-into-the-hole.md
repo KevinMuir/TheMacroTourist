@@ -145,7 +145,7 @@ Over the past couple of weeks, I was leaning towards the idea that the end of QE
 
 There was this great quote that came across my twitter stream that I think might be applicable in this situation:
 
-> "Remember that the market is a master manipulator. It conditions us to think one way over and over and over until we are finally convinced of a pattern. Just when we think we have things figured out, the market magically changes character.” &#8211; Joe Fahmy
+> "Remember that the market is a master manipulator. It conditions us to think one way over and over and over until we are finally convinced of a pattern. Just when we think we have things figured out, the market magically changes character." &#8211; Joe Fahmy
 
 I am not going to bother giving you fundamental reasons for either a slowdown or the expansion continuing &#8211; I could argue both sides quite easily. If anyone thinks they know for sure, then they are probably kidding themselves. A lot of it is going to depend on the reaction of the US public in the coming months. 
 

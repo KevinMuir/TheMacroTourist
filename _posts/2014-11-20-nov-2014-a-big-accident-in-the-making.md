@@ -52,7 +52,7 @@ I look at stocks, and instead of seeing the start of the next great secular bull
 
 And the really scary thing is that even those that are sympathetic to my argument, like GMO&#8217;s Jeremy Grantham, are counting on the overvaluation to continue to expand. Jeremy is a person that I have a tremendous amount of respect for. Yet Jeremy&#8217;s call for a move up another 10% before &#8220;crashing as it always does&#8221; scares me. Doesn&#8217;t this remind you of Citibank Chairman Chuck Prince&#8217;s famous &#8220;we&#8217;re still dancing speech?&#8221; Look at the entire Prince quote, he knew what was coming, but was foolish enough to think he could somehow get out in time.
 
-> "When the music stops, in terms of liquidity, things will be complicated. But as long as the music is playing, you've got to get up and dance. We're still dancing.” 
+> "When the music stops, in terms of liquidity, things will be complicated. But as long as the music is playing, you've got to get up and dance. We're still dancing." 
 
 You might acknowledge that my arguments make sense, but these points were just as valid 250 S&P handles lower as they are today. The market is going up, so obviously there must be something that I am missing.
 
@@ -90,7 +90,7 @@ Yesterday the FOMC minutes were released. They should give the bulls concern. A 
 
 The Fed is _not riding to the rescue on the first downtick._ And if the bulls are assuming that the global slowdown is going to temper the Fed&#8217;s path towards normalizing rates, this was idea was also rejected. The Fed does not tune their policy for global conditions, but instead focuses on the domestic situation. 
 
-> "It was observed that if foreign economic or financial conditions deteriorated further, U.S. economic growth over the medium term might be slower than currently expected,” the minutes said. "However, many participants saw the effects of recent developments on the domestic economy as likely to be quite limited.”
+> "It was observed that if foreign economic or financial conditions deteriorated further, U.S. economic growth over the medium term might be slower than currently expected," the minutes said. "However, many participants saw the effects of recent developments on the domestic economy as likely to be quite limited."
 
 The Fed is not going to deviate from their path to normalize rates. They are already engaging in Quantitative Tightening through their reverse repo and term deposit programs. They are going to keep tightening until something big breaks. 
 

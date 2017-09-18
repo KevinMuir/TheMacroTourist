@@ -14,7 +14,7 @@ categories:
 
 Nothing bores me more than cliche trader advice. You know the classics &#8211; don't catch a falling knife but buy when there is blood in the streets. Don't fade a trend but make sure you don't chase. Bulls and bears make money, pigs get slaughtered, yet make sure you let your profits run. I mean, really? Trading is so nuanced that it is difficult to articulate any rules that work consistently. The reality is the game is constantly changing and the only surety is what worked yesterday won't work tomorrow (ok, maybe what worked yesterday will work tomorrow, but you get the idea).
 
-Yet every now and then someone manages to capture the true essence of trading. Recently I stumbled upon a post by Dr. Bret Steenbarger titled ["Why So Many Traders Lose”](http://traderfeed.blogspot.ca/2015/10/why-so-many-traders-lose.html) that conveyed so much of the subtle shading that exists in the markets, I felt I had to share it.
+Yet every now and then someone manages to capture the true essence of trading. Recently I stumbled upon a post by Dr. Bret Steenbarger titled ["Why So Many Traders Lose"](http://traderfeed.blogspot.ca/2015/10/why-so-many-traders-lose.html) that conveyed so much of the subtle shading that exists in the markets, I felt I had to share it.
 
 From Steenbarger's piece:
 

@@ -60,7 +60,7 @@ I think it is best summed up by Eurasia Group&#8217;s Ian Bremner who tweeted th
 
 Lately the Russians seem to be testing our limits militarily. Every day it seems to be there is another report of somewhat aggressive Russian military maneuvers. Earlier this week the WSJ reported that a Russian MiG&#8211;31 recently made contact with a Norwegian F&#8211;16 plane.
 
-> Norwegian Armed Forces spokesman Brynjar Stordal declined to say when the incident occurred, but said close calls such as this are rare. "We could have had a collision between the aircraft,” he said. "The pilot has a spontaneous reaction in the video, and both his comment and the evasive maneuver indicate that this is unwanted … We don't know if this was a mistake by the Russian pilot, or a sign of a more aggressive behavior by the Russians.”
+> Norwegian Armed Forces spokesman Brynjar Stordal declined to say when the incident occurred, but said close calls such as this are rare. "We could have had a collision between the aircraft," he said. "The pilot has a spontaneous reaction in the video, and both his comment and the evasive maneuver indicate that this is unwanted … We don't know if this was a mistake by the Russian pilot, or a sign of a more aggressive behavior by the Russians."
 
 Well, this was no mistake as it is happening with increasing frequency. Whether it is Russian submarines straying into sovereign waters, or planes constantly testing the Western countries&#8217; response, the Russians are purposely escalating the situation. 
 

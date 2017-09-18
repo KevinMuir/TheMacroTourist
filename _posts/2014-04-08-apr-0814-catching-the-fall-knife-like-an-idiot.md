@@ -25,17 +25,17 @@ So far, although I have avoided the damage, I have not profited from the sell of
 
 That theory is looking increasingly wrong.
 
-As we hit the third day of the sell off, I need to question whether I am sticking to that theory for the "right” reasons. As traders we know how difficult it is sometimes to think rationally when the market is not conforming to your expectations.
+As we hit the third day of the sell off, I need to question whether I am sticking to that theory for the "right" reasons. As traders we know how difficult it is sometimes to think rationally when the market is not conforming to your expectations.
 
-You are tempted to give up and admit defeat, but there is a part of you that "knows” that this will be the moment you are finally proven right. Yet, quickly giving up and admitting defeat when you are wrong is most often the correct answer. The longer you "fight” the market, the less chance that you are right.
+You are tempted to give up and admit defeat, but there is a part of you that "knows" that this will be the moment you are finally proven right. Yet, quickly giving up and admitting defeat when you are wrong is most often the correct answer. The longer you "fight" the market, the less chance that you are right.
 
 Well, yesterday afternoon, I ignored all this wise advice and went ahead to pick a full on fight with the market.
 
 I am not sure if I am thinking straight, or if I am merely talking my book, but I still think that this sell off is the result of hedge fund liquidation that can quickly turn on a dime.
 
-Don't get me wrong &#8211; I am by no means a long term bull. In fact, you can put me squarely in the bear camp. But as a trader, I think this massive shift in sentiment since Friday's unemployment number is over done. The viscousness of this sell off is the result of hedge funds and other aggressive portfolio managers/traders' over exposure to the high flying "beta” stocks. They are in the "just get it off the sheets” mode. And in fact, the more nimble of this group have now convinced themselves that this is the start of the "big one” to the downside.
+Don't get me wrong &#8211; I am by no means a long term bull. In fact, you can put me squarely in the bear camp. But as a trader, I think this massive shift in sentiment since Friday's unemployment number is over done. The viscousness of this sell off is the result of hedge funds and other aggressive portfolio managers/traders' over exposure to the high flying "beta" stocks. They are in the "just get it off the sheets" mode. And in fact, the more nimble of this group have now convinced themselves that this is the start of the "big one" to the downside.
 
-Whereas I thought they were overly bullish a month ago when they were fawning all over Zuck and the other "gifted and talented camps” companies, I think they are now overly bearish.
+Whereas I thought they were overly bullish a month ago when they were fawning all over Zuck and the other "gifted and talented camps" companies, I think they are now overly bearish.
 
 So yesterday I decided to try to catch the falling knife of the Nasdaq equity market. I realize that I am dealing with a market where I can no longer lose a finger or two, but I am standing against a tidal wave of hedge fund liquidation. This knife is more like a full on machete, and it is no longer aiming at just my hands.
 
@@ -56,7 +56,7 @@ Finally, April has historically been the strongest of all the months. Have a loo
 
   <img src="http://themacrotourist.com/images/Azure/StocksAprilApr0814.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/StocksAprilApr0814.png" width="500" height="390">
 
-It is scary, but I am going to stand in there and take a stab on the long side. Hopefully "turnaround Tuesday” will kick in. Either that, or I am going to need some help getting that knife out of my head.
+It is scary, but I am going to stand in there and take a stab on the long side. Hopefully "turnaround Tuesday" will kick in. Either that, or I am going to need some help getting that knife out of my head.
 
 <hr size="2" width="85%" />
 
@@ -86,7 +86,7 @@ So when Barry says that there is no public exuberance during this cycle, he is 1
 
 The public has been burned too many times and is not returning.
 
-Instead what we have is a market filled with thousands of hedge funds all standing around in a circle shooting at each other. The hedge funds are the new "dumb money.” Their over exuberance is what you should worry about, not the public's.
+Instead what we have is a market filled with thousands of hedge funds all standing around in a circle shooting at each other. The hedge funds are the new "dumb money." Their over exuberance is what you should worry about, not the public's.
 
 <hr size="2" width="85%" />
 

@@ -25,7 +25,7 @@ From the NY Times:
 
 > Turing's price increase is not an isolated example. While most of the attention on pharmaceutical prices has been on new drugs for diseases like cancer, hepatitis C and high cholesterol, there is also growing concern about huge price increases on older drugs, some of them generic, that have long been mainstays of treatment.
 > 
-> Although some price increases have been caused by shortages, others have resulted from a business strategy of buying old neglected drugs and turning them into high-priced "specialty drugs.” 
+> Although some price increases have been caused by shortages, others have resulted from a business strategy of buying old neglected drugs and turning them into high-priced "specialty drugs." 
 
 Valeant Pharmaceuticals and Concordia Healthcare are two companies that have experienced mind boggling share price appreciation using this sort of strategy. Three years ago VRX was a $50 USD stock. This summer it ticked above $250. CXR&#8217;s run has been even more impressive. In the fall of 2013 when it came public it traded for $4.50 CAD. It hit $120 this summer. 
 

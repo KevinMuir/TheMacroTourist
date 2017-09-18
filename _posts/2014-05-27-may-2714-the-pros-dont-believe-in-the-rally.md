@@ -29,9 +29,9 @@ What is interesting is that stocks are rallying in the midst of many market &#82
 
 > David Tepper: I&#8217;m nervous about the market
   
-> "We're witnessing our second tech bubble in 15 years,” warned Greenlight Capital's David Einhorn 
+> "We're witnessing our second tech bubble in 15 years," warned Greenlight Capital's David Einhorn 
   
-> "On almost any metric, the US equity market is historically quite expensive. A sceptic would have to be blind not to see bubbles inflating in junk bond issuance, credit quality, and yields, not to mention the nosebleed stock market valuations of fashionable companies like Netflix and Tesla Motors,” &#8211; Baupost Group&#8217;s Seth Klarman
+> "On almost any metric, the US equity market is historically quite expensive. A sceptic would have to be blind not to see bubbles inflating in junk bond issuance, credit quality, and yields, not to mention the nosebleed stock market valuations of fashionable companies like Netflix and Tesla Motors," &#8211; Baupost Group&#8217;s Seth Klarman
 
 I am not trying to pick on these hedge fund managers because I deeply respect all three tremendously. But I am just trying to point out how the &#8220;smart money&#8221; is most likely under invested for this latest move higher.
 

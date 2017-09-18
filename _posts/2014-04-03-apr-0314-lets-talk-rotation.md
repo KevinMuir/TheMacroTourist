@@ -97,7 +97,7 @@ I still firmly believe in the strategy, and will do a better job at staying on t
 
 This month's **BUY countries are Canada and Russia** while the **SELL countries are Brazil and Australia.** Interestingly enough, they are all commodity countries. You probably wouldn't have guessed that both the strongest and weakest currencies over the last 4 months have all been from the same general type of country.
 
-I will update the total return graph and the new countries at the start of the next month with the tag "Currency Wars” in the post. No falling down this time…
+I will update the total return graph and the new countries at the start of the next month with the tag "Currency Wars" in the post. No falling down this time…
 
 <hr size="2" width="85%" />
 

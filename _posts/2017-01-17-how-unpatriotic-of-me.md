@@ -23,9 +23,9 @@ From the WSJ:
 
 >President-elect Donald Trump criticized a cornerstone of House Republicans' corporate-tax plan, which they had pitched as an alternative to his proposed import tariffs, creating another point of contention between the incoming president and congressional allies.
 
->The measure, known as border adjustment, would tax imports and exempt exports as part of a broader plan to encourage companies to locate jobs and production in the U.S. But Mr. Trump, in his first comments on the subject, called it "too complicated.”
+>The measure, known as border adjustment, would tax imports and exempt exports as part of a broader plan to encourage companies to locate jobs and production in the U.S. But Mr. Trump, in his first comments on the subject, called it "too complicated."
 
->"Anytime I hear border adjustment, I don't love it,” Mr. Trump said in an interview with The Wall Street Journal on Friday. "Because usually it means we're going to get adjusted into a bad deal. That's what happens.”
+>"Anytime I hear border adjustment, I don't love it," Mr. Trump said in an interview with The Wall Street Journal on Friday. "Because usually it means we're going to get adjusted into a bad deal. That's what happens."
 
 Although some US trading partners might be breathing a sigh of relief, I don't think anyone should be assuming Trump will embrace a free trade philosophy anytime soon.  
 
@@ -43,11 +43,11 @@ Some market pundits believe Trump's bluster regarding trade is merely a negotiat
 
 For me the final straw was Trump's first press conference as President elect.  I would try to explain my disappointment regarding his performance, but ZeroHedge posted an article that captured my sentiments better than I ever could:
 
->"Total fiasco, utter circus!” cried the CIO. "KGB videos, golden showers, kompromat, and his temper tantrum over that CNN reporter,” he continued, breathless. "Single worst press conference for a world leader in history. The $2bln Dubai deal. That random pile of manila folders. The dopey lawyer. Gimmicks, conspiracies, rambling bluster. We didn't learn a single thing about policy. For the sake of our nation, pray The Donald sticks to Twitter.”
+>"Total fiasco, utter circus!" cried the CIO. "KGB videos, golden showers, kompromat, and his temper tantrum over that CNN reporter," he continued, breathless. "Single worst press conference for a world leader in history. The $2bln Dubai deal. That random pile of manila folders. The dopey lawyer. Gimmicks, conspiracies, rambling bluster. We didn't learn a single thing about policy. For the sake of our nation, pray The Donald sticks to Twitter."
 
 Yet the really funny part of the ZeroHedge article was the next couple of lines:
 
->And he paused, collected himself. "But the thing that upsets me most is that it didn't spark a big enough correction to let me back into all my favorite Trump trades.”
+>And he paused, collected himself. "But the thing that upsets me most is that it didn't spark a big enough correction to let me back into all my favorite Trump trades."
 
 Trumphoria runs so deep, even a fund manager that describes Trump's appearance as the "single worst press conference for a world leader in history," is only upset because the stock market did not decline enough for him to buy.
 

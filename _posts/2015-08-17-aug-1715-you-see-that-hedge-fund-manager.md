@@ -33,7 +33,7 @@ Now four years into one of the ugliest declines in gold&#8217;s history, Paulson
   
 > The news is another blow to gold bulls as prices languish near a five-year low.. Speculators have stayed bearish on futures after turning net-short in July for the first time in U.S.. government records going back to 2006.. The prospect for higher U.S.. interest rates has prompted most investors to snub precious metals, since they doesn't pay interest, unlike competing assets.
 > 
-> "Gold will remain out of favor because investors are expecting the rate hike very soon,” Scott Gardner, who helps manage $450 million at Verdmont Capital SA in Panama City, said in a telephone interview.. "It has also become clear that gold has lost its prominence as a safe-haven investment.”
+> "Gold will remain out of favor because investors are expecting the rate hike very soon," Scott Gardner, who helps manage $450 million at Verdmont Capital SA in Panama City, said in a telephone interview.. "It has also become clear that gold has lost its prominence as a safe-haven investment."
 
 Not only that, but his outlook for gold has changed from a potentially explosive move higher to &#8220;fairly valued&#8221;:
 

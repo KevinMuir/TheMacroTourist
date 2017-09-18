@@ -85,7 +85,7 @@ I think we have now hit the point where it makes sense to trade with the idea th
 
 Remember this quote from the reformed broker in the midst of the Draghi induced euphoria of September?
 
-> "Here are my best trades, ordered from easiest to hardest,” said one of the top ranked macro CIOs, exchanging ideas. Draghi's fairy dust had finally settled; he'd been pleasantly surprised, and killed it. "Buy European curve steepeners now, buy European risk assets, buy 5yr/5yr Spain versus short 20yr Germany,” he explained. "Maybe these trades last a few weeks, maybe longer, doesn't matter – get this right, add some smart convexity, and you could make your year by the end of October.” 
+> "Here are my best trades, ordered from easiest to hardest," said one of the top ranked macro CIOs, exchanging ideas. Draghi's fairy dust had finally settled; he'd been pleasantly surprised, and killed it. "Buy European curve steepeners now, buy European risk assets, buy 5yr/5yr Spain versus short 20yr Germany," he explained. "Maybe these trades last a few weeks, maybe longer, doesn't matter – get this right, add some smart convexity, and you could make your year by the end of October." 
 
 Well, these trades didn&#8217;t work out at all as the hedge funds had gotten way too optimistic about the prospects of Draghi&#8217;s &#8220;fairy dust.&#8221; 
 

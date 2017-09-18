@@ -71,7 +71,7 @@ Why is this? The great blog the [Testosterone Pit had a terrific post](http://ww
 
 > Consumers in the Eurozone, who in many places had to tighten their belts as wages and benefits were whittled down, have been spared the scourge of steep inflation. A real benefit, given their squeezed incomes. But central bankers, corporations, and politicians in France and other countries abhor this scenario, and they clamored for more inflation and for the devaluation of the euro, and they made deafening noises to push the ECB to start printing some serious money and douse the lands with QE.
 > 
-> With some effect: on April 3, ECB President Mario Draghi announced that the Governing Council had unanimously committed "to using also unconventional instruments within the mandate to cope with prolonged low inflation.” QE would start any minute. This led to more deafening noises about beating down the strong euro and stirring up inflation with a big bout of money printing and bond buying, to the point where the Wall Street Journal summarized it this way today:
+> With some effect: on April 3, ECB President Mario Draghi announced that the Governing Council had unanimously committed "to using also unconventional instruments within the mandate to cope with prolonged low inflation." QE would start any minute. This led to more deafening noises about beating down the strong euro and stirring up inflation with a big bout of money printing and bond buying, to the point where the Wall Street Journal summarized it this way today:
 > 
 > > The drumbeat for quantitative easing in the euro zone grows louder by the day – and it is the European Central Bank that is doing much of the banging. Barely a day passes without a speech by a member of the Governing Council discussing why, when and how the ECB might start to buy bonds.
 > 
@@ -79,9 +79,9 @@ Why is this? The great blog the [Testosterone Pit had a terrific post](http://ww
 > 
 > So the leaders of the parties that make up Germany's Grand Coalition – Chancellor Merkel's CDU, its Bavarian sister party CSU, and the center-left SPD – met for a private two-day shindig at the majestic, mountain-top Steigenberger Grandhotel Petersberg and Federal Government Guest House, in Königswinter, near Bonn, to discuss various politically tricky topics from foreign policy to consumer protection in financial matters. The idea was to do it away from the media, out of the spotlight, to hash out some deals, perhaps. At any rate, one of the guest speakers was Draghi.
 > 
-> And while the meeting was private, a "euro-area official present at the meeting,” who didn't want to be identified, told reporters, according to Bloomberg, that Draghi tried to assuage these skeptical Germans. He expected low inflation to continue, Draghi had told them, but he didn't see any threat of deflation. The ECB would be ready to embark on QE if needed, Draghi said, but it wasn't imminent and would be relatively unlikely for now.
+> And while the meeting was private, a "euro-area official present at the meeting," who didn't want to be identified, told reporters, according to Bloomberg, that Draghi tried to assuage these skeptical Germans. He expected low inflation to continue, Draghi had told them, but he didn't see any threat of deflation. The ECB would be ready to embark on QE if needed, Draghi said, but it wasn't imminent and would be relatively unlikely for now.
 > 
-> This switcheroo fits well into central-bank forked-tongue politics and market-manipulation: pacifying strong-euro Germans out of one side of the mouth, and out of the other side, promising financial markets "whatever it takes.”
+> This switcheroo fits well into central-bank forked-tongue politics and market-manipulation: pacifying strong-euro Germans out of one side of the mouth, and out of the other side, promising financial markets "whatever it takes."
 
 I think that the ECB has decided to tough it out. The Americans are winding down QE so hopefully that pressure will be declining in the coming months. The Europeans can&#8217;t do much about Japan since the Japanese commitment to aggressive monetary policy is now unrivalled. At the end of the day, the ECB is much more skeptical of the efficacy of QE over the long run anyway.
 
@@ -101,7 +101,7 @@ When I was growing up, my teenage growth spurt came late. Although my brother an
 
 Well at the time I didn&#8217;t believe him, but later in life I came to same conclusion as Mark Twain:
 
-> "When I was a boy of 14, my father was so ignorant I could hardly stand to have the old man around. But when I got to be 21, I was astonished at how much the old man had learned in seven years.”
+> "When I was a boy of 14, my father was so ignorant I could hardly stand to have the old man around. But when I got to be 21, I was astonished at how much the old man had learned in seven years."
 
 Throughout the years I have met some very wealthy people. I am always amazed at how much they are all like you and me. They have the same insecurities and worries that we all do. 
 
