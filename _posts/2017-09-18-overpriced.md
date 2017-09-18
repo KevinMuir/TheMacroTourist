@@ -39,7 +39,7 @@ First, here is the 2-year German yield over the past decade.
 
 <a href="http://themacrotourist.com/images/2017/09/Ger2YRSep1817.png"><img src="http://themacrotourist.com/images/2017/09/Ger2YRSep1817.png" alt="http://themacrotourist.com/images/2017/09/Ger2YRSep1817.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 
-Yup, pretty bloody stupid.  ***Paying*** the German government 69 basis points for the privilege of allowing them to hold your money over the next two years might go down as one of the dumbest trades in the history of finance.  Negative rates are one of the great perversions of modern monetary finance.  They should have been avoided at all cost, but instead they were embraced throughout Europe and Japan.
+Yup, pretty bloody stupid.  ***Paying*** the German government 69 basis points for the privilege of allowing them to hold your money over the next two years might go down as one of the dumbest trades in the history of finance.  Negative rates are one of the great perversions of modern monetary theory.  They should have been avoided at all cost, but instead they were embraced throughout Europe and Japan.
 
 But just because something is asinine, doesn't mean that shorting it is wise.  
 
