@@ -28,7 +28,7 @@ Yet even though Draghi admitted European economic conditions were quickly improv
 
 >The ECB president cautioned that while “the risks of deflation have largely disappeared”, he was not yet ready to “pronounce victory on the inflation front”. For that to happen, Mr Draghi said, pay for the region’s workers would need to grow at a faster pace.
 
->“Wages growth is the linchpin of a self-sustaining rise in inflation . . . that is the key variable,” he said, later adding: “It’s not the only point, but it’s an important element of our assessment.”
+>“Wages growth is the linchpin of a self-sustaining rise in inflation...that is the key variable,” he said, later adding: “It’s not the only point, but it’s an important element of our assessment.”
 
 When Draghi spoke these words I couldn't help but cough out a muffled "bullshit."  Let's face it, inflation is quickly approaching the ECB's target, and Draghi is looking for excuses to hold off tapering his extraordinary stimulus.
 
