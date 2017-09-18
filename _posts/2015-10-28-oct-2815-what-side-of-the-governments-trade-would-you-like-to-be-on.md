@@ -22,7 +22,7 @@ Governments do some pretty stupid things. As the years tick by, I become less an
 
 > The U.S. plans to sell millions of barrels of crude oil from its Strategic Petroleum Reserve from 2018 until 2025 under a budget deal reached on Monday night by the White House and top lawmakers from both parties.
   
-> The proposed sale, included in a bill posted on the White House website, equates to more than 8 percent of the 695 million barrels of reserves, held in four sites along the Gulf of Mexico coast. Sales are due to start in 2018 at an annual rate of 5 million barrels, rising to 10 million by 2023 and totaling 58 million barrels by the end of the period. The proceeds will be “deposited into the general fund of the Treasury,” according to the bill.
+> The proposed sale, included in a bill posted on the White House website, equates to more than 8 percent of the 695 million barrels of reserves, held in four sites along the Gulf of Mexico coast. Sales are due to start in 2018 at an annual rate of 5 million barrels, rising to 10 million by 2023 and totaling 58 million barrels by the end of the period. The proceeds will be "deposited into the general fund of the Treasury,” according to the bill.
 
 Let me get this straight. The government is selling oil from the Strategic Petroleum Reserve to pay bills? Talk about burning the furniture to keep warm. 
 

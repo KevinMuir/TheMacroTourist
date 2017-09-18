@@ -35,7 +35,7 @@ Think about the absurdity of that fact for a moment. One of the most successful 
 
 Wait, that&#8217;s already been done. Last summer the band Linkin Park decided to reinvent themselves as a VC firm. 
 
-> The firm, which focuses on “investing in early-to-growth-stage consumer-focused companies that align with the band's ethos of connecting people and innovation through tech and design,” already has investments in Lyft, Shyp, Robinhood and Blue Bottle Coffee.
+> The firm, which focuses on "investing in early-to-growth-stage consumer-focused companies that align with the band's ethos of connecting people and innovation through tech and design,” already has investments in Lyft, Shyp, Robinhood and Blue Bottle Coffee.
 > 
 > To be clear, we are still in the music business, but creating and selling music now plays more of a supporting role in our overall business mix. As we get ready to headline a five-city stadium tour of China this summer, we are also planning to meet with technology companies, consumer brands, and venture capital firms to discuss opportunities for partnership. Of course we'll play the shows and meet with fans, as we've always done. But along with continuing to make great music, today's Linkin Park is now better positioned to operate in the ever-evolving cultural and business landscape.
 
@@ -54,7 +54,7 @@ The more I read about Silicon Valley, the more I realize we are in another bubbl
 
 But we are not limited to this anecdotal WTF data point. There are tons of VCs who are sounding the alarm bell. Recently Mark Suster, a general partner at Upfront Ventures, wrote a great piece that went through the absurd valuations.
 
-> To give you some perspective of how quickly we've created a “subprime Unicorn market” (as Michael Moritz called it) consider that in the last 18 months in the US alone we've gone from 30 privately held technology companies worth more than $1bn (already considered high by some) to more than 80 companies just 18 months later. Either we've discovered magical beans and elixir or perhaps we've gotten ahead of ourselves on valuation. Here is a chart to show you the median valuation of late stage private tech companies compared to traditional growth rounds of capital led by VCs and also vs. the public markets.
+> To give you some perspective of how quickly we've created a "subprime Unicorn market” (as Michael Moritz called it) consider that in the last 18 months in the US alone we've gone from 30 privately held technology companies worth more than $1bn (already considered high by some) to more than 80 companies just 18 months later. Either we've discovered magical beans and elixir or perhaps we've gotten ahead of ourselves on valuation. Here is a chart to show you the median valuation of late stage private tech companies compared to traditional growth rounds of capital led by VCs and also vs. the public markets.
 
 
   <img src="http://themacrotourist.com/images/Upfront1Oct2715.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Upfront1Oct2715.png" width="600" height="342">
@@ -66,7 +66,7 @@ The mania has spread to the point where non-traditional buyers of private tech c
 
 Mutual fund companies and hedge funds are seeing the same outstanding returns as the rock stars, and they are chasing. 
 
-> “People say they're concerned [about rising valuations] yet they continue to put money into” startups, said Danielle Morrill, chief executive officer of Mattermark, a U.S. firm that tracks deal data in private markets.
+> "People say they're concerned [about rising valuations] yet they continue to put money into” startups, said Danielle Morrill, chief executive officer of Mattermark, a U.S. firm that tracks deal data in private markets.
 
 And the most interesting part about this phenomenon, is that the private market stage has been driven up to such high valuations, these companies are having difficulties floating their companies in the public markets at these elevated levels.
 

@@ -56,7 +56,7 @@ When I read his piece, a big light bulb went off.  Two&Twenty explained much bet
 
 >See, what's happening?
 
->The way the math works, the lower the yield goes, the more money we need.  Halve returns again and the liability goes up to $5m…  The more time goes by, the more you need.  The more you need, the higher the price of the assets you are buying and hence the lower the expected return.  And hence the more you need.  If you are unfunded, your “hole” just gets bigger and bigger…You are in a trap you may never get out of.  No wonder you don't feel great about your situation.
+>The way the math works, the lower the yield goes, the more money we need.  Halve returns again and the liability goes up to $5m…  The more time goes by, the more you need.  The more you need, the higher the price of the assets you are buying and hence the lower the expected return.  And hence the more you need.  If you are unfunded, your "hole” just gets bigger and bigger…You are in a trap you may never get out of.  No wonder you don't feel great about your situation.
 
 >Now, imagine if you were going through this same exercise along with millions of other people in your exact same situation in developed markets around the world….All chasing basically the same financial assets.  They are all in a massive prisoner's dilemna with each other.  The more they bid, the more they need.
 
@@ -67,8 +67,8 @@ Two&Twenty lays out the math that accompanies an aging population that has not s
 >It explains so many things:
 
 >-This is why CAPE has been inflated for 30 years running.  
->-This is why there is a never-ending bid to E-minis.  The “plunge protection team” are boomers looking to fund their retirement, not some government bogeyman.  
->-This explains why all financial assets are in a “bubble”; they are just substitutes for each other in the quest to get funded.  
+>-This is why there is a never-ending bid to E-minis.  The "plunge protection team” are boomers looking to fund their retirement, not some government bogeyman.  
+>-This explains why all financial assets are in a "bubble”; they are just substitutes for each other in the quest to get funded.  
 >-This is why low bond yields in Europe infected US bond yields.  Dutch pension funds in a hole just want yield & they could care less about F/X risk…  
 >-This is why Hussman just gets wronger and wronger.  
 >-This also explains volatility in the back end of the yield curve.  Pensions dominate this space; when yields go down, their unfunded liability shoots up and they chase yields lower.  When yields back up their unfunded liability goes down massively and we get liquidity holes in the back end like we just saw in Euro 30yr rates.  They are effectively very short gamma in the back end.  (Which means also that all boomers are short gamma on their liability…)

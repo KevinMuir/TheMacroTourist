@@ -29,15 +29,15 @@ Yet the governments didn't trust the markets to self adjust. And to be fair, why
 
 JP Morgan's CEO Jamie Dimon summed it up perfectly in this Fortune article:
 
-> The JPMorgan CEO said that his bank was “under assault,” and questioned whether the increased scrutiny by regulators of banks since the financial crisis has gone too far.
+> The JPMorgan CEO said that his bank was "under assault,” and questioned whether the increased scrutiny by regulators of banks since the financial crisis has gone too far.
 > 
 > JPMorgan Chase CEO Jamie Dimon still thinks the way banks are treated these days is un-American.
 > 
-> Jamie Dimon said that JPMorgan JPM -0.34% was “under assault,” and questioned whether the increased scrutiny by regulators of banks since the financial crisis has gone too far.
+> Jamie Dimon said that JPMorgan JPM -0.34% was "under assault,” and questioned whether the increased scrutiny by regulators of banks since the financial crisis has gone too far.
 > 
-> “In the old days, you dealt with one regulator. Now it's five or six,” Dimon said, referring to instances when multiple regulators have sought to punish JPMorgan for the same issue. “You all should ask the question, how American that is.”
+> "In the old days, you dealt with one regulator. Now it's five or six,” Dimon said, referring to instances when multiple regulators have sought to punish JPMorgan for the same issue. "You all should ask the question, how American that is.”
 > 
-> It's not the first time Dimon has questioned the American as apple pie-ness of banking regulation. In 2011, Dimon called an earlier version of capital rules contemplated by international bank regulators in Switzerland un-American. “I'm very close to thinking the United States shouldn't be in Basel any more. I would not have agreed to rules that are blatantly anti-American,” Dimon told the Financial Times at the time. “Our regulators should go there and say, ‘If it's not in the interests of the United States, we're not doing it.'”
+> It's not the first time Dimon has questioned the American as apple pie-ness of banking regulation. In 2011, Dimon called an earlier version of capital rules contemplated by international bank regulators in Switzerland un-American. "I'm very close to thinking the United States shouldn't be in Basel any more. I would not have agreed to rules that are blatantly anti-American,” Dimon told the Financial Times at the time. "Our regulators should go there and say, ‘If it's not in the interests of the United States, we're not doing it.'”
 > 
 > Dimon's Wednesday comments came in response to a question about a new proposal from the Federal Reserve that would require JPMorgan, the biggest bank in America, to hold more capital in reserve to protect against losses, even compared to its other mega-bank rivals. The Fed has said the new proposal adjusts capital rules to account for the fact that risks at some banks are more complex than others, and maybe harder to detect. But Dimon effectively said the proposal shows that regulators still don't get his bank.
 

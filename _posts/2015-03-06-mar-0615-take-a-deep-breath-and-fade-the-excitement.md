@@ -33,7 +33,7 @@ Given the recent US dollar rally of the last week, we are once again setting up 
 
 The unemployment number will be released this morning, and I have no clue what it will be. Instead of betting in front of the number, I prefer to wait for the release and trade the ensuing action.
 
-After learning the hard way, I have found that the big morning move in many asset classes often reverse in the later morning hours after the unemployment release. This is often an emotional day that results in an “all baked in situation.” Whatever trade you feel like you “have to do” today is usually the wrong one. It is easier for me to fade this excitement if I come in with an open mind.
+After learning the hard way, I have found that the big morning move in many asset classes often reverse in the later morning hours after the unemployment release. This is often an emotional day that results in an "all baked in situation.” Whatever trade you feel like you "have to do” today is usually the wrong one. It is easier for me to fade this excitement if I come in with an open mind.
 
 Here are the intraday charts from the last two unemployment release days for the S&P 500 future.
 

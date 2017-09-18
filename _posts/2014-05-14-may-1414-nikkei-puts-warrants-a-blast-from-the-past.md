@@ -65,11 +65,11 @@ Faced with hedging this position every night for the next 3 years of the put war
 
 In telling me the next part of the story, a big smile appeared on Doug's face. You see, a decade later he had met up with the fellow that was responsible for hedging the BT (Banker's Trust) put warrant positions. This fellow had had the same problems as Doug, except that BT had issued even more warrants, with different strikes and more complexity. The BT trader proceeded to tell Doug how the pressure and hours from trading those positions ruined his marriage and ultimately resulted in him getting divorced. He went on to tell Doug how it was the worst part of his life and that he deeply regretted ever coming up with the idea of issuing those warrants.
 
-“I didn't have the heart to tell him” Doug said to me as he explained it.
+"I didn't have the heart to tell him” Doug said to me as he explained it.
 
-“Have the heart to tell him what?” I asked.
+"Have the heart to tell him what?” I asked.
 
-“That instead of continuing to hedge the position every night, I simply bought enough of his warrants on the open market to offset my position&#8230;”
+"That instead of continuing to hedge the position every night, I simply bought enough of his warrants on the open market to offset my position&#8230;”
 
 Doug had figured out that the BT warrants were trading cheaper than he was able to achieve by dynamically hedging, so instead of continuing to trade every night in Japan, DS simply covered their exposure by buying up the BT warrants in Toronto. The hedge was much easier to maintain as the BT warrants had very similar characteristics to the DS put warrants. Doug had figured out that instead of trading in Japan, it was much better to simply buy the product in North America and let BT do all the work dynamically hedging all night long in Japan.
 

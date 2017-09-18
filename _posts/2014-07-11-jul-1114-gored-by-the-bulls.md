@@ -46,11 +46,11 @@ So although I acknowledge that yesterday&#8217;s action was impressive, I am not
 
 There is an increasing feeling of invulnerability to the bulls. They have mistakenly placed their faith in the _Church of the Fed will always save us_. Have a look at the latest views of the &#8220;Legendary&#8221; Dennis Gartman:
 
-> SHARE PRICES AROUND THE WORLD HAVE MOVED HIGHER following the release yesterday afternoon of the latest minutes from the FOMC which make it very clear that the Fed's propensity to tighten monetary policy in the near future is near zero. We may have thought that the market was over-bought and due for a correction, but we are going back to being “pleasantly” long rather than market neutral for the Fed's wind is at our back.
+> SHARE PRICES AROUND THE WORLD HAVE MOVED HIGHER following the release yesterday afternoon of the latest minutes from the FOMC which make it very clear that the Fed's propensity to tighten monetary policy in the near future is near zero. We may have thought that the market was over-bought and due for a correction, but we are going back to being "pleasantly” long rather than market neutral for the Fed's wind is at our back.
 
 Gartman represents the consensus attitude of hedge funds. They might realize that they are playing a game of hot potato, but they are too afraid to not play. 
 
-> “I'm long, and I hate it,” said Bob Iaccino of Tethys Partners.
+> "I'm long, and I hate it,” said Bob Iaccino of Tethys Partners.
 
 I know that bull markets love to climb a wall of worry. But it is one thing to climb a small local gym climbing wall. This market is more like climbing the world&#8217;s tallest outdoor climbing wall with no safety equipment.
 

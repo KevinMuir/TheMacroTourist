@@ -106,7 +106,7 @@ Yesterday I wrote about the litany of bears who were waving the white flag. I mi
 
 Barry Ritholz wrote about Morgan Stanley&#8217;s Adam Parker:
 
-> “Until not so long ago, Morgan Stanley's Adam Parker was one of the most bearish analysts on the street. Following last year's 30% S&P 500 rally, he has had a change of heart. He now has a 3000 upside target for the S&P 500.”
+> "Until not so long ago, Morgan Stanley's Adam Parker was one of the most bearish analysts on the street. Following last year's 30% S&P 500 rally, he has had a change of heart. He now has a 3000 upside target for the S&P 500.”
 
 And how about this picture from a CNBC vid?
 

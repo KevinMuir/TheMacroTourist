@@ -24,11 +24,11 @@ tags:
 ---
 In September the great European Central Banking maestro startled the market with a pledge to expand the ECB&#8217;s balance sheet to levels last seen during the EU sovereign debt crisis. It seemed that maybe, just maybe, the Europeans finally &#8220;got it.&#8221; Up until that point their refusal to stop the constant shrinking of their balance sheet had resulted in the European economy importing everyone else&#8217;s deflation. But Draghi&#8217;s surprise cut into even more negative-r interest rates, combined with his promise to expand the ECB&#8217;s balance sheet, convinced the markets that this time he meant business. Hedge fund guru David Tepper summed it up best.
 
-> “Draghi wants inflation in the Euro zone. He will not stop,” said Tepper
+> "Draghi wants inflation in the Euro zone. He will not stop,” said Tepper
 
 Most hedge funds were quite optimistic about Draghi&#8217;s ability to fulfill his promises:
 
-> “Here are my best trades, ordered from easiest to hardest,” said one of the top ranked macro CIOs, exchanging ideas. Draghi's fairy dust had finally settled; he'd been pleasantly surprised, and killed it. “Buy European curve steepeners now, buy European risk assets, buy 5yr/5yr Spain versus short 20yr Germany,” he explained. “Maybe these trades last a few weeks, maybe longer, doesn't matter – get this right, add some smart convexity, and you could make your year by the end of October.” 
+> "Here are my best trades, ordered from easiest to hardest,” said one of the top ranked macro CIOs, exchanging ideas. Draghi's fairy dust had finally settled; he'd been pleasantly surprised, and killed it. "Buy European curve steepeners now, buy European risk assets, buy 5yr/5yr Spain versus short 20yr Germany,” he explained. "Maybe these trades last a few weeks, maybe longer, doesn't matter – get this right, add some smart convexity, and you could make your year by the end of October.” 
 
 In a mad scramble to put on risk, hedge funds poured into trades that would benefit from the new European growth strategy. And in case you don&#8217;t think that his comments and actions had an effect on the market, have a look at the trading of the Eurostoxx 50 index over the last few months.
 

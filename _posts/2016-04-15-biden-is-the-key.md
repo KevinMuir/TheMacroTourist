@@ -32,7 +32,7 @@ Rickards was actually pretty tame compared to ZeroHedge's dredging up Johnson er
 >... in 1965, President Lyndon B. Johnson, who wanted cheap credit to finance the Vietnam War and his Great Society, summoned Fed chairman William McChesney Martin to his Texas ranch. There, after asking other officials to leave the room, Johnson reportedly shoved Martin against the wall as he demanding that the Fed once again hold down interest rates. Martin caved, the Fed printed money, and inflation kept climbing until the early 1980s.
 
 
->“I hope you have examined your conscience and you're convinced you're on the right track.” Lady Bird Johnson said to William McChesney Martin, on his arrival at the LBJ ranch.
+>"I hope you have examined your conscience and you're convinced you're on the right track.” Lady Bird Johnson said to William McChesney Martin, on his arrival at the LBJ ranch.
 
 Call me naive, but I give Obama much more credit.  If his goal was to get Yellen to keep rates low, do you really think such a public display would be the most efficient method of achieving this?  I don't buy that for one second.  If anything it makes it *more difficult* for Yellen to err on being easy.  The Federal Reserve has to maintain the illusion of being independent, so by threatening that concept with such a public display makes no sense.  Far more effective would be a secret message delivered by someone close to the President.
 

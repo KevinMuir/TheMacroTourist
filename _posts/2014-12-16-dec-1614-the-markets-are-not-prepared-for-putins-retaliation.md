@@ -40,19 +40,19 @@ But I wonder if the US and the Europeans have really thought through what they h
 From a military point of view, the Americans keep applying pressure on the Russians, but they are not the kind of people who are simply going to roll over. 
 
 <p style="padding-left: 30px;">
-  “The decision of the US Senate is extremely dangerous. If it is supported by the House of Representatives and signed by their president, Russia must reply with adequate measures,” Mikhail Yemelyanov of the Fair Russia party told reporters on Friday.
+  "The decision of the US Senate is extremely dangerous. If it is supported by the House of Representatives and signed by their president, Russia must reply with adequate measures,” Mikhail Yemelyanov of the Fair Russia party told reporters on Friday.
 </p>
 
 <p style="padding-left: 30px;">
-  “It is quite possible that we should return to the decision by our Upper House and give the Russian president an opportunity to use military force on Ukrainian territory preemptively. We should not wait until Ukraine is armed and becomes really dangerous,” the lawmaker stated.
+  "It is quite possible that we should return to the decision by our Upper House and give the Russian president an opportunity to use military force on Ukrainian territory preemptively. We should not wait until Ukraine is armed and becomes really dangerous,” the lawmaker stated.
 </p>
 
 <p style="padding-left: 30px;">
-  Yemelyanov also noted that in his opinion the US Senate's decision to arm Ukraine had revealed that Washington wasn't interested in the de-escalation of the Ukrainian conflict. He then said that US actions gave him the impression they was seeking to turn Ukraine into some sort of an “international militant targeting the Russian Federation.”
+  Yemelyanov also noted that in his opinion the US Senate's decision to arm Ukraine had revealed that Washington wasn't interested in the de-escalation of the Ukrainian conflict. He then said that US actions gave him the impression they was seeking to turn Ukraine into some sort of an "international militant targeting the Russian Federation.”
 </p>
 
 <p style="padding-left: 30px;">
-  “In a few years Ukraine will turn into a poor and hungry country with an anti-Russian government that will teach its population to hate Russia. They will be armed to the teeth and Ukraine and US reluctance to recognize the Russian Federation within its current borders would always provoke conflicts,” the MP said.
+  "In a few years Ukraine will turn into a poor and hungry country with an anti-Russian government that will teach its population to hate Russia. They will be armed to the teeth and Ukraine and US reluctance to recognize the Russian Federation within its current borders would always provoke conflicts,” the MP said.
 </p>
 
 I am not sure how to discount the possibility of Ukraine spinning into a full out war, but I do know one thing &#8211; **the market has built in virtually zero chance of that outcome.** During the summer every report that a tank moved near the Ukraine/Russian border caused a dip in the market. However since it has become obvious that the Obama administration would not be fighting a traditional war, the market has ignored all military developments. **If the continued American/European economic pressure causes Putin to launch a full out war, the market would be ill prepared as an escalation has not been discounted at all.**
@@ -60,11 +60,11 @@ I am not sure how to discount the possibility of Ukraine spinning into a full ou
 Even if the situation doesn&#8217;t descend into a traditional military conflict, do you really think that Putin is going to allow his economy to be attacked without retaliating? So far he has not been able to do much except try to staunch the bleeding, but I am worried there might be an economic counter punch coming. Maybe Putin shuts off the gas to Europe. Maybe he organizes some sort of coordinated selling of US assets. Don&#8217;t forget that during the last crisis, according to previous Treasury Secretary Paulson, Russia tried to persuade the Chinese to sell their US holdings:
 
 <p style="padding-left: 30px;">
-  The Russians made a “top-level approach” to the Chinese “that together they might sell big chunks of their GSE holdings to force the U.S. to use its emergency authorities to prop up these companies,” Paulson said.
+  The Russians made a "top-level approach” to the Chinese "that together they might sell big chunks of their GSE holdings to force the U.S. to use its emergency authorities to prop up these companies,” Paulson said.
 </p>
 
 <p style="padding-left: 30px;">
-  “The report was deeply troubling &#8212; heavy selling could create a sudden loss of confidence in the GSEs and shake the capital markets,” Paulson wrote. “I waited till I was back home and in a secure environment to inform the president.”
+  "The report was deeply troubling &#8212; heavy selling could create a sudden loss of confidence in the GSEs and shake the capital markets,” Paulson wrote. "I waited till I was back home and in a secure environment to inform the president.”
 </p>
 
 I am not sure where the US is most vulnerable to a Russian attack, but you have to assume that Putin is busy trying to find the weak spot. The market has not discounted any sort of retaliation. I think the market is being short sighted.

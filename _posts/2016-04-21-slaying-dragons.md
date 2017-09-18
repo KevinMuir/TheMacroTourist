@@ -26,7 +26,7 @@ The short side of the stock market sure seems tempting, but in some ways, that i
 
 Dave Lutz from Jones Trading summed it up perfectly in a recent note:
 
->Every Technical Analyst is negative on the market.  They all hate the rally – 95% of the street needs a pullback to try and get above waterline for the year.   The “Pain Trade” is due north…
+>Every Technical Analyst is negative on the market.  They all hate the rally – 95% of the street needs a pullback to try and get above waterline for the year.   The "Pain Trade” is due north…
 
 Could all those technicians looking for a roll over be correct?  Yup, you betcha.  The stock market is so far away from fundamental value, there are few "real" bids below.  But when so many investors are looking for the same outcome, it rarely happens.
 

@@ -20,9 +20,9 @@ Well today is the day. After what seems like months talking about whether the Fe
 
 There can be no denying that as recently as the end of August, Federal Reserve committee members were still leaning towards raising rates at this September's meeting. This can best be demonstrated by the rhetoric coming out of the mouth of the generally accepted number two Federal Reserve member after Chairperson Yellen. From the Guardian:
 
-> “In making our monetary policy decisions, we are interested more in where the US economy is heading than in knowing whence it came,” Fischer said in his remarks, which were released in Washington.
+> "In making our monetary policy decisions, we are interested more in where the US economy is heading than in knowing whence it came,” Fischer said in his remarks, which were released in Washington.
 > 
-> Fischer said there's “good reason to believe that inflation will move higher as the forces holding down inflation dissipate further”. He said, for example, that some effects of a stronger dollar and a plunge in oil prices – key factors in holding down inflation – have already started to diminish.
+> Fischer said there's "good reason to believe that inflation will move higher as the forces holding down inflation dissipate further”. He said, for example, that some effects of a stronger dollar and a plunge in oil prices – key factors in holding down inflation – have already started to diminish.
 
 And this attitude was by no means confined to Stanley Fischer. Most of the other FOMC committee members were also preparing the market for a September hike. From Reuters:
 

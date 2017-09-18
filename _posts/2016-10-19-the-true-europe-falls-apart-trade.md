@@ -18,21 +18,21 @@ A couple of days ago one of the European Union's founders issued a stark assessm
 
 >The European Central Bank is becoming dangerously over-extended and the whole euro project is unworkable in its current form, the founding architect of the monetary union has warned.
 
->“One day, the house of cards will collapse,” said Professor Otmar Issing, the ECB's first chief economist and a towering figure in the construction of the single currency.
+>"One day, the house of cards will collapse,” said Professor Otmar Issing, the ECB's first chief economist and a towering figure in the construction of the single currency.
 
 >Prof Issing said the euro has been betrayed by politics, lamenting that the experiment went wrong from the beginning and has since degenerated into a fiscal free-for-all that once again masks the festering pathologies.
 
->“Realistically, it will be a case of muddling through, struggling from one crisis to the next. It is difficult to forecast how long this will continue for, but it cannot go on endlessly,” he told the journal Central Banking in a remarkable deconstruction of the project.
+>"Realistically, it will be a case of muddling through, struggling from one crisis to the next. It is difficult to forecast how long this will continue for, but it cannot go on endlessly,” he told the journal Central Banking in a remarkable deconstruction of the project.
 
 >The regime is almost certain to be tested again in the next global downturn, this time starting with higher levels of debt and unemployment, and greater political fatigue.
 
->Prof Issing lambasted the European Commission as a creature of political forces that has given up trying to enforce the rules in any meaningful way. “The moral hazard is overwhelming,” he said. 
+>Prof Issing lambasted the European Commission as a creature of political forces that has given up trying to enforce the rules in any meaningful way. "The moral hazard is overwhelming,” he said. 
 
->The ECB has “crossed the Rubicon” and is now in an untenable position, trying to reconcile conflicting roles as banking regulator, Troika enforcer in rescue missions and agent of monetary policy. Its own financial integrity is increasingly in jeopardy.
+>The ECB has "crossed the Rubicon” and is now in an untenable position, trying to reconcile conflicting roles as banking regulator, Troika enforcer in rescue missions and agent of monetary policy. Its own financial integrity is increasingly in jeopardy.
 
->The central bank already holds over €1 trillion of bonds bought at “artificially low” or negative yields, implying huge paper losses once interest rates rise again. “An exit from the QE policy is more and more difficult, as the consequences potentially could be disastrous,” he said.
+>The central bank already holds over €1 trillion of bonds bought at "artificially low” or negative yields, implying huge paper losses once interest rates rise again. "An exit from the QE policy is more and more difficult, as the consequences potentially could be disastrous,” he said.
 
->“The decline in the quality of eligible collateral is a grave problem. The ECB is now buying corporate bonds that are close to junk, and the haircuts can barely deal with a one-notch credit downgrade. The reputational risk of such actions by a central bank would have been unthinkable in the past,” he said.
+>"The decline in the quality of eligible collateral is a grave problem. The ECB is now buying corporate bonds that are close to junk, and the haircuts can barely deal with a one-notch credit downgrade. The reputational risk of such actions by a central bank would have been unthinkable in the past,” he said.
 
 >Prof Issing slammed the first Greek rescue in 2010 as little more than a bailout for German and French banks, insisting that it would have been far better to eject Greece from the euro as a salutary lesson for all. The Greeks should have been offered generous support, but only after it had restored exchange rate viability by returning to the drachma.
 

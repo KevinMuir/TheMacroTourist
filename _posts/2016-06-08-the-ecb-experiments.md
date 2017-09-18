@@ -41,7 +41,7 @@ To top it all off, this morning Draghi laid to rest any worries that he was goin
 
 >Mario Draghi is showing he's planning to make the biggest impact possible on the first day of corporate bond purchases by casting his net as wide as the program allows. While the ECB has said it would buy corporate bonds with a single investment-grade rating, some investors expected the central bank to start with the region's highest-rated securities.
 
->“This dispels any doubts investors may have had about the commitment of the ECB and the central banks to tackle lower-rated names,” said Alex Eventon, a Paris-based fund manager at Oddo Meriten Asset Management which oversees 46 billion euros ($52 billion) of assets. “Telecom Italia is firmly at the weak end of the spectrum the ECB can buy. It's good for high-yield investors who might have bought these bonds to ride the rally the ECB created.”
+>"This dispels any doubts investors may have had about the commitment of the ECB and the central banks to tackle lower-rated names,” said Alex Eventon, a Paris-based fund manager at Oddo Meriten Asset Management which oversees 46 billion euros ($52 billion) of assets. "Telecom Italia is firmly at the weak end of the spectrum the ECB can buy. It's good for high-yield investors who might have bought these bonds to ride the rally the ECB created.”
 
 The ECB is taking bold steps and should not be underestimated.  And let's not forget, the TLTRO balance sheet expansion still ahead of us.  Later this month the ECB will expand their balance sheet even more aggressively with another "experiment."
 

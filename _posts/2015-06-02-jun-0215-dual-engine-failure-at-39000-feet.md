@@ -132,17 +132,17 @@ The US economy is not having trouble dealing with the threat of slightly higher 
 It used to be the Fed would never even mention the US dollar, leaving that up to the Treasury department. But increasingly the Fed is focused on the US dollar and the effect the global economy is having on the US. From Bloomberg:
 
 <p style="padding-left: 30px;">
-  Federal Reserve Vice Chairman Stanley Fischer said policy makers will consider global growth as they begin to raise interest rates, and that they could increase borrowing costs more gradually should the world economy falter. “If foreign growth is weaker than anticipated, the consequences for the U.S. economy could lead the Fed to remove accommodation more slowly than otherwise,” Fischer said in a speech Tuesday at Tel Aviv University.
+  Federal Reserve Vice Chairman Stanley Fischer said policy makers will consider global growth as they begin to raise interest rates, and that they could increase borrowing costs more gradually should the world economy falter. "If foreign growth is weaker than anticipated, the consequences for the U.S. economy could lead the Fed to remove accommodation more slowly than otherwise,” Fischer said in a speech Tuesday at Tel Aviv University.
 </p>
 
 The FOMC committee members are desperate to temper down any expectations for monetary tightening. Again from Bloomberg:
 
 <p style="padding-left: 30px;">
-  When it comes to describing how the Federal Reserve will exit the zero-rate era, “liftoff” is all wrong, says Vice Chairman Stanley Fischer.<br /> The term, dear to investors and headline writers, “is the most misleading word you can imagine,” he said on Monday in Toronto.
+  When it comes to describing how the Federal Reserve will exit the zero-rate era, "liftoff” is all wrong, says Vice Chairman Stanley Fischer.<br /> The term, dear to investors and headline writers, "is the most misleading word you can imagine,” he said on Monday in Toronto.
 </p>
 
 <p style="padding-left: 30px;">
-  “Liftoff says we're going straight up with the interest rate,” Fischer said during a question-and-answer session after a speech on financial crises. “Well, we're going up with the interest rate, then along, and then another little jump. That's not liftoff, that's crawling.”
+  "Liftoff says we're going straight up with the interest rate,” Fischer said during a question-and-answer session after a speech on financial crises. "Well, we're going up with the interest rate, then along, and then another little jump. That's not liftoff, that's crawling.”
 </p>
 
 <hr size="3" width="85%" />
@@ -168,7 +168,7 @@ It&#8217;s not just the vampire squid that is pessimistic about the US economy. 
 </p>
 
 <p style="padding-left: 30px;">
-  &#8230; the idea that the economy is “ready” for a removal of accommodation and that there is any sense in it from the perspective of rising inflation expectations and a stronger real growth outlook is nonsense.
+  &#8230; the idea that the economy is "ready” for a removal of accommodation and that there is any sense in it from the perspective of rising inflation expectations and a stronger real growth outlook is nonsense.
 </p>
 
 <hr size="3" width="85%" />

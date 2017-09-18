@@ -83,7 +83,7 @@ According to this model, Fed funds should be north of 2%, not hovering at 0%. An
 </p>
 
 <p style="padding-left: 30px;">
-  Orphanides: Here is the difficulty. This is one of those situations where the longer the Fed waits to start the process of normalization, the more likely it is that the Fed will face a nasty dilemma. And what is that dilemma? The dilemma will be that they will realize that they need to tighten policy very abruptly to control inflation. And of course if they were to do that, that would risk growth. Or they would have to say, “oh well, this 2% target after all we don't really have to take it seriously, let's let inflation rip.” This is the dilemma that the Fed is really setting up for itself by procrastinating on lift-off.
+  Orphanides: Here is the difficulty. This is one of those situations where the longer the Fed waits to start the process of normalization, the more likely it is that the Fed will face a nasty dilemma. And what is that dilemma? The dilemma will be that they will realize that they need to tighten policy very abruptly to control inflation. And of course if they were to do that, that would risk growth. Or they would have to say, "oh well, this 2% target after all we don't really have to take it seriously, let's let inflation rip.” This is the dilemma that the Fed is really setting up for itself by procrastinating on lift-off.
 </p>
 
 <p style="padding-left: 30px;">

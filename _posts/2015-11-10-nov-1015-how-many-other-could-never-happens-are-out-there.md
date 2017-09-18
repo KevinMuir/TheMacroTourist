@@ -25,13 +25,13 @@ Over the past month the US swap market has experienced a series of unusual, and 
 
 So even though I know just enough about swaps to get myself into serious trouble, let's look into the recent developments in the US swap market.
 
-A swap is simply an agreement to “swap” a series of fixed rate payments for a floating rate (usually LIBOR). The swap spread is defined as:
+A swap is simply an agreement to "swap” a series of fixed rate payments for a floating rate (usually LIBOR). The swap spread is defined as:
 
 > &#8230;the spread paid by the fixed-rate payer of an interest rate swap over the rate of the on the run treasury with the same maturity as the swap. For example, if the fixed-rate of a 5-year fixed-for-float LIBOR swap is 7.26% and the 5-year Treasury is yielding at 6.43%, the swap spread is 7.26% – 6.43% = 83 bps.
 
 A swap involves credit risk, so it was generally believed that swap spreads would always be positive. Yet during the 2008 credit crisis, 30 year swap spreads moved to negative territory for the first time ever:
 
-> October 23, 2008, was an unusual day in credit markets even within a vast sea of unusual days. Credit and “exotics” desks at banks were left scrambling to figure out how it was possible that the 30-year swap rate could trade less than the 30-year treasury. It was thought one of those immutable laws of finance that no such might occur, to the point there were stories (apocryphal or not, the tale is about the scale of disbelief) that some trading machines were never programmed to accept a negative swap spread input. The surface tension about such things was decoded under the typical generalities that stand for analysis; if the 30-year swap spread was negative that might suggest the “market” thinking about a bankrupt US government.
+> October 23, 2008, was an unusual day in credit markets even within a vast sea of unusual days. Credit and "exotics” desks at banks were left scrambling to figure out how it was possible that the 30-year swap rate could trade less than the 30-year treasury. It was thought one of those immutable laws of finance that no such might occur, to the point there were stories (apocryphal or not, the tale is about the scale of disbelief) that some trading machines were never programmed to accept a negative swap spread input. The surface tension about such things was decoded under the typical generalities that stand for analysis; if the 30-year swap spread was negative that might suggest the "market” thinking about a bankrupt US government.
 
 As I was researching this piece, I was at first confused about why swap spreads were going _down_ during the latest credit crisis. Wasn't a big short US swap spread one of the positions that sank Long Term Credit Management during the 1999 crisis?
 
@@ -53,9 +53,9 @@ Over the past month the US 10 year swap spread has plunged to new lows, eclipsin
 
 **_This move is confusing a lot of people… And those not confused, are worried…_**
 
-Jeffrey Snider from Alhambra Investment Partners wrote a terrific piece titled [“Ignore Swap Spreads at Your Peril”](http://www.alhambrapartners.com/2015/09/25/ignore-swap-spreads-at-your-own-peril/) that outlines all the problems with the negative swap spreads. From his piece:
+Jeffrey Snider from Alhambra Investment Partners wrote a terrific piece titled ["Ignore Swap Spreads at Your Peril”](http://www.alhambrapartners.com/2015/09/25/ignore-swap-spreads-at-your-own-peril/) that outlines all the problems with the negative swap spreads. From his piece:
 
-> A negative swap spread on its surface seems to indicate that the “market” views counterparty risk as less than risk of investing in the same maturity UST. That was never the case, however, as bank balance sheet capacity was simply collapsing leading to all sorts of irregularities; thus the problem of mainstream interpretations that stay close to the surface rather than recognize the wholesale origin (chaos and disorder) beneath.
+> A negative swap spread on its surface seems to indicate that the "market” views counterparty risk as less than risk of investing in the same maturity UST. That was never the case, however, as bank balance sheet capacity was simply collapsing leading to all sorts of irregularities; thus the problem of mainstream interpretations that stay close to the surface rather than recognize the wholesale origin (chaos and disorder) beneath.
 
 There seems to be many investors who are quick to dismiss these moves as nothing more than a large demand from corporate issuers who often swap fixed into floating. There is no doubt the corporate market has been flooded with new issues that are sucking up a lot of the oxygen.
 
@@ -65,7 +65,7 @@ The banks' balance sheets have been distorted so much through regulation that **
 
 > The GC rate, a secured funding rate, would normally trade under the LIBOR rate which is an unsecured funding rate. Would you rather loan a bank $100 million and have treasury collateral against the loan or just send them the cash and hope they pay you back? One would assume the credit component of this unsecured loan would deliver a premium to compensate for the added risk. Guess again.
 > 
-> GC is above LIBOR as the cost of balance sheet is being driven higher. Banks no longer want to hold low returning assets and have adopted the GoodFella's approach to pricing balance sheet, F you pay me. The wake up call on scarcity of balance sheet started late summer when central banks that had been reliable buyers of short duration treasury paper turned seller as they needed to raise cash to either defend their currencies or plug budget gaps left by plunging oil prices. Think of this as “unexpected” supply of treasury collateral which had to be marked down in order to find a clearing level.
+> GC is above LIBOR as the cost of balance sheet is being driven higher. Banks no longer want to hold low returning assets and have adopted the GoodFella's approach to pricing balance sheet, F you pay me. The wake up call on scarcity of balance sheet started late summer when central banks that had been reliable buyers of short duration treasury paper turned seller as they needed to raise cash to either defend their currencies or plug budget gaps left by plunging oil prices. Think of this as "unexpected” supply of treasury collateral which had to be marked down in order to find a clearing level.
 
 Here is a chart of the one month LIBOR rate minus the one month general collateral rate:
 
@@ -80,7 +80,7 @@ But what does this mean for the economy? I am not sure, but I am not so quick to
 
 The Federal Reserve is about to embark on the first rate rise since the massive QE science experiment. Not only that, but the massive reform known as Dodd Frank has changed how the typical intermediaries of monetary policy behave.
 
-The FOMC and the regulators might be confident they know how all these new moving pieces will interact, but I am not so sure… These strange happenings in the swaps market might _be just the beginning._ Remember to keep your mind open to all sorts of possibilities. It wasn't that long ago market pundits thought swap rates could never go negative. How many other “could never happen's” are out there waiting for us?
+The FOMC and the regulators might be confident they know how all these new moving pieces will interact, but I am not so sure… These strange happenings in the swaps market might _be just the beginning._ Remember to keep your mind open to all sorts of possibilities. It wasn't that long ago market pundits thought swap rates could never go negative. How many other "could never happen's” are out there waiting for us?
 
 Thanks for reading,
   

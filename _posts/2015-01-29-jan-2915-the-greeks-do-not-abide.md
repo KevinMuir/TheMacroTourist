@@ -20,7 +20,7 @@ tags:
   - Syriza
   - Tsipras
 ---
-**“The last line in Hotel California explains where we are: you can check out any time, but you can never leave,”** &#8211; Yanis Varoufakis, Greek Finance Minister, speaking about Greece&#8217;s membership in the EU.
+**"The last line in Hotel California explains where we are: you can check out any time, but you can never leave,”** &#8211; Yanis Varoufakis, Greek Finance Minister, speaking about Greece&#8217;s membership in the EU.
 
 
   <img src="http://themacrotourist.com/images/Azure/EaglesJan2915.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/EaglesJan2915.png" width="600" height="342">
@@ -37,7 +37,7 @@ Minutes after being sworn into office (without a tie I might add), the new Greek
 This war memorial stands on the spot that on May Day 1944, around 200 political activists were executed by Nazi forces. And this was not the case of an inexperienced PM making a faux pas. His spokesman spelled it out the message they were trying to send in black and white for everyone to see:
 
 <p style="padding-left: 30px;">
-  “It represents national resistance to German occupation,” says Panos Skourletis, spokesman of Syriza, an alliance of far-left groups ranging from Maoists to greens. “But also the desire of Greeks for freedom, for liberty from German occupation.”
+  "It represents national resistance to German occupation,” says Panos Skourletis, spokesman of Syriza, an alliance of far-left groups ranging from Maoists to greens. "But also the desire of Greeks for freedom, for liberty from German occupation.”
 </p>
 
 Well, how do like &#8217;em Apples, Merkel? 
@@ -55,7 +55,7 @@ I have long thought the German&#8217;s insistence on budget cuts and relative ha
 And it&#8217;s not just Larry that has come to this conclusion. My country man turned UK Central Banker, Marc Carney has recently echoed similar concerns:
 
 <p style="padding-left: 30px;">
-  “Since the financial crisis all major advanced economies have been in a debt trap where low growth deepens the burden of debt, prompting the private sector to cut spending further. Persistent economic weakness damages the extent to which economies can recover. Skills and capital atrophy. Workers become discouraged and leave the labour force. Prospects decline and the noose tightens. As difficult as it has been, some countries, including the US and the UK, are now escaping this trap. Others in the euro area are sinking deeper.”
+  "Since the financial crisis all major advanced economies have been in a debt trap where low growth deepens the burden of debt, prompting the private sector to cut spending further. Persistent economic weakness damages the extent to which economies can recover. Skills and capital atrophy. Workers become discouraged and leave the labour force. Prospects decline and the noose tightens. As difficult as it has been, some countries, including the US and the UK, are now escaping this trap. Others in the euro area are sinking deeper.”
 </p>
 
 Some more conservative individuals might respond by pointing out that the status quo was also not a long term solution. Nations such as Greece were engaging in deficit spending that would have ultimately bankrupt their country. 

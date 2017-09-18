@@ -32,9 +32,9 @@ Have a look at this great chart from JP Morgan's David Kelly:
 
 Although the 1998 tightening cycle did eventually result in a sustained US dollar bull move (but only after a small sell off), the other two cycles were the start of bear moves. **A Fed that is raising rates is by no means a guarantee of a strong US dollar.**
 
-In fact, given the amount of fear out there, I would argue that the most likely outcome from a Fed rate hike is the exact opposite situation. If there was ever a chance for an “all baked in” situation, it is when the Fed finally raises rates.
+In fact, given the amount of fear out there, I would argue that the most likely outcome from a Fed rate hike is the exact opposite situation. If there was ever a chance for an "all baked in” situation, it is when the Fed finally raises rates.
 
-The other interesting aspect about this whole rate rise scare is that most market participants assume the first hike will be the start of a tightening cycle. The Fed has never started a rate tightening campaign with inflation running below target. I had thought that given the anemic state of the US (and world) economy, the Fed would be hesitant to break this precedent. However it is increasing looking like the “zero was an emergency rate, and the emergency is long past” camp on the FOMC will extract a rate hike from the doves. But does this necessarily mean the start of a rate hiking campaign? What if this is a “one and done” rate hike? Let's face it, apart from a somewhat tight labour market (but filled with conflicting signals with little wage growth), there is little reason for the Fed to be raising rates. This September the Fed could lift off zero and then stay low for a long time with no more hikes.
+The other interesting aspect about this whole rate rise scare is that most market participants assume the first hike will be the start of a tightening cycle. The Fed has never started a rate tightening campaign with inflation running below target. I had thought that given the anemic state of the US (and world) economy, the Fed would be hesitant to break this precedent. However it is increasing looking like the "zero was an emergency rate, and the emergency is long past” camp on the FOMC will extract a rate hike from the doves. But does this necessarily mean the start of a rate hiking campaign? What if this is a "one and done” rate hike? Let's face it, apart from a somewhat tight labour market (but filled with conflicting signals with little wage growth), there is little reason for the Fed to be raising rates. This September the Fed could lift off zero and then stay low for a long time with no more hikes.
 
 Although the initial reaction from a Fed rate hike might be a US dollar rise, within days I suspect the market will realize that any rate rise will be gradual (if at all), and will be selling US dollars.
 
@@ -44,7 +44,7 @@ Currently the market is convinced that higher US rates equals higher US dollar. 
 
 **Emerging Markets and copper**
 
-Following the 2008 credit crisis, copper and emerging markets equities seemed to be joined at the hip. From 2009 to 2013 they traded tick for tick. Then in 2014 copper started sinking. At the same time, the financial markets' bid leaked into emerging markets equities and caused an “unsupported by the fundamentals” rally. This divergence lasted for all of 2014, and before this summer, was still fairly wide.
+Following the 2008 credit crisis, copper and emerging markets equities seemed to be joined at the hip. From 2009 to 2013 they traded tick for tick. Then in 2014 copper started sinking. At the same time, the financial markets' bid leaked into emerging markets equities and caused an "unsupported by the fundamentals” rally. This divergence lasted for all of 2014, and before this summer, was still fairly wide.
 
 
   <img src="http://themacrotourist.com/images/EEMSep0815.png" alt="http://themacrotourist.com/images/EEMSep0815.png" style="margin:30px auto;display:block;" width="600" height="342">

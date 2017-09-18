@@ -31,7 +31,7 @@ Even in the best of times, this dam is a powder keg.  Its poor construction mean
 
 There is zero doubt that if this dam was in a modern Western nation, it would have been dealt with years ago:
 
->In January 2016, U.S. General Sean MacFarland warned that the dam might undergo a "catastrophic" collapse. He added, “What we do know is this—if this dam were in the United States, we would have drained the lake behind it."
+>In January 2016, U.S. General Sean MacFarland warned that the dam might undergo a "catastrophic" collapse. He added, "What we do know is this—if this dam were in the United States, we would have drained the lake behind it."
 
 Yet it's not in the United States, but Iraq.  To make matters worse, it's in territory controlled by ISIS.  Although the Iraqi government now controls the dam, over the past year it has slipped back and forth between ISIS and the government.  But more importantly, it is extremely difficult for the Iraqi government to make the necessary repairs with fighting raging so close.
 

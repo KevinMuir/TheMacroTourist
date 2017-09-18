@@ -19,7 +19,7 @@ tags:
 Last week, the Telegraph published an unusual article whose interviewee advocated the following:
 
 <p style="padding-left: 30px;">
-  “Systemic risk is in the system and as an investor you have to be aware of that,” he told Telegraph Money. The best strategy to deal with this, he said, was for investors to spread their money widely into different assets, including gold and silver, as well as cash in savings accounts. But he went further, suggesting it was wise to hold some “physical cash.&#8221;
+  "Systemic risk is in the system and as an investor you have to be aware of that,” he told Telegraph Money. The best strategy to deal with this, he said, was for investors to spread their money widely into different assets, including gold and silver, as well as cash in savings accounts. But he went further, suggesting it was wise to hold some "physical cash.&#8221;
 </p>
 
 Who was this shaman inciting this sort of fear mongering? Was it _&#8220;banned from CNBC&#8221;_ Peter Schiff? Or crazy old Jim _&#8220;buy commodities&#8221;_ Rogers? Maybe the other Jim? Could it be _&#8220;currency wars&#8221;_ Rickards?
@@ -37,7 +37,7 @@ But here&#8217;s the rub. This interview wasn&#8217;t with some financial doomsd
 This is a serious fellow who is not prone to exaggerated predictions of disaster. In fact, he is going against his own and his employer&#8217;s interest by suggesting investors hold more cash and precious metals. There is no short term personal gain for him to warn about the financial system&#8217;s instability. 
 
 <p style="padding-left: 30px;">
-  Mr Spreadbury added: “We have rock-bottom rates and QE is still going on – this is all experimental policy and means we are in uncharted territory.
+  Mr Spreadbury added: "We have rock-bottom rates and QE is still going on – this is all experimental policy and means we are in uncharted territory.
 </p>
 
 <hr size="3" width="85%" />

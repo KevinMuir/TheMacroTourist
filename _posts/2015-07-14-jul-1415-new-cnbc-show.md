@@ -53,7 +53,7 @@ Although we have had a couple of decent up days in the stock market, I am not su
 
 One of the differences has been the nature of the intraday trading. During this bull run, we would often open unchanged or slightly lower, and then chug higher all day to go out near the highs.
 
-Lately the market has been selling off towards the end of the day. There is an indicator known as the “Smart Money Index” which measures the relative performance of the first half hour of trading versus the last half hour. The thinking is that the public (dumb money) buys the open, while institutions (smart money) buy the close. By measuring the difference you can observe the relative flows between the two groups.
+Lately the market has been selling off towards the end of the day. There is an indicator known as the "Smart Money Index” which measures the relative performance of the first half hour of trading versus the last half hour. The thinking is that the public (dumb money) buys the open, while institutions (smart money) buy the close. By measuring the difference you can observe the relative flows between the two groups.
 
 
   <img src="http://themacrotourist.com/images/SmartJul1315.png" alt="http://themacrotourist.com/images/SmartJul1315.png" style="margin:30px auto;display:block;" width="600" height="342">

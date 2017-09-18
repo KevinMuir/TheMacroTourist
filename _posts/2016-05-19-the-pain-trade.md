@@ -26,7 +26,7 @@ Now in a weird "told you so" moment, Fed officials are blaming the markets:
 
 Yeah... sure...  Let's think back to March 29th when Yellen gave a speech entitled "The Outlook, Uncertainty, and Monetary Policy."  I think Gluskin Scheff's David Rosenberg summed it up best:
 
->I have been in this business for 30 years and have never seen a central bank chief slip the word “uncertainty” into the headline. 
+>I have been in this business for 30 years and have never seen a central bank chief slip the word "uncertainty” into the headline. 
 
 >Not just that, but she invoked the term no fewer than 10 times to describe the domestic and global macro and market backdrop — this even as we pass seven years since the worst point of the Great Recession and seven years into the most radical easing of monetary policy in recorded history.
 

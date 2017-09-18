@@ -60,11 +60,11 @@ Saudi Arabia is aggressively pushing prices lower. From the WSJ:
 
 > Days after slashing prices in Asia, Saudi Arabia is now making an aggressive push in the European oil market, traders say.  
 > The kingdom is taking the unusual step of asking buyers to commit to maximum shipments if they want to get its crude.  
-> “The Saudi push is not just in Asia. It's a global phenomenon,” one oil trader said. “They are using very aggressive tactics” in Europe too, the trader added.  
+> "The Saudi push is not just in Asia. It's a global phenomenon,” one oil trader said. "They are using very aggressive tactics” in Europe too, the trader added.  
 > This month, state-owned Saudi Aramco stunned the rest of the Organization of the petroleum Exporting Countries by slashing its November prices to defend its market share in Asia's growing market. The move, setting a price war in the oil-production group, was combined with a boost in the kingdom's output in September.  
 > But Riyadh is also moving to protect its sales to Europe, a declining market where it is facing rivalry from returning Libyan production.  
 > After cutting its November prices there, Saudi Aramco is also asking refiners to commit to full, fixed deliveries in talks to renew contracts for next year, the traders say. They say the Saudi oil company had previously offered a formula allowing flexibility of more or less 10% of contracted volumes, the most commonly used in the industry.  
-> “They are threatening buyers” to discontinue sales if they don't agree with the fixed deliveries, another trader said.
+> "They are threatening buyers” to discontinue sales if they don't agree with the fixed deliveries, another trader said.
 
 The Saudi selling has created a crash in the price of crude oil. It is made worse by the fact that we have had all of this new shale US supply brought on line over the last decade. The cost of production for this new supply is now dangerously close to the current price. 
 

@@ -19,7 +19,7 @@ tags:
   - Paul Tudor Jones
   - volatility
 ---
-A few days ago at the Ira Sohn conference, the legendary (and he really deserves that adjective as opposed to the many other &#8220;CNBC qualified&#8221; legendary traders) Paul Tudor Jones gave a presentation called “Manic depressive trading in a volatility-compressed world.” It is unusual for Paul to have made the speech as he is more of the old school style hedge fund manger &#8211; let your results speak for themselves and stay out of the media. Over the years I have never once seen him on the business news giving his opinion about the market. Apart from a 60 minutes piece where he promoted his charity, Paul does not give interviews. In fact there is even a famous PBS documentary called &#8220;Trader&#8221; that was made about Paul in 1987. In the piece, he correctly forecasts the 1987 crash that was still months away. Yet it seems that Paul Tudor Jones hates the documentary and has subsequently bought all the remaining copies. Every now and then someone posts it to Youtube, but he must have bought the copyright as well because it is quickly pulled. 
+A few days ago at the Ira Sohn conference, the legendary (and he really deserves that adjective as opposed to the many other &#8220;CNBC qualified&#8221; legendary traders) Paul Tudor Jones gave a presentation called "Manic depressive trading in a volatility-compressed world.” It is unusual for Paul to have made the speech as he is more of the old school style hedge fund manger &#8211; let your results speak for themselves and stay out of the media. Over the years I have never once seen him on the business news giving his opinion about the market. Apart from a 60 minutes piece where he promoted his charity, Paul does not give interviews. In fact there is even a famous PBS documentary called &#8220;Trader&#8221; that was made about Paul in 1987. In the piece, he correctly forecasts the 1987 crash that was still months away. Yet it seems that Paul Tudor Jones hates the documentary and has subsequently bought all the remaining copies. Every now and then someone posts it to Youtube, but he must have bought the copyright as well because it is quickly pulled. 
 
 
   <img src="http://themacrotourist.com/images/Azure/PTJMay0914.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/PTJMay0914.png" width="571" height="378" />Paul Tudor Jones from the movie &#8220;Trader&#8221;</a>
@@ -27,7 +27,7 @@ A few days ago at the Ira Sohn conference, the legendary (and he really deserves
 
 It was therefore quite unusual to have Paul speak at the Ira Sohn conference. 
 
-In the speech, Paul who has been trading for almost 40 years said, “Macro trading is about as difficult as I've ever seen it in my career."
+In the speech, Paul who has been trading for almost 40 years said, "Macro trading is about as difficult as I've ever seen it in my career."
 
 Traders often feel like the current environment is harder than it ever has been, and it is only with hindsight that the trades seem obvious. However, Paul Tudor Jones is not some spring chicken that has seen only a couple of different market cycles. He is one of the most experienced macro traders out there, so if he says that this the hardest environment he has ever seen, then we know that it is difficult.
 
@@ -37,7 +37,7 @@ I have spoken about the preponderance of hedge funds creating an environment tha
 
 As reported by the ValueWalk website, Paul went on to note:
 
-> What is the cause? Paul Tudor Jones says that central banks are the cause for this manic depression in markets&#8230;. Paul Tudor Jones says that “realized volatility in G7 equity, forex markets are all at multi-decade lows”
+> What is the cause? Paul Tudor Jones says that central banks are the cause for this manic depression in markets&#8230;. Paul Tudor Jones says that "realized volatility in G7 equity, forex markets are all at multi-decade lows”
 
 The JP Morgan G7 Volatility Index is hitting new lows for this move:
 

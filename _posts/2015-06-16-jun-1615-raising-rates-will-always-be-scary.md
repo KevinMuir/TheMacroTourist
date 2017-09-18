@@ -21,7 +21,7 @@ tags:
 Let&#8217;s face it, there will never be a great time to raise rates. We have stuffed our economy full of so much debt and leverage, relied too much on financial repression to boost the value of long dated financial assets, and in general created such a Frankenstein economy addicted to cheap credit that raising rates _will from now on always be scary._ When guys like Leon Cooperman argue we shouldn&#8217;t worry about the first hike they are mistakenly assuming the markets will behave like previous cycles.
 
 <p style="padding-left: 30px;">
-  “On average, after the first Fed tightening one year later, the market is higher by an average of a little under 10%. And I think the initial stage of rising interest rates are indicative of an improving economy, rising earnings, rising dividends — and the market likes that,” he said.
+  "On average, after the first Fed tightening one year later, the market is higher by an average of a little under 10%. And I think the initial stage of rising interest rates are indicative of an improving economy, rising earnings, rising dividends — and the market likes that,” he said.
 </p>
 
 The economy has been distorted through three different Quantitative Easing programs. Looking at past cycles has become less and less helpful as the fundamental nature of the economy has changed. Almost all of the developed world is mired in a balance sheet recession. I couldn&#8217;t help but laugh when one of China&#8217;s largest newspapers took a dig at the countries that attended the recent G7 conference:
@@ -56,7 +56,7 @@ There is a big contingent on the FOMC committee who believe &#8220;ZIRP was supp
 To better understand what is going through the minds of the FOMC committee members, I often turn to former Texas Fed President Bob McTeer. He writes a great blog that often clarifies their thought process in setting monetary policy.
 
 <p style="padding-left: 30px;">
-  I agree with the consensus view that September 17 is the most likely date for the FOMC to make its first tweak in the Federal Funds rate in a long, long time. I also agree that this week (June 17 to be precise) is probably not on their agenda because of their promise to be “data dependent.” While they no doubt believe the first quarter's negative GDP number was a one-off affair and that growth will rebound from that beginning in the second quarter, it would still look bad to “tighten” monetary policy while the latest growth measure was negative. I also agree that the September 16-17 meeting is the most likely, my purpose here is to ask “What's wrong with the July 28-29 meeting?”
+  I agree with the consensus view that September 17 is the most likely date for the FOMC to make its first tweak in the Federal Funds rate in a long, long time. I also agree that this week (June 17 to be precise) is probably not on their agenda because of their promise to be "data dependent.” While they no doubt believe the first quarter's negative GDP number was a one-off affair and that growth will rebound from that beginning in the second quarter, it would still look bad to "tighten” monetary policy while the latest growth measure was negative. I also agree that the September 16-17 meeting is the most likely, my purpose here is to ask "What's wrong with the July 28-29 meeting?”
 </p>
 
 <p style="padding-left: 30px;">
@@ -64,7 +64,7 @@ To better understand what is going through the minds of the FOMC committee membe
 </p>
 
 <p style="padding-left: 30px;">
-  At the end of July we will be getting the first estimate of the second quarter GDP number, which looks to be positive enough at this point to count as a “rebound” from the weak first quarter. Furthermore, the weak March employment report, which was recently revised up substantially will be another month old and fading from memory. If they are becoming eager to begin the process, they will likely have the cover to do it. In addition, I think they should do it earlier rather than later.
+  At the end of July we will be getting the first estimate of the second quarter GDP number, which looks to be positive enough at this point to count as a "rebound” from the weak first quarter. Furthermore, the weak March employment report, which was recently revised up substantially will be another month old and fading from memory. If they are becoming eager to begin the process, they will likely have the cover to do it. In addition, I think they should do it earlier rather than later.
 </p>
 
 <p style="padding-left: 30px;">

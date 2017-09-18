@@ -25,7 +25,7 @@ Not content to merely raise rates, Fed officials appear to be preparing the mark
 
 From Marketwatch:
 
->The Federal Reserve “may be in a better position” to reduce the size of its balance sheet now that it has raised interest rates twice in the past year, St. Louis Fed President James Bullard said Thursday.
+>The Federal Reserve "may be in a better position” to reduce the size of its balance sheet now that it has raised interest rates twice in the past year, St. Louis Fed President James Bullard said Thursday.
 
 >In a speech to the Forecasters Club of New York, Bullard said the Fed may be able to use its balance sheet as a way to tighten monetary policy without putting exclusive emphasis on higher interest rates.
 
@@ -33,9 +33,9 @@ From the FT:
 
 >The Federal Reserve should be ready to consider reducing the size of its balance sheet as part of its efforts to prevent overheating in the US, a senior policymaker said as he noted the pick-up in wage inflation and predicted a return of inflation to target by the end of the year.
 
->Eric Rosengren, the president of the Federal Reserve Bank of Boston, said that if the Fed is in a position to lift rates with “more alacrity” than the one-a-year pace of rate rises seen in the past two years, then officials should be willing to debate reductions in the size of its huge asset portfolio.
+>Eric Rosengren, the president of the Federal Reserve Bank of Boston, said that if the Fed is in a position to lift rates with "more alacrity” than the one-a-year pace of rate rises seen in the past two years, then officials should be willing to debate reductions in the size of its huge asset portfolio.
 
->“We should be considering it now, and at what point the committee actually decides to take action we will have to see,” he said in a telephone interview with the Financial Times. “But my own criteria would be if we think the economy is strong enough that we are going to need to do multiple tightenings... at that time we should be seriously thinking about reducing the balance sheet.”
+>"We should be considering it now, and at what point the committee actually decides to take action we will have to see,” he said in a telephone interview with the Financial Times. "But my own criteria would be if we think the economy is strong enough that we are going to need to do multiple tightenings... at that time we should be seriously thinking about reducing the balance sheet.”
 
 From Reuters:
 

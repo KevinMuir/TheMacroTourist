@@ -20,7 +20,7 @@ The cluelessness of the FOMC members continues to astound me. I know they can&#8
 
 Yesterday two more Federal Reserve Presidents were hard at work, proclaiming everything hunky dory.  First up was Cleveland&#8217;s Loretta Mester:
 
-> “Underlying fundamentals of the U.S. economy remain very sound,” Mester said yesterday in an interview on Bloomberg Television.
+> "Underlying fundamentals of the U.S. economy remain very sound,” Mester said yesterday in an interview on Bloomberg Television.
 
 Really?  Very sound?  The world economy is slowing down at a fierce rate, world trade is collapsing and about the only thing doing well is the US dollar.  And you call this very sound?
 
@@ -31,7 +31,7 @@ Oh, and don&#8217;t worry about China &#8211; Fed officials have already built a
 > </p>
 > 
 > <p class="fps-addIndent">
->   “I don't see that as a significant risk for the forecast,” she said.
+>   "I don't see that as a significant risk for the forecast,” she said.
 > </p>
 
 Or how about San Francisco&#8217;s Fed President John Williams who said the following:

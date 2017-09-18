@@ -122,7 +122,7 @@ That is in fact the message that former Morgan Stanley economist Stephen Roach a
 </p>
 
 <p style="padding-left: 30px;">
-  Similarly, President Barack Obama&#8217;s administration has just brought yet another action against China in the World Trade Organization – this time focusing on illegal subsidies that China provided to exporters through so-called “common service platforms&#8221; and “demonstration bases.&#8221; If China intervenes to push its currency lower, US political support for anti-China trade actions will undoubtedly intensify, pushing the world&#8217;s two largest economies closer to the slippery slope of protectionism.
+  Similarly, President Barack Obama&#8217;s administration has just brought yet another action against China in the World Trade Organization – this time focusing on illegal subsidies that China provided to exporters through so-called "common service platforms&#8221; and "demonstration bases.&#8221; If China intervenes to push its currency lower, US political support for anti-China trade actions will undoubtedly intensify, pushing the world&#8217;s two largest economies closer to the slippery slope of protectionism.
 </p>
 
 <p style="padding-left: 30px;">

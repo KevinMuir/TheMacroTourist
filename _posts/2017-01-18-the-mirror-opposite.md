@@ -32,13 +32,13 @@ As President Obama assumed office, most of Wall Street seemed filled with a sens
 
 A couple of months into his term, the press asked President Obama about the negative attitude prevailing on Wall Street.  From the NY Times (March 3rd, 2009):
 
->President Obama said Tuesday that he is not intently focused on the “day-to-day gyrations of the stock market,” comparing the downward roller-coaster on Wall Street to the fickle nature of political polls.
+>President Obama said Tuesday that he is not intently focused on the "day-to-day gyrations of the stock market,” comparing the downward roller-coaster on Wall Street to the fickle nature of political polls.
 
->“You know, it bobs up and down day to day,” Mr. Obama said. “And if you spend all your time worrying about that, then you're probably going to get the long-term strategy wrong.”
+>"You know, it bobs up and down day to day,” Mr. Obama said. "And if you spend all your time worrying about that, then you're probably going to get the long-term strategy wrong.”
 
 >The president did not offer any specific stock tips, but suggested that he believed the market might be close to its low point.
 
->“Profit and earning ratios are starting to get to the point where buying stocks is a potentially good deal,” Mr. Obama said, “if you've got a long-term perspective on it.”
+>"Profit and earning ratios are starting to get to the point where buying stocks is a potentially good deal,” Mr. Obama said, "if you've got a long-term perspective on it.”
 
 I remember the day as if it was yesterday, "buying stocks is a potentially good deal if you've got a long-term perspective on it."  Gutsy call.  Most Presidents avoid making those sorts of stock market predictions like the plague.  I remember most of Wall Street laughing at him.  Buy stocks?  Yeah right... You know even less about the market than you do about governing.  
 

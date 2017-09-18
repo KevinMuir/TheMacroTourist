@@ -35,7 +35,7 @@ The real mistake was committed almost twenty years ago when Greenspan recognized
 
   <img src="http://themacrotourist.com/images/TotalCreditSep2215.png" alt="http://themacrotourist.com/images/TotalCreditSep2215.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-December 5th, 1996 was probably the last time we could turn back. At that point Greenspan noted the possibility of the stock market being “irrationally exuberant.”
+December 5th, 1996 was probably the last time we could turn back. At that point Greenspan noted the possibility of the stock market being "irrationally exuberant.”
 
 
   <img src="http://themacrotourist.com/images/SPXIrrSep2215.png" alt="http://themacrotourist.com/images/SPXIrrSep2215.png" style="margin:30px auto;display:block;" width="600" height="342">
@@ -59,7 +59,7 @@ There is simply no way the public will sit through a credit reset. It would be u
 
 So if the system will not get cleansed through an economic contraction, what options does that leave us? You might argue that a prescription of belt tightening austerity combined with increased saving will, over time, right the situation. But that is again simply an economic pipe dream. The moment credit starts to contract, a vicious balance sheet recession engulfs the economy. With crippling debt loads, **austerity has never worked.**
 
-There is really only one answer. The debt needs to be inflated away. It might not be what is “right” or “fair,” but it is what it is. Inflating away your debts is as old as the hills. To think we will somehow end up with some other solution is a fairy tale.
+There is really only one answer. The debt needs to be inflated away. It might not be what is "right” or "fair,” but it is what it is. Inflating away your debts is as old as the hills. To think we will somehow end up with some other solution is a fairy tale.
 
 In the mean time, the longer Central Bankers refuse to accept this reality, the bigger the debt burden grows. They muddle through with half hearted attempts to keep the system balanced. Of course they always err on the side of ease, but foolish attempts to normalize policy, stops inflation from developing.
 

@@ -21,7 +21,7 @@ I have long been a critic of the European Union's overly tight monetary and fisc
 
 Most Central Banks realized the 2008 credit crisis was a game changing affair.  But not the ECB.  They reluctantly lowered rates to help the global financial system, but the moment things settled down, ECB Chairman Jean-Claude Trichet raised rates back up.  And not just once, but twice!
 
->Acting against inflation was “in the interests of all members and partners of the single [European] market and single currency”, and would help boost economic confidence, Jean-Claude Trichet, ECB president, said on Thursday.
+>Acting against inflation was "in the interests of all members and partners of the single [European] market and single currency”, and would help boost economic confidence, Jean-Claude Trichet, ECB president, said on Thursday.
 
 <a href="http://themacrotourist.com/images/ECBNov1116.png"><img src="http://themacrotourist.com/images/ECBNov1116.png" alt="http://themacrotourist.com/images/ECBNov1116.png" width="750" height="460" style="margin:30px auto;display:block;"></a>
 

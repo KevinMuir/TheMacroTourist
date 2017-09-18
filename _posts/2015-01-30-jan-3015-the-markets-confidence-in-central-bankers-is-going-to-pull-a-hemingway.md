@@ -54,7 +54,7 @@ Which is exactly what just happened. Yesterday Yellen met with Senate Democrats 
 And no wonder. As the news trickled out it became obvious that Yellen had indeed given a wink and a nod about future monetary policy.
 
 <p style="padding-left: 30px;">
-  “Her message is that the economy's getting better but there's still a ways to go in terms of job creation and that worry seems, in her mind, to be paramount and that's why she is not going to raise rates immediately,” Sen. Chuck Schumer tells Bloomberg's Kathleen Hunter. Asked if Yellen gave senators sense of timing for raising rates: “She talked about it, but I think you're going to have to ask her”
+  "Her message is that the economy's getting better but there's still a ways to go in terms of job creation and that worry seems, in her mind, to be paramount and that's why she is not going to raise rates immediately,” Sen. Chuck Schumer tells Bloomberg's Kathleen Hunter. Asked if Yellen gave senators sense of timing for raising rates: "She talked about it, but I think you're going to have to ask her”
 </p>
 
 If there was no material non-public information given, then why did Chuck Schumer refuse to convey it? The answer is of course that Yellen did indeed communicate information privately to this group of privileged and connected Senate Democrats. 

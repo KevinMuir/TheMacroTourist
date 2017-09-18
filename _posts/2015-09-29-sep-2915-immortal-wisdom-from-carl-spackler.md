@@ -21,9 +21,9 @@ tags:
 
 Way back when in a former life, I was the trader in charge of the equity index derivative book for a big Canadian bank. I was young, probably too young, but computers were playing an increasingly large role in trading and the grizzled old veterans were still trying to figure out how to enter trades through a keyboard instead of phoning them down to the exchange. So there I was, twenty eight years old, running my array of SUN boxes, sending waves of program trades, trying to balance our positions in the myriad of new products that were hitting the markets. Then the Long Term Capital Management LTCM crisis hit. Until that point, I had read about crashes, but never experienced one (I was seventeen years old in 1987 and more interested in the latest New Order album than markets). The LTCM crisis took well over a month to play out, but I will never forget the worse day. Markets were melting and stocks had literally gone no bid. Trying to sell a few baskets would send the market crashing another 50 basis points. We were short a ton of gamma (we had sold volatility, along with LTCM and every other dealer under the sun) and were trying to hedge our delta on the way down, but it was moving down faster than we could sell it. Eventually we stopped selling, and tried to ride out the illiquid swoosh lower. At the absolute worse point, when I felt like I wanted to puke, my former boss (and good friend) from the traditional equity desk came over, slapped me on the back, and in his best Carl Spackler voice from Caddyshack said:
 
-**“ I'd keep playing. I don't think the hard stuff is going to come down for quite a while. ”**
+**" I'd keep playing. I don't think the hard stuff is going to come down for quite a while. ”**
 
-I broke out in laughter. It was the perfect line considering the shelling we were taking, and I prayed our position would end better than the Bishop's “best” golf game of his life.
+I broke out in laughter. It was the perfect line considering the shelling we were taking, and I prayed our position would end better than the Bishop's "best” golf game of his life.
 
 
   <img src="http://themacrotourist.com/images/LightningSep2915.png" alt="http://themacrotourist.com/images/LightningSep2915.png" style="margin:30px auto;display:block;" width="600" height="342">
@@ -53,7 +53,7 @@ But was that the bottom? I don't know. To some extent it will depend on the Fede
 
 That quarter end is also just a couple days away has only made the selling worse. What mutual fund is going to want to show an overweighting of a bunch of commodity losers on their sheets? We are in the free fall portion of the decline, and there are precious few willing to risk their fingers trying to catch the falling knives.
 
-Fear has overwhelmed all the pricing models. Markets are far from efficient, and this is one of those times where you should be pick some quality commodity names, and put them away for the “long haul.”
+Fear has overwhelmed all the pricing models. Markets are far from efficient, and this is one of those times where you should be pick some quality commodity names, and put them away for the "long haul.”
 
 <hr size="3" width="85%" />
 

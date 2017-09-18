@@ -70,7 +70,7 @@ A couple of years ago Harley would have never dreamed of writing this piece.  Ev
 
 >So in the context of today's paralyzed political-fiscal landscape and a hyperventilated election process, how silly is it to suggest the Fed emulate a past success by making a public offer to purchase a significantly large quantity of gold bullion at a substantially greater price than today's free-market level, perhaps $5,000 an ounce? It would be operationally simple as holders could transact directly at regional Federal offices or via authorized precious metal assayers.
 
->Admittedly, this suggestion is almost too outrageous to post under the PIMCO logo, but NIRP surely would have elicited a similar reaction a decade ago. But upon reflection, it could be an elegant solution since it flips the boxes on a foreign currency “prisoner's dilemma” (more on this below). Most critically, a massive gold purchase has the potential to significantly boost inflationary expectations, both domestic and foreign.
+>Admittedly, this suggestion is almost too outrageous to post under the PIMCO logo, but NIRP surely would have elicited a similar reaction a decade ago. But upon reflection, it could be an elegant solution since it flips the boxes on a foreign currency "prisoner's dilemma” (more on this below). Most critically, a massive gold purchase has the potential to significantly boost inflationary expectations, both domestic and foreign.
 
 But he still wrote it.  And this is a big deal.  
 

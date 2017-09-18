@@ -75,7 +75,7 @@ As soon as they stepped off the accelerator, the economy (and inflation expectat
 
   <img src="http://themacrotourist.com/images/USBE5Oct0115.png" alt="http://themacrotourist.com/images/USBE5Oct0115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-This did the trick for a while, but because the size of the balance sheet expansion was known in advance, inflation expectations peaked ahead of the end of the program, and fell in anticipation of the winding down of the program. With no QE, break even levels fell even further, and Bernanke tried a novel approach of term expansion of the Fed's balance sheet with Operation “Twist.” That helped stabilize inflation expectations, but realizing creating inflation was harder than originally believed, Bernanke surprised the market with QE3.
+This did the trick for a while, but because the size of the balance sheet expansion was known in advance, inflation expectations peaked ahead of the end of the program, and fell in anticipation of the winding down of the program. With no QE, break even levels fell even further, and Bernanke tried a novel approach of term expansion of the Fed's balance sheet with Operation "Twist.” That helped stabilize inflation expectations, but realizing creating inflation was harder than originally believed, Bernanke surprised the market with QE3.
 
 
   <img src="http://themacrotourist.com/images/USBE6Oct0115.png" alt="http://themacrotourist.com/images/USBE6Oct0115.png" style="margin:30px auto;display:block;" width="600" height="342">

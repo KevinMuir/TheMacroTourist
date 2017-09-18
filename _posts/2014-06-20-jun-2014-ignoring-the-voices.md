@@ -17,7 +17,7 @@ tags:
   - GDX
   - gold
 ---
-Mark Twain once wrote, “October. This is one of the peculiarly dangerous months to speculate in stocks. The others are July, January, September, April, November, May, March, June, December, August, and February.&#8220; If Mark Twain were alive today, he might amend his advice to something like the following, &#8221;Quadruple witching expiry. This is a peculiarly dangerous day to speculate in stocks. The others are the first day of the month, the last day of the month, Fed reserve decision day, large POMO day, no-POMO day, unemployment release day, ECB decision day, and China PMI release day." 
+Mark Twain once wrote, "October. This is one of the peculiarly dangerous months to speculate in stocks. The others are July, January, September, April, November, May, March, June, December, August, and February.&#8220; If Mark Twain were alive today, he might amend his advice to something like the following, &#8221;Quadruple witching expiry. This is a peculiarly dangerous day to speculate in stocks. The others are the first day of the month, the last day of the month, Fed reserve decision day, large POMO day, no-POMO day, unemployment release day, ECB decision day, and China PMI release day." 
 
 Today is quadruple witching expiry, and although trading is never easy, over the years I have found today is often a good day to do some writing or research, rather than to try to trade (or even interpret) the market action.
 

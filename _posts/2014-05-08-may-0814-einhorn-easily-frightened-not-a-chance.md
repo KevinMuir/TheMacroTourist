@@ -96,15 +96,15 @@ Recently Einhorn had lunch with Ben Bernanke. David had been critical of Bernank
 
 Here is Bloomberg&#8217;s recap of Einhorn&#8217;s recounting of the meeting:
 
-> “I got to ask him all these questions that had been on my mind for a long time,” Einhorn said in an interview today with Erik Schatzker and Stephanie Ruhle on Bloomberg Television, referring to a March 26 dinner with Bernanke. “It was sort of frightening because the answers were not better than I thought they would be.”
+> "I got to ask him all these questions that had been on my mind for a long time,” Einhorn said in an interview today with Erik Schatzker and Stephanie Ruhle on Bloomberg Television, referring to a March 26 dinner with Bernanke. "It was sort of frightening because the answers were not better than I thought they would be.”
   
 > Einhorn, 45, has been critical of Bernanke's willingness to leave interest rates near zero for more than five years. The hedge-fund manager has said the benefits of low rates diminish over time until they are more harmful than helpful, and that the Fed's stimulus has led to income inequality. Bernanke, a former Princeton University economics professor, stepped down this year after eight years helming the U.S. central bank.
   
 > In describing the dinner conversation at New York's Le Bernardin, Einhorn criticized Bernanke for saying he was 100 percent certain there would be no hyperinflation and that it generally occurs after a war.
    
-> “Not that I think there will be hyperinflation, but how do you get to 100 percent certainty about anything?” Einhorn said.
+> "Not that I think there will be hyperinflation, but how do you get to 100 percent certainty about anything?” Einhorn said.
    
-> “Why can't you be 99 percent certain?”
+> "Why can't you be 99 percent certain?”
 
 After this interview on Bloomberg TV, I saw many market pundits comment with a big &#8220;so what?&#8221;. Here was a typical comment:
 

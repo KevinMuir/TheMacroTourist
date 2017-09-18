@@ -46,9 +46,9 @@ From Bloomberg:
 
 > Ray Dalio, founder of the world's largest hedge fund firm, Bridgewater Associates, told investors there's a risk that the Federal Reserve could create a market rout similar to that of 1937 if it raises interest rates too fast.
 > 
-> “We don't know &#8212; nor does the Fed know &#8212; exactly how much tightening will knock over the apple cart,” Dalio and Dinner wrote. “We think it would be best for the Fed to err on the side of being later and more delicate than normal.”
+> "We don't know &#8212; nor does the Fed know &#8212; exactly how much tightening will knock over the apple cart,” Dalio and Dinner wrote. "We think it would be best for the Fed to err on the side of being later and more delicate than normal.”
 > 
-> Dalio joins Jeffrey Gundlach in warning that the Fed runs the risk of having to reverse course if it raises interest rates too aggressively. Gundlach, the co-founder of DoubleLine Capital, this month called the Fed “a blockhead” for not learning from errors made by global counterparts, which raised rates too soon and then had to cut them.
+> Dalio joins Jeffrey Gundlach in warning that the Fed runs the risk of having to reverse course if it raises interest rates too aggressively. Gundlach, the co-founder of DoubleLine Capital, this month called the Fed "a blockhead” for not learning from errors made by global counterparts, which raised rates too soon and then had to cut them.
 
 What worries me is that the attitude of many Fed officials is that _markets go up and down, and this is just a normal market response._ Don&#8217;t misunderstand me &#8211; I have no desire to keep aloft this asinine stock market bubble. I think Bernanke&#8217;s policies were incredibly damaging as they only served to lift asset prices to even more outrageous levels. Although the Federal Reserve&#8217;s policies have so far not resulted in any extreme economic pain in the US, the rest of the world is getting absolutely crushed.
 

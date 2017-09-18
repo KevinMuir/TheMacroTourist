@@ -12,25 +12,25 @@ tags:
 ---
 Today I am taking a break from writing about the markets.  Lately I have noticed some traders pushing too hard on trades that aren't working.  The 'legendary' Dennis Gartman recently issued a mea culpa where he described the difficulty of this week's trading:
 
->[W]e are reminded of a day many, many years ago when as a member of the Chicago Board of Trade we had come home, beaten and thoroughly exhausted as the bond futures had traded both limit up and limit down only to have closed the day unchanged. The trading activity was violent; random and huge, and our wife at the time… with whom we are still very good friends… having seen on the television that the bond market had closed unchanged on the day greeted us at the door by saying “It must have been a boring day.” It was anything but boring! It was almost life changing. To many on the floor with us, it was life threatening; to very, very few it was life affirming. To everyone it was frightening.
+>[W]e are reminded of a day many, many years ago when as a member of the Chicago Board of Trade we had come home, beaten and thoroughly exhausted as the bond futures had traded both limit up and limit down only to have closed the day unchanged. The trading activity was violent; random and huge, and our wife at the time… with whom we are still very good friends… having seen on the television that the bond market had closed unchanged on the day greeted us at the door by saying "It must have been a boring day.” It was anything but boring! It was almost life changing. To many on the floor with us, it was life threatening; to very, very few it was life affirming. To everyone it was frightening.
 
 I just don't see it.  Sure markets are moving, but think back to the dark days of 2008.  Or the crazy summer of 1998.  Those were trying times.  This is child's play.  My guess is that Dennis, and many other traders are pushing too hard.
 
-Sometimes when you are too eager, the market gods punish you for your enthusiasm.  Some of you will chalk this up to superstition, but anyone who has traded lots knows this feeling all too well.  “Wanting it too bad” is often the kiss of death for a trader.
+Sometimes when you are too eager, the market gods punish you for your enthusiasm.  Some of you will chalk this up to superstition, but anyone who has traded lots knows this feeling all too well.  "Wanting it too bad” is often the kiss of death for a trader.
 
 Instead of recounting a few anecdotes about traders who pushed trades too hard when they were out of kilter, I will tell the story of a game we used to play with the traders on the desk.
 
-I was introduced the game “Birds” shortly after taking my job on the Institutional Desk at RBC Dominion Securities in the early 90s.  Back then, DS was the best investment dealer on the street, and so when I was fortunate enough to be offered a job and they asked me how much I wanted to make, I answered “I just want an opportunity to contribute.”  Right answer for a pimply faced kid looking for a chance to make it on an institutional desk, but that didn't stop them from signing me up for the bare minimum.  “Great.  You will make $26,000 and start next Monday.”  
+I was introduced the game "Birds” shortly after taking my job on the Institutional Desk at RBC Dominion Securities in the early 90s.  Back then, DS was the best investment dealer on the street, and so when I was fortunate enough to be offered a job and they asked me how much I wanted to make, I answered "I just want an opportunity to contribute.”  Right answer for a pimply faced kid looking for a chance to make it on an institutional desk, but that didn't stop them from signing me up for the bare minimum.  "Great.  You will make $26,000 and start next Monday.”  
 
 A couple of weeks into my job, my boss (who at the time seemed so old, but was actually just turning 30) asked me if I wanted to go out with the boys for some drinks after work. I jumped at the chance.  Next thing I knew I was in a dark packed bar just off Bay street, hanging around with a dozen different traders.  It was heaven.  There were bond traders, inter dealer brokers (and those of you who have been around know these guys are the most trouble) and a few familiar faces from our equity trading desk.  The drinks came faster than a keg party in freshman year of University.  
 
-Sometime after 10 o'clock some guys had to go home, so they started stuffing $20s into my boss' hand to pay for their share of drinking.  Instead of just accepting the money, my boss (who eventually became one of my dearest friends), in his rambunctious intoxicating style shouted “Birds for the bill!"
+Sometime after 10 o'clock some guys had to go home, so they started stuffing $20s into my boss' hand to pay for their share of drinking.  Instead of just accepting the money, my boss (who eventually became one of my dearest friends), in his rambunctious intoxicating style shouted "Birds for the bill!"
 
-A couple of the drunker guys yelled back “Hell yeah!  Birds for the bill” while a few less enthusiastic traders merely nodded in agreement.  My boss affirmed the bill would be settled with the game.
+A couple of the drunker guys yelled back "Hell yeah!  Birds for the bill” while a few less enthusiastic traders merely nodded in agreement.  My boss affirmed the bill would be settled with the game.
 
-“Kev - you in?” my boss asked.
+"Kev - you in?” my boss asked.
 
-“Of course I'm in” I replied, too scared to look like a mope on my first month on the job.
+"Of course I'm in” I replied, too scared to look like a mope on my first month on the job.
 
 The bill came and my boss announced the amount.  Nine hundred and forty two dollars he calmly reported.
 

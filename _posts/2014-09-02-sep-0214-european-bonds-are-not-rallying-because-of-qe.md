@@ -61,7 +61,7 @@ Therefore in the coming weeks, I expect European stocks to under perform and at 
 
 Many strategists are suggesting that US bonds are cheap when compared to European bonds. I think this logic is flawed. In the 2000s Japanese bonds traded at absurd prices when compared to other global bond markets. Yet we still experienced some large bond bear moves in US bonds during this period. 
 
-Remember the immortal words of Jesse Livermore &#8211; “The market can do anything."
+Remember the immortal words of Jesse Livermore &#8211; "The market can do anything."
 
 The spreads between US and German bond yields are hitting new highs, but there is nothing saying that they can&#8217;t go even higher. 
 

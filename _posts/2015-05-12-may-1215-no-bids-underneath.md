@@ -31,11 +31,11 @@ This massive decline in the velocity of money has masked the effects of all the 
 Ever since the 2008 credit crisis, the banks have been loath to lend out the excess liquidity. There are many reasons for this reluctance, but I believe the increased capital requirements due to the changes in rules, which were in response to the asinine bank behaviour during the previous boom, is to blame. Here is a quote from a Bloomberg story that captures this sentiment:
 
 <p style="padding-left: 30px;">
-  Jamie Dimon, grappling with multibillion-dollar legal costs and rising capital requirements at JPMorgan Chase & Co., lashed out at U.S. regulators for putting his bank “under assault.”
+  Jamie Dimon, grappling with multibillion-dollar legal costs and rising capital requirements at JPMorgan Chase & Co., lashed out at U.S. regulators for putting his bank "under assault.”
 </p>
 
 <p style="padding-left: 30px;">
-  “We have five or six regulators or people coming after us on every different issue,” Dimon, 58, said today on a call with reporters after New York-based JPMorgan reported fourth-quarter results. “It's a hard thing to deal with.”
+  "We have five or six regulators or people coming after us on every different issue,” Dimon, 58, said today on a call with reporters after New York-based JPMorgan reported fourth-quarter results. "It's a hard thing to deal with.”
 </p>
 
 Now maybe you are saying to yourself they should be under assault. The banks did some pretty stupid stuff during the last boom. I contend that as traders it doesn&#8217;t matter one iota if we think this is an appropriate response or not. Our job is not to figure out _what should be_ but instead to focus on _what is._ And then can be no denying that for whatever reason, the banks did not lend out the money the Fed &#8220;printed&#8221; and therefore the velocity of money collapsed. 

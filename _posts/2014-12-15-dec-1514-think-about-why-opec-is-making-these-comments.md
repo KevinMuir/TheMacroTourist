@@ -25,7 +25,7 @@ Last week crude oil had one of the worst weeks on record. However over the week-
 </p>
 
 <p style="padding-left: 30px;">
-  “We are not going to change our minds because the prices went to $60 or to $40,” Mazrouei told Bloomberg at a conference in Dubai. “We're not targeting a price; the market will stabilize itself.” He said current conditions don't justify an extraordinary OPEC meeting. “We need to wait for at least a quarter” to consider an urgent session, he said.
+  "We are not going to change our minds because the prices went to $60 or to $40,” Mazrouei told Bloomberg at a conference in Dubai. "We're not targeting a price; the market will stabilize itself.” He said current conditions don't justify an extraordinary OPEC meeting. "We need to wait for at least a quarter” to consider an urgent session, he said.
 </p>
 
 The fact that this influential OPEC member mentioned that the cartel would be willing to let it slide all the way down to $40 spooked a lot of market players. The market had already tumbled a long way over the past three weeks, but the week-end news caused a gap down into new lows for the move.

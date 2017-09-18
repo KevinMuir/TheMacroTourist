@@ -21,7 +21,7 @@ It's Valentine's Day, but it's far from a happy time for America's farmers.  The
 
 >The U.S. share of the global grain market is less than half what it was in the 1970s. American farmers' incomes will drop 9% in 2017, the Agriculture Department estimates, extending the steepest slide since the Great Depression into a fourth year.
 
->“You keep pinching and pinching and pretty soon there's nothing left to pinch,” said Craig Scott, a fifth-generation farmer in this Western Kansas town.
+>"You keep pinching and pinching and pretty soon there's nothing left to pinch,” said Craig Scott, a fifth-generation farmer in this Western Kansas town.
 
 >From his father's porch, the 56-year-old can see the windswept spot where his great-grandparents' sod house stood in 1902 when they planted the first of the 1,200 acres on which his family farms alfalfa, sorghum and wheat today. Even after harvesting one of their best wheat crops ever last year, thanks to plentiful rain and a mild winter, Mr. Scott isn't sure how long they can afford to keep farming that ground.
 
@@ -39,7 +39,7 @@ With the decline in the value of their assets, and the poor fundamentals of the 
 
 Farmers are trying to survive, but it is tough slugging.  From the WSJ article:
 
->“The potential for a big crisis is real,” he said. “If things stay similar to how they are now, you haven't seen anything yet.”
+>"The potential for a big crisis is real,” he said. "If things stay similar to how they are now, you haven't seen anything yet.”
 
 >In Ransom, Mr. Scott has resorted to government assistance to guarantee himself some income. He placed 170 acres in a government conservation program that pays farmers to plant fields with grass rather than crops. That seemed like his only choice after spending about $6.50 a bushel on seed, fertilizer, fuel and pesticides to grow wheat last year only to earn $2.90 a bushel. During planting season last fall, he and his 82-year-old father cut back on fertilizer and coaxed one more crop out of a 20-year-old chemical sprayer with a worn-out engine.
 
@@ -47,7 +47,7 @@ Farmers are trying to survive, but it is tough slugging.  From the WSJ article:
 
 >The motor on David Radenberg's tractor gave out last fall as he sowed wheat on his family's 2,400 acre farm in Claflin, 90 miles east of Ransom. He didn't have the money to fix it.
 
->“You want to cry when you find out how much it costs,” he said. He decided to sell the tractor for $10,500 and rely on an older model. If grain prices remain weak, the farm could be next. After 30 years farming, this crop could be his last: “Do I go work at Wal-Mart as a greeter or as a parts man at the mechanics shop?”
+>"You want to cry when you find out how much it costs,” he said. He decided to sell the tractor for $10,500 and rely on an older model. If grain prices remain weak, the farm could be next. After 30 years farming, this crop could be his last: "Do I go work at Wal-Mart as a greeter or as a parts man at the mechanics shop?”
 
 Let's face it, this is all bad news.  
 

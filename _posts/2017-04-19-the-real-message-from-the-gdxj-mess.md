@@ -26,11 +26,11 @@ For those unaware, VanEck recently announced they were halting the creation of t
 
 >On Thursday, MVIS Index Solutions, a VanEck company, announced changes to its equity indexes, widening the criteria for inclusion into the gauge that is tracked by VanEck's junior gold miner ETF.
 
->“This is the curse of success,” said Sameer Samana, a St. Louis-based global quantitative strategist at Wells Fargo Investment Institute, which oversees $1.8 trillion. “They're starting to run into issues of how much they own in certain names, how many names qualify for the index and they're running into issues of how big the fund has gotten.” 
+>"This is the curse of success,” said Sameer Samana, a St. Louis-based global quantitative strategist at Wells Fargo Investment Institute, which oversees $1.8 trillion. "They're starting to run into issues of how much they own in certain names, how many names qualify for the index and they're running into issues of how big the fund has gotten.” 
 
 >Investors poured $1.5 billion into VanEck Vectors' junior miner ETF this year, the most among global peers tracked by Bloomberg. Assets in the most popular mining ETF, which trades under the ticker GDXJ, climbed amid rising interest in small companies as large producers emerging form the downturn scout for new reserves.
 
->The ETF was growing so fast it was in danger of having the kind of stakes in some junior miners more usually associated with large institutional or activist investors. That, in turn, could be an issue for individual shareholders who might worry such large “passive” holdings could ease pressure on boards around corporate governance, Eric Balchunas, an ETF analyst for Bloomberg Intelligence, said by telephone.
+>The ETF was growing so fast it was in danger of having the kind of stakes in some junior miners more usually associated with large institutional or activist investors. That, in turn, could be an issue for individual shareholders who might worry such large "passive” holdings could ease pressure on boards around corporate governance, Eric Balchunas, an ETF analyst for Bloomberg Intelligence, said by telephone.
 
 >GDXJ invests at least 80 percent of its total assets in securities in the MVIS Junior Gold Miners Index, giving it enough wiggle room to add other companies. Its third-largest holding is VanEck Vectors Gold Miners ETF, which trades under the ticker GDX and tracks the NYSE Arca Gold Miners Index.
 

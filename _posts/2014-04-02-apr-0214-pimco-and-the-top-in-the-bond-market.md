@@ -16,7 +16,7 @@ tags:
   - bonds
   - PIMCO
 ---
-In April of last year, PIMCO's Bill Gross, the world's largest bond fund manager, penned an article called [“A Man in the Mirror”.](http://www.pimco.com/EN/Insights/Pages/A-Man-In-The-Mirror.aspx) Apart from the terrible quote from the “how soon we forget what a freak he was and forgive his very questionable transgressions with children” Michael Jackson, it was a great article.
+In April of last year, PIMCO's Bill Gross, the world's largest bond fund manager, penned an article called ["A Man in the Mirror”.](http://www.pimco.com/EN/Insights/Pages/A-Man-In-The-Mirror.aspx) Apart from the terrible quote from the "how soon we forget what a freak he was and forgive his very questionable transgressions with children” Michael Jackson, it was a great article.
 
 
   <img src="http://themacrotourist.com/images/Azure/MJChild.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/MJChild.png" width="400" height="400" />Michael Jackson dangling his baby out a hotel window</a>
@@ -26,15 +26,15 @@ In April of last year, PIMCO's Bill Gross, the world's largest bond fund manager
   <img src="http://themacrotourist.com/images/Azure/BillGrossMJ.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/BillGrossMJ.png" width="600" height="373" />Bill Gross and his terrible choice of rock star role model</a>
 </div>
 
-Who knows if Bill was trying to be “hip” and relate to the “younger generation” but modelling your article after Michael Jackson shows a disturbing lack of taste (and or judgment).
+Who knows if Bill was trying to be "hip” and relate to the "younger generation” but modelling your article after Michael Jackson shows a disturbing lack of taste (and or judgment).
 
 However, let's forgive Bill's poor choice of role model, and dig a little deeper into the article.
 
-The article examines the secular 30 year bull market in bonds and credit expansion. Gross correctly questions whether all the great investors are really as “great” as everyone thinks they are, or whether they were merely surfing this giant wave that has lifted all boats.
+The article examines the secular 30 year bull market in bonds and credit expansion. Gross correctly questions whether all the great investors are really as "great” as everyone thinks they are, or whether they were merely surfing this giant wave that has lifted all boats.
 
 Gross admits that maybe even his success is merely a reflection of this extremely attractive period for investing:
 
-> But let me admit something. There is not a Bond King or a Stock King or an Investor Sovereign alive that can claim title to a throne. All of us, even the old guys like Buffett, Soros, Fuss, yeah – me too, have cut our teeth during perhaps a most advantageous period of time, the most attractive epoch, that an investor could experience. Since the early 1970s when the dollar was released from gold and credit began its incredible, liquefying, total return journey to the present day, an investor that took marginal risk, levered it wisely and was conveniently sheltered from periodic bouts of deleveraging or asset withdrawals could, and in some cases, was rewarded with the crown of “greatness.” Perhaps, however, it was the epoch that made the man as opposed to the man that made the epoch.
+> But let me admit something. There is not a Bond King or a Stock King or an Investor Sovereign alive that can claim title to a throne. All of us, even the old guys like Buffett, Soros, Fuss, yeah – me too, have cut our teeth during perhaps a most advantageous period of time, the most attractive epoch, that an investor could experience. Since the early 1970s when the dollar was released from gold and credit began its incredible, liquefying, total return journey to the present day, an investor that took marginal risk, levered it wisely and was conveniently sheltered from periodic bouts of deleveraging or asset withdrawals could, and in some cases, was rewarded with the crown of "greatness.” Perhaps, however, it was the epoch that made the man as opposed to the man that made the epoch.
 
 I am very sympathetic to Bill's worry that we have had a perfect environment for investing, and that this era is drawing to a close.
 
@@ -61,7 +61,7 @@ But there are some clues that the end of this 30 year bond bull market might be 
 
 The fact that it is nearly unanimous that inflation is _not a problem_ should give you great concern.
 
-When did you last see the supposed market “pros” correctly set up for a crisis? Whether it was Long Term Capital, or the Dot Com bubble, or the real estate bust, the “pros” always convince themselves that the danger is smaller than the doomsdayers proclaim. The “pros” will never be set up to deal with the surprise. If they were, it wouldn't be a surprise.
+When did you last see the supposed market "pros” correctly set up for a crisis? Whether it was Long Term Capital, or the Dot Com bubble, or the real estate bust, the "pros” always convince themselves that the danger is smaller than the doomsdayers proclaim. The "pros” will never be set up to deal with the surprise. If they were, it wouldn't be a surprise.
 
 
   <img src="http://themacrotourist.com/images/Azure/SurpriseApr0214.png" style="margin:30px auto;display:block;" alt="http://themacrotourist.com/images/Azure/SurpriseApr0214.png" width="600" height="375" />Surprise!</a>
@@ -97,7 +97,7 @@ Instead, even though he warned of the dangers, Gross was over confident:
 
 > What I do know, is that, like Michael Jackson sang in his brilliant, but all too short lifetime, I am and will continue to look at the man in the mirror. PIMCO, Gross, El-Erian? – yes, we're lookin' good – in this epoch.
 
-Remember the “pros” never see it coming… (and old guys like Gross have terrible taste in music… MJ brilliant?)
+Remember the "pros” never see it coming… (and old guys like Gross have terrible taste in music… MJ brilliant?)
 
 <hr size="2" width="85%" />
 

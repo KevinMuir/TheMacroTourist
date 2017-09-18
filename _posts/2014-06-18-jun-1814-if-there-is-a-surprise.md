@@ -28,7 +28,7 @@ Although I think it is a remote possibility, any surprise out of today&#8217;s F
 
 The Bank of England&#8217;s Mark Carney was also expected to stick to his &#8220;easy as she goes&#8221; script. According to FT&#8217;s Gavyn Davies: 
 
-> Mark Carney delivered a substantial hawkish surprise to the markets in his Mansion House speech on Thursday. After appearing to be a convinced dove ever since he became BoE Governor in July 2013, he now says that the first UK interest rate rise could come “sooner than expected”, with the decision on the timing of the first rise “becoming more balanced”. Market expectations of forward short rates in 2015 immediately jumped by 20 basis points.
+> Mark Carney delivered a substantial hawkish surprise to the markets in his Mansion House speech on Thursday. After appearing to be a convinced dove ever since he became BoE Governor in July 2013, he now says that the first UK interest rate rise could come "sooner than expected”, with the decision on the timing of the first rise "becoming more balanced”. Market expectations of forward short rates in 2015 immediately jumped by 20 basis points.
 
 It is easy to dismiss this development as a response unique to the UK. There is no doubt that England (and London especially) is in the midst of a housing boom that needs to be reined in. 
 

@@ -19,10 +19,10 @@ tags:
 
   <img src="http://themacrotourist.com/images/Azure/DennisMay0515.png" alt="http://themacrotourist.com/images/Azure/DennisMay0515.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-Do you remember all the hysteria about the oil crash a few months ago? How can you forget the famous Dennis Gartman crude will “go the way of whale oil” comment? And then this [“Get Ready for $10 oil”](http://www.bloombergview.com/articles/2015-02-16/oil-prices-likely-to-fall-as-supplies-rise-demand-falls) Gary Shilling Bloombergview piece in mid-February certainly helped with the bearish sentiment. By the beginning of March, the “market experts” were so worried about the growing storage glut, they were predicting prices could fall all the way to $20:
+Do you remember all the hysteria about the oil crash a few months ago? How can you forget the famous Dennis Gartman crude will "go the way of whale oil” comment? And then this ["Get Ready for $10 oil”](http://www.bloombergview.com/articles/2015-02-16/oil-prices-likely-to-fall-as-supplies-rise-demand-falls) Gary Shilling Bloombergview piece in mid-February certainly helped with the bearish sentiment. By the beginning of March, the "market experts” were so worried about the growing storage glut, they were predicting prices could fall all the way to $20:
 
 <p style="padding-left: 30px;">
-  “The fact of the matter is we are running out of storage capacity in the U.S.,” Ed Morse, head of commodities research at Citibank, said at a recent symposium at the Council on Foreign Relations in New York.
+  "The fact of the matter is we are running out of storage capacity in the U.S.,” Ed Morse, head of commodities research at Citibank, said at a recent symposium at the Council on Foreign Relations in New York.
 </p>
 
 <p style="padding-left: 30px;">
@@ -59,9 +59,9 @@ Saudi Arabia orchestrated to push prices down, and even they probably didn't exp
 
 Even though it is now easy to imagine the price continuing to rise, it is probably time to take a deep breath and not chase it higher. There are still a lot of offside North American oil producers. Oil rallies are going to be met with selling from these players. Could we rally another $10 in the short term? Maybe. But my suspicion is the $60 price will be the anchor in which oil prices gyrate around for the next year.
 
-The market got overly bearish below $50, and it is probably getting overly bullish above $60. I know this is a boring call &#8211; no one wants to hear preaching to not chase the market. There is a reason that the technical calls to “buy it if it breaks above X, but sell it if Y support doesn't hold” are so popular. People love to chase. I just don't think it will make you any money when it comes to crude.
+The market got overly bearish below $50, and it is probably getting overly bullish above $60. I know this is a boring call &#8211; no one wants to hear preaching to not chase the market. There is a reason that the technical calls to "buy it if it breaks above X, but sell it if Y support doesn't hold” are so popular. People love to chase. I just don't think it will make you any money when it comes to crude.
 
-As the market breaks above $60 in the coming days, the calls for a new bull market in crude oil will fill the airwaves. Ignore them and don't forget it is was only a couple of months ago that crude oil was going to be as useful as “whale oil.”
+As the market breaks above $60 in the coming days, the calls for a new bull market in crude oil will fill the airwaves. Ignore them and don't forget it is was only a couple of months ago that crude oil was going to be as useful as "whale oil.”
 
 
   <img src="http://themacrotourist.com/images/Azure/WhaleOilMay0515.png" alt="http://themacrotourist.com/images/Azure/WhaleOilMay0515.png" style="margin:30px auto;display:block;" width="400" height="500">

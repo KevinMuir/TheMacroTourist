@@ -20,7 +20,7 @@ tags:
 
   <img src="http://themacrotourist.com/images/TIMESep3015.png" alt="http://themacrotourist.com/images/TIMESep3015.png" style="margin:30px auto;display:block;" width="600" height="700">
 
-Regular readers of the MacroTourist know I hold Carl Icahn in no great esteem. It all started when he made a fool of himself on CNBC arguing with Bill Ackman [(here's the link &#8211; go to minute 20)](https://www.youtube.com/watch?v=hCZRk1lL90Q). When Carl started losing and attacked the interviewer with a litany of profane sulks, my opinion of the revered “guru” collapsed. I have no doubt the guy makes money. He knows how to play the game exceptionally well. But nothing makes me madder than sharks who pretend they are minnows.
+Regular readers of the MacroTourist know I hold Carl Icahn in no great esteem. It all started when he made a fool of himself on CNBC arguing with Bill Ackman [(here's the link &#8211; go to minute 20)](https://www.youtube.com/watch?v=hCZRk1lL90Q). When Carl started losing and attacked the interviewer with a litany of profane sulks, my opinion of the revered "guru” collapsed. I have no doubt the guy makes money. He knows how to play the game exceptionally well. But nothing makes me madder than sharks who pretend they are minnows.
 
 Carl portrays himself as man of the people. He thinks himself a champion of the little guy. Fighting for the rights of the downtrodden retail investors. What a load of crap.
 
@@ -32,7 +32,7 @@ Sounds like a reasonable concern, right? Hard to argue that Larry is doing anyth
 
 Yet even though Larry did not mention Carl by name, according to Fink:
 
-> He did receive what he describes as “angry” calls from two activists–Carl Icahn and another Fink wouldn't identify.
+> He did receive what he describes as "angry” calls from two activists–Carl Icahn and another Fink wouldn't identify.
 
 Let's get this straight. Larry writes a thoughtful piece about focusing too much on short term gains and Icahn takes it as a personal affront that deserves an angry phone call? What a buffoon.
 
@@ -44,7 +44,7 @@ Take for example the world's largest stock &#8211; Apple. Icahn has pressured CE
 
 For an old guy, Icahn is amazingly technologically media savvy. He was one of the first hedge fund managers to use Twitter to promote his holdings. I think there was an Icahn Apple tweet that added more than $50 billion of market cap in an afternoon. It was probably the most profitable tweet ever made.
 
-Yesterday Ichan took his media presence to a new level. On his website, Carl released a polished video titled “DANGER AHEAD &#8211; A message from Carl Icahn”.
+Yesterday Ichan took his media presence to a new level. On his website, Carl released a polished video titled "DANGER AHEAD &#8211; A message from Carl Icahn”.
 
 
   <img src="http://themacrotourist.com/images/DangerSep3015.png" alt="http://themacrotourist.com/images/DangerSep3015.png" style="margin:30px auto;display:block;" width="600" height="342">
@@ -72,7 +72,7 @@ Have a look at the titles of the posts on his website:
   
  **Carl Icahn: This market has a lot to be concerned about**
 
-You have to give him credit &#8211; he doesn't hide behind “if's” and “maybe's.” Carl is warning of a big dislocation:
+You have to give him credit &#8211; he doesn't hide behind "if's” and "maybe's.” Carl is warning of a big dislocation:
 
 > &#8220;it&#8217;s not a matter of if it will happen, it is when it will happen.&#8221; &#8211; Carl Icahn
 

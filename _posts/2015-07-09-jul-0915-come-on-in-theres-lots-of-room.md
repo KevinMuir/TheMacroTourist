@@ -22,7 +22,7 @@ tags:
 
 Things got a little squirrelly yesterday. There was some real fear as investors panicked that China was plunging into the abyss. Investors pitched commodity trades faster than John Travolta heads to the men's steam room after a workout.
 
-The action in copper was typical. It plunged to a new six year low in an emotional “just get me out” puke.
+The action in copper was typical. It plunged to a new six year low in an emotional "just get me out” puke.
 
 
   <img src="http://themacrotourist.com/images/HGAJul0915.png" alt="http://themacrotourist.com/images/HGAJul0915.png" style="margin:30px auto;display:block;" width="600" height="342">
@@ -61,7 +61,7 @@ I am buying USDJPY (short Yen) at 121.39 and risking down to the yesterday's low
 
 Just remember that vol is going up, and to trade accordingly. Catching the end of this risk unwind will be tough. I will leave you with the wise words of one of my hedge fund pals:
 
-> “I am never wrong, my timing just sucks sometimes.”
+> "I am never wrong, my timing just sucks sometimes.”
 
 Thanks for reading,
   

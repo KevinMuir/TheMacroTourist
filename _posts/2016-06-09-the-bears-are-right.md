@@ -42,13 +42,13 @@ Let's go through the arguments presented at the International Fund Forum to see 
 
 >BERLIN (MarketWatch)—Negative interest rates, ultracheap loans and aggressive quantitative easing—central banks are doing everything they can to prevent another financial crisis, but their unconventional measures are instead creating a massive risk to the global economy, top money managers say.
 
->Gathering for the international FundForum in Berlin this week, more than 1,300 fund managers spent three days discussing the current investment outlook and the central banks' monetary “experiment” emerged as a major concern for the industry.
+>Gathering for the international FundForum in Berlin this week, more than 1,300 fund managers spent three days discussing the current investment outlook and the central banks' monetary "experiment” emerged as a major concern for the industry.
 
->“I think it's fair to say it is an experiment because it hasn't been done at this magnitude of negative interest rates. So many sovereigns have negative interest rates,” said Alexander Ineichen, founder of Ineichen Research and Management.
+>"I think it's fair to say it is an experiment because it hasn't been done at this magnitude of negative interest rates. So many sovereigns have negative interest rates,” said Alexander Ineichen, founder of Ineichen Research and Management.
 
->“In 2008 we had a Lehman moment and central banks stepped in, which was nice. But a lot of the structural issues have not been resolved. A lot of the leverage just went from the private sector to the public sector. My guess is that the next big risk, the next ‘Lehman moment' is the sovereign. It's because the problems are now there. The risks are structural,” he said.
+>"In 2008 we had a Lehman moment and central banks stepped in, which was nice. But a lot of the structural issues have not been resolved. A lot of the leverage just went from the private sector to the public sector. My guess is that the next big risk, the next ‘Lehman moment' is the sovereign. It's because the problems are now there. The risks are structural,” he said.
 
->“Think of central banks like a doctor. They're walking by, they see their patient—the global economy—in trouble. They will not walk away from the patient. They are wired to respond even if they don't have the right medication,” he said. “What happens when you respond for a very long time with the wrong medication? You start worrying about side effects, you start worrying about unintended consequences. That is where we are today.”
+>"Think of central banks like a doctor. They're walking by, they see their patient—the global economy—in trouble. They will not walk away from the patient. They are wired to respond even if they don't have the right medication,” he said. "What happens when you respond for a very long time with the wrong medication? You start worrying about side effects, you start worrying about unintended consequences. That is where we are today.”
 
 I can't say I disagree with many of their complaints.  And this final paragraph accurately describes the problems faced by Central Banks.
 

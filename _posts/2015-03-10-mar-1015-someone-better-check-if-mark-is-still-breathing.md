@@ -21,14 +21,14 @@ tags:
 ---
 Lately I have been beseiged by whisperings of the terrifying crude oil crash that _has to come_ due to the massive inventory accumulation. I am hearing more and more worry about how there will be no storage, and at that point, WTI crude will collapse.
 
-The article titled [“Crude Awakening: Why next week could be carnage for Oil ETFs”](http://www.zerohedge.com/news/2015-03-06/crude-awakening-why-next-week-could-be-carnage-oil-etfs) on ZeroHedge is a perfect indication of the fear that is circulating in the market.
+The article titled ["Crude Awakening: Why next week could be carnage for Oil ETFs”](http://www.zerohedge.com/news/2015-03-06/crude-awakening-why-next-week-could-be-carnage-oil-etfs) on ZeroHedge is a perfect indication of the fear that is circulating in the market.
 
 Whenever I hear investors so certain that something _has got to_ happen, my skepticism alarm goes off. It reminds me of this call a few years ago from a really great NYMEX Crude Oil trader. Actually I am not giving him enough credit… It reminds me of this call from the **legendary** NYMEX Crude Oil trader Mark Fisher:
 
 
   <img src="http://themacrotourist.com/images/Azure/FisherMar0715.png" alt="http://themacrotourist.com/images/Azure/FisherMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-Proving that we all get it wrong (even the great ones), WTI is trading $30 below the level Mark claimed it “would never go below in his lifetime.”
+Proving that we all get it wrong (even the great ones), WTI is trading $30 below the level Mark claimed it "would never go below in his lifetime.”
 
 
   <img src="http://themacrotourist.com/images/Azure/CLMar0715.png" alt="http://themacrotourist.com/images/Azure/CLMar0715.png" style="margin:30px auto;display:block;" width="600" height="342">
@@ -37,7 +37,7 @@ I don't mean to pick on Mark &#8211; I have had more than enough terrible calls 
 
 We have gone from extreme confidence that crude would never trade below $80, to a point where no one can imagine anything but it slipping to zero. The worry has gotten especially heavy lately due the high inventory levels. There are tons of smart guys who are genuinely concerned about a further crash towards single digits. Guys as smart as Mark Fisher used to be, are making all sorts of dire predictions.
 
-This sort of article is typical of the bearishness out there: [“Get Ready for $10 oil” by Gary Shilling.](http://www.bloombergview.com/articles/2015-02-16/oil-prices-likely-to-fall-as-supplies-rise-demand-falls).
+This sort of article is typical of the bearishness out there: ["Get Ready for $10 oil” by Gary Shilling.](http://www.bloombergview.com/articles/2015-02-16/oil-prices-likely-to-fall-as-supplies-rise-demand-falls).
 
 The ZeroHedge article about the massive explosion in shares outstanding in the USO Crude oil ETF piqued my worries. If there are that many dip buyers in crude oil, there is a potential for a big problem if they are disappointed with the lack of pickup in demand.
 

@@ -38,7 +38,7 @@ And the Canadian government is playing with fire.  Real estate has been the lone
 
 >The so-called economic rotation from oil to manufacturing exports that rate cuts (and the related decline in the Canadian dollar) were supposed to produce has not only failed to materialize but policy makers have pumped helium into an already overheated real estate sector that is masking structural weaknesses in the economy and setting us up for a bigger fall.
 
->It's “difficult to believe that any progress has been made in terms of economic rotation. Indeed, the opposite appears to be the case, given real estate's increasingly large share of economic output,” TD Bank economist Brian DePratto noted in a Thursday report. “Rising home prices do have positive knock-on effects for consumer spending, but over-reliance on the real estate market is hardly the sign of a healthy economy.”
+>It's "difficult to believe that any progress has been made in terms of economic rotation. Indeed, the opposite appears to be the case, given real estate's increasingly large share of economic output,” TD Bank economist Brian DePratto noted in a Thursday report. "Rising home prices do have positive knock-on effects for consumer spending, but over-reliance on the real estate market is hardly the sign of a healthy economy.”
 
 >The real estate sector's share of GDP has grown 0.4 percentage points in the past two years alone, TD noted, while the share of everything else (including oil and manufacturing) has shrunk. Going back 10 years, to May, 2006, manufacturing output is down 11 per cent in real terms and mining (including oil) extraction is flat. But real estate's contribution to GDP has surged 35 per cent since then.
 

@@ -29,7 +29,7 @@ Every time I open my research feed I am confronted with more doom and gloom.  Th
 
 >I've read many books on the history of financial markets (like more than four dozen) over the last 20 years. I eat, sleep and breathe this stuff. One of the common threads of every financial or asset bubble throughout human history is that they all have a repudiation phase – a moment where all the lies that had been built up alongside the excess are aired out in public. Even reputable companies and players get caught up in it.
 
->As Jeff Lebowski said, “New shit has come to light, man.” In the repudiation phase, belief is nowhere to be found. Skepticism becomes the order of the day.
+>As Jeff Lebowski said, "New shit has come to light, man.” In the repudiation phase, belief is nowhere to be found. Skepticism becomes the order of the day.
 
 >We're there now. New shit is coming to light every five minutes. Every reputation you thought was untouchable and every omission you'd accepted because it was already accepted by the crowd – all back on the table for discussion (dissection?).
 

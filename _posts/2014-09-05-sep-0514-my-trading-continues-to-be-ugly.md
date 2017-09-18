@@ -53,7 +53,7 @@ This commitment is all that matters. If the market believes him (and his credibi
 
 Some very smart guys like David Tepper believe that Draghi is serious:
 
-> “What the ECB did today was very important. They want growth, an increase in the money supply and inflation. Basically what it all means for the markets is higher equity prices and a beginning of the end of the world bond market bubble…We are done.”
+> "What the ECB did today was very important. They want growth, an increase in the money supply and inflation. Basically what it all means for the markets is higher equity prices and a beginning of the end of the world bond market bubble…We are done.”
 
 That comment also demonstrates that Tepper subscribes to the theory that QE programs are not bond friendly. 
 

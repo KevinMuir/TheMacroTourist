@@ -14,14 +14,14 @@ tags:
 ---
 In the mid 1990s, after ten years of struggling, a British pop group by the name of Pulp finally broke out. Some of you will know the band, but I suspect a whole swath of my readers will have never heard of Pulp. For my older readers, think about them as a version of the Kinks &#8211; a good band, but never really achieving the popularity of the Beatles or the Rolling Stones. For my younger readers, think about them like the Kooks &#8211; again, a great band but lacking the same worldwide recognition as other British acts like the Arctic Monkeys.
 
-Pulp's popularity hit a crescendo in 1995 with the release of their album “A different class.”
+Pulp's popularity hit a crescendo in 1995 with the release of their album "A different class.”
 
 
   <img src="http://themacrotourist.com/images/Azure/PulpMay1315.png" alt="http://themacrotourist.com/images/Azure/PulpMay1315.png" style="margin:30px auto;display:block;" width="500" height="500">
 
-On that album is a song titled [“Common People.”](https://www.youtube.com/watch?v=yuTMWgOduFM) This song has been called one of the defining tracks of Britpop.
+On that album is a song titled ["Common People.”](https://www.youtube.com/watch?v=yuTMWgOduFM) This song has been called one of the defining tracks of Britpop.
 
-The song tells the story of a young Greek woman. Her father is rich, but she wants to live like “common people.”
+The song tells the story of a young Greek woman. Her father is rich, but she wants to live like "common people.”
 
 
   <img src="http://themacrotourist.com/images/Azure/PulpLyrics1May1315.png" alt="http://themacrotourist.com/images/Azure/PulpLyrics1May1315.png" style="margin:30px auto;display:block;" width="600" height="500">
@@ -30,14 +30,14 @@ For years after the song was released, Pulp fans speculated on the identity of t
 
 And so it probably would have remained had it not been for the recent Greek financial crisis. The Greek's negotiations are being led by the controversial Finance Minister Yanis Varoufakis. Although he portrays himself as a man of the people, he is anything but. His wife is the grand daughter of one of the founders of Greece's largest textile producers during the 20th century. Yanis made his money the old fashioned way &#8211; he married it.
 
-The events of the past few months has put Yanis in the spotlight. And with that spotlight has brought some attention to his “loaded” wife Danae Stratou.
+The events of the past few months has put Yanis in the spotlight. And with that spotlight has brought some attention to his "loaded” wife Danae Stratou.
 
 
   <img src="http://themacrotourist.com/images/Azure/DanaeStratouMay1315.png" alt="http://themacrotourist.com/images/Azure/DanaeStratouMay1315.png" style="margin:30px auto;display:block;" width="500" height="400">
 
 It turns out Stratou was the only Greek student studying art at St. Martin's college during the same time as Pulp's songwriter Jarvis Cocker. Although no one is admitting it &#8211; after all it is far from a flattering song, it appears the mystery has been solved.
 
-Yanis' wife Danae Stratou is most likely the young woman who wanted to live like “Common People.”
+Yanis' wife Danae Stratou is most likely the young woman who wanted to live like "Common People.”
 
 <hr size="3" width="85%" />
 
@@ -50,7 +50,7 @@ I must admit that Yanis had me fooled. The photo ops travelling in economy class
 
 I guess that Burberry scarf is not some knock off he bought on his visit to Hong Kong.
 
-So although Yanis claims to understand the plight of everyday Greeks, isn't he just as hypocritical as the woman in the “Common People?”
+So although Yanis claims to understand the plight of everyday Greeks, isn't he just as hypocritical as the woman in the "Common People?”
 
 
   <img src="http://themacrotourist.com/images/Azure/CommonPeople2May1315.png" alt="http://themacrotourist.com/images/Azure/CommonPeople2May1315.png" style="margin:30px auto;display:block;" width="500" height="600">
@@ -112,7 +112,7 @@ The Greek economy is still struggling, with the government unable to meet the Tr
 It is ironic that we have never been closer to a Greek default, and yet the market could care less. According to the Director of the European division of the IMF:
 
 <p style="padding-left: 30px;">
-  “It would be foolish for anyone in the policy world not to be worried at this stage,” Mr. Decressin said.
+  "It would be foolish for anyone in the policy world not to be worried at this stage,” Mr. Decressin said.
 </p>
 
 <hr size="3" width="85%" />
@@ -135,13 +135,13 @@ As we countdown to the Greek end game, I am expecting the markets to once again 
 
 **No one makes it out alive**
 
-Whatever happens, I don't think Yanis will make it out unscathed. He is far from “Common People” and they will turn on him.
+Whatever happens, I don't think Yanis will make it out unscathed. He is far from "Common People” and they will turn on him.
 
 
   <img src="http://themacrotourist.com/images/Azure/YanisMotoMay1315.png" alt="http://themacrotourist.com/images/Azure/YanisMotoMay1315.png" style="margin:30px auto;display:block;" width="600" height="400">
 
 Get ready for some fireworks. Just because few are talking about it doesn't mean the risk has gone away. If anything, this should only make you more worried.
 
-In the final refrain of the song “Common People,” Pulp sings “Never fail like common people. Never watch your life… Slide out of view.”
+In the final refrain of the song "Common People,” Pulp sings "Never fail like common people. Never watch your life… Slide out of view.”
 
 Sometimes all your wife's Dad's money can't help you, and you fail, just like common people.

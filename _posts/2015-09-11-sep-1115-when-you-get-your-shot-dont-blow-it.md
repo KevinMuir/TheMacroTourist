@@ -22,55 +22,55 @@ During this particular moment in time, our group was uniquely positioned. Our ba
 
 Even though he wasn't particularly excellent at his job, our nepotistic summer student was assigned duties we were neglecting due to being too busy. When late August came around my boss asked me what I thought about our summer student.
 
-“Hey Kev, what do you think about keeping the kid on?”
+"Hey Kev, what do you think about keeping the kid on?”
 
-“What do you mean?” I responded.
+"What do you mean?” I responded.
 
-“I was thinking about asking him to not go back to school,” my boss explained.
+"I was thinking about asking him to not go back to school,” my boss explained.
 
-“That kid was born with horseshoes up his ass,” was all I could choke out. “Guys would give their left nut for that opportunity.”
+"That kid was born with horseshoes up his ass,” was all I could choke out. "Guys would give their left nut for that opportunity.”
 
-“Well, I know he isn't exactly the hardest working kid, but we are so busy I can't be bothered to spend the time training another one.”
+"Well, I know he isn't exactly the hardest working kid, but we are so busy I can't be bothered to spend the time training another one.”
 
 And so later that night when everyone had left, my boss took the kid aside and offered him a job.
 
 The next day I came to work ready to welcome our group's new permanent member. But much to my surprise, the kid turned my boss down.
 
-“What the hell happened?” I asked my boss at the first free moment we had.
+"What the hell happened?” I asked my boss at the first free moment we had.
 
-“He just said no. Said he wanted to go back to school and would love to work in our group next year when he graduates.”
+"He just said no. Said he wanted to go back to school and would love to work in our group next year when he graduates.”
 
-“Did you explain to him that you _go to school_ to get the job? For traders, the actual schooling is completely irrelevant?” I asked.
+"Did you explain to him that you _go to school_ to get the job? For traders, the actual schooling is completely irrelevant?” I asked.
 
-“Yup… He said his mother would be disappointed if he didn't finish,” my boss explained.
+"Yup… He said his mother would be disappointed if he didn't finish,” my boss explained.
 
-“Well, if he is that stupid, he doesn't deserve the job,” was all I could respond.
+"Well, if he is that stupid, he doesn't deserve the job,” was all I could respond.
 
 Of course by the time the next summer rolled around, the dot com bubble had burst and the whole street was laying people off, not taking on new kids fresh out of school. Needless to say, when the kid came knocking with his degree in hand, there was no more spot for him…
 
-The second story is actually my old man's tale, and I hope I don't mangle it too much. For many years, my father was the research director for a medium sized independent Canadian brokerage firm. One year he had to hire two new research assistants. Instead of doing the easy thing and hiring two kids out of one of the Canadian University's business schools, he decided to try something different. He would fill one of the spots with a Western Univeristy HBA student (for my foreign readers think about Western as the Canadian Harvard). But for the second spot he would “take a flier.”
+The second story is actually my old man's tale, and I hope I don't mangle it too much. For many years, my father was the research director for a medium sized independent Canadian brokerage firm. One year he had to hire two new research assistants. Instead of doing the easy thing and hiring two kids out of one of the Canadian University's business schools, he decided to try something different. He would fill one of the spots with a Western Univeristy HBA student (for my foreign readers think about Western as the Canadian Harvard). But for the second spot he would "take a flier.”
 
 So he sifted through the mountain of letters on his desk from different applicants. He found an eager young guy from the East coast that looked intriguing. He phoned the number listed on the resume. His Mom answered and told my father her son was out working on the fishing boat but would be in later that afternoon. My father left his name and number and asked for her son to return his call at his convenience.
 
 Later that afternoon my dad's phone rang. Sure enough, it was the eager young prospective employee. My father did a preliminary interview by phone, and upon concluding that the kid had potential, asked the next time he was in Toronto to come in for a proper interview.
 
-“Ok, I'll be there tomorrow,” he said much to my father's surprise.
+"Ok, I'll be there tomorrow,” he said much to my father's surprise.
 
-“You're coming to Toronto tomorrow?” he asked.
+"You're coming to Toronto tomorrow?” he asked.
 
-“I am now,” he responded.
+"I am now,” he responded.
 
 My father quickly realized this kid who had literally just stepped off a fishing boat, was dropping everything, and with considerable expense to himself, flying halfway across the country for a simple interview.
 
-“Oh no, don't do that,” my father explained, “the next time you are in Toronto is fine. This is just a preliminary interview and I can't promise that at this point, it is anything more than the start of the process.”
+"Oh no, don't do that,” my father explained, "the next time you are in Toronto is fine. This is just a preliminary interview and I can't promise that at this point, it is anything more than the start of the process.”
 
-“I understand. I appreciate the opportunity, and I will see you tomorrow,” was all that came out from the other side of the phone.
+"I understand. I appreciate the opportunity, and I will see you tomorrow,” was all that came out from the other side of the phone.
 
 Holy shit. This kid who probably doesn't have two nickels to his name, is blowing all his money for a shot at this job, was all that my father could think.
 
-“I really don't want you to spend all that money coming out for me,” my father insisted, “please just drop by my office the next time you are in town.”
+"I really don't want you to spend all that money coming out for me,” my father insisted, "please just drop by my office the next time you are in town.”
 
-“Thank you again for this opportunity, I will see you tomorrow,” was all that came back.
+"Thank you again for this opportunity, I will see you tomorrow,” was all that came back.
 
 You can probably guess what happened. The kid from the East coast showed up the next day and got the job.
 

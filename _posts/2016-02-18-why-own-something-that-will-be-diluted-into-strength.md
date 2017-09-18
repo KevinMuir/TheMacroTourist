@@ -54,7 +54,7 @@ And this comes right after Goldman Sachs came out with a "sell gold" call (from 
 
 >Goldman Sachs Group Inc. says it's time to bet against gold as bullion's rally to the highest in a year isn't justified, backing the bearish call with a comment from a former U.S. leader in a report that was issued, appropriately enough, on Presidents' Day.
 >Gold will slump to $1,100 an ounce in three months and $1,000 an ounce in 12 months, analysts including Jeffrey Currie and Max Layton wrote in the report that was dated Feb. 15 and received on Tuesday. It was headlined with a remark from former President Franklin D. Roosevelt.
->There's “nothing to fear but fear itself,” the analysts entitled the seven-page note, channeling comments from Roosevelt's 1933 inauguration when the U.S. economy was being ravaged by the Great Depression. “It's time to sell the fear barometer,” the bank said, and recommended shorting gold.
+>There's "nothing to fear but fear itself,” the analysts entitled the seven-page note, channeling comments from Roosevelt's 1933 inauguration when the U.S. economy was being ravaged by the Great Depression. "It's time to sell the fear barometer,” the bank said, and recommended shorting gold.
 
 The fact that *gold is still climbing* in the midst of all this pessimism only makes me more bullish.  It reminds me of all the negativity that surrounded the equity market in 2009 and 2010.  Even though everyone was looking for the bear market to resume, the market just kept climbing.  It was only when *everyone* was convinced the stock market would *never go down again* that we finally rolled over.  Buying in the face of doubts was the right call for equities in 2010, and it is the right call for gold in 2016.
 

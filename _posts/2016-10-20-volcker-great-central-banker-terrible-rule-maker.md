@@ -30,19 +30,19 @@ Take this week's WSJ story about a Goldman Sachs' trader that recently made $100
 
 >The windfall is a throwback to a previous era on Wall Street, when big banks were more eager to step in as markets turned and bond traders took bigger risks. Those bets have become less common since the crisis. Hoping to make the financial system safer, Congress passed rules that curbed banks' ability to wager with their own money and required them to hold more capital.
 
->Wall Street responded by shutting down its proprietary-trading desks and shrinking inventories of securities like bonds. The government allowed banks to continue trading securities in their capacity as market makers, serving as intermediaries between buyers and sellers. Regulators have said banks must show that the amount of bonds and other securities they hold on their balance sheets don't exceed what they need to meet “reasonably expected near-term demand.”
+>Wall Street responded by shutting down its proprietary-trading desks and shrinking inventories of securities like bonds. The government allowed banks to continue trading securities in their capacity as market makers, serving as intermediaries between buyers and sellers. Regulators have said banks must show that the amount of bonds and other securities they hold on their balance sheets don't exceed what they need to meet "reasonably expected near-term demand.”
 
 >As a market maker, Mr. Malafronte bought the bonds from clients anxious to sell them and ultimately lined up other investors to buy them—at a higher price. Goldman profited from the difference, people familiar with the matter said.
 
 >It is difficult—if not impossible—to define clearly the difference between trades made to meet clients' demands and those conducted just to make money, said Hal Scott, a professor with Harvard Law School who has testified before Congress about efforts to regulate the banking industry.
 
->“No one has been able to distinguish between market making and prop trading,” Mr. Scott said.
+>"No one has been able to distinguish between market making and prop trading,” Mr. Scott said.
 
 >Critics have argued that the postcrisis rules on trading have made it harder for the biggest Wall Street banks to buy bonds from investors in times of stress and hold them until markets calm.
 
 >Mr. Malafronte's haul lands squarely in the center of a debate about the role of banks, which are eager to show that they are putting clients' interests ahead of their own while at the same time scrambling to capitalize on a dwindling number of profit-making opportunities.
 
->Goldman Sachs confirmed investors' expectations of a strong third quarter earnings report Tuesday, after key rivals reported strong trading revenue in recent days. WSJ's Lee Hawkins explains. A Goldman spokeswoman declined to comment on the nature of Mr. Malafronte's trades but added, “We have made a concerted effort to grow our market making franchise across credit, and remain focused on meeting the diverse needs of our clients.”
+>Goldman Sachs confirmed investors' expectations of a strong third quarter earnings report Tuesday, after key rivals reported strong trading revenue in recent days. WSJ's Lee Hawkins explains. A Goldman spokeswoman declined to comment on the nature of Mr. Malafronte's trades but added, "We have made a concerted effort to grow our market making franchise across credit, and remain focused on meeting the diverse needs of our clients.”
 
 >Mr. Malafronte didn't return calls seeking comment.
 
@@ -60,7 +60,7 @@ Too many people think this $100 million Goldman Sachs profit is money straight o
 
 Here's how it really works.  Prop traders are continually looking for anomalies where something is cheap or expensive.  Regardless of their trading time frame, I had never met a successful institutional prop trader that front ran liquidity.  They were always *supplying* liquidity.  If you want to trade a size that makes a difference to your P&L, institutional prop traders needed to *take the other side of some other large trader's position.*  The recent Goldman Sachs trade is a perfect example.  From the same WSJ article:
 
->Mr. Malafronte began by buying bonds issued by Freeport-McMoRan Inc. and Teck Resources Ltd., two mining companies that endured debt-rating downgrades earlier this year. He also snapped up debt issued by retailer Toys “R” Us Inc., Gymboree Corp. and Avon Products Inc., along with a handful of other companies, as investors' appetite for riskier securities nose-dived early in 2016, people familiar with the matter said. Concerns about an economic slowdown in China and the U.S., falling commodities prices and the uncertain direction of interest rates were roiling global markets.
+>Mr. Malafronte began by buying bonds issued by Freeport-McMoRan Inc. and Teck Resources Ltd., two mining companies that endured debt-rating downgrades earlier this year. He also snapped up debt issued by retailer Toys "R” Us Inc., Gymboree Corp. and Avon Products Inc., along with a handful of other companies, as investors' appetite for riskier securities nose-dived early in 2016, people familiar with the matter said. Concerns about an economic slowdown in China and the U.S., falling commodities prices and the uncertain direction of interest rates were roiling global markets.
 
 >Freeport's bonds due in 2022 dropped to 40 cents on the dollar on Jan. 28, the day after Moody's Investors Service cut the company's debt ratings to junk, according to data compiled by IHS Markit. By the start of March, those same bonds had snapped back above 70 cents, IHS Markit said. They traded above 90 cents this week.
 

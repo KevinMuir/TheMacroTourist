@@ -41,7 +41,7 @@ The Chinese government is desperately trying to cushion this decline. They have 
 Most market observers are viewing these moves as frantic flailing by a panicky government. From a Bloomberg article:
 
 <p style="padding-left: 30px;">
-  “It does come across as relatively desperate,” said Wei Hou, an analyst at Sanford C. Bernstein & Co. in Hong Kong. “Globally, illiquid assets such as real estate are not accepted as collateral as they are very hard to liquidate.”
+  "It does come across as relatively desperate,” said Wei Hou, an analyst at Sanford C. Bernstein & Co. in Hong Kong. "Globally, illiquid assets such as real estate are not accepted as collateral as they are very hard to liquidate.”
 </p>
 
 However, I would like to humbly suggest maybe the bears have become a little too sure of themselves. Don&#8217;t forget the sharpest corrections occur in bull markets, not bear markets. This sort of large quick decline is more typical of a correction as opposed to the start of a prolonged bear market. 
@@ -66,7 +66,7 @@ The more I reflect on the Greek situation, the more convinced I become the Greek
 The always insightful Martin Enlund from Nordea has recently been highlighting the troubled relationship between the EU and the Greeks. 
 
 <p style="padding-left: 30px;">
-  Timothy Geithner: “EU leaders were obsessed with crushing terrible Greeks”
+  Timothy Geithner: "EU leaders were obsessed with crushing terrible Greeks”
 </p>
 
 <p style="padding-left: 30px;">
@@ -82,7 +82,7 @@ The always insightful Martin Enlund from Nordea has recently been highlighting t
 </p>
 
 <p style="padding-left: 30px;">
-  “The Europeans came into that meeting basically saying: ‘We're going to teach the Greeks a lesson. They are really terrible. They lied to us. They suck and they were profligate and took advantage of the whole basic thing and we're going to crush them'”.
+  "The Europeans came into that meeting basically saying: ‘We're going to teach the Greeks a lesson. They are really terrible. They lied to us. They suck and they were profligate and took advantage of the whole basic thing and we're going to crush them'”.
 </p>
 
 No wonder the Greeks are so hostile towards the Germans. Some of you might argue the Greeks got what they deserved. I don&#8217;t really care who is at fault. I am only interested in what will happen. 

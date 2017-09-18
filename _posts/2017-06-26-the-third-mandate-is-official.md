@@ -38,7 +38,7 @@ The FOMC wants stocks to stop rising, and they will keep raising rates until the
 
 This weekend the San Francisco Federal Reserve President John Williams made a speech in Australia that was surprisingly hawkish:
 
->I once had a T-shirt printed up that reminded folks that the decisions we make at the Fed are “data-driven,” and they are. Although we live in a hyper-political era, the Fed is strictly apolitical…and as one of America's great exports, Lady Gaga, would say, we were “born this way.” Our enterprise is unique within the U.S. government in both function and structure, and our design allows us to make decisions independent of short-term political influence. We base our decisions on what's best for the long-term health of the economy, rather than “living for today.”
+>I once had a T-shirt printed up that reminded folks that the decisions we make at the Fed are "data-driven,” and they are. Although we live in a hyper-political era, the Fed is strictly apolitical…and as one of America's great exports, Lady Gaga, would say, we were "born this way.” Our enterprise is unique within the U.S. government in both function and structure, and our design allows us to make decisions independent of short-term political influence. We base our decisions on what's best for the long-term health of the economy, rather than "living for today.”
 
 >The U.S. Congress has mandated that our job is to keep the economy stable and on track, with a focus on two big goals: maximum employment and price stability. We want everyone who wants a job to be able to find one and for inflation to average 2 percent per year over the long run.
 
@@ -50,7 +50,7 @@ This weekend the San Francisco Federal Reserve President John Williams made a sp
 
 >Meanwhile, inflation has been running somewhat below the Fed's goal of 2 percent for the past few years. In the past, this low rate of inflation was the product of a number of factors—the recession and the strength of the U.S. dollar being the two main ones. Recently, some special transitory factors have being pulling inflation down. But with some of these factors now waning and with the economy doing well, I expect we'll reach our 2 percent goal sometime next year.
 
->Now, I'd love to be able to tell you that the news is all rosy and that our work here is done. Unfortunately, they don't call economics “the dismal science” for nothing. I'm paid to consider what potholes may be dotting the road ahead.
+>Now, I'd love to be able to tell you that the news is all rosy and that our work here is done. Unfortunately, they don't call economics "the dismal science” for nothing. I'm paid to consider what potholes may be dotting the road ahead.
 
 >For starters, the very strong labor market actually carries with it the risk of the economy exceeding its safe speed limit and overheating, which could eventually undermine the sustainability of the expansion.
 

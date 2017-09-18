@@ -78,11 +78,11 @@ As I was researching this piece, I stumbled across a report about a CIC (Chinese
 
 >China Investment Corp.'s Roslyn Zhang, a managing director at the nation's sovereign wealth fund, criticized hedge fund managers for everything from herding into bets against the yuan to lacking skills to make money.
 
->“Over the last couple years I'm kind of disappointed by the performance,” she said Wednesday at the SkyBridge Alternatives Conference in Las Vegas. Zhang, who oversees fixed-income and absolute-return investments, said CIC is a “sizable” investor in the industry.
+>"Over the last couple years I'm kind of disappointed by the performance,” she said Wednesday at the SkyBridge Alternatives Conference in Las Vegas. Zhang, who oversees fixed-income and absolute-return investments, said CIC is a "sizable” investor in the industry.
 
->Chinese individual investors have been faulted for crowding into markets and driving up prices, but hedge fund managers are equally to blame for their “herd mentality,” Zhang said. 
+>Chinese individual investors have been faulted for crowding into markets and driving up prices, but hedge fund managers are equally to blame for their "herd mentality,” Zhang said. 
 
->“All kinds of strategies, they run different strategies, they all have the same trade,” Zhang said.
+>"All kinds of strategies, they run different strategies, they all have the same trade,” Zhang said.
 
 I make all sorts of mistakes all the time.  As Jackson Browne sings, "don't remind me of my failures, I have not forgotten them."  But following these hedgies in their all too clever strategies is not one of them.  Don't be afraid to fade them.  
 

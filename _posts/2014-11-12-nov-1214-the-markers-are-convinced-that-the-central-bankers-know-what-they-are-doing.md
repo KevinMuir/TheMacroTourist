@@ -31,7 +31,7 @@ As our society has become more dependant on these financial asset bubbles, the m
 
 The power of the Central Bank allows them to appear to fix almost everything they set their mind to. Throw enough liquidity at any problem and it eventually goes away. At least for a while…
 
-Their power to influence the short to medium term has created an air of omnipotence. The markets are rightfully scared of the Central Banks and Wall Street wisdom of “don't fight the Fed” has become standard fare.
+Their power to influence the short to medium term has created an air of omnipotence. The markets are rightfully scared of the Central Banks and Wall Street wisdom of "don't fight the Fed” has become standard fare.
 
 This reputation of omnipotence has been even greater by the fact that, those critics that have been worried about the Fed's reckless behaviour, have been shamed with the recent deflationary wave. Their dire predictions about runaway inflation have proven to be nothing more than Chicken Little scare tactics.
 
@@ -47,7 +47,7 @@ Last year one of my favourite hedge fund managers, David Einhorn of Greenlight C
 
 > &#8220;I got to ask [Bernanke] all these questions that had been on my mind for a very long period of time, right? And then on the other side, it was like sort of frightening because the answers weren't any better than I thought that they might be. I asked several things. He started out by explaining that he was 100 percent sure that there's not going to be hyperinflation. And not that I think that there's going to be hyperinflation, but it's like how do you get to 100 percent certainty of anything? Like why can't you be 99 percent certain and like how do you manage that risk in the last 1 percent? And he says, well, hyperinflations generally occur after wars and that's not here. And there's no sign of inflation now and Japan's done a lot more quantitative easing than we've done, and they don't have it. So if there is a big inflation, the Fed will know what to do. That was kind of the answer.
 
-Einhorn is no “guns and ammo” type gold bug. He is one of the smartest well thought out hedge fund managers out there. But he is scared by the Fed's lack of any real plan.
+Einhorn is no "guns and ammo” type gold bug. He is one of the smartest well thought out hedge fund managers out there. But he is scared by the Fed's lack of any real plan.
 
 However the market is ignoring Einhorn's worries. The market is convinced that the Central Bankers know what they are doing. After all, they have shown time and time again how much they are on top of everything. Right?
 
@@ -55,7 +55,7 @@ However the market is ignoring Einhorn's worries. The market is convinced that t
 
 **Is Draghi really the second Maestro?**
 
-How about Europe's Alan Greenspan equivalent? Until recently, Draghi was viewed as the next great Central Bank Maestro. This reputation was cemented during the European sovereign debt crisis. The now famous “we will do whatever it takes” comments stopped the panic in its tracks. Draghi seemed to be able to commandeer the markets with only his sheer force of will.
+How about Europe's Alan Greenspan equivalent? Until recently, Draghi was viewed as the next great Central Bank Maestro. This reputation was cemented during the European sovereign debt crisis. The now famous "we will do whatever it takes” comments stopped the panic in its tracks. Draghi seemed to be able to commandeer the markets with only his sheer force of will.
 
 But was Draghi really in control of things as much as the market gives him credit? Recently the FT published some candid Timothy Geithner recollections of that moment. The truth of the matter is that Draghi was no cool customer that knew exactly how to calm markets. No, he was simply throwing stuff at the wall and seeing what would stick.
 

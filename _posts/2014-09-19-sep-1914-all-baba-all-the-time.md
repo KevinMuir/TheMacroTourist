@@ -62,8 +62,8 @@ IPO&#8217;s are surefire ways to make money. In fact, the bigger the better!
 
 And these old fuddy duddies that are worried about the Alibaba share structure are nuts! When has a Chinese company ever reneged on a deal and ripped off US investors?
 
-> Alibaba Group Holding Ltd.'s corporate structure is “dangerous,” and shareholders will have no legal recourse should problems emerge at the Chinese e-commerce giant, an influential emerging-markets fund manager cautioned Thursday.  
-> “You have a dual share class, where the minority, the founders, have control of the key assets of the company, and if something goes wrong and they decide to take all the pay away, there's nothing you can do about it,” Mark Mobius, head of emerging markets at Franklin Templeton Investments, told CNN Money.  
+> Alibaba Group Holding Ltd.'s corporate structure is "dangerous,” and shareholders will have no legal recourse should problems emerge at the Chinese e-commerce giant, an influential emerging-markets fund manager cautioned Thursday.  
+> "You have a dual share class, where the minority, the founders, have control of the key assets of the company, and if something goes wrong and they decide to take all the pay away, there's nothing you can do about it,” Mark Mobius, head of emerging markets at Franklin Templeton Investments, told CNN Money.  
 > ‘That kind of structure is quite risky, and it's probably not a good idea to go after it.'
 
 Pshaw! That dinosaur doesn&#8217;t know what he is talking about.
@@ -80,7 +80,7 @@ On this topic I will leave you with the foolish words of another crotchety old i
 
 This morning as I awoke to the news that Scotland had voted to stay in the United Kingdom I saw that Spanish Prime Minister Rajoy had sent out a video message;
 
-> “we are all very happy that Scotland will continue to be with us,” given that its citizens have avoided “the serious economic, social, institutional and political consequences that its separation from the United Kingdom and Europe would have meant.”
+> "we are all very happy that Scotland will continue to be with us,” given that its citizens have avoided "the serious economic, social, institutional and political consequences that its separation from the United Kingdom and Europe would have meant.”
 
 He is happy that the Scots avoided the consequences of independence? Really? Or maybe he is happy that this result might have bought him a couple of more years before his citizens demand the same independence that the Scots were &#8220;smart&#8221; enough to avoid? 
 

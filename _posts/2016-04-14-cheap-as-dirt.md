@@ -124,7 +124,7 @@ Maybe this all plays out exactly as the bears hope.  It has worked for the past 
 
 I will leave you with one of Don Coxe's famous lines:
 
->“The most exciting returns are to be had from an asset class where those who know it best, love it least, because they have been hurt the most.”
+>"The most exciting returns are to be had from an asset class where those who know it best, love it least, because they have been hurt the most.”
 
 Thanks for reading,  
 Kevin Muir  

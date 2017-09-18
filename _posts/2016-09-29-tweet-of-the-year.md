@@ -33,7 +33,7 @@ Kurt should know just enough about to finance to know you never, ever, not in a 
 
 There hasn't been such an asinine comment since February 4th, 2010 when numbskull extraordinary Nassim Taleb said:
 
->It's “a no brainer” to sell short Treasuries, Taleb, a principal at Universa Investments LP in Santa Monica, California, said at a conference in Moscow today. “Every single human being should have that trade.”
+>It's "a no brainer” to sell short Treasuries, Taleb, a principal at Universa Investments LP in Santa Monica, California, said at a conference in Moscow today. "Every single human being should have that trade.”
 
 <a href="http://themacrotourist.com/images/TalebSep2816.png"><img src="http://themacrotourist.com/images/TalebSep2816.png" alt="http://themacrotourist.com/images/TalebSep2816.png" width="750" height="490" style="margin:30px auto;display:block;"></a>
 

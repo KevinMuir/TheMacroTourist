@@ -47,21 +47,21 @@ The market is surprised at how the Federal Reserve has not wavered in the face o
 
 >Federal Reserve Bank of New York President William Dudley aligned himself with Chair Janet Yellen in declaring his expectation that a tight labor market will eventually trigger a rebound in inflation data that has been unexpectedly weak in recent months.
 
->“We're pretty close to what we think is full employment,” Dudley said Monday in Plattsburgh, New York. “Inflation is a little bit lower than what we would like, but we think if the labor market continues to tighten, wages will gradually pick up, and with that, we'll see inflation get back to 2 percent.”
+>"We're pretty close to what we think is full employment,” Dudley said Monday in Plattsburgh, New York. "Inflation is a little bit lower than what we would like, but we think if the labor market continues to tighten, wages will gradually pick up, and with that, we'll see inflation get back to 2 percent.”
 
 >Yields on U.S. Treasuries rose and the dollar advanced after Dudley's comments.
 
->Fed officials last week raised their benchmark interest rate for the third time in six months and pushed ahead on plans to begin reducing the central bank's $4.5 trillion balance sheet later this year -- a move that may also tighten policy, in the face of growing concerns over stalled inflation. In remarks that Dudley largely echoed, Yellen said at the time she expected the U.S. economy would continue to expand at a moderate pace for “the next few years.”
+>Fed officials last week raised their benchmark interest rate for the third time in six months and pushed ahead on plans to begin reducing the central bank's $4.5 trillion balance sheet later this year -- a move that may also tighten policy, in the face of growing concerns over stalled inflation. In remarks that Dudley largely echoed, Yellen said at the time she expected the U.S. economy would continue to expand at a moderate pace for "the next few years.”
 
->Dudley, viewed as an influential voice on the rate-setting Federal Open Market Committee, also sounded a positive note on the U.S. economy overall, while saying the central bank wanted to tighten monetary policy “very judiciously” to avoid derailing the expansion that began in mid-2009.
+>Dudley, viewed as an influential voice on the rate-setting Federal Open Market Committee, also sounded a positive note on the U.S. economy overall, while saying the central bank wanted to tighten monetary policy "very judiciously” to avoid derailing the expansion that began in mid-2009.
 
 >In a Bloomberg survey of economists earlier this month, respondents put a 60 percent probability, based on the median estimate, on the expansion running through at least July 2019 and thereby reaching 121 months, topping the 10 years of gains during the 1990s.
 
->“I'm actually very confident that even though the expansion is relatively long in the tooth, we still have quite a long way to go,” Dudley said Monday. “This is actually a pretty good place to be.”
+>"I'm actually very confident that even though the expansion is relatively long in the tooth, we still have quite a long way to go,” Dudley said Monday. "This is actually a pretty good place to be.”
 
 >The Fed's preferred measure of inflation, after stripping out food and energy components, slowed to 1.5 percent in the 12 months through April, well short of the central bank's 2 percent target. That has puzzled economists because it comes as unemployment has consistently declined and stood at a 16-year low of 4.3 percent in May.
 
->“If we were not to withdraw accommodation, the risk would be that the economy would crash to a very, very low unemployment rate, and generate inflation,” Dudley said.“Then the risk would be that we would have to slam on the brakes and the next stop would be a recession.”
+>"If we were not to withdraw accommodation, the risk would be that the economy would crash to a very, very low unemployment rate, and generate inflation,” Dudley said."Then the risk would be that we would have to slam on the brakes and the next stop would be a recession.”
 
 The Federal Reserve is not concerned about their inability to meet their inflation mandate over the short run.  Instead, they are focused on the possibility of the Phillips Curve causing a spike in inflation they can't control, but even more importantly, they are petrified about easy financial conditions causing another bubble.  
 

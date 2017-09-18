@@ -105,7 +105,7 @@ I remember seeing a study about the competitive devaluations that happened in th
 
 Now ECB Chairman Draghi recognizes the problem, but he is butting heads with the Germans, who are, well… German.
 
-> The conflict between ECB President Mario Draghiand Bundesbank President Jens Weidmann over the course of the European Central Bank is more severe than expected, and has become “almost impossible,” The Italian ECB chief characterizes the Bundesbank president after statements from witnesses internally on a regular basis with the three German words “No to all”. According to insiders, therefore Draghi is no longer even trying to win the Germans for its programs. Since July there was a direct contact between the two presidents of the ECB and the Bundesbank outside of the two Council meetings in early September and early October.
+> The conflict between ECB President Mario Draghiand Bundesbank President Jens Weidmann over the course of the European Central Bank is more severe than expected, and has become "almost impossible,” The Italian ECB chief characterizes the Bundesbank president after statements from witnesses internally on a regular basis with the three German words "No to all”. According to insiders, therefore Draghi is no longer even trying to win the Germans for its programs. Since July there was a direct contact between the two presidents of the ECB and the Bundesbank outside of the two Council meetings in early September and early October.
 
 But the current sell off has been made all the worse by comments Draghi made two ECB meetings ago. At that time, Draghi promised that the ECB understood the situation and would do whatever it takes to head off deflation. He said that the ECB would increase their balance sheet to levels seen during the European sovereign debt crisis. This implied almost €1 trillion of expansion. The markets were thrilled with his comments. The ECB was on its way to fixing their problems.
 
@@ -113,11 +113,11 @@ Hedge funds scrambled to put on growth trades in size. After all, the new Maestr
 
 Hedge fund guru David Tepper summed it up best with his comment:
 
-> “Draghi wants inflation in the Euro zone. He will not stop,” said Tepper.
+> "Draghi wants inflation in the Euro zone. He will not stop,” said Tepper.
 
 Tepper even went on to say that Draghi's comments marked the end of the bond bull market. He was that convinced that Draghi would follow through with his promises.
 
-This optimism led to that final “risk on” push in the final days of summer. But since then it has become more and more clear that Draghi would not be able to follow through with his big promises. As autumn rolled in, the disappointments started.
+This optimism led to that final "risk on” push in the final days of summer. But since then it has become more and more clear that Draghi would not be able to follow through with his big promises. As autumn rolled in, the disappointments started.
 
 
   <img src="http://themacrotourist.com/images/Azure/vaderOct1614.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/vaderOct1614.png" style="margin:30px auto;display:block;" width="400" height="550">

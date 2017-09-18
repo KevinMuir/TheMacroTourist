@@ -69,7 +69,7 @@ I have become more convinced that the short side of the bond market is a much be
 
 As you know, I am a big Soros fan. However he is getting up there in age, and I am on the lookout for signs of senility. His latest comments about using the Strategic Petroleum Reserve to punish Putin have perked my antennae. 
 
-> “Strongest sanction” against Russia “is in the hands of the United States” because U.S. could sell crude from the Strategic Oil Reserve and depress prices, investor George Soros says during panel discussion in Berlin.
+> "Strongest sanction” against Russia "is in the hands of the United States” because U.S. could sell crude from the Strategic Oil Reserve and depress prices, investor George Soros says during panel discussion in Berlin.
 
 Selling oil out of the SPR (Strategic Petroleum Reserve) is about the stupidest thing I have ever heard as a plan to punish Putin. If you sell oil today, unless you are going to permanently reduce the SPR size, you are simply going to have to buy it back in the future. 
 

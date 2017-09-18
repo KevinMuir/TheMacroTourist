@@ -70,7 +70,7 @@ While I am on the subject of Canada I thought I would take a moment to talk abou
 
 I was leafing through my old saved research file this week-end and I came across this article about the Canadian real estate market that quoted famed Canadian money manager Stephen Jarislowsky:
 
-> Feb. 12 (Bloomberg) &#8211; Stephen Jarislowsky, chairman of Montreal-based investment adviser Jarislowsky Fraser Ltd., said he is “convinced” there's a bubble in Canada's housing market, fueled by government measures that encouraged consumers to take on debt.
+> Feb. 12 (Bloomberg) &#8211; Stephen Jarislowsky, chairman of Montreal-based investment adviser Jarislowsky Fraser Ltd., said he is "convinced” there's a bubble in Canada's housing market, fueled by government measures that encouraged consumers to take on debt.
 
 The date on the quote is February, but I purposely left off the year. Can you guess what year? Maybe last year? Nope. How about 2012? Wrong again. Surely it must be 2011. Unfortunately not. The quote is actually from February of 2010. 
 

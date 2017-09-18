@@ -20,7 +20,7 @@ tags:
 ---
 I am writing this before the release of the big unemployment report this morning, so there is good chance that this is all going to be a moot point in a couple of hours. But I am going to put it out there anyhow because regardless of this morning's noise, I think the US dollar rally is getting really tired, and is due for a pull back.
 
-Yesterday the US dollar pushed to new highs after breaking out cleanly to the upside the previous day. But yesterday's move higher was rejected, and we ended up sliding back down to the breakout level. I think this has the possibility of being a classic “pop and drop.” This pattern is comprised of a pop higher that lacks follow through, and it quickly drops back into the range. The move into new highs ends up not being nearly as stable as the bulls anticipated, and the foundation crumbles underneath them.
+Yesterday the US dollar pushed to new highs after breaking out cleanly to the upside the previous day. But yesterday's move higher was rejected, and we ended up sliding back down to the breakout level. I think this has the possibility of being a classic "pop and drop.” This pattern is comprised of a pop higher that lacks follow through, and it quickly drops back into the range. The move into new highs ends up not being nearly as stable as the bulls anticipated, and the foundation crumbles underneath them.
 
 
   <img src="http://themacrotourist.com/images/Azure/unstableDec0414.png"><img class="size-full wp-image-14271" style="padding-top: 1.0em;padding-bottom: 0.5em;" src="http://themacrotourist.com/images/Azure/unstableDec0414.png" style="margin:30px auto;display:block;" width="600" height="442">

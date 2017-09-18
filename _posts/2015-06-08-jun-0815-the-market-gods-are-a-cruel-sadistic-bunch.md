@@ -107,7 +107,7 @@ Next year, David&#8217;s article will be replaced with all sorts of accounts of 
 Last week, I came across this funny report about the Philadelphia Pension Board&#8217;s recent investment decision. From Bloomberg:
 
 <p style="padding-left: 30px;">
-  Philadelphia's pension board voted to pull its money from Jim Chanos's Kynikos Associates after losses in April that prompted a finance director to ask “what went wrong.”
+  Philadelphia's pension board voted to pull its money from Jim Chanos's Kynikos Associates after losses in April that prompted a finance director to ask "what went wrong.”
 </p>
 
 <p style="padding-left: 30px;">

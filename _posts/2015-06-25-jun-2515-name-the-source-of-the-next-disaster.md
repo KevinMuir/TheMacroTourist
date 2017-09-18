@@ -43,7 +43,7 @@ Fast forward to today. Someone somewhere has correctly identified the next crisi
 Recently there has been a couple of articles that have peaked my interest regarding the potential for a financial crisis to emanate from quantitative funds. The first was from the always insightful and witty Josh Brown. His article [&#8220;Are Quants the New Systemic Risk&#8221;](http://thereformedbroker.com/2015/06/21/are-quants-the-new-systemic-risk/) is a must read.
 
 <p style="padding-left: 30px;">
-  The difference between this year's Euro Brinksmanship and the old 2010-2011 version is that this time, the banks don't give a f**k. Literally. The ECB is buying $60 billion or so of sovereign debt securities every month and the sovereigns have most of the “Greek risk” now.
+  The difference between this year's Euro Brinksmanship and the old 2010-2011 version is that this time, the banks don't give a f**k. Literally. The ECB is buying $60 billion or so of sovereign debt securities every month and the sovereigns have most of the "Greek risk” now.
 </p>
 
 <p style="padding-left: 30px;">
@@ -75,21 +75,21 @@ This idea that the quant shops are the next ones most likely to walk into a shar
 The article that set off this whole discussion was a blog post from Global Slant titled [&#8216;Black Box Trading: Why they all &#8220;Blow-Up&#8221;&#8217;](http://globalslant.com/2015/06/black-box-trading-why-they-all-blow-up/). It tells the story of a quantitative trader&#8217;s rise to fame, and the insights he learned along the way.
 
 <p style="padding-left: 30px;">
-  As it turned out I had the good fortune of working with one of the world's largest and best performing hedge funds. Their black box modeling team had been at it for years…back-testing every conceivable variable from every perceived angle…twisted/contorted in every conceivable/measurable manner…truly dedicated to the idea that regression tested, quantitative trading models were the incremental/necessary “edge” to consistently generate alpha while maximizing risk-adjusted, absolutely positive returns. We worked together for some time and I became intimately involved with their quantitative modeling/trading team…truly populated with some of the best minds in the business.
+  As it turned out I had the good fortune of working with one of the world's largest and best performing hedge funds. Their black box modeling team had been at it for years…back-testing every conceivable variable from every perceived angle…twisted/contorted in every conceivable/measurable manner…truly dedicated to the idea that regression tested, quantitative trading models were the incremental/necessary "edge” to consistently generate alpha while maximizing risk-adjusted, absolutely positive returns. We worked together for some time and I became intimately involved with their quantitative modeling/trading team…truly populated with some of the best minds in the business.
 </p>
 
 <p style="padding-left: 30px;">
-  While in Greenwich Ct. one afternoon I will never forget a conversation I had with a leading quantitative portfolio manager. He said to me that despite its obvious attributes “Black Box” trading was very tricky. The algorithms may work for a while [even a very long while] and then, inexplicably, they'll just completely “BLOW-UP”. To him the most important component to quantitative trading was not the creation of a good model. To him, amazingly, that was a challenge but not especially difficult. The real challenge, for him, was to “sniff out” the degrading model prior to its inevitable “BLOW-UP”. And I quote his humble, resolute observation “because, you know, eventually they ALL blow-up“…as most did in August 2007.
+  While in Greenwich Ct. one afternoon I will never forget a conversation I had with a leading quantitative portfolio manager. He said to me that despite its obvious attributes "Black Box” trading was very tricky. The algorithms may work for a while [even a very long while] and then, inexplicably, they'll just completely "BLOW-UP”. To him the most important component to quantitative trading was not the creation of a good model. To him, amazingly, that was a challenge but not especially difficult. The real challenge, for him, was to "sniff out” the degrading model prior to its inevitable "BLOW-UP”. And I quote his humble, resolute observation "because, you know, eventually they ALL blow-up"…as most did in August 2007.
 </p>
 
 Curious, the trader pressed on to try to understand why this happens:
 
 <p style="padding-left: 30px;">
-  Anyway…to follow up on my dialogue with the esteemed portfolio manager…I asked “why do they all “BLOW-UP”? What are those common traits that seem to effect just about every quantitative model despite the intellectual and capital fire-power behind them? And if they all eventually “BLOW-UP” then why are we even doing this?”
+  Anyway…to follow up on my dialogue with the esteemed portfolio manager…I asked "why do they all "BLOW-UP”? What are those common traits that seem to effect just about every quantitative model despite the intellectual and capital fire-power behind them? And if they all eventually "BLOW-UP” then why are we even doing this?”
 </p>
 
 <p style="padding-left: 30px;">
-  He answered the second part of the question first…and I paraphrase…“We are all doing this because we can all make a lot of money BEFORE they “BLOW-UP”. And after they do “BLOW-UP” nobody can take the money back from us.” He then informed me why all these models actually “BLOW-UP”. “Because despite what we all want to believe about our own intellectual unique-ness, at its core, we are all doing the same thing. And when that occurs a lot of trades get too crowded…and when we all want to liquidate [these similar trades] at the same time…that's when it gets very ugly.“. I was so naive. He was so right.
+  He answered the second part of the question first…and I paraphrase…"We are all doing this because we can all make a lot of money BEFORE they "BLOW-UP”. And after they do "BLOW-UP” nobody can take the money back from us.” He then informed me why all these models actually "BLOW-UP”. "Because despite what we all want to believe about our own intellectual unique-ness, at its core, we are all doing the same thing. And when that occurs a lot of trades get too crowded…and when we all want to liquidate [these similar trades] at the same time…that's when it gets very ugly.". I was so naive. He was so right.
 </p>
 
 You don&#8217;t need a weathervane to know which way the wind blows, and you don&#8217;t need to be a market expert to know that we are definitely in the period where &#8220;they all make a lot of money.&#8221; These quant shops have been printing cash for the last couple of years. The returns for the Citadels and other similar firms have been through the roof since the last crisis. It&#8217;s like the 2008 disaster scared away everyone except the machines.
@@ -97,7 +97,7 @@ You don&#8217;t need a weathervane to know which way the wind blows, and you don
 But with this success breeds the very seeds of its demise.
 
 <p style="padding-left: 30px;">
-  Fast forward 10 years and the objectives of hedge funds are still the same. Generate positive absolute returns with low volatility…seeking the asymmetrical trade…sometimes discretionary but in many cases these “Black Box” models still proliferate. And BTW…they are all “doing the same thing“…as always…current iteration = levered “long” funds.
+  Fast forward 10 years and the objectives of hedge funds are still the same. Generate positive absolute returns with low volatility…seeking the asymmetrical trade…sometimes discretionary but in many cases these "Black Box” models still proliferate. And BTW…they are all "doing the same thing"…as always…current iteration = levered "long” funds.
 </p>
 
 <p style="padding-left: 30px;">
@@ -105,7 +105,7 @@ But with this success breeds the very seeds of its demise.
 </p>
 
 <p style="padding-left: 30px;">
-  Are these “hands” any steadier than they were ten years ago? I suppose that is debate-able but my bet is that they are not. They are still relying on regression-ed and stress tested data from the past [albeit with faster computers & more data]. They may even argue that their models are stronger due to the high volatility markets of '08/'09 that they were able to survive and subsequently measure, test and integrate into their current “Black Boxes”…further strengthening their convictions…which is the most dangerous aspect of all.
+  Are these "hands” any steadier than they were ten years ago? I suppose that is debate-able but my bet is that they are not. They are still relying on regression-ed and stress tested data from the past [albeit with faster computers & more data]. They may even argue that their models are stronger due to the high volatility markets of '08/'09 that they were able to survive and subsequently measure, test and integrate into their current "Black Boxes”…further strengthening their convictions…which is the most dangerous aspect of all.
 </p>
 
 These hands are no steadier than they were ten years ago. In fact, I think they are even less steady. The recency bias has convinced them all that this new environment is as benign as it appears. But underneath the illusion of stability is one of the most volatile mixtures of leverage and mis-pricing the global financial markets has ever seen. When it comes unravelled, the machines will not be able to handle it. 
@@ -129,11 +129,11 @@ The GlobalSlant author summed it up nicely:
 </p>
 
 <p style="padding-left: 30px;">
-  5. Increased Concentration of “At Risk” Capital +
+  5. Increased Concentration of "At Risk” Capital +
 </p>
 
 <p style="padding-left: 30px;">
-  6. “Doing the Same Thing”
+  6. "Doing the Same Thing”
 </p>
 
 <p style="padding-left: 30px;">
@@ -169,13 +169,13 @@ Recently Goldman Sach&#8217;s President posted a podcast to the company&#8217;s 
 </p>
 
 <p style="padding-left: 30px;">
-  “We're probably less ready than people think,” Cohn said on a podcast posted Wednesday on the firm's website. “It won't at all be surprising to me if there are some interesting market reactions based on official change in rate policy by the Fed.”
+  "We're probably less ready than people think,” Cohn said on a podcast posted Wednesday on the firm's website. "It won't at all be surprising to me if there are some interesting market reactions based on official change in rate policy by the Fed.”
 </p>
 
 The head squid makes a great point. I have long argued that the most anticipated rate increase in decades will be a complete surprise to the markets. Few believe the Fed anymore. The loss of credibility will cause a real problem as there won&#8217;t be nearly as much discounting as would have been the case in previous rate hike cycles. 
 
 <p style="padding-left: 30px;">
-  “When it does happen, it's usually not the first-derivative event that people are caught off guard by,” Cohn said. “They're caught off guard by the second-, third- and fourth-derivative events. It's ‘Oh yeah, when interest rates go up, that happens.'”
+  "When it does happen, it's usually not the first-derivative event that people are caught off guard by,” Cohn said. "They're caught off guard by the second-, third- and fourth-derivative events. It's ‘Oh yeah, when interest rates go up, that happens.'”
 </p>
 
 You might not like the squid, but ignoring their warnings makes about as much sense as listening to Yellen for investment advice&#8230;

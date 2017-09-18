@@ -25,7 +25,7 @@ This was a much different tone than Yellen struck at the previous week's Septemb
 
   <img src="http://themacrotourist.com/images/SPOOZSep2815.png" alt="http://themacrotourist.com/images/SPOOZSep2815.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-Monetary hawks interpreted the reaction as a signal the Federal Reserve had “lost control” of the markets. These pundits argued the market actually wants the Fed to raise rates, and that waiting is causing markets to sell off.
+Monetary hawks interpreted the reaction as a signal the Federal Reserve had "lost control” of the markets. These pundits argued the market actually wants the Fed to raise rates, and that waiting is causing markets to sell off.
 
 **This is why Thursday's subsequent hawkish Yellen speech caused the S&P 500 to rally 50 handles off the lows.** The perverse trading logic reasoned that if the markets plummeted 110 big figures because the Fed didn't tighten rates, then surely putting monetary policy back on a tightening path would cause these losses to be regained.
 
@@ -33,7 +33,7 @@ When I saw the rally after Yellen's speech, I had to rub my eyes. I couldn't bel
 
 Many smart guys argue the US economy can handle higher rates, and that it might even be good for risk assets. Famed hedge fund manager Leon Cooperman summed up this line of thinking:
 
-> “On average, after the first Fed tightening one year later, the market is higher by an average of a little under 10%. And I think the initial stage of rising interest rates are indicative of an improving economy, rising earnings, rising dividends — and the market likes that,” he said.
+> "On average, after the first Fed tightening one year later, the market is higher by an average of a little under 10%. And I think the initial stage of rising interest rates are indicative of an improving economy, rising earnings, rising dividends — and the market likes that,” he said.
 
 Far be it for me to fade Cooperman, but I respectfully disagree with his analysis. Usually the Federal Reserve starts hiking rates into an improving economy. There has never been a Fed rate rise campaign started with inflation _running below their target level._ Yet even though the US and global economy is rolling over, with inflation significantly below target, the Federal Reserve continues to threaten to raise rates. **This is a dramatically different environment than the previous rate tightening cycles Cooperman is using as a guide.**
 

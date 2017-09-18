@@ -19,7 +19,7 @@ tags:
 Lately I have been worried Apple jumped the shark with the launch of the much anticipated Apple Watch. I firmly believe Steve Jobs would have never allowed such a half finished product out the door. And most importantly, he would have never in a million years coached Apple store staff to give f#%ng fashion advice to sell the product. From Fortune:
 
 <p style="padding-left: 30px;">
-  Those employees are being asked to comment on the device's appearance based on a customer's outfit, saying things like “you seem to have a fun style. I think the Pink Sport band would make your style perfectly,” or “the white strap looks great on you.”
+  Those employees are being asked to comment on the device's appearance based on a customer's outfit, saying things like "you seem to have a fun style. I think the Pink Sport band would make your style perfectly,” or "the white strap looks great on you.”
 </p>
 
 This fashion advice strategy hasn&#8217;t been working that well, so yesterday Apple announced they hired Derek Zoolander as the new face of the Apple Watch. This was a controversial hire as Apple reportedly entered into a $30 million dollar a year exclusive agreement for the use of Zoolander&#8217;s &#8220;Blue Steel&#8221; look. Apart from new &#8220;Blue Steel&#8221; straps we can expect Apple to leverage this fashion icon&#8217;s popularity with new &#8220;Blue Steel&#8221; iPhones, iPads and most importantly, a special Zoolander Apple TV edition which includes a hundred and seventeen hours of Zoolander commercials and home movies from Derek&#8217;s youth growing up on the outskirts of a coal mine.

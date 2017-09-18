@@ -22,7 +22,7 @@ The first time the Fed tried to signal the beginning of the tapering during the 
 
 The September 18th, 2013 Federal Reserve meeting shocked market participants with the following statement:
 
-> “The Committee sees the downside risks to the outlook for the economy and the labour market as having diminished, on net, since last fall, but the tightening of financial conditions observed in recent months, if sustained, could slow the pace of improvement in the economy and the labour market.”
+> "The Committee sees the downside risks to the outlook for the economy and the labour market as having diminished, on net, since last fall, but the tightening of financial conditions observed in recent months, if sustained, could slow the pace of improvement in the economy and the labour market.”
 
 Here is the chart of the September 2016 Eurodollar contract. I have chosen this contract because it seems to be the battle ground for the beginning of any real moves higher in the short term interest rates:
 

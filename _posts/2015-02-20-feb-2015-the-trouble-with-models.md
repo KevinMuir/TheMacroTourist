@@ -78,11 +78,11 @@ Some of the smartest investors out there are struggling to understand the implic
 </p>
 
 <p style="padding-left: 30px;">
-  “There are financial bubbles being built up and how they'll be solved, I don't know,” Thomas von Koch, managing partner at EQT Partners in Stockholm, said in an interview. “The problem is global, not just for Europe. It's the asset bubbles in general that concern me. It's wherever we look.”
+  "There are financial bubbles being built up and how they'll be solved, I don't know,” Thomas von Koch, managing partner at EQT Partners in Stockholm, said in an interview. "The problem is global, not just for Europe. It's the asset bubbles in general that concern me. It's wherever we look.”
 </p>
 
 <p style="padding-left: 30px;">
-  Charting a path through markets today poses challenges most portfolio managers haven't faced before. Economic theory taught us to expect hyper-inflation when money costs nothing; instead we now face the threat of deflation. “I can virtually toss those textbooks in the fire,” said von Koch. From an investor perspective, the development means stocks that track economic cycles are less appealing, he said.
+  Charting a path through markets today poses challenges most portfolio managers haven't faced before. Economic theory taught us to expect hyper-inflation when money costs nothing; instead we now face the threat of deflation. "I can virtually toss those textbooks in the fire,” said von Koch. From an investor perspective, the development means stocks that track economic cycles are less appealing, he said.
 </p>
 
 There is a real risk that the financial system becomes completely unhinged. As risk assets are pushed up due to the **TINA** factor (**T**here **I**s **N**o **A**lternative), we enter the Soros reflexivity rise section. Discounting future cash flows at ever declining rates that are approaching zero causes these models to rise exponentially. Yet does it really make sense to triple what you are paying for a dollar of S&P earnings because the 30 year falls to 1%? I guess if you shorted bonds against the S&P it might protect you, but how many investors are doing that? 

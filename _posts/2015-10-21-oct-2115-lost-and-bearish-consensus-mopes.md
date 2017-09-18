@@ -17,7 +17,7 @@ tags:
 
   <img src="http://themacrotourist.com/images/BearishOct2115.png" alt="http://themacrotourist.com/images/BearishOct2115.png" style="margin:30px auto;display:block;" width="600" height="342">
 
-Last week Credit Suisse released a report titled [“Client perspectives: lost and bearish”](http://www.zerohedge.com/news/2015-10-16/traders-completely-lost-here-are-consensus-and-contrarian-trades). I love reports like this that reveal the worries of institutional clients. By the time the main consensus concerns are hitting reports, the chances of the top ones being the actual next market surprise are virtually nil. In fact, I would suggest with enough patience, the main worries often offer investing opportunities.
+Last week Credit Suisse released a report titled ["Client perspectives: lost and bearish”](http://www.zerohedge.com/news/2015-10-16/traders-completely-lost-here-are-consensus-and-contrarian-trades). I love reports like this that reveal the worries of institutional clients. By the time the main consensus concerns are hitting reports, the chances of the top ones being the actual next market surprise are virtually nil. In fact, I would suggest with enough patience, the main worries often offer investing opportunities.
 
 Institutional clients, whether they be real money or hedge funds, are no different than the rest of us. They are prone to groupthink and the same herding behaviour. When they all agree, you should almost always be on the other side of their trade.
 
