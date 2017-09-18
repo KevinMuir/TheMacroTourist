@@ -35,7 +35,7 @@ From the FT:
 
 >Eric Rosengren, the president of the Federal Reserve Bank of Boston, said that if the Fed is in a position to lift rates with “more alacrity” than the one-a-year pace of rate rises seen in the past two years, then officials should be willing to debate reductions in the size of its huge asset portfolio.
 
->“We should be considering it now, and at what point the committee actually decides to take action we will have to see,” he said in a telephone interview with the Financial Times. “But my own criteria would be if we think the economy is strong enough that we are going to need to do multiple tightenings . . . at that time we should be seriously thinking about reducing the balance sheet.”
+>“We should be considering it now, and at what point the committee actually decides to take action we will have to see,” he said in a telephone interview with the Financial Times. “But my own criteria would be if we think the economy is strong enough that we are going to need to do multiple tightenings... at that time we should be seriously thinking about reducing the balance sheet.”
 
 From Reuters:
 
