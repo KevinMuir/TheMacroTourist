@@ -39,7 +39,6 @@ But don't worry too much about Canada, our Prime Minister is making sure the imp
 **[Trump might have his long ties](https://twitter.com/TrumpsTies)**, but Justin has his Chewbecca socks.  May the force be with us (lord knows I think we will need it.)
 
 <br>
-
 ---
 
 **The bubble is in stocks?**
@@ -68,6 +67,10 @@ But what about the Bank of Japan?
 
 It's getting left behind.  An undiscovered gem?  The greatest spread trade of all time?  Or a signal that Kuroda needs to branch out and buy S&P 500 futures instead of Japanese ETFs?
 
-Thanks for reading and have a great weekend,
-Kevin Muir
-the MacroTourist
+Thanks for reading and have a great weekend,  
+Kevin Muir  
+the MacroTourist  
+
+<br>
+<br>
+
